@@ -1,0 +1,24 @@
+POST ID: 10wc8ln / POST TITLE: SANS GWAPT - What next?
+====================================================================================================
+Hi guys,
+
+yesterday i passed the GWAPT Exam from SANS. I would like to ask you what would be a nice choice for the next step certification.
+
+fyi: I do not work as Pentester, i am trying
+to move to that role. I work in cybersecurity but mainly on the security infrastructure design side. My boss told me that if i wanna move to a pentest role i have to take the OSCP.
+I was considering a middle cert before OSCP, something like eJPT.
+What do you think? 
+thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: j7ocg8e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Congratulations on your test and new cert!
+
+Next up, consider the PNPT, since it's hands-on and extremely affordable (a few hundred dollars for the courses and 2 test attempts, a fraction of SANS and Offensive Security).
+
+Otherwise, don't be afraid to jump into PWK/OSCP if you have the time or can swing the year package.
+----------------------------------------------------------------------------------------------------
+ID: j7se5lw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks my friend! I will definitely consider PNPT, thanks so much
+----------------------------------------------------------------------------------------------------

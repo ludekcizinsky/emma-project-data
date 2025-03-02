@@ -1,0 +1,38 @@
+POST ID: 19eslqw / POST TITLE: Hacking as a Hobby
+====================================================================================================
+I have struggled with a decision for probably 3 months now. Hacking is what got me into IT, and I thought I'd like to pursue it as a career. Without saying too much personal info, that time may have come out of nowhere at my job. 
+
+After sitting down and writing an official playbook, I have begun to realize I'm once again stressing over needing to almost perfect the craft. My wife and I watched a YT vid a month ago around the time where I started to worry about what direction I wanted to go in the world of technology. The content creator/pentester spoke to my soul in this video saying basically... "You can hack as a hobby and that's ok." And this is where I latched onto his words of wisdom. I'll explain why.
+
+See... I went fishing a year ago right after signing up for a seasonal tournament online. You scored by length. This is a bass tournament. I caught 1 bass and it was not a scoring length. I went home, was upset with myself, and had to honestly say to my wife "You know... I didn't enjoy my time. I didn't do well. I didn't have fun." And that was NOT what I wanted to happen with the one hobby I enjoyed so much. I did it for fun. Her and my friend pointed out that I might want to keep it as a hobby because I didn't end up doing it to be competitive. I agreed and realized that was the problem.
+
+I had told myself after watching that video that my self worth is not of any less value if I don't end up becoming a pentester at ANY level career wise because I help people in my position now. I'm good at my job and I'm told thank you and how helpful I am to the people in need with their technical emergencies. I get to wear multiple hats and dig a little into security as well.
+
+My love for hacking has involved exploring the hardest thing I have ever tried learning and have learned in my life. This subject is hard guys, you can't bullcrap your way into pentesting at all. It requires your free time, your free time after your free time, and the time on your vacation to stay "in the know" and keep growing your skills. You cannot fall behind. 
+
+And it's not that I COULDN'T do the job it's that I'm CHOOSING to not do it because then I WOULDN'T enjoy hacking after a certain point. When it becomes a requirement or else I could get fired and lose my financial livelihood, that makes hacking a requirement when I want it to be fun. Sure, I could give it a try and see where it goes, but I already know how it would go. 
+
+I'm falling back into the joy of security and hacking after taking a good hiatus from it all. The last secops position I had burned me out. Company cared about metrics over quality of security. Number of alarms you cleared out of the queue versus actually taking the time to pivot and read and dig. That's not good. That's how you miss a threat. And I RESENTED network security as a whole. Didn't want to see one John Hammond or Hackersploit video ever again. I have loss that bitterness and have now begun the journey. And here I am wanting to give you all this message if you're struggling with the same thing.
+
+I want to share this story to all of you who may feel like you don't want to turn ethical hacking into a career because then it wouldn't become fun anymore. That's ok to feel that way. I'm not going to fish in a tournament because then it feels like work, and if I don't catch anything it's not fun to not win anything at all. That's not fishing to me. It's ok to keep hacking as a hobby, and sure maybe eventually I can wear multiple hats and do a little pentest for the company every once in a while if it's a job responsibility that gets approved. 
+
+Remember that your passion for this field shouldn't be for the money. If you are in security for the money you might enjoy it for a little bit, then you'll find yourself questioning your true path. To me, it's more about stopping the threat and making sure those around are aware of the vulnerability. Teaching good self awareness and train to spot a bad email, or keep good security practices in place. Cyber terrorism is no joke, and hacking will quickly become a trade. At this point it's my opinion that hacking is a trade. It's not something you only learn in school. 
+
+Do what makes you happy, and if you're not wanting to hack because you'll end up betting burned or burnt out then that's ok. There's nothing wrong with working really hard and making it a hobby. That's what I'm doing, and this needs to be said.
+
+Ethical hacking has become the norm and there's a big push in the industry for EVERYONE to become a pentester. Just do what makes you happy. 
+
+POST COMMENTS:
+====================================================================================================
+ID: kjfqo9s # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I agree with this so much. I too like to mess around with hacking as a hobby but doing it as career must be so stressfull.
+----------------------------------------------------------------------------------------------------
+ID: kjfbxm1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice.
+
+
+Yeah... CTI during the day and H@xOr at night... If I feel up to it.
+
+
+Be a hero for fun... I mean... hacker for fun.
+----------------------------------------------------------------------------------------------------

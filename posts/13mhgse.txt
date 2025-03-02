@@ -1,0 +1,33 @@
+POST ID: 13mhgse / POST TITLE: Find Out What Other Devices Are Browsing on Your WiFi Network!
+====================================================================================================
+Hey guys, 
+
+Check out my Youtube video that shows you how hackers use bettercap to capture traffic and modify them on your local network using a Man in the middle attack terminology.
+
+The main goal of this video is how to secure yourself from these types of attacks which is by using a reputable VPN service that would encrypt all of your data. 
+
+Link: [https://www.youtube.com/watch?v=w\_k4d8n\_2HE](https://www.youtube.com/watch?v=w_k4d8n_2HE)
+
+Enjoy!
+
+POST COMMENTS:
+====================================================================================================
+ID: jkvbjdv # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1. A VPN would be useless against an mitm attack
+2. Your data is already encrypted because you use HTTPS
+
+I fucking hate VPN ads and the misinformation they've spread among the population
+----------------------------------------------------------------------------------------------------
+ID: jkvk58i # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1. You are mistaken sir. A VPN will be very effective for stopping bettercap MITM. I'm not sure what level you are at currently, but regardless I suggest researching before making such statement disinforming others. 
+2. Yes, and No. Please watch the video for more details about this and why a VPN would help stop this type of attack.
+3. This is NOT a VPN ad. I didn't even mention a single VPN company in the video. I love sharing and contributing to the community to spread security awareness. Thank you for your feedback though!
+----------------------------------------------------------------------------------------------------
+ID: jkvfmnd # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah because pretty much every YouTuber has become a VPN shill, your average person thinks that a VPN is the end all be all to online security. Sure, it can make you more *private* online but it doesn’t really make you that much more secure.
+----------------------------------------------------------------------------------------------------
+ID: jkvk7pv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > This is NOT a VPN ad
+
+I never said it was. Read that sentence again
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+POST ID: 1emy6i1 / POST TITLE: New to ethical hacking 
+====================================================================================================
+I honestly do not know if this is in the right post. How do penetration testers test a network? When they do a penetration test. Are they connected to the network via wifi or Ethernet or do they figure a method on how to connect to that network?
+
+POST COMMENTS:
+====================================================================================================
+ID: lh2dn3p # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on the scope/parameters of the test, and that varies from job to job.  One client may want you to attempt to access the network from outside of the network, and another may have you test resources internally as if you were an insider.
+----------------------------------------------------------------------------------------------------
+ID: lh4w7re # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In pentesting there usually are different kinds of possible settings. That can be from the position of a total outsider like a real aggressor/external hacker, it can be from an employee pov with some ability to use the company's network restricted to the certain role of the employee or even from an admin-turned-ill position, who wants to retaliate at the company for some reason.
+Some companies categorise the contracts for their customers into "black/grey/white-box" contracts to make it easier for them to choose a category.
+----------------------------------------------------------------------------------------------------
+ID: lh7l79y # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does anyone know how to hack a Snapchat ?
+----------------------------------------------------------------------------------------------------
+ID: llboujd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: However they've been contracted. Depending on what executives think is going on it could contain a physical aspect, which is often overlooked.
+----------------------------------------------------------------------------------------------------
+ID: lh2emgt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So if it is from outside the network, the pentester will find a method to connect and if it is internal, the pentester will be connected to the network?
+----------------------------------------------------------------------------------------------------
+ID: lh54to0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh okay, thank you for a better understanding. It all depends on the setting that is taking place.
+----------------------------------------------------------------------------------------------------
+ID: linlvse # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lh2hehe # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Correct, but also, again, completely up to what's been discussed and set up with the client for the rules of engagement.  Not all pentests are about the network, and instead the focus is on resources within the network, so you'd be provided VPN access or you're working on site, etc.
+
+Lots of variables and it's going to be different almost every job.
+----------------------------------------------------------------------------------------------------
+ID: lhqnffl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can create your own pen testing environment at home. There are tutorials on YouTube and Udemy. You can practice various attacks on the VMs.
+
+Of course you also have the physical pen testing which tests vulnerabilities at a site or building, if you really wanted to cover everything. 
+Of course this can't really be 'tested' practiced on a computer but there are many helpful videos on YouTube.
+----------------------------------------------------------------------------------------------------
+ID: linlvu3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it violates our policy against offering or seeking hacking services. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

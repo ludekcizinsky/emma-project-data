@@ -1,0 +1,70 @@
+POST ID: 1f5i560 / POST TITLE: Can hackers hide their info from netstat?
+====================================================================================================
+I've been watching kitboga again, and got curious about all the listing in the netstat command and what exactly they are (I watched a short video and figured it out).
+
+I know it's one tool people can use to look for suspicious activity, but I'm wondering if people are able to hide their tracks from netstat so it doesn't show anything
+
+POST COMMENTS:
+====================================================================================================
+ID: lkswj7z # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You would either need a kernel rootkit to do this or maybe more simply, you can replace the netstat binary on the target system with a “backdoored” version that doesn’t show your connection(s)
+
+Interesting watch: https://youtu.be/69EJHqwGi1U?si=tTf-p2BQQTAayc_7
+----------------------------------------------------------------------------------------------------
+ID: lku8zk5 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's definitely possible
+----------------------------------------------------------------------------------------------------
+ID: lktbron # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This sounds wrong on so many levels.
+
+> In computing, netstat (network statistics) is a command-line network utility that displays network connections for Transmission Control Protocol [and UDP] (both incoming and outgoing), routing tables, and a number of network interface
+
+Generally spoken, netstat shows you network connections to external (and internal) network connections and to which TCP/UDP port they are connected.
+
+Imagine your computer has a webserver open on port 80 and you use an external machine to access the webserver. On the webserver you could now use "netstat" to see who is connected to the webservers port 80:
+
+Protocol Local IP:Port External IP:Port State
+
+TCP 0.0.0.0:80  192.168.1.100:38967 Waiting
+
+To come back to your question. Yes an attacker is able to manipulate the external IP address connected to your machine by spoofing the attackers IP address. This can be done in hundreds of ways but not by manipulating "netstat" itself.
+
+In my 10 years working in IT I never saw an attacker manipulating netstat. But we use netstat a lot to identify external connections on compromised machines as well as unconventional open ports that might be opened by a C2 beacon or Metapreter bind.
+----------------------------------------------------------------------------------------------------
+ID: lkzwtow # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The scammers wouldn't need to hide their tracks.  They are using the victims lack of knowledge against them in these situations. 
+
+As the other comments state, it is possible, but the effort isn't worth it. Netstat will only show when there is a connection. Hackers aren't "always" connected to your machine.  The game is to create a way to get to the machine when you need/want to. Also, even in IT, not a lot of people know what netstat is or how to read it. Most of the time I have seen it used, is to verify that ports are open that you expect to be open when connections aren't working properly. Not just randomly checking it.
+----------------------------------------------------------------------------------------------------
+ID: ll1blxp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is very accurate and covers both methods. Thank you for this post.  
+That said on windows if they changed out this binary it would get flagged with winsfc eventually when it was conducting a background check of integrity.
+
+But a non-plug and play driver acting as a rootkit, nope no way to detect it.
+
+I use to work for John McAfee and seen them on Linux and Windows.
+
+The windows one was the most advanced with it actively hiding anything related to it. Including spawned processes, network connections, and even network utilization when checked externally.
+
+The Linux one had less control mainly related to just hiding itself in netstat, and folders with a specific prefix in the name.
+
+Linux ones also tend to break during major kernel updates like they are an Nvidia driver.
+
+  
+Never seen one in BSD tho. Or even heard of one.
+----------------------------------------------------------------------------------------------------
+ID: ll1fwsr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have seen Linux malware replace the netstat binary with a backdoored copy to exclude connections from the malware. It definitely exists and is possible.
+
+This isn’t the exact same but appears to be an open source solution: https://github.com/Drew-Alleman/netstat-trojan
+
+Interesting watch: https://youtu.be/69EJHqwGi1U?si=tTf-p2BQQTAayc_7
+----------------------------------------------------------------------------------------------------
+ID: lktbrpp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ll43js0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice. Thanks for sharing!
+----------------------------------------------------------------------------------------------------

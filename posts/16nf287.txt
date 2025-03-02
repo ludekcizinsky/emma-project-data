@@ -1,0 +1,15 @@
+POST ID: 16nf287 / POST TITLE: Exploiting a JSF application with file upload
+====================================================================================================
+Me and a colleague are currently working on an assessment of a web application suite. We've found a few goodies so far, including a pretty major SQL injection, and have come across an unrestricted file upload functionality.
+
+We are able to upload pretty much any type of file to the server and then browse to it. Problem is, the application is running JSF, which we both lack experience in. Our attempts at uploading web shells have failed, as the application doesn't seem to interpret any actual code, but instead just renders the HTML and returns the code as text. We're not even sure what type of file format JSF applications want in regards to code execution. There doesn't appear to be anything similar to ViewState involved here, so deserialization vulnerabilities are probably out too.
+
+There's not a whole lot of information out there either regarding this type of attack vector either, so I thought I'd try to get some guidance here. There has to be some way that we can utilize the file upload to get a working web shell or RCE. Does anyone have any experience testing JSF apps?
+
+POST COMMENTS:
+====================================================================================================
+ID: l94h7dv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Curious to know your SQL injection attack path, would you care to share?
+
+Regarding the file upload, I fear I cannot help you either :/
+----------------------------------------------------------------------------------------------------

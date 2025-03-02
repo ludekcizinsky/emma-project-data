@@ -1,0 +1,31 @@
+POST ID: 16hvbpe / POST TITLE: Can I reverse scam phishing email scammers?
+====================================================================================================
+I’m a developer and never done any hacking at all, but I seem to get these scam emails landing in my inbox and not my spam. They’re obviously by the same person/company as they all look the same with their subject etc, and so I was wondering if it’s possible to orchestrate something to turn the tide on them 😂 
+
+For the record I report these emails as phishing every single time, yet they just continue to come through.
+
+Is there anything I can do? I really don’t what to create a new email, because chances are in this day and age, I’ll have different spam come through the next day 😂😂😭
+
+Thoughts?
+
+POST COMMENTS:
+====================================================================================================
+ID: k0g08rr # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I mean, there are things that can be done, but frankly they're not worth doing.  Beyond blocking the senders (which impacts the reputation of the platform being used to send email as well), you won't really gain anything.
+
+Spammers routinely change sending platforms, sending domains, etc.  So they honestly don't care if you orchestrate something against them, because they can just shut down that pathway and ignore you. 
+
+Use your mail platform's reporting systems (which you are doing), and take comfort in the fact that the mail sending platform they're using will eventually kick their asses off it.
+----------------------------------------------------------------------------------------------------
+ID: k0ig1mu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you all for the feedback. All I shall continue to do what I’m doing 👍
+----------------------------------------------------------------------------------------------------
+ID: k0g8nta # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: nah apart from just blocking them all, there's nothing you can really do. your email id might've gotten sold to these phishers by a third party , which is why you keep getting phishing emails. report as scam and dont bother clicking on any of those links.
+----------------------------------------------------------------------------------------------------
+ID: k0hg3vz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is that legal in your country, and would your actions be considered ethical in your courts? That is your answer.
+----------------------------------------------------------------------------------------------------
+ID: k0iqp2s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a good question, and I probably know the answer 😂
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+POST ID: 1dj11yf / POST TITLE: Looking for structured learning tool for certifications
+====================================================================================================
+I'm trying to find a proper learning tool or software for CompTIA or any intro level cert that's respected to get a proper job in tech. to want to advance more and more. I'm thinking the good ones will cost. I think I need more structured learning to keep the knowledge better. Any thoughts? ty
+
+POST COMMENTS:
+====================================================================================================
+ID: l97v91h # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Standard answer is hackthebox pentester path. They have fundamental modules too for beginners.
+----------------------------------------------------------------------------------------------------
+ID: l99htv8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Book guides. Not like Comptia network+. The real guides like Linux server hardening or Blackhat python. Things thAt give you a genuine project to work on. Rather than just the basics of the book. You’ll learn much more with hands on experience than with a exam cram. And it’ll stick better when you get asked about it.
+----------------------------------------------------------------------------------------------------
+ID: l9ae3xf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can check out this website.It is a bunch of practice questions that also go into detail in a discussion on why the answer is right or wrong. https://www.examtopics.com
+----------------------------------------------------------------------------------------------------

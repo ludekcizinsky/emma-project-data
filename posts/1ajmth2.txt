@@ -1,0 +1,23 @@
+POST ID: 1ajmth2 / POST TITLE: Cloudflare 1003 Error Bypass
+====================================================================================================
+So, I was doing a bug bounty program and I had to find the real IP of a subdomain of its website which was behind Cloudflare. I found many hosts of that subdomain and they all gave the error 1003. I tried fetching the old DNS records and used censys hoping to find the real IP, but no luck. Any suggestions on what should I do? maybe find the SHA1 fingerprints?
+
+POST COMMENTS:
+====================================================================================================
+ID: kp4qwdl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: mh interesting question, I was going to recommend a GitHub repo but it utilizes DNS records to resolve the IP. I'll research with you lol,
+----------------------------------------------------------------------------------------------------
+ID: kp2szbe # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's not a real end server IP but cloudflare's one 🥴
+----------------------------------------------------------------------------------------------------
+ID: kp6wdpw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: alright then
+----------------------------------------------------------------------------------------------------
+ID: kp6wbay # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's why I posted  to know how to find the real IP, obviously this is the Cloudflare IP
+----------------------------------------------------------------------------------------------------
+ID: kp73fnd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There's essentially no way unless the website admin is retarded and misconfigured their webserver so it allows direct IP access, in this case you can try polling data and search for specific keywords / signs. 
+
+If the resource allows you to embed links (if it's a forum or sth), try uploading your image to your server and log all IPs that access it. If there's image preview, SSR and no outgoing requests proxying all together then you'll get an IP yikes
+----------------------------------------------------------------------------------------------------

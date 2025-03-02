@@ -1,0 +1,59 @@
+POST ID: 1fd5d6g / POST TITLE: Laptop recommendation for Cybersecurity
+====================================================================================================
+I wanna start learning cyber security and not sure what laptop to get to start my learning journey. I really like Apple product and was wondering if I can use iMac Pro or should I get something different?
+
+POST COMMENTS:
+====================================================================================================
+ID: lmeh3j0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I personally went with a Sager laptop with GeForce RTX 4060 GPU, intel i9 processor, 64GB DDR5 Memory and 4T SSD. Which ended up costing me $1900.
+I dumped windows in favor of Ubuntu 24.04 LTS primarily because of their GPU driver support so I can run tools that require/favor GPU. Installed VirtualBox and then used the product key that came with my laptop to install licensed Windows 11 in VirtualBox for stuff I may need Windows for (honestly, I hardly use it for anything except for actual Windows Office).
+I’m able to run an Active Directory lab with Kali, couple of Windows Servers, 3 or 4 Windows endpoints (10 and 11), and a LAMP server or 2 all at once.
+
+If you don’t have that kind of money to spend on hardware then my only advice is to spend the money on the RAM. My prior laptop I only spent $600 and it had 16G DDR4, intel i5, no dedicated GPU, and 500GB SSD but I made sure the laptop had expandable RAM, then I spent $100 for 32G DDR4 and another $90 for 1T SSD drive. Make sure you look for upgradable RAM. My experience has been most laptops with less than 16G RAM typically have memory soldered on and can’t be expanded to increase memory. RAM will allow you to run more endpoints in a virtual lab without your system slowing to a crawl.
+----------------------------------------------------------------------------------------------------
+ID: lmdzryq # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go with a Windows Machine that has something along the lines of atleast a 12th gen intel CPU or 5000 series Ryzen CPU. Try to shoot for a minimum of 16gb of RAM. I say windows because you can virtualize all of your Linux environments. I’d also make a virtual homelab, learn some network basics so you understand how to create a VLAN and have your virtual devices communicating on the same subnet then maybe practice breaking those machines.
+----------------------------------------------------------------------------------------------------
+ID: lmdltzw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depending on what you are doing, but you can get away with a raspberry pi. You may want to stay away from Apple since you will benefit from a Linux OS like Kali, DragonOS, or ParrotOS. While you can run those in a VM it may cause issues.
+----------------------------------------------------------------------------------------------------
+ID: lme3vd9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’d go with Linux distro
+----------------------------------------------------------------------------------------------------
+ID: lme52rr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Something with Linux. Mac also is Unix run
+----------------------------------------------------------------------------------------------------
+ID: lmf5jqn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you get a Mac you can run Linux & Windows & OSX all at the same time. Arm windows in a virtual machine on arm OSX can still run X86 programs, I do it all the time. The battery life is exceptional.
+----------------------------------------------------------------------------------------------------
+ID: lmm8jrr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you don't need a dedicated GPU, we have a laptop that comes loaded with Qubes OS, and a 12th gen i7. Qubes OS is the OS that's recommended by Edward Snowden because of it's VM isolation.  Since all the tasks are in their own VM (a Qube), it's pretty secure for cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: lmyiaxv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: More value for money with windows/linux stuff. Get large amounts of ram and good storage. VMs for days. Graphics card for password cracking.
+----------------------------------------------------------------------------------------------------
+ID: ln34jwd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Would anyone recommend asus vivo book with 16ram. I7. Intgrated iris graphics? For the same tasks like VM and so? Or Mac air would be better?
+----------------------------------------------------------------------------------------------------
+ID: lmew35b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go with a budget gaming laptop with minimum 16GB RAM, a decent processor and maybe 4050 160w tgp.
+----------------------------------------------------------------------------------------------------
+ID: lmetucm # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What you want to do?
+
+I have Mac.. And I am happy
+----------------------------------------------------------------------------------------------------
+ID: lmwxvu7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ☝🏼this!!!
+
+I have Mac 16G and I’ll tell that it’s not enough!
+----------------------------------------------------------------------------------------------------
+ID: lny81wc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks, that is probably the route I will go with.  Im deeply embedded in Apple ecosystem and was hoping to keep using their devices. But oh well.
+----------------------------------------------------------------------------------------------------
+ID: ln4qkvh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just so you know they do have a version of office online.  I've used it for the last year or two. Then you don't need windows at all lol.
+----------------------------------------------------------------------------------------------------
+ID: lmgxbvz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: blackarch
+----------------------------------------------------------------------------------------------------

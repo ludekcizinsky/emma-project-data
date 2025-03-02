@@ -1,0 +1,37 @@
+POST ID: 1dzwbas / POST TITLE: Is the burp suite intruder useful ?
+====================================================================================================
+Hello, i just learned the burp suite community edition basics and i want to know if the intruder is really useful? When we can use tools like fuff, hashcat, gobuster etc... , is learning intruder worth it?
+
+POST COMMENTS:
+====================================================================================================
+ID: lciftz8 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Intruder and Repeater are the Gems of Burp Suite. and you are asking its "worth" !!!
+----------------------------------------------------------------------------------------------------
+ID: lciwz1f # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes
+----------------------------------------------------------------------------------------------------
+ID: lcls02n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: While I don’t perform as much application testing nowadays, it’s still my preferred method of fuzzing. It’s far simpler to intercept a request, send it to Intruder, and then configure my payload than to use another tool. It’s still worthwhile knowing how to use other tools, but at the end of the day Burp is THE application testing tool for a reason.
+----------------------------------------------------------------------------------------------------
+ID: lckqm5e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes but with the community version, the power of the intruder is limited. Isn't that disturbing?
+----------------------------------------------------------------------------------------------------
+ID: lcmymt6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lcn1gqj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lcne1cr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not really when you think about the fact that during a  real life assessment there's going to be lockout policies unless you implement delays in your automation testing...so in a way it's an easy mode. If you want the premium features you do have to pay or use OWASP ZAP which gives you the exact same features only without the rate limiting. The key element is that these tools act like proxies where as the tools you mentioned are not.
+----------------------------------------------------------------------------------------------------
+ID: lcmymu4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lcn1gro # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

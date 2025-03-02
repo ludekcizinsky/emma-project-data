@@ -1,0 +1,410 @@
+lkso1z / Interested in joining the ethical hacking community, click here!
+Hello, I'm J, I'm glad you are interested in joining the ethical hacking community. Have no idea where to start? Don't panic we've all been there, this post will guide you on your first steps into the ethical hacking field.
+
+**What is ethical hacking?**
+
+Ethical hacking (or penetration testing) is the exploitation of an IT system with the permission of its owner to determine its vulnerabilities and weak points. It is an effective way of testing and validating an organisation’s cyber security position.
+
+**Where can I learn ethical hacking?**
+
+Ok, slow down, Do you have a computing background or familiar with how they work (you would be susprised at the amount have zero knowledge and jump into this field)?
+
+Yes - great. I suggest you have a look at getting certfications. These certs require you to study up to a certain level then taking an exam. This allows for you and future employers (which really like certs) to see your skill level and potential. This is the [certification roadmap](https://pauljerimy.com/security-certification-roadmap/) by Paul Jerimy which shows the route you should take, if you feel that skilled enough you could skip up and do higher certs. A great way to practice your skills is through [tryhackme](https://tryhackme.com/) and [hackthebox](https://hackthebox.eu). These are free online platforms (with some optional paid sections) that give you access to systems found irl that give you permissions to practice your skills. Some resources below might be in interest for you listed below.
+
+No - Dont worry, You may find certifications a little difficult to jump into at first unless you are determined enough to spend a lot of time studying. I suggest you go out and learn a little, dont let this put you off as this an extremely interesting field with endless knowledge that will continue to evolve forever. Check out the resources below for study content.
+
+**What resources are there for starting to learn ethical hacking?**
+
+* Books
+   * Penetration Testing: A Hands-On Introduction to Hacking By Georgia Weidman (A little outdated but theory is still great)
+   * The Hacker Playbook: Practical Guide To Penetration Testing By Peter Kim
+* Youtube
+   * [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+   * [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
+   * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+   * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) (HackTheBox tutorials)
+   * [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+   * [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+   * [ZSecurity](https://www.youtube.com/user/zaidsabeeh)
+   * [TechQuickie](https://www.youtube.com/user/Techquickie) (Basics - If you have a lot of catching up to do)
+* Udemy
+   * [Practical Ethical Hacking - The Complete Course](https://www.udemy.com/course/practical-ethical-hacking/) by Heath Adams (TheCyberMentor)
+   * [Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/) by Zaid Sabih (zSecurity)
+   * [The Complete Ethical Hacking Course](https://www.udemy.com/course/penetration-testing/) by Ermin Kreponic
+* Pluralsight 
+   * Designed for IT professionals and students but can be pricey
+
+**How do i start my career in ethical hacking?**
+
+There are many ways you could go through and work up to becoming an ethical hacker. Check this post [here](https://www.reddit.com/r/ethicalhacking/comments/lqfnf9/career_advice_for_begineers_intersted_in_ethical/) by u/ u/Ace_r_  for an example of a path you could take to become an ethical hacker. Paul Jerimy also has a[IT Career Roadmap](https://pauljerimy.com/it-career-roadmap/) for you to use to see what positions to start with to work up to your desired position.
+
+**Conclusion**
+
+I hope this helps and wish you luck with your start in ethical hacking. If you have any queries feel free to ask.
+
+Redditors that have a history in IT or ethical hacking or have experience in similar regions, if you'd like to add to this or discuss other options please feel free to comment, i'll be updating this frequently.
+
+gnr4nmv / 11.0 / ethicalhacking
+Can I get pdf's of these books? If yes then from where?
+
+gxnp2dr / 6.0 / ethicalhacking
+personally i would ad david bombal to the list as well. Especially since you have his close friend NetworkChuck there. they are both as good as each other and are both very educational.
+
+h0n8k95 / 5.0 / ethicalhacking
+I have two questions:
+
+1. I have no knowledge in the software part of systems, can i still start learning ethical hacking? If no where can i start in that?
+2. Can i use an online terminal for kali linux instead of download because i'm not allowed to download stuff onto the laptop i use.
+
+gozist0 / 5.0 / ethicalhacking
+Just asking, isn't stationx a good platform to learn?
+
+gqye1zc / 4.0 / ethicalhacking
+Thank you for the repo of useful resources!
+
+ieloqlr / 3.0 / ethicalhacking
+I purchased 3 courses from Zaid when they were on special. I have to say the Learn Ethical hacking from scratch was disappointing. The first half was good but the second half rushed and wasn't explained as well . I wonder other 2 courses will be the same. I might try the Cyber Mentor course on YouTube.
+
+h2pjdpt / 2.0 / ethicalhacking
+What classes are best in high school to become an ethical hacker?
+
+h61iayd / 2.0 / ethicalhacking
+So.. if I were to ask someone to ethically hack my hacked facebook.... could someone do it? lol
+
+hx5c8rf / 2.0 / ethicalhacking
+I need help my POS baby mamma just used some type of spyware on me and my daughter it was mspy flexispy n some app with an x in its name she has been tormentijg us for about 3 weeks to a month my phone my daughters phobe and my daughters ipad for no reason at all besides being evil and vindictive my daughter is 7 and lost allher content associated with aple id and i cloud shes devastated she is a straight A student caring loving and helpful lil girl she doesnt deserve this i went n spent 700 dollars to replace said i pad now my note 20bultra 5g my laptop my wifi router and the new ipad are all being fucked with can anyone please just givebher a taste of her own medicine apple couldnt recover the ID OR CLOUD back up so she had to restart all her app no tiktoks no toca boca which wasvalmost every in app purchase like i just want her to see what she put our kid through shes a sweetheart sticks up for kids beimg bullied at school and km losing my mind trying to keep it all together for her please lmk if anyone would just let me knownwhat we can do my daughter is scared to be alone or walk around her own home alone bc she thinks someone is watching her in her ipad i have fucking ducktape over a 700 dollar device camera rn like please help us her mom doesnt even care i have tonsnof screen records n photos i csn share so you no im not lying im just tired of the meantal and emotional abuse shes putting my lil girl through please feel free to reach out
+
+i751zt1 / 2.0 / ethicalhacking
+Need help with my hacked phone an  online accounts. Really wanna find out why there doing this tome
+
+jkwp4hp / 2.0 / ethicalhacking
+What type of computer is best to learn and practice on? I have a 2020 MacBook that's all. Nothing extra added just that. Can anyone help me get started on the right electronics or apps that I need to get??
+
+kv1idaf / 1.0 / ethicalhacking
+Is 53yrs old too old to get into Ethical Hacking, and get a job in this industry (after studying it)?  I do have a Bachelors degree, but it is in a non-IT (Healthcare) area.
+
+kv85qit / 1.0 / ethicalhacking
+From what I gathered here, I'm going to be doing myself a favor by studying 'computing' first. Is anyone willing to point me in the right direction for that stepping stone?
+
+kyti7z1 / 1.0 / ethicalhacking
+Idk if it would be of help but I have recently started learning ethical hacking on an app called hackerx because a friend of a friend recommended it to me, I myself have only done the first few lesson which were pretty beginner friendly and had a decent rating on playstore, so if u guys wanna learn it too i'd suggest to just check it out once-
+
+  
+Then I also came across an ethical hacking playlist by David Bombal which seemed pretty cool although I have just seen the video on installing Kali Linux yet-
+
+l2dizu0 / 1.0 / ethicalhacking
+HOW TO BECOME AN ETHICAL HACKER? HOW TO IMPROVE YOUR SKILLS BY NOT DOING ILLEGAL THINGS
+
+l9l363z / 1.0 / ethicalhacking
+Anyone able to gain access to an email account
+
+la2dd3v / 1.0 / ethicalhacking
+I just finished college with a degree in literature. Is this a path I can take without going back to school for a CS degree or should I just try to get the bachelors to save myself some heartache
+
+lanpbuj / 1.0 / ethicalhacking
+Hello all,
+
+
+I hope this is believed - but I'm not new to the idea of hacking(not cracking, tho I also once knew a bit of bomb making and phreaking on dial-up but thankfully too young to ever practise any of it 20-30 years ago). Also took me quite a while to understand the 'warez' of softwares despite knowing it for a good year or two back then(tbh I was downloading mostly legit, on Tucows and with GetRight etcetc!)
+
+
+I believe I'm in the correct place as per rule 5, but maybe I am not. I haven't 'hacked' anything for decades(and even then it was only really my home computer and windows and graphics and maybe ROM sprites of old video games - which I definitely 100% had a right to do so from).
+
+
+In the UK there was a brilliant documentary last night by Channel 4(not an inventive name I realise but go figure about the times) via their 'Dispatches' series that used a variety of methods to create deepfakes in order to influence undecided voters(it's a bloody great watch - will link in a comment so I don't get this deleted).
+
+
+I have been trying to tell my mum, my dad, and tbh every other tom dick and Harry for years about disinformation/misinformation. I called my mum shortly after the programme to ask her thoughts and it seemed it had opened her eyes, at least a little bit.
+
+
+Now, I'm curious(and I'm happy to use tools that label what I'm doing as fake, as it's the obvious way of ethics) - I said to her what if I created a 'deepfake' of her what would she think about it? Or if I managed to created one also if my dad(he didn't watch it, but they spoke about it).
+
+
+Apparently these things can now be done in almost no time at all, with barely less than 2 minutes of audio, or even better with video, or a mishmash of the two - and also in less than minutes itself! I have her consent to try to do so, and I would like to try attempting it now(and she has challenged me to such) - but how and where would I go about this most immediately via the most ethical and useful means? I'd be 100% happy to use anything that clearly labels what I create as a fake, if not even 110% happy to do so so that it is never ever used otherwise.
+
+
+Before I turn to easy and traditional sources of doing this via a quick Google(which may end up with a similar result as I doubt much deepfake' software watermarks itself as fake) - is there any good suggestions from anybody in the community on how I could go about this?
+
+
+Ideally I would like to create a 'deepfake' audio for her to pretend she said stuff in a phone call, but then as well I would also like to create a video 'deepfake' of her to send and show her both these things - as well as explaining my process and the time it took me - to kinda of help extra/add on top of her interest in being skeptical about too many things you read/see/hear(thankfully she's not very internet savvy, but she is now on Whatsapp, and I'm also trying to warn her there of boomer memes etc and disinfo easily being shared and spread - I think creating a deepfake of HER would really highlight the point and she actually was interested in whether I actually could and whether people would even believe it).
+
+
+Can anyone help me in this pursuit in the most ethical way without me having to go down further routes? Again I'm absolutely happy to use anything that marks it as fake, or I'll be adding that disclaimer too, but she said if I could create it then let's see - so I said if I can create it she can herself then try sharing it with others to test whether they believe it or not, in a way to challenge her own beliefs.
+
+
+tl;Dr - what is the most ethical way for me to make a deepfake audio or video of somebody and what would I require from them?
+
+
+(Again I realise how fucking dodgy this sounds as a random noob to the forum, but I assure I'm old school 1337 and ethical, but I appreciate skepticism too and also whether this question cannot be answered. I did once learn a few things under Professor Chris French, a famous skeptic and comraderie of James Randi - so I like to spend my time DISproving things and fake beliefs. And happy if need to answer questions before I get my own answer, or to be told that I won't be told how to do this here, as well).
+
+
+Thanks in advance,
+Me.
+
+lax8f10 / 1.0 / ethicalhacking
+Happy to be here! 
+I ain't got a background for computering but got determination lol
+
+lf7457m / 1.0 / ethicalhacking
+Im new to this and am setting up a vm. When it asks about how many CPU’s to loan it is it talking about the cores or the logical processors?
+
+llcbkou / 1.0 / ethicalhacking
+Does it make sense for a 40 year old without much in depth computer background to start getting into this? I’ve never learned had a career in a trying. Just worked jobs. I do have some basic knowledge but not enough so I’d probably have to get a degree in IT first. But I do wonder if it makes sense at my age. Any suggestions?
+
+lq778mt / 1.0 / ethicalhacking
+Can anyone know how to get free ethical hacking courses if anyone knows please reply.
+
+lqyswku / 1.0 / ethicalhacking
+I am interested in ethical hacking and its sub topics.. but i am really confused whether i should take computer science or turn to this path as i am interested in both. I am also having difficulties in understanding most concepts and I'm simply following some procedures taught in my penetration testing course. I really need advice on this topic... 🙂
+
+gx03tdh / 1.0 / ethicalhacking
+[removed]
+
+gx8thsz / 1.0 / ethicalhacking
+[removed]
+
+h2o8dho / 1.0 / ethicalhacking
+[removed]
+
+hid656g / 1.0 / ethicalhacking
+Thank you for sharing these valuable resources.
+
+hjp1sn3 / 1.0 / ethicalhacking
+Can I get a high paying salary after completing ceh exams with no it experience .
+
+hqjhqe9 / 1.0 / ethicalhacking
+so if i want to know how can i hack into my own wifi will i get the answer
+
+hru6ypq / 1.0 / ethicalhacking
+Thanks for this. I come from brazil and dont have much support to learn whit national material, but is a necessary area in my contry, thanks
+
+hvfig9m / 1.0 / ethicalhacking
+Does anyone have some sort of Discord Servers too instead btw or not?
+
+i10dgor / 1.0 / ethicalhacking
+need a hacker to hack telegram/mobile device
+
+i3yhidc / 1.0 / ethicalhacking
+Is ethical hacker needed job
+
+i6a8gu1 / 1.0 / ethicalhacking
+Is 'Hacking for Dummies' a good book?
+
+i8s1a24 / 1.0 / ethicalhacking
+Commenting to save
+
+ial5n2l / 1.0 / ethicalhacking
+thank you its very helpful i knew a couple of them by just navigating on youtube but that's very nice of you to post all those resources , thank you !!
+
+iovx6gw / 1.0 / ethicalhacking
+Sweet!
+
+iv26wxd / 1.0 / ethicalhacking
+Thank you so much
+
+iwcxi2e / 1.0 / ethicalhacking
+happy to be here
+
+j8kcpc2 / 1.0 / ethicalhacking
+Can anyone outline some steps or processes I would have to do to find what I imagine is server side information on my account? As in, surely there's some sort of "ID" outside of my chosen screen name and email in the account database, on the company's side. Like Reddit for example, or BattleNet, or EA.
+  
+
+  
+My endgame goal here is to change a game account status to active from banned. No I don't expect this process to take a few minutes, or hours, or days, probably not even weeks. But help me start in the basics?
+
+This is ethical reasons because it affects me only me.
+
+jh8a6vq / 1.0 / ethicalhacking
+I’d be highly interested. However this is totally uncharted territory for me. I have a ROG desktop. Not sure what the specs are or how important that is either .. what would I need to do to start as a beginner???
+
+jo1dc5y / 1.0 / ethicalhacking
+!remindMe 15 days
+
+jsrnzbu / 1.0 / ethicalhacking
+Thanks 🍻
+
+jtyjkzc / 1.0 / ethicalhacking
+Hi friends,
+I am an IT forensic scientist and just finished my advanced training to become a Data Scientist.
+
+Now I want to develop myself in the direction of Ethical Hacking, because I think it can be helpful in my job and maybe open new possibilities.
+
+Now I am considering investing in the TCM Security Academy in the monthly access.
+
+Do any of you professionals have experience with this? Would you recommend it?
+
+Thank you
+
+jxsnljr / 1.0 / ethicalhacking
+This is a very well-known concept, with the help of which anyone can become a hero from zero in the ethical hacking field....you just need to have dedication. There should be a passion to do it..Trust yourself don't ask any other person what is right for you.
+
+I'm also learning Ethical hacking so if you want to learn then you are most welcome to learn together and exchange our knowledge with dedication and become a pro-ethical hacker.
+
+kgpc2d4 / 1.0 / ethicalhacking
+no clue if this is the place to report this or not, but I’ve found illegal websites. not sure what you can do. Search beastforumnxxnx and you’ll find them.. report them or something, and this is burner I’d rather stay unknown.
+
+ki1h9qc / 1.0 / ethicalhacking
+Which Bachelors degree will help me the most?
+
+kpfqcj0 / 1.0 / ethicalhacking
+Hello, pardon I don't know if this is an ideal place to ask, but a friend is trying to get help with her stolen Facebook account to recover access. Facebook never helped her, do you know someone who could?
+
+go67txn / 48.0 / ethicalhacking
+Just pay for the books, it supports the writers.
+
+h4hxaj8 / 8.0 / ethicalhacking
+Pdfdrive.net sure you'll get every book u need there.
+
+hvgyr3q / 7.0 / ethicalhacking
+Try pdfdrive.com
+
+gznd647 / 10.0 / ethicalhacking
+https://github.com/tanc7/hacking-books
+
+gzyfagj / 5.0 / ethicalhacking
+Google
+
+*name of the book* + *free pdf*
+
+i52i38i / 6.0 / ethicalhacking
+z library
+
+gv8w8dh / 5.0 / ethicalhacking
+This is what entices the viewer of the article.  😁
+
+lkgwt8n / 2.0 / ethicalhacking
+Google "Book Name Blah Blah Blah PDF Free"
+
+You're welcome.
+
+h4hxn3i / 1.0 / ethicalhacking
+Those guys are damn good. Chuck keeps it interesting tho.
+
+h6a40ct / 4.0 / ethicalhacking
+You could look into running kali off a USB
+https://www.kali.org/docs/usb/
+
+May still not be allowed in your situation though
+
+gthyeba / 2.0 / ethicalhacking
+yes, stationx is also a every good platform to learn from
+
+gp8l4wi / 1.0 / ethicalhacking
+I personally have not tried it
+
+l85x4wo / 1.0 / ethicalhacking
+Is it free?
+
+ig3z0r8 / 1.0 / ethicalhacking
+The other courses any better? I am debating on buying the learn python and ethical hacking one he does
+
+hk2l8z7 / 8.0 / ethicalhacking
+Technically even though the profile is in your name, it basically belongs to facebook and is stored in their servers so unless you best buds with Zuckerberg and got permission, it won't be ethical
+
+hx5cedf / 2.0 / ethicalhacking
+Im sorry im so fucking emotional bc she dont deserve this shit what kind of parent tortures their child like she still says shes not doing anything but the mspybis on my daighters ipad purchase history n flexispy n the other one were in a fake files folder hidden i. The i cloud drive
+
+jwft5aj / 1.0 / ethicalhacking
+I’d like to know this too! My old laptop recently shit the bed and i don’t know if Mac is the right way to go or other? Plz halp
+
+lanpiu3 / 1.0 / ethicalhacking
+Dispatches docu - Can AI steal your vote?
+
+
+https://www.channel4.com/programmes/can-ai-steal-your-vote-dispatches
+
+hhz77lk / 1.0 / ethicalhacking
+You were caught asking for tech support, your post has been removed.
+
+hhz781c / 2.0 / ethicalhacking
+You were caught offerin illegal services, your post has been removed and you will be banned.
+
+hyp189p / 1.0 / ethicalhacking
+Also curious about this. I am considering getting their CEH courseware and wondering if its a good place to start, and could lend to employment in the field.
+
+in0aokd / 1.0 / ethicalhacking
+I am enrolled in their ethical hacker program as we speak. It is pricey, but legit. If you are a student pursuing a degree, they offer pretty hefty discounts to apply towards one of their certificate programs. I paid right around $1,000 for the CEH, which normally runs $4000 or so(ish).
+
+in0cb7v / 1.0 / ethicalhacking
+It’s rarely happens like that. One certification CAN land you a job, and you should pursue certifications. However, if you look at job requirements for positions that you might be interested in, they rarely list just one certification/skill  as a requirement. You should look at companies/jobs on job boards and see what they would “like you to have”, and what they “require.” See what they require and learn those skills. If you have zero to limited real world skills/experience in the arena, focus on acquiring the skills and landing a job, the “high pay” will come.
+
+i3f074a / 1.0 / ethicalhacking
+your wifi belongs to the ISP hacking into it is illegal. just like hacking into your own Instagram account
+
+jo1dfh1 / 1.0 / ethicalhacking
+I will be messaging you in 15 days on [**2023-06-28 21:57:06 UTC**](http://www.wolframalpha.com/input/?i=2023-06-28%2021:57:06%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested_in_joining_the_ethical_hacking/jo1dc5y/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethicalhacking%2Fcomments%2Flkso1z%2Finterested_in_joining_the_ethical_hacking%2Fjo1dc5y%2F%5D%0A%0ARemindMe%21%202023-06-28%2021%3A57%3A06%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20lkso1z)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+
+gobphlz / 24.0 / ethicalhacking
+Some people may be young and not able to pay for the books but still want to learn with the right resources
+
+lkmz4gj / 1.0 / ethicalhacking
+[removed]
+
+kdfve72 / 1.0 / ethicalhacking
+Some of them suck even uneducated scrub like me was able to bust. Um, unfortunately, I'm the one that's gonna have to do. The punishing since the copse don't care
+
+lrb371x / 1.0 / ethicalhacking
+From someone who tried using it on a USB, if you do so, use a really good USB drive with high storage because otherwise, your OS will run at snail's pace.
+
+It is best to use a virtual machine or dual boot. I would personally use a virtual machine as dual booting opens you up to security vulnerabilities.
+
+More experienced people can comment if I'm wrong cs I'm  relatively new to this as well.
+
+ig4dpw1 / 3.0 / ethicalhacking
+I haven’t started the other courses yet. The other two I got were advanced and bounty hunting. Right now I am focusing a bit more on python
+
+hyfwmnu / 5.0 / ethicalhacking
+I'm a manipulative bastard at times.. Especially in my active addiction i can see myself making a borderline nonsense rant post like this. I wouldn't even actually have a child.. I'd just post that in hopes I can persuade someone to exact revenge on my ex because i lack the necessary skills and to keep a degree of deniability. Your kid is 7 (supposedly). Get her off the babysitter tablet and spend some actual time cultivating an actual relationship with her. Your ex probably isn't a proficient hacker. A cheater? Probably maybe. But not a hacker. Not many women would have the necessary skillset, nor the interest. Just my 4 cents.
+
+kb79sl8 / 1.0 / ethicalhacking
+Did you ever get info about which laptop would work for you?
+
+gobplif / 19.0 / ethicalhacking
+True but I put that for him due to his his karma and previous posts
+
+hjf1jr1 / 1.0 / ethicalhacking
+Yeah, I'm 17 and am dead serious about this career, can you suggest me a place where I can get em? I have basic CTFs knowledge
+
+lkmzncu / 2.0 / ethicalhacking
+Pretty sure this is in the original post above
+
+lkmzjv0 / 1.0 / ethicalhacking
+[removed]
+
+gobpr49 / 4.0 / ethicalhacking
+Fair enough
+
+j6gm99y / 4.0 / ethicalhacking
+We have social credit police?
+
+jdpb1qx / 2.0 / ethicalhacking
+Can anyone track this number6154456191? This man is a thief and rapist
+
+i5o6mit / 6.0 / ethicalhacking
+Google the book followed by PDF.
+
+lkmzndq / 2.0 / ethicalhacking
+Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+
+lkmzjvx / 0.0 / ethicalhacking
+Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+
+ipecomx / 19.0 / ethicalhacking
+If you can't figure out how to get a PDF of a book you want, maybe hacking isn't the profession for you xD
+
+It's kinda like the vute little hackthebox entry test
+
+==================================================

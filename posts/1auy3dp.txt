@@ -1,0 +1,26 @@
+POST ID: 1auy3dp / POST TITLE: Vms to hack
+====================================================================================================
+Hey guys I’m studying pentesting 
+I used some vulnhub machines but some are kinda old and boring while others are super complex for beginners-intermediates. 
+
+Any suggestions?
+
+POST COMMENTS:
+====================================================================================================
+ID: kr7gx2e # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hack the box
+----------------------------------------------------------------------------------------------------
+ID: kr9iqst # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: HackMyVM has 100+ exercises. Then there is metasploitable-2, overthewire, owasp juice shop, owasp webgoat, picoctf, crackme, rootme, TryHackMe, 247ctf, 316ctf, and many more
+
+And there is this list of CTF/wargames https://github.com/apsdehal/awesome-ctf#wargames
+----------------------------------------------------------------------------------------------------
+ID: kr7hp57 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I get that but my exam will be to determine vulnerabilities and get admin privilege of a machine. Anything where I can drill in this context ?
+----------------------------------------------------------------------------------------------------
+ID: kr7ig81 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah.. hack the box. They have a ton of VM's you can do that with. If you're looking for learning resources instead of VM's I'd say TCM's Academy or TryHackMe.
+----------------------------------------------------------------------------------------------------
+ID: kr8v2io # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What exam?
+----------------------------------------------------------------------------------------------------

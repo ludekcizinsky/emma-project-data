@@ -1,0 +1,19 @@
+POST ID: 1edtqcu / POST TITLE: Is SOC2 actually a good proxy for security?
+====================================================================================================
+I was just learning about SOC2 audits and I was shocked to learn that basically all they do is just audit you on the security features that you proclaim and you feel are enough. It feels like this makes me trust it a bit less. 
+
+Just curious about the opinion of this community...
+
+POST COMMENTS:
+====================================================================================================
+ID: lf9rdjk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In my opinion,  it is beneficial to strive for this. It gives a (dev)secop team something to work towards.
+----------------------------------------------------------------------------------------------------
+ID: lfkx6hw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lfkx6ji # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

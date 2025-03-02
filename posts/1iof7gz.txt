@@ -1,0 +1,15 @@
+POST ID: 1iof7gz / POST TITLE: Which DAST tool do you use in your CI/CD pipelines?
+====================================================================================================
+I’m curious what Dynamic Application Security Testing (DAST) tools does your company use to automate security testing within your CI/CD pipelines? Are you using commercial solutions, open-source tools, or a mix of both?
+
+Some key considerations:
+
+* How well does it integrate with your DevOps workflow?
+* Does it effectively reduce false positives?
+* Are developers able to work with it efficiently?
+* Any challenges or lessons learned from implementing DAST?
+
+Would love to hear about your experiences what works, what doesn’t, and any recommendations you might have.
+
+POST COMMENTS:
+====================================================================================================

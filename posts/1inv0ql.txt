@@ -1,0 +1,14 @@
+POST ID: 1inv0ql / POST TITLE: How to Track Fixed and Unfixed Vulnerabilities Over Time with Qualys Reports?
+====================================================================================================
+I use **Qualys** for internal vulnerability scans at my company. We schedule scans every 15 days and generate reports once they’re completed.
+
+Right now, I manually clean up the CSV reports by removing unnecessary columns before sending out notifications. However, I’m looking for a way to compare vulnerabilities between the report sent at the beginning of the month and the one at the end. Specifically, **I want to identify which vulnerabilities have been fixed and which remain unresolved.**
+
+**How can I track historical data like this? Is there a tool for bulk ingestion of Qualys data that provides better visualization and dashboards?**
+
+I’ve seen some discussions about pushing the data into **Splunk or Elastic** and using dashboards (Kibana, Grafana) for a monthly view. But since Qualys doesn’t provide a unique vulnerability ID—only host and asset IDs—**how can I effectively compare vulnerabilities month over month?**
+
+Would love to hear how others are handling this!
+
+POST COMMENTS:
+====================================================================================================

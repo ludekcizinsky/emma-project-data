@@ -1,0 +1,30 @@
+POST ID: 125ylec / POST TITLE: Spoof the extension of any file and make any python file look legit (with a RAT, Stealer, rootkit, worm, keylogger, backdoor or whatever inside)
+====================================================================================================
+Method one: Rtlo:  
+
+
+Step 1: copy the right to left override symbol  
+Step 2: Everything metntioned after that symbol will appear right to left instead of left to right.  
+Eg: You could rename a file study-on-refl<rtlo>fdp.exe, and it would appear "study-on-reflexe.pdf" because it appears right to left.  
+
+
+Method two: Mass spaced  
+
+
+Step 1: Rename the file "study-on-reflexes.pdf<lots of spaces>.exe". This will have so many spaces that the pc cannot display the extension.  
+
+
+Method two: Double extension
+
+&#x200B;
+
+Eg: study-on-reflexes.pdf.exe (some windwos computers will have file extensions off, but this is not recommended since a lot of computers will have it on. I recommend rtlo)  
+
+
+Now this is a method to make any python file look legit: [https://www.reddit.com/r/ethicalhacking/comments/124h8vb/method\_to\_make\_a\_python\_file\_look\_legit/](https://www.reddit.com/r/ethicalhacking/comments/124h8vb/method_to_make_a_python_file_look_legit/)  
+
+
+You can detect a spoofed extension by right clicking and pressing "properties"  on windows. Then if the filetype is an application (.exe) or something that isn't what the filetype is claiming to be, it is a virus. This will work for all  methods of file spoofing. For linux, you can use exiftool (pretty sure exiftool will show the filetype, not sure though). And to detect a fake python file that looks legit, check the horizontal scroll bar. If it is quite long, you can slowly move the horizontal scroll bar, until you see a malicious piece of code, or you could search for the semicolon (;) character and potentially find something.
+
+POST COMMENTS:
+====================================================================================================

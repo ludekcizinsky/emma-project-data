@@ -1,0 +1,10 @@
+POST ID: 1iueudl / POST TITLE: Should DNS infrastructure require/request some form of trusted certificate by a CA?
+====================================================================================================
+Hello everyone, I'm a junior cyber student just learning about fast flux, specifically double flux. After learning the mechanics of how this works, I started thinking about how this issue could be resolved. I had an idea but I'm unsure what the large scale pros and cons of this could be. I'd like to get a cyber professionals thoughts on this. (PS please forgive me if my understanding on some things is flawed or if I use the incorrect terms) 
+
+In fast flux, threat actors use TTL on DNS records to constantly change where the DNS/HTTP traffic should be sent to. I understand why legitimate services and organizations may need low TTL for various reasons, so DNS servers can't just block high volume DNS change requests because you cannot differentiate between trusted domains and malicious domains based on just this; or for that matter any other attack that exploits DNS. So if the heart of the issue is an inability to differentiate the two, could a system we already use to verify integrity for applications and websites, trusted certificates from CAs, be used to do just that? Specifically could TLD nameservers that get rapid or constant change requests to DNS records for Authoritative NS IPs, throttle allowed change requests from sources that are unable to provide a trusted certificate? It seems to me that while this isn't a cure-all, it could still potentially stop a large amount of DNS abuse. Increased DNS integrity could also have other benefits, like returning warnings that the returned NS comes from a potentially risky or untrusted source.
+
+I'm curious what others think, is there some others factors i havent considered? it seems to me the technology is already there, and at the very least .com and .net have some government oversight so there's also some authority to enforce this. 
+
+POST COMMENTS:
+====================================================================================================

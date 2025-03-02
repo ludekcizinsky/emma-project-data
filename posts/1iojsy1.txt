@@ -1,0 +1,12 @@
+POST ID: 1iojsy1 / POST TITLE: 2025 Threat Intelligence & Ransomware Report
+====================================================================================================
+Hello everyone, I’d like to share the [Threat Intelligence Report](https://redpiranha.net/red-piranha-2025-threat-intelligence-ransomware-report?utm_source=Reddit&utm_medium=Social&utm_campaign=RansomwareReport2025) from Red Piranha with you. Having solid intelligence is crucial for enhancing your detection strategy. Security incidents surged 74.42% in just two years, with US businesses still the top targets. This report covers:  
+
+* Critical vulnerabilities exploited by ransomware operators.
+* Emerging TTPs of advanced threat actors. 
+* Proactive strategies to mitigate risks and reduce attack surfaces.  
+
+I hope you find it useful in your defence against the rise of the APTs again in 2025. And if you have any feedback please share it in the comments
+
+POST COMMENTS:
+====================================================================================================

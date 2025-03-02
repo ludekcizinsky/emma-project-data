@@ -1,0 +1,11 @@
+POST ID: 1ip5cke / POST TITLE: What platform do you use to train developers on secure coding?
+====================================================================================================
+Hello Everyone, what platform do you use to train your developers?
+
+We have a team of around 50 devs, and I'm looking for a good price/performance platform to train our developers on secure development. I'm not looking for a tick-the-box training but an actual way to increase and develop skills. It should include hands-on (labs).
+
+  
+Thanks in advance.
+
+POST COMMENTS:
+====================================================================================================

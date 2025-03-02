@@ -1,0 +1,13 @@
+POST ID: 16dhv5q / POST TITLE: Password Attacks Explained | Part One | TryHackMe
+====================================================================================================
+In this video walk-through, we covered the basics of password attacks including how to create wordlists using several tools such as CUPP, Crunch, Cewl,etc. We also covered and explained password attacks including dictionary attacks, brute-force and rule based attacks. This was part of TryHackMe Red Team Track. 
+
+Video is [here](https://www.youtube.com/watch?v=tnoNjZnPlDw)
+
+Writeup is [here](https://motasem-notes.net/password-attacks-explained-part-one-tryhackme/)
+
+POST COMMENTS:
+====================================================================================================
+ID: jzteozi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Great men :)
+----------------------------------------------------------------------------------------------------

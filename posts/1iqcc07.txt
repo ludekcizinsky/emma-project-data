@@ -1,0 +1,17 @@
+POST ID: 1iqcc07 / POST TITLE: Help Needed for Comparative Analysis of Open Source SIEMs in the Cloud
+====================================================================================================
+Hello everyone,
+
+I’m new to cybersecurity and I'm currently doing a project on a comparative analysis of a few open source Security Information and Event Management (SIEM) tools in a cloud environment. So far, I’ve identified Wazuh,ELK Stack and OSSIM to include in my analysis. I’m looking for recommendations on 2-3 other popular open-source SIEMs that would be suitable for this project.
+
+Additionally, I need advice on which cloud platform that would be best for this project. Preferably one that would typically be used for a small organization. I’m considering options like AWS, Azure, or Google Cloud, but I’d love to hear your suggestions based on ease of use and suitability for my project.
+
+I’ve noticed that there aren’t many resources available that cover the integration of open source SIEMs into the cloud, so any guidance would be greatly appreciated.
+
+Moreover, I would like to know what specific aspects I should focus on for this project. What kinds of logs should I collect, and what types of attacks can I simulate in the cloud to test how the SIEMs respond? I want to keep the project manageable as I'm still a beginner, so any tips on scoping it effectively would be helpful!
+
+Thank you in advance for your insights!  
+
+
+POST COMMENTS:
+====================================================================================================

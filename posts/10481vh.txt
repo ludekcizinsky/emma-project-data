@@ -1,0 +1,51 @@
+POST ID: 10481vh / POST TITLE: Free education recommendation.
+====================================================================================================
+Hello I’m trying to get into ethical hacking but not sure where to start, I don’t much money and wanted to know if there was a good place for me to learn for free.
+
+Sorry if that’s a lot to ask.
+
+POST COMMENTS:
+====================================================================================================
+ID: j33fdbc # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: j35xlsd # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: First and foremost you need to have a good foundation in networking, linux and some scripting (knowing bash and Python are very helpful). If you don’t know anything about these subjects, especially *networking* and *Linux* then please **do not jump into ethical hacking**. You need to have a strong foundation or else you’re not going to be good at it. Here’s a few recommendations.
+
+## Websites
+
+***TryHackMe.com*** - this website is great and teaches a lot of those fundamentals that you need. There’s a free tier but I suggest paying 10 bucks a month if you can because it’s well worth it for the extra courses that you can get. 
+
+***HackTheBox*** - this is more intermediate. They’re vulnerable boxes that you can practice on. Basically CTF’s (Capture The Flag) they also have an academy site that’s like THM but I think tryhackme is still a better bang for your buck academy wise. 
+
+
+## Courses/Teachers
+
+***The Cyber Mentor***
+
+This guy is amazing. He has a YouTube channel (search ‘the cyber mentor’) and has tons of good videos. He has a free 15 hour ethical hacking course right on his channel that’s got great information. That’s a portion of a paid course that he has on his website. Go to www.TCM-security.com and there is an Academy tab somewhere near the top. The full course called Practical Ethical Hacking is like 30 bucks I think? Completely worth it. I highly suggest checking out the free 15 hour or so video on YouTube and if you like that - get that PEH course. 30 bucks is nothing in this space and you get it forever. He’s also got other courses on there that are well worth it. 
+
+***Professor Messer*** 
+
+He’s a good guy to watch to learn about networking and all the CompTIA exams. Just search him on YouTube and you’ll find him. I can’t stress how important it is to get a good foundation on networking before jumping into the hacking part. I messed up when I first started because it is boring to learn. It’s just dry. Learning about TCP/IP protocols, the OSI Model, etc. at face value it’s boring as fuck. But when you realize that you **need** this information to be a good pen tester (or just working in IT) it helps. Hell, I’m still working on getting better with networking myself. 
+
+
+***HackerSploit*** on YouTube. He’s hands down one of the best. That pretty much sums him up.
+
+
+## The Best Podcast EVER
+
+This guy isn’t educational as in tutorials but I absolutely love his podcasts and if you’re into this kind of stuff you’ll love them as well. ***Darknet Diaries***. The best podcasts for crazy out of this world hacker stories. Definitely listen to him if you like listening to podcasts. 
+
+
+
+### Honorable Mentions
+
+A couple other honorable mentions are David Bombal - he’s got some good stuff but I don’t really watch him for learning. I just listen to his interviews with people. The first “IT YouTuber” I found was NetworkChuck and.. idk. He’s definitely knowledgeable about IT but he’s not super familiar with cybersecurity or at least back when I watched him. He just comes off very “mainstream” to me (which is probably why he’s got millions of followers) but I at least thank him for being my introduction and my way of finding all the other guys.
+----------------------------------------------------------------------------------------------------
+ID: j356wd5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Where are you from if your from banglore then go join some good ethical hacking institute
+----------------------------------------------------------------------------------------------------
+ID: j37bq4w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: +1 for Tryhackme and the cyber mentor
+----------------------------------------------------------------------------------------------------

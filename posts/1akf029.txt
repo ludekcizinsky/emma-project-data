@@ -1,0 +1,51 @@
+POST ID: 1akf029 / POST TITLE: cyber mentor
+====================================================================================================
+I’m essentially looking for a cyber/hacking mentor . I’m currently doing the CPTS path on HTB . I’m learning slowly but surely . I’ve always genuinely been into cybersecurity my whole life but i’m just now starting to actually learn and i know that my progress would be astronomical if i had sending to practically teach me the ropes vs reading tons of slides because my brain just doesn’t work like that. i’d also like to learn grey hat concepts because the hacking world is very rigid when it comes to learning since everything has to abide by very specific guidelines . it’s like learning everything the textbook way but i’m a very outside of the box thinker
+
+POST COMMENTS:
+====================================================================================================
+ID: kp7kj26 # OF UPVOTES: 18.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nobody experienced is going to take the time to sit down and spoon feed you information. Take the classes and ask questions. I’ve been a penetration tester and consultant for 5 years I’d be happy to answer any questions you have or point you in the right direction.
+----------------------------------------------------------------------------------------------------
+ID: kp8g4v0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > I’ve always genuinely been into cybersecurity my whole life
+
+What does that mean?  
+
+
+> but i’m just now starting to actually learn and i know that my progress would be astronomical if i had sending to practically teach me the ropes vs reading tons of slides because my brain just doesn’t work like that.
+
+Well, if you want a teacher, go to school. ;) There are several "hacking" courses available online. Beside that, there is so much information pretty everywhere. There is no way that you run out of information. It was much harder to get information in the pre-internet area. Back in these days, people went into libraries (buildings) to look into books to gather some information. True story :) So just start somewhere and you will find your way. This can include some certifications. 
+
+You do not give much information about you and complementary skills. What are you specifically interested in? Do you know how protocols and network layers work? What are you good at? Python? Bash? Any experience with electronics, microcontrollers or something?
+
+If you don't know what to do, get a raspberry pi and work through "Kali Linux Revealed" and do the KLCP exam. This is at least not too expensive. But if money is not a concern, then there are others.
+----------------------------------------------------------------------------------------------------
+ID: kpao886 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am in infrastructure and Devops which is kind of related, I’d be open to casual mentoring in the overall tech realm.
+----------------------------------------------------------------------------------------------------
+ID: kpawsm5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What are ”grey hat concepts”
+----------------------------------------------------------------------------------------------------
+ID: kpc2qlv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'd think continuing any courses you're in and asking questions that pop up here or on any hacking-related discord servers would be a good plan.
+----------------------------------------------------------------------------------------------------
+ID: kq2zcij # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kpal1yy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What do you think is better or more worth to do first Klcp exam or C|Eh exam?
+----------------------------------------------------------------------------------------------------
+ID: kq5e2j9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a low effort post or something you can google, post has been removed for rule violations.
+----------------------------------------------------------------------------------------------------
+ID: kpdalfo # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well, KLCP covers some basic stuff, for example how to install Kali Linux on a pi, a virtual disk etc. 
+
+In CEH you learn how to set up you lab environment and how to gain information about a network etc. 
+
+I don't know what makes sense for you.
+----------------------------------------------------------------------------------------------------
+ID: kpdavyz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your response. I think my course on udemy covers most of it for now.
+----------------------------------------------------------------------------------------------------

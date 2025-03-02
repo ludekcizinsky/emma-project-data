@@ -1,0 +1,49 @@
+POST ID: 18nkytk / POST TITLE: How do I properly notify an exam proctoring software of vulnerabilities?
+====================================================================================================
+TL;DR: I found a bunch of vulnerabilities from a software my school uses and would like to notify the company in return for either an internship or monetary compensation, so how do I do this?
+
+&#x200B;
+
+I'm a high schooler and my school uses an online exam taking software to proctor most of our assessments. I 'pentested' (in quotations because my intentions at the time were not ethical) the software to try to find vulnerabilities to exploit and sell. Through this I found about 6, including ones to gain access to my classmate's accounts (change their passwords, access their grades, take assessments as them) and use the software in a non-lockdown environment (thus allow cheating).   
+
+
+A trusted adult I discussed with convinced me that I should notify the company via email in return for either an internship (would be a great EC for college imo) or monetary compensation. He also said two other things - that I only give one vulnerability in my initial contact and that I remind them that I can release the vulnerabilities for all students to use (thus ruining their partnerships with the schools).   
+
+
+I don't want to be as aggressively worded as he says, but I still do want some compensation for the work I did and not releasing any of the vulnerabilities, unreleased tests, or unreleased grades. So how do I properly notify them and get a sufficient return?
+
+POST COMMENTS:
+====================================================================================================
+ID: keba3v1 # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please do not mention releasing the vulnerabilites in any way. This can be seen as extortion. It's a slippery slope. I would follow this link if you're truly interested in disclosing the vulnerabilities. [https://www.cisa.gov/coordinated-vulnerability-disclosure-process](https://www.cisa.gov/coordinated-vulnerability-disclosure-process)
+----------------------------------------------------------------------------------------------------
+ID: keclyue # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >would like to notify the company in return for either an internship or monetary compensation
+
+Yeah, that's not how that works unfortunately.  You either do the right thing and report it and simply hope they reward with you *something,* or you take that route that borders extortion and hope they don't see it that way.
+
+Also, your 'trusted adult' sounds like an asshat who **should not be trusted**.  Who tells a high schooler to "send one vulnerability and ***remind them you can release the rest,***" like you're some kind of mobster thug?
+
+The ethical thing that can't be misconstrued as extortion would be to send them an email with ALL the vulnerabilities found, and if you really want, politely *ask* if there might be a bug bounty reward for finding so many critical exploits.
+----------------------------------------------------------------------------------------------------
+ID: kebx7ab # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just be careful. If you have exploited any of these vulnerabilities, this could cause you some blow back. You're young and I would hate to see someone trying to do the right thing get blamed for the very issues they're attempting to assist with. Provide them good documentation, explain you are just attempting to assist them. Don't ask for any type of compensation. It will be nice if they offer it, but some companies are thankless and would rather blame you for the issue than admit the problem is on their end.
+----------------------------------------------------------------------------------------------------
+ID: kecz06a # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >he also said two other things - that I only give one vulnerability in my initial contact and that I remind them that I can release the vulnerabilities for all students to use (thus ruining their partnerships with the schools).
+
+for the love of god don't black mail them. send them an anonymous email detailing what you found and leave it at that.
+----------------------------------------------------------------------------------------------------
+ID: kebcmwv # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you serious? Don’t expect ANY reward or compensation for what you did. The company did not ask for it and if they don’t have a BBP they certainly won’t give you any compensation. Even worse you’re now thinking about extorting them for money.
+----------------------------------------------------------------------------------------------------
+ID: kebr1g8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Unfortunately, neither I or the company are from the U.S. Furthermore, the vulnerabilities I found were not that complex to require third party help, it's simply the website trusting the client too much, which can just be mitigated by encrypting exam files and verifying network requests
+----------------------------------------------------------------------------------------------------
+ID: kebqcz0 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: what if I gave everything away then kindly asked for a certificate or offer further consultation on fixing the exploits?
+----------------------------------------------------------------------------------------------------
+ID: kebqqjk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yea disclose the bugs to the company. And
+offer further consultation on remediation.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+POST ID: 14bx9qv / POST TITLE: Ram usage while running metasploit
+====================================================================================================
+Hey guys so I'm running Kali Linux terminal through Userland on my smartphone and everythings running good but I just wanted to know if I can control the amount of ram given to userland for my Linux distro. Would my Linux os automatically use all 8gb ram on my smartphone or does it use a little by default? Can I manually set the amount I'd like to share ?
+
+POST COMMENTS:
+====================================================================================================
+ID: joo80m4 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No will not use all 8gb of ram on your smartphone. It usually allocates a portion of the available ram for its own use.
+But as you're using Userland and it may not provide explicit options to control ram allocation as it abstract the underlying virtualization process and handle resource allocation automatically. 
+Tools like AnLinux or Termux would give you more control over your ram.
+----------------------------------------------------------------------------------------------------
+ID: joptxg7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh alright understood thanks for taking time to respond. 🙌 And I believe those two tools are no woking on Android 11 and up right ?
+----------------------------------------------------------------------------------------------------

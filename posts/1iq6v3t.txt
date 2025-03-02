@@ -1,0 +1,9 @@
+POST ID: 1iq6v3t / POST TITLE: Looking for help set up a security program for a fintech
+====================================================================================================
+Hi guys, I am looking for some good literature or materials that can help structure what an overarching security program should include. Our problem is that we are missing a uniform approach for tackling various areas of security which right now fall under different teams thus everyone kind of thinks about their part but we miss the correlation or collaboration :) should security be a CoE that spans across payments, product, cloud, and of course grc (inc. iso, PCIDSS,nist)?
+
+How does your organization look at it? 
+
+
+POST COMMENTS:
+====================================================================================================

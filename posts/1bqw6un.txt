@@ -1,0 +1,26 @@
+POST ID: 1bqw6un / POST TITLE: Top cyber criminal groups 
+====================================================================================================
+Is there any reliable source and updated to know the most active cyber criminal groups?
+
+Tried Google but don't get something useful. Maybe I am using it wrong. 
+
+I'm conducting a thesis to go through an attack, but'll need trustworthy info of cyber criminal groups currently active. 
+
+POST COMMENTS:
+====================================================================================================
+ID: kx5a6oi # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: MITRE and Mandiant keep pretty updated lists, to the point that CISA here in the US cites them as sources.
+
+MITRE: [https://attack.mitre.org/groups/](https://attack.mitre.org/groups/)
+
+Mandiant: [https://www.mandiant.com/resources/insights/apt-groups](https://www.mandiant.com/resources/insights/apt-groups)
+----------------------------------------------------------------------------------------------------
+ID: kx5f3in # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The term you are looking for is APT, advanced persistent threat. You can google that for more info.
+
+[https://www.mandiant.com/resources/insights/apt-groups](https://www.mandiant.com/resources/insights/apt-groups)
+
+[https://andreacristaldi.github.io/APTmap/](https://andreacristaldi.github.io/APTmap/)
+
+[https://docs.google.com/spreadsheets/d/1H9\_xaxQHpWaa4O\_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=1864660085](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=1864660085)
+----------------------------------------------------------------------------------------------------

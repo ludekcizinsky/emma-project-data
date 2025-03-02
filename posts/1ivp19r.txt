@@ -1,0 +1,54 @@
+POST ID: 1ivp19r / POST TITLE: Pentesting AD with generic certificates
+====================================================================================================
+My mentor in the enterprise gave me this as my final year project and I want to know what the perquisites for it are. Yes, I asked my mentor, but he refused to tell me saying it's smth I have to look up myself discover so here I'm 
+
+For the record I just started AD intro module in HTB as I don't know anything in about it sp what should I do next?  
+Also is this too advanced of a topic for a beginner? is it feasible in 3-4 months?
+
+  
+Sorry for the very noob post and hope you bear with me
+
+POST COMMENTS:
+====================================================================================================
+ID: me7dht0 # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So, instead of trying to go and do your research and at least give it a shot, you come to reddit asking if it's too advanced for a beginner? Are you trying to get out of doing that assignment or something, what's going on here? I'm sorry if this seems insulting but I'd expect someone trying to get a job in cybersecurity to be more resourceful before jumping straight to reddit.
+----------------------------------------------------------------------------------------------------
+ID: me7fmoy # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > He refused to tell me saying it's smth I have to look up myself discover so here I'm 
+
+When he said "for you to discover", I don't think he meant "ask ppl on reddit"
+
+But if he's referring to ADCS, here's a hint: https://posts.specterops.io/certified-pre-owned-d95910965cd2
+
+If you're trying to get into pentest/cybersecurity, be aware that there's going to be a lot of "research on your own time".
+----------------------------------------------------------------------------------------------------
+ID: me7k9bg # OF UPVOTES: -14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not exactly Since I have only 3-4 months I want to make the most of it and learn smth in detailed lvl so instead of going into a very advanxed topic and feeling like I learnt little or nothing I want to build the base 
+The reason I asked is because I see a lot of ppl saying AD pentest is not beginner lvl even in cybersec domain and requires experience compared to web pentest for example
+----------------------------------------------------------------------------------------------------
+ID: me7kcj9 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thx a lot I'm sure this would be helpful
+----------------------------------------------------------------------------------------------------
+ID: me7w50u # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 3-4 months is pretty much a standard semester length. And you're expected to write a Bachelor's or Master's in that time (Doctorate is different I'm pretty sure) so this seems pretty reasonable to me and on pretty much the same level for Master's, hell maybe even Bachelor's.
+----------------------------------------------------------------------------------------------------
+ID: meb797k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You can have some faith in your mentor, trusting that they give you an achievable goal.
+
+Hope your mentor isn’t on here either; they’re gonna feel at least a little betrayed.
+----------------------------------------------------------------------------------------------------
+ID: me7s07z # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s actually easy, there are plenty of tools for this task. You could read up on this topic and finish the project in a couple weeks. Easy 
+----------------------------------------------------------------------------------------------------
+ID: meb7e1x # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Very important: for your reporting collect and state all your sources.
+----------------------------------------------------------------------------------------------------
+ID: me85l4f # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Oh ok thank you so much for the feedback, appreciated
+----------------------------------------------------------------------------------------------------
+ID: me7vgcs # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ok thx man although he said I'm not allowed to use tools and should do the scripting but at least from the replies it seems like it's not as hard of a project as I thought at first
+----------------------------------------------------------------------------------------------------
+ID: me8d6jf # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Honestly, if you're unsure where to start or you're not sure if you understood assignment correctly, ask them to elaborate and maybe point you to some resources. No mentor that's worth something can refuse that. They won't give you straight answer on how exactly to do assignment but they should give you some relevant resources so that you don't waste time researching and reading unrelated stuff that you won't even need. That's what mentors are for anyway.
+----------------------------------------------------------------------------------------------------

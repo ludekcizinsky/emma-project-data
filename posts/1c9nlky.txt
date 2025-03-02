@@ -1,0 +1,61 @@
+POST ID: 1c9nlky / POST TITLE: Hi guys could I have some advice 
+====================================================================================================
+I currently work in construction and have bad knees and I know I won’t last long in the game if I’m honest, 
+I’m interested in learning cyber security as a career change and would love some guidance as I’m a hands on learner and feel like I need projects to be working on rather than watching videos for hours on end as I’ve already tried this method, does anyone have any recommendations or suggestions please thank you all , 
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: l0n770b # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is a great site for hands on exercises. It’s a quick mini lesson and explanation then a VM where you get to practice what they just taught you. Rinse and repeat. Most of the beginner stuff is free also.
+----------------------------------------------------------------------------------------------------
+ID: l0msckb # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sit down with yourself and write out what you know. What foundations can you build from. Do you own a computer? Lol i know the answer is yes. Are you great at math? Do you speak another language? Have you ever been a manager? Do you have a degree? Do you have the time and money to get a degree?
+
+Okay. 
+1. Build a computer. Figure out how to do this. Google pc part picker and YouTube how to build a computer. 
+
+2. But a managed switch, router, and four 8 or 10 foot Ethernet cable from like BestBuy. Set it all up. YouTube the make and model of the router and switch you buy. 
+
+3. Install VMware and VirtualBox. Once you find out what one you like, but any distro of Linux on it. Alternatively buy a raspberryPI (small computer) and install Raspbian. 
+
+4. Use chatGPT to out line hardening Windows with powershell and Linux with bash scripts to do so. 
+
+
+5. Google Google Google ChatGPT Google repeat. 
+
+6. Check out gameified training... Focus on basics. 
+letsdefend.io
+tryhackme.com
+
+7. Get certified... start from the top and skip as you see fit but don't skip too much.
+A+
+Network+
+Security+
+CCNA
+
+learn.microsoft.com/en-us/training/browse/
+
+Should get you started. 
+Good luck.
+----------------------------------------------------------------------------------------------------
+ID: l0o8hxa # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Set proper expectations for yourself.  You’ll likely not get a cyber security position until you have a solid working background with IT fundamentals.   At least 5-6 years in IT.  Start with Helpdesk and work your way through networking and systems admin before even considering a move to infosec.
+----------------------------------------------------------------------------------------------------
+ID: l1qwimp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A good college will provide you a structured approach to learning. On campus will give you the hands on environment that you’re looking for. I would avoid the accelerated colleges and universities because they will give you the grade even if you don’t have retain the knowledge, which put you back at square one!
+----------------------------------------------------------------------------------------------------
+ID: l0o2z6b # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Lol you don't have IT Background, actually it sounds you don't have any sort of background at all. I dont want to sound cruel but this is not an entry level field at all
+----------------------------------------------------------------------------------------------------
+ID: l0p8puq # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When did I say that I’m going to jump straight into a cyber security role ? I’m asking for advice to work towards gaining the knowledge and skills that I may need to get into the industry, 
+Yes hahaha I have no experience however I’m here trying to better myself and trying to make sure I have backup, there was a point in life when you had no clue and you was in my position, lol it’s clear to see people haven’t treated you the best on your journey ‘lol’
+----------------------------------------------------------------------------------------------------
+ID: l0p8sco # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh and if I’m trying to learn its clear I am a noob fyi
+----------------------------------------------------------------------------------------------------
+ID: l0p9aef # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You see, problem is, it looks like there is no slot even for masters in CS. Multiple factors. https://cyberisfull.com/ If you want to learn only for the sake of learning good. But if you are expecting to earn tons, you are in a pretty bad position. I recommend CCNA material to have networking fundamentals. Learn Python Programming. Drive Linux as daily, to start with. This will take years, even a decade to reach a good level.
+----------------------------------------------------------------------------------------------------

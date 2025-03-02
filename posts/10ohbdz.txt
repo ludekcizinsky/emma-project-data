@@ -1,0 +1,10 @@
+POST ID: 10ohbdz / POST TITLE: How to forward Metasploitable2 logs to QRadar
+====================================================================================================
+Hey Folks,
+
+I'm setting up my first Cyber Lab, I installed Metasiploitable VM and I want to forward the logs to Qradar CE that I created in another VM (I use VirualBox for this lab), I can't download rsyslog package, any thoughts about how to forward the logs to the QRadar.
+
+Thanks,
+
+POST COMMENTS:
+====================================================================================================

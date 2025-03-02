@@ -1,0 +1,12 @@
+POST ID: 1is2h14 / POST TITLE: XSS vulnerabilities
+====================================================================================================
+I’m a student and I’m admittedly dumb. I’m trying to wrap my head around cross-site scripting vulnerabilities. I’ve read that being able to trigger an alert from the browser’s console is a good sign of an xss vulnerability, but THAT DOESN’T MAKE ANY SENSE. Every website I try allows you to run javascript locally. Wouldn’t a true vulnerability be the ability to *inject* code on the page? That seems a little different to me. 
+
+Also, is there really any way for a web dev to limit reflected XSS? Isn’t that basically phishing with extra steps? 
+
+I don’t know. I’m working on a lab where we’re supposed to exploit webgoat with xsser and it’s just not quite working right and I’m getting frustrated. I probably just need to go to a red team or hacking sub and ask a specific question there. 
+
+Rant over. 
+
+POST COMMENTS:
+====================================================================================================

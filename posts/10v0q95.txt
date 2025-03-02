@@ -1,0 +1,30 @@
+POST ID: 10v0q95 / POST TITLE: kali and parrot
+====================================================================================================
+why people prefer kali linux over parrot os?
+
+POST COMMENTS:
+====================================================================================================
+ID: j7f51r6 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Kali seems overall much more stable and has bigger user base. I used both for a few months and had Parrot brick itself 3 times after updates + some tools stop working without any reason + tons of other issues. Also Parrots unique tools and scripts such as anonsurf had already been ported to Kali.
+----------------------------------------------------------------------------------------------------
+ID: j7hh91b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I personally use Kali. Pretty happy with my experience so far.
+
+With that said, the beauty is that Ubuntu, Kali and Parrot are all Debian. So you can very easily use any and install applications to suite your needs.
+
+They are so similar that I can hop on Ubuntu or Parrot without noticing much difference.
+----------------------------------------------------------------------------------------------------
+ID: j9i6hrh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Parrot always looked nicer imo, had more tools, and felt overall faster. Kali on the other hand feels alot more stable. 
+
+I've used both, they're both great, but at this stage I just install the tools I want on any distro, so my system isn't as bloated
+----------------------------------------------------------------------------------------------------
+ID: j7isu26 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Arch-Based pentesting distro when :)
+----------------------------------------------------------------------------------------------------
+ID: j7jhchb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: BlackArch
+----------------------------------------------------------------------------------------------------
+ID: j7qbowf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ooh thanks, I'll have to try it out!
+----------------------------------------------------------------------------------------------------

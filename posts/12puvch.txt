@@ -1,0 +1,19 @@
+POST ID: 12puvch / POST TITLE: Opinion on CyberSquare
+====================================================================================================
+Hey guys,
+
+ I just started learning about ethical hacking and cybersecurity in general. Do you have an opinion on the youtube channel CyberSquare, because he has a 20 hour ethical hacking. Is it really worth it and understandable by someone who lets say understand most of the fundamendals. Any info will be appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: jgnqvso # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Never heard of them but I’m sure they’re not bad. Check out the comments and see what the overall consensus of the channel is. I recommend The Cyber Mentor on YouTube. Also I’ve got a thread that’s pinned up on this subreddit titled “Resources for Beginners” if you want some more resources. A quick tip: **don’t get stuck in tutorial hell**. Just focus on a tutorial, finish it and then practice what you’ve learned. It’s easy to get stuck in tutorial hell and then you never end up learning anything.
+
+Have fun and good luck!
+----------------------------------------------------------------------------------------------------
+ID: juak70w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Unfortunately the channel has been nuked by Youtube.  Multiple reports of copyright violation.  That's unfortunate--I was just starting to go through their stuff, but I did manage to rip a few of their videos.
+----------------------------------------------------------------------------------------------------
+ID: jgq3rbx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you!
+----------------------------------------------------------------------------------------------------

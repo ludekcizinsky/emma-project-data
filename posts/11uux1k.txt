@@ -1,0 +1,44 @@
+POST ID: 11uux1k / POST TITLE: What is your host OS?
+====================================================================================================
+Hey, everybody.
+
+This isn't really hacking related at all but I just wanted to start a conversation to see what you guys use as your host machine. Now, we all know that the k00l kidz around here daily drive Kali Linux. But I was wondering what us dweebs who aren't l337 haxorz use. I personally use Arch Linux currently but I am thinking about moving over to Fedora. What do you guys use? Do you use Linux as your host? Windows or MacOS? Just a genuine curiosity that I had and I thought I would ask!
+
+Have a great day.
+
+POST COMMENTS:
+====================================================================================================
+ID: jcq1u2q # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use Fedora. I've thought about switching to Arch but I've been on Fedora for like 10 years and it's not like there's anything I need that it doesn't offer. 
+
+no one rly 'daily drives' Kali btw. or at least no one who knows what they're doing. even the devs say it's not meant for that.
+----------------------------------------------------------------------------------------------------
+ID: jcqmwjh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think arch is better, since you probably will use it in future instead of kali if you want to master
+----------------------------------------------------------------------------------------------------
+ID: jcxa8zu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Parrot
+----------------------------------------------------------------------------------------------------
+ID: jee6tcp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CoreOS/Fedora Silverblue is great, you can run any distro/environment in your toolbox.
+
+In my case I run two containers:
+- Fedora Workstation (for development workflow)
+- Blackarch (for penetration testing)
+
+For example, in backarch I have bundle of thousands tools/scripts for ethical hacking. And in Fedora I have only required for development packages, like clang, ruby, ansible, etc.
+
+The feature of structuring your environments in containers is really underrated.
+----------------------------------------------------------------------------------------------------
+ID: jcqedmy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, I really enjoy Fedora as well. Been thinking about moving to it but I really enjoy pacman. And yeah, I know. The whole “daily driving Kali” thing was sarcasm because I’ve seen so many posts of kids trying to do it.
+----------------------------------------------------------------------------------------------------
+ID: jcstoi2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can agree with that, although it would be terrible if you were doing something like a pentetst and then had to update your system and everything stopped working. I personally have never experienced such a situation, but I have heard similar things from others. But if you're concerned about having an easily accessible collection of security tools like Kali has, you can add the Black Arch repo to your Arch installation, and that's something I really appreciate.
+----------------------------------------------------------------------------------------------------
+ID: jcqv3kh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah pacman seems very cool, dnf is one of the few things I'm not crazy about with Fedora. most of my complaints about it look like they're being addressed with dnf5 in the next release though so we'll see. I do have another machine running Windows 10 that won't be able to upgrade to 11 so maybe I'll start messing around with Arch on there when 10 goes EOL.
+----------------------------------------------------------------------------------------------------
+ID: jcqvv7i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dnf is the **only** thing I don’t like about Fedora. That and the fact the font I use does not work at all in alacritty for some reason. I’ve heard people have been using dnf5 on the new 38 beta and it’s supposedly a night and day difference. It’ll be nice to check it out.
+----------------------------------------------------------------------------------------------------

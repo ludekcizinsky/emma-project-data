@@ -1,0 +1,24 @@
+POST ID: 1c18oeg / POST TITLE: To become a Cybersecurity Engineer
+====================================================================================================
+Hi guys I am getting started to become a cybersecurity enginner. I have been using Linux and getting comfortable with it. From recent few days I am learning the IT support course by Google.I want to learn in depth about ethical hacking and please don't recommend those udemy classes. I want to learn it properly not just learn for a sake of job.
+
+POST COMMENTS:
+====================================================================================================
+ID: kz2vqn8 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it baffles me, how many want to jump into security without any base foundation. have you built servers? active directory? firewalls? client systems? webpages? anything network-related?
+
+no? start there.
+----------------------------------------------------------------------------------------------------
+ID: kzij4gk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I got to be an engineer with some ethical hacking experience, it helped a bit in my case but what would be more likely to land you an engineering role is getting to be an analyst first then building an interest in engineering the tools you're using. There's a lot of foundations you'd be attempting to skip by trying to go straight for ethical hacking, it will help but only once you're in an analyst role IMO.
+----------------------------------------------------------------------------------------------------
+ID: kz2wpdf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Exactly. That's why I am asking for a proper path which would make me a proper cybersecurity engineer.
+Like I want to begin right, so can you please tell a path which will get me there ?
+----------------------------------------------------------------------------------------------------
+ID: kz6rsg5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A meaningful suggestion that didn't talk about hack the damn box as a start point. A+ to you. OP this is the advice.
+----------------------------------------------------------------------------------------------------
+ID: kz2yu33 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: sure. start somewhere as t1 helpdesk. work your way up to systems administration/engineering. specialize (infrastructure, networking, business logics, sales engineering, etc) and learn that for some years. THEN you're eligible for anything advanced like cybersecurity, which in itself you'll need to specialize to a domain further
+----------------------------------------------------------------------------------------------------

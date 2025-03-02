@@ -1,0 +1,20 @@
+POST ID: 1f95hid / POST TITLE: Kali OS vs installing app by app
+====================================================================================================
+I plan on getting a Vivobook, 
+I’m not that sure about installing Kali Os. 
+
+Can I just install app by app? 
+
+POST COMMENTS:
+====================================================================================================
+ID: llngaqp # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why not a Kali VM?
+----------------------------------------------------------------------------------------------------
+ID: llln6ki # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: llln6lj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

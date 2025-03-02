@@ -1,0 +1,12 @@
+POST ID: 1estcg3 / POST TITLE: Entra Id security bypass 
+====================================================================================================
+Check out the new research from my colleague and me - we’ve discovered a security bypass in Azure Entra ID Our findings reveal a vulnerability in pass-through authentication that could potentially allow unauthorized access across synced on-prem domains.
+
+POST COMMENTS:
+====================================================================================================
+ID: lirldcc # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: this requires someone to have access to the aad connect server right?
+----------------------------------------------------------------------------------------------------
+ID: lizom7n # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Yes with local admin rights
+----------------------------------------------------------------------------------------------------

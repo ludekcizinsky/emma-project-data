@@ -1,0 +1,18 @@
+POST ID: 1d8k85f / POST TITLE: Mssqlclient.py is not working need help
+====================================================================================================
+I was trying to crack the archetype machine but when I run mssqlclient it is not giving any results I don't know the reason. I think I may need some help with this
+
+POST COMMENTS:
+====================================================================================================
+ID: l779481 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use Impacket scripts
+----------------------------------------------------------------------------------------------------
+ID: l77gbov # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes it is impacket script
+----------------------------------------------------------------------------------------------------
+ID: l77mowu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Problem is it's switching to tls I can't remember how I had stopped that switching search abhut it
+----------------------------------------------------------------------------------------------------
+ID: l78gc0z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok I will do so
+----------------------------------------------------------------------------------------------------

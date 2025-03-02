@@ -1,0 +1,31 @@
+POST ID: 1inwv3y / POST TITLE: New WordPress Plugin Vulnerabilities Reported by NIST.Gov
+====================================================================================================
+[NIST.gov](http://NIST.gov) has just dropped a new batch of vulnerabilities affecting several widely used WordPress plugins.
+
+These vulnerabilities include SQL injection, stored cross-site scripting (XSS), arbitrary file uploads, privilege escalation, and more. If you or your clients are using any of these plugins, it’s time to take action—these issues range from medium to critical severity and could lead to data breaches, account takeovers, or even full server compromise.
+
+# Highlights of the Latest Vulnerabilities:
+
+* **Brizy – Page Builder**:
+   * **CVE-2024-10960**: Arbitrary file uploads (9.9 CRITICAL). Authenticated attackers can upload malicious files, potentially leading to remote code execution.
+   * **CVE-2024-10322**: Stored XSS via SVG file uploads (6.4 MEDIUM).
+* **WP Job Board Pro**:
+   * **CVE-2024-12213**: Privilege escalation (9.8 CRITICAL). Unauthenticated attackers can register as administrators.
+* **Security & Malware Scan by CleanTalk**:
+   * **CVE-2024-13365**: Arbitrary file uploads via .zip archives. Unauthenticated attackers can upload malicious files.
+* **Multiple Freight/Shipping Plugins**:
+   * SQL injection vulnerabilities (e.g., CVE-2024-13532, 7.5 HIGH) affecting plugins like Small Package Quotes, LTL Freight Quotes, and ShipEngine Shipping Quotes.
+* **Customer Email Verification for WooCommerce**:
+   * **CVE-2024-13528**: Authentication bypass (7.5 HIGH). Authenticated attackers can generate verification links for unverified users and gain access to their accounts.
+
+# What Should You Do?
+
+1. **Check if you’re using any of the affected plugins.**
+2. **Update immediately** if a patch is available.
+3. If no patch is available, consider **disabling the plugin** and finding an alternative until the issue is resolved.
+4. **Monitor your systems** for any signs of exploitation.
+
+ If you’re managing WordPress sites for clients, make sure they’re aware of these risks.
+
+POST COMMENTS:
+====================================================================================================

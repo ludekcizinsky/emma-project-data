@@ -1,0 +1,18 @@
+POST ID: 1iqjkps / POST TITLE: iOS App- Full Privilege Escalation Chain?
+====================================================================================================
+Hi.
+
+This is my first security report. I discovered a passion for it while enduring an APT.
+
+This is my first time seeing what I THINK is a full exploit chain from an app.
+
+Can someone please look at this and weigh in?
+
+This log was thrown by a very popular iOS app-- these frameworks in conjunction are ALARMING.
+
+... what do I do next?
+
+https://imgur.com/a/SZe9jxh
+
+POST COMMENTS:
+====================================================================================================

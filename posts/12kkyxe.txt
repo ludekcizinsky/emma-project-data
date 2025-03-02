@@ -1,0 +1,21 @@
+POST ID: 12kkyxe / POST TITLE: learning windows
+====================================================================================================
+i have started with basic windows understanding but i am unable to find resources for that if any one can share some resources for windows understanding it would be very helpful
+
+POST COMMENTS:
+====================================================================================================
+ID: jg4zsv8 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s literally a resource guide that I put together at the top of this subreddit. It’s titled “Resources for Beginners”. You should start there.
+----------------------------------------------------------------------------------------------------
+ID: jg35q33 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you are brand new start on Tryhackme.com beginner paths. The beginner lessons are free.
+----------------------------------------------------------------------------------------------------
+ID: jg5mq5k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thats it, this is the last 'help me now' posts i'm out
+----------------------------------------------------------------------------------------------------
+ID: jg50faq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A very good guide at that. Thank you! I find myself browsing it all the time.
+----------------------------------------------------------------------------------------------------
+ID: jg5e2n9 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No problem! I’m glad people are actually using it. I need to update it here sometime because there’s a few good sources that should be on there. Just haven’t carved out the time yet.
+----------------------------------------------------------------------------------------------------

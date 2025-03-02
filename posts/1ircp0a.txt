@@ -1,0 +1,8 @@
+POST ID: 1ircp0a / POST TITLE: Funniest phishing domain I've ever seen
+====================================================================================================
+I was playing around with phishing domain generators on common sites and exploring the registered ones just for shits and giggles. When I got to reddit.com I burst out laughing.... Someone ACTUALLY registered redclit.com.
+
+And no, its not a fetish porn site, mx records are setup but no A records etc., so I guess y'all can consider this a threat actor alert lmao
+
+POST COMMENTS:
+====================================================================================================

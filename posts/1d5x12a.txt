@@ -1,0 +1,12 @@
+POST ID: 1d5x12a / POST TITLE: Which Sub Section would be better?
+====================================================================================================
+So I have been doing HTB academy, and THM(not that much as most of the paths cost money after some module).Also I am CS student so I have an understanding of fundamentals, programming, network.
+
+Now after choosing to pursue ethical hacking I have been continuously been distracted between sub section of hacking like network(wifi,cellular),web pentest, crypto(not that much but I find it interesting by all the techniques), an actual machine exploit, OSINT/social engineering on people etc. I am just jumping here and there cause they are interesting the way each protocol works. I became confused.
+
+Therefore, if it would be possible I would like to know your opinions stating which section seems important at start. And also why are the certifications so costly?  
+Thank you
+
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,284 @@
+POST ID: 1its8ut / POST TITLE: What is ROI for you in cybersecurity? What are some of the key things that you look for before you invest in cybersecurity?
+====================================================================================================
+What are the primary aspects that determine ROI for cybersecurity? Also, how do you measure it?
+
+It is one of the primary boardroom topics discussed between CISOs and C-suite.  
+
+Some of the aspects that can be considered include:
+
+* Costs saved
+* Hours of operational time saved
+* Regulatory standards adhered to
+* Number of threats/risks evaded
+
+POST COMMENTS:
+====================================================================================================
+ID: mdrich6 # OF UPVOTES: 41.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The first step of security is to Identify the assets you want to protect. That’s your starting value. “We have $X in assets we can’t lose or are responsible for keeping secure.”  Could be customer data, intellectual property, business plans, whatever. 
+
+Second step is to identify the risks to those assets and give each risk a weigh. The formula is Likelihood x Impact. 
+
+Third, what is your company’s risk tolerance?  How much are you okay with losing?  Which compliance are you willing to put at risk?  What MUST you do to remain a viable company?  A financial services company that can’t pass an independent audit of NIST capabilities isn’t going to be allowed to continue operation, but maybe you’re a candy company without such considerations. 
+
+You end up with the loss risk potential of the assets you don’t want to lose modified by your risk tolerance. That’s the offset cost of your cybersecurity department.
+----------------------------------------------------------------------------------------------------
+ID: mdrjp4w # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi [Typical\_Dinner1357](https://www.reddit.com/user/Typical_Dinner1357/),
+
+I believe ROI in cybersecurity is fundamentally risk-based; it’s not just about savings in costs but also about reducing exposure to threats that could severely disturb operations. Many CISOs and boards still see cybersecurity as an expense rather than a risk mitigation investment. Still, when explained correctly, the ROI becomes visible, consisting of your points. You can include the following:
+
+* Avoiding compliance penalties.
+* Lowering cybersecurity insurance premium fees.
+* Security Awareness Impact, how many users successfully detected phishing.
+
+Security is not a cost center but a risk management measure. Waiting until something goes wrong is always more expensive.
+
+Kind regards,
+
+\_\_bdude
+----------------------------------------------------------------------------------------------------
+ID: mdrhwyg # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There are various ways how to measure ROI based on impact * probability, this will get you a value of breach of potential breach/incident, this number times the number of same/similar incidents will give you year to year number of what resources are in danger. ROI = price of product/service - (our previous number).
+
+It's very theoretical, that is why C-suite either will accept it (they are dumb) or won't as the calculations are fairly theoretical and trying to use these to predict budget or evolved attacks is non existent.
+
+The real ROI the c-suite accepts is the one where they spend a lot of money and do not get any information about any breach, unfortunately.
+----------------------------------------------------------------------------------------------------
+ID: mds6yl6 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ROI in cybersecurity is tricky. My team tracks "cost of incidents prevented" rather than direct returns. 
+
+We had a ransomware attempt last year that our EDR caught early - saved us roughly $300k in potential damage. That alone justified our security budget.
+
+Key metrics we use:
+
+\- Mean time to detect/respond
+
+\- Number of automated blocks vs manual intervention
+
+\- Resource hours saved through automation
+
+\- Audit findings reduced year-over-year
+
+Quantifying prevention is hard, but showing trends in risk reduction speaks volumes to leadership.
+----------------------------------------------------------------------------------------------------
+ID: mdridqd # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Short answer: what’s the ROI on insurance?
+
+Long answer: Security is a cost center.
+The ROI comes from protecting the brand and keeping the projected revenue the business has already unlocked. 
+
+The decision of what to spend on security and your targets should be driven by a risk management program that ideally has an actuarial element to put loss projections to your impact statements.
+
+Almost no one does that well though, so a fraction of revenue is often used to drive these budgets.
+
+The kind of metrics you’re talking to in your post aren’t useful for a variety of reasons.
+----------------------------------------------------------------------------------------------------
+ID: mdrnasp # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would recommend looking into ROSI, Return on Security Invest.. which is more accurate than ROI
+----------------------------------------------------------------------------------------------------
+ID: mds1o3o # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: IMO, asset-based approach is a mistake, a dead end for a risk program. Yeah, it looks nice with ALE and EV in mock formulas in manuals, I have never ever seen anyone able to calculate asset cost of a database, for instance. 
+
+Besides, if you try gathering asset inventory, you quickly face the problem of defining asset granularity in a way which doesn't see you drowning in low-level technical stuff on the way. Don't even start me on something as nebulous as "brand reputation" as an asset, I've seen articles considering it as such.
+
+Moreover, in most of the businesses assets aren't worth shit by themselves. We're not the government, it's not like we need to track the taxpayer dollars through the life cycle of the stuff. 
+
+
+Business cares about money. Assets don't generate money directly, they just support processes that do. Start with Business Impact Analysis and critical process inventory. Determine and decompose risk appetites - aka "how much loss you can take before the board hits reset button" into "how much time can prod be down to inflict such a loss" into "what processes can bring down your environment" and then and only then you may start caring about assets. 
+
+Use open source threat intel to give you inherent risk probabilities, use your gut feeling to estimate residual. Always estimate in percents, never shy from your estimations being imprecise. If they want precise - define what degree of confidence about the specific risk category the business wants to pay for (as in "sponsoring the research project"). Most of the time they'll shrug and okay the napkin math.
+
+Calculate the impact through the profitability of the process getting down and your estimated RTO. Boom, you have a cyber exposure in cold, hard cash that Business can understand. 
+
+P. S. Unless explicitly asked - never ever care about reputational and legal side of things (beyond your personal accountability, of course, CYA at all times). Not because they are hard to quantify (and, generally, overblown), but simply because it's the job of brand management and legal team to care about those - unless you want them to estimate security side of risks, you are under no obligation to do their part of the job.
+----------------------------------------------------------------------------------------------------
+ID: mdrkorc # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'd view ROI for a security lens as a how much risk (risk calculation is its own whole thing that would be a massive post in of itself) can I reduce for the resources I have to use, with the resources being:
+
+\- How many hours does this take to implement/maintain?
+
+\- How much of the budget do I have to allocate to this?
+
+\- How much 'political capital/goodwill' do I have to use to get this backed? (This one I weight heavier than some would expect).
+
+The less resources I have to use the better! Anything which significantly reduces risk and requires minimal resource becomes a high priority, and then we delve into the stuff that significantly reduces risk but takes considerable resource and the stuff that doesn't reduce significant risk but requires minimal resource.
+----------------------------------------------------------------------------------------------------
+ID: mdrmhc4 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not to put to fine a point on this topic...a company wouldn't make the amount of money they do currently if they got rid of all of their information systems. I guess you can say IT helps enable the entire value chain and cybersecurity "tries" to protect that value.
+----------------------------------------------------------------------------------------------------
+ID: mdrp9pf # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nobody ever thinks about the output of your employees.  Can you do more with the same number of staff.
+----------------------------------------------------------------------------------------------------
+ID: mds3mfl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Costs saved, integrations with other tools, tools rationalized and overall capability are some of the things I look for.
+----------------------------------------------------------------------------------------------------
+ID: mdsgnnk # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We built a model in the early 00’s that swapped ROI for “cost of consequence.”  We found that it better represented the risk calculus because, unless you’re selling security products or services, you’ll show very little positive return (in terms of actual cash flow or revenue).  Cost of consequence is pretty easy to figure out if you’ve got a consistent methodology and crowdsource the estimations in order to avoid personal biases.  Execs seemed to understand it better, too.
+----------------------------------------------------------------------------------------------------
+ID: mdsvvpa # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As a technical person that demonstrates risk for a living, let me be honest by saying there is no tangible return, and I think justifying spending using this model results in a top-down approach to a bottom-up problem. The cost of not spending enough on security is literally everything your technical infrastructure, reputation, and IP is worth. At the same time, one could sink all of their money into technical security and get absolutely nothing out of it. One could take a balanced approach, thinking they will stop 95% of threats by allocating 17% of IT spend on security, and get absolutely wrecked for years because they structured this like some stupid game, where you could manage your way out of  complicated, systemic technical issues.
+
+In reality, the only way to ensure your money is being spent well is to understand the technical details of the problems you need to solve and to hire competent and skilled people, not products and services. These competent and skilled people will tell you what tools you need. The number one set of problems I see in my customers is that they don't hire enough technical people and rely on external people/products/services (like me); when they have technical people, they don't give these technical people enough autonomy and trust to demonstrate and remediate risk; when these people do find and try to remediate risk, they are held back by their own management, the board of directors, and external teams when trying to drive change, because actual change is hard. Take a bottom-up approach, side by side with technical people that can identify the things you need to track, manage vulnerabilities, and demonstrate risk to drive change; the type of people that are hungry for the intellectual challenge and hunt - that's where your money should go, and there's no way a price or percentage can be put on that. If there's ever extra money, ask them where it goes, and "invest" in your people without the expectation of a return, you greedy slobs.
+----------------------------------------------------------------------------------------------------
+ID: mdse9z3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Risk Reduced per Unit Cost
+----------------------------------------------------------------------------------------------------
+ID: mdsqrom # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There's a lot of good info from others on cyber security program structure, but the only way to know if your program is worth the spend is to test it. 
+
+Independent 3rd party pen tests are one way to tell if your program is achieving it's goals and find your blind spots.
+----------------------------------------------------------------------------------------------------
+ID: mdtkq9g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Typically, cybersecurity doesn’t exist to make money but to minimize loss. However, it can still be presented as a competitive edge to enable your business to make more money.
+----------------------------------------------------------------------------------------------------
+ID: mdxgbzp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Value created. Many ways to measure this.
+----------------------------------------------------------------------------------------------------
+ID: mdrjw7v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thats a great question and some great advice. I really needed to know this
+----------------------------------------------------------------------------------------------------
+ID: mdrlhux # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wouldn't that be Sarbanes Oxley (SOX) for financial companies?
+----------------------------------------------------------------------------------------------------
+ID: mds5tf5 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, this. You don't want to put a million dollar fence around a five dollar goat. If you want a quick and dirty use the ALE = ARO x SLE formula.
+----------------------------------------------------------------------------------------------------
+ID: mdrv32r # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Makes sense, but i'd add reputation damage to that calculation. a data breach these days isn't just about direct losses. it can absolutely tank your brand value overnight. look at what happened with major company breaches. even small companies can lose years of customer trust in a single incident. kind of wild how that doesn't show up clearly in traditional ROI formulas.
+----------------------------------------------------------------------------------------------------
+ID: mdrt011 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nice structured risk based approach to determining the ROI. What would be your expectations from security stack based on this approach?
+----------------------------------------------------------------------------------------------------
+ID: mds8amd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doing some fancy risk management is waste of time if company does not have basics like not giving admin rights to everyone, not sharing accounts and not sharing passwords, using password manager. List goes on for those basic things of course.  
+
+Reviewing basics and making sure they are followed and not only on paper is best use of time ROI.
+----------------------------------------------------------------------------------------------------
+ID: mdru4vg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Couldn't agree more. Convincing C-suite or demonstrating ROI from cybersecurity is one of the main challenges to cybersecurity today.
+----------------------------------------------------------------------------------------------------
+ID: mdrinp2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdrsrtm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Insightful. 
+
+What ROI would you expect from security stack in place?
+----------------------------------------------------------------------------------------------------
+ID: mdruksm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: what metrics could be useful?
+----------------------------------------------------------------------------------------------------
+ID: mdrtkyl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: interesting, will check that out!
+----------------------------------------------------------------------------------------------------
+ID: mdsoq7s # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I completely disagree. All security, physical or cyber must be based on the value of the assets being protected. That value can be monetary, sentiment, productivity-based or any combination. 
+
+As @revandir says in another comment on this thread, the cost of the fence cannot exceed the cost of the goat that fence protects.
+----------------------------------------------------------------------------------------------------
+ID: mdrucmj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: yes, more like what brakes are to a car
+----------------------------------------------------------------------------------------------------
+ID: mdrtnnl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are there parameters or benchmarks to measure that?
+----------------------------------------------------------------------------------------------------
+ID: mds6spy # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: SOX controls are to provide reasonable assurance your financial statements are free from material misstatement. They are not about risk tolerance for loss.
+----------------------------------------------------------------------------------------------------
+ID: mdsmqfg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not for my specific example, but non-compliance with SOX is another risk tolerance be considered.
+----------------------------------------------------------------------------------------------------
+ID: mdsndcx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Perfect example.
+----------------------------------------------------------------------------------------------------
+ID: mds57ol # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Point. Can you quantify that though?
+----------------------------------------------------------------------------------------------------
+ID: mdt4ait # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Expectations of the security stack is represented as GRC:  Governance, Risk, and Compliance
+
+Governance: Assures leadership of reliable value delivery from oversight.
+
+Risk:  Assures leadership that uncertainty is being actively addressed.
+
+Compliance:  Assures leadership that work meets integrity expectations, both external laws and regulations as well as internal policies and standards.
+----------------------------------------------------------------------------------------------------
+ID: mdsnvoc # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You haven’t done any risk management at this point. The question was how to measure the value proposition of your cyber spend. This is a critical issue because cybersecurity is preventative. You’ll never know if a lock has paid for itself if you try to quantify the number of burglars it kept out.
+----------------------------------------------------------------------------------------------------
+ID: mdrj0tw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Oh yeah, fixed. Thanks for letting me know.
+----------------------------------------------------------------------------------------------------
+ID: mdrz1nf # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The answer is: Adequate enough to cover most critical risks at least. In other posts in this thread you can read that there is a necessity to base this on a functional Information Security Risk mode, aka, you need to know what are you protecting and how these information provide value to the business.   
+What could happen if certain information got into the wrong hands that are business critical, or these information critical for business would negatively affect the company. Than tailor your budget towards the most critical information (systems), you can't cover all the risks as that is exceptionally expensive, so take care of the critical ones and if there is a will and resources to cover more than you should.
+
+I would suggest downloading and reading NIST 800-53 release 5. It is a fairly long and complex document that references other huge and complex documents but if you can lock in and try to understand it, it will help you as it did help me.
+----------------------------------------------------------------------------------------------------
+ID: mdrv0pb # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Business impact, if system down for 1 hr, how much it will cost for the company ? For some insurance company it can be millions per hourly downtime on critical claims system.
+----------------------------------------------------------------------------------------------------
+ID: mdsqrl5 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The cost of a fence can, should and, (by my quick look at the state of the current pricing) *does* exceed the cost of a goat. Because it's never about protecting the goat.
+
+You are protecting the objectives, operations and interests of the business that might or might not need that goat OR that fence. If they want to branch into rhino herding next year, you build a comically big fence. If they want to branch into fence-building, you're gonna build a marketing-designed fence. If they want to be government contractors, you're building a very compliant, bloated and overpriced fence. 
+
+If they don't care about goats to push any fence budgeting, you ain't gonna be building any fence, even if those goats are made of pure gold and shit diamonds. 
+
+Controls are a function of risks to business objectives, not of the asset value.
+----------------------------------------------------------------------------------------------------
+ID: mdsn6qw # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No, but you can make a reasonable estimate based on basic assumptions. There are enough case studies of the reputational impact of data breaches that you could base that reasonable estimate on.
+----------------------------------------------------------------------------------------------------
+ID: mdt3phh # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >What are some of the key things that you look for before you invest in cybersecurity?
+
+I focused on that part of question because IMHO there is no point of "investing" in cybersecurity if basics are not covered.
+
+There are things you should do "just because you have company" and "just because you have computers". Just like washing hands, you don't quantify number of times you did not get sick in case you did not wash hands because then you could save pennies on soap and then lose week of work because of diarrhea.  
+
+Moving forward with analogy, if you don't have basics covered then hiring pentesters you will waste money. Buying that SIEM or contracting SOC total waste of money if 50 of your employees use one account and other 50 use other account.
+----------------------------------------------------------------------------------------------------
+ID: mdsrsdp # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We’re not disagreeing:  The asset value is its capability to meet business objectives.  If that goat keeps the grass around HQ short, that’s low value. If that goat produces the enzyme your company has patented, that’s a much higher value. If that goat is your company mascot and, should it be taken by a competitor, you would lose millions in reputational damage from public ridicule, that’s yet a different value. 
+
+You cannot assess anything about the hypothetical fence if you do not know the goat’s value.
+----------------------------------------------------------------------------------------------------
+ID: mdtjnmj # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, this. You can estimate and depending on your specific industry and the specific kind of impact, your estimate can be very realistic.
+----------------------------------------------------------------------------------------------------
+ID: mdtbt3b # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cybersecurity, like any cost center, is directed by the corporate goals and the corporate culture.  
+  
+What MUST you do?  What are the laws and regulations that apply to your company?  SOX?  GDPR?  - who audits your company and has the authority to derail you from your goals?  If XYZ can shut you down, what do you need to do to comply with XYZ?  This is where you'll find clear obligations to have basic security controls (not having 50 employees using one account, at least without audit and control capabilities).
+
+HOW do you operate?  The companies policies and standards are the obligations a company places on itself.  Beyond what a company MUST do, a company's culture dictates other obligations.  If your company slogan is "We Care About Our Customers!", your policies should dictate that you're protecting customer data even more than you are required to.
+
+You can use a "Why Chain": 
+
+1. Why do we need this control?  To prevent unauthorized access to X.   
+2. Why are we preventing unauthorized access to X?  Because otherwise data could be accessed by users who should not see it.  
+3. Why do we care if unauthorized users see X?  Because X includes personally identifiable information that we are required to protect.  
+4. Why are we required to protect that PPI?  HIPAA regulations require it.  
+5. Why do we care about HIPAA regulations?  Non-compliance can lead to us not being permitted to operate in the U.S.
+
+We would like to continue operating in the U.S., so, yeah, we should have that control in place.
+----------------------------------------------------------------------------------------------------
+ID: mdst9mb # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You don't need to know the capability of the goat to meet business objectives aka "asset value". You just need to know how dangerous it might be to them aka "risk to business objectives". Those aren't equal or even directly proportional.
+
+Besides, goat analogy isn't exactly working out specifically since the goat is a static object. Static objects usually don't generate money.
+----------------------------------------------------------------------------------------------------
+ID: mdt30at # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: "Static objects usually don't generate money"?  
+A cyber attack shuts down your production line.  
+The recipe for your soda product is stolen by your competitor.  
+Your user payment database is hacked and all your customers' data is now published on the dark web.
+
+We'll have to agree to disagree, and I'll just have to hope you're not a Security Manager at any company I do business with.
+----------------------------------------------------------------------------------------------------
+ID: mdtac1s # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The production line is a part of production process, it's not static. As such, the proper goal is to secure production process. If it's done via securing the production line - good, if employees are contractually obligated to work overtimes to do stuff manually and it's cheaper... it's even better.
+
+Customer data on the dark web is not important. Business capability to avoid (or withstand) contract breach and regulator punishment is. Both of those are usually met with having a strong security baseline and religiously following SLAs on incident notifications.
+----------------------------------------------------------------------------------------------------

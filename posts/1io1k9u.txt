@@ -1,0 +1,20 @@
+POST ID: 1io1k9u / POST TITLE: Artificial Intelligence and the corporate network
+====================================================================================================
+Hi all,
+
+I'm looking to hear about how other people deal with users accessing online Artificial Intelligence (AI) resources from their corporate networks
+
+Our organisation has an "Acceptable Use of Internet Resources" policy in place that makes no mention of AI. I have read lots of articles on the pros & cons of allowing users on corporate networks access to online AI resources and, similar to anytime I do research online, find myself none the wiser. Sometimes, it's yeah, sometimes, it's nay and most times, it's.......meh!
+
+Ultimately, the decision to allow (or block) access to online AI resources lies above my paygrade. I do know, however, when someone in senior management eventually gets around to considering it, I will be asked to provide input and implement rule changes on our firewalls.
+
+So I'm looking for some insights/opinions on how others have dealt with this issue. Do you allow, do you block or is it a little from Column A and a little from Column B?
+
+Any advice would be much appreciated.
+
+Best regards,
+
+JP
+
+POST COMMENTS:
+====================================================================================================

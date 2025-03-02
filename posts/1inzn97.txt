@@ -1,0 +1,111 @@
+POST ID: 1inzn97 / POST TITLE: SOC2 - Have you ever had yours not accepted?
+====================================================================================================
+Hello,
+
+This comes as some information was provided to me, and wanting to understand more.
+
+It was mentioned, depending on how deep the requester of your SOC2 wishes to go, due to some wording from the "AICPA Code of Professional Conduct" depending on the vendor/platform you went with, it could go against their code, mainly that the platform provides and Audit provider should not be the same company/entity due to potential conflict of interest to get your SOC2 done and approved.
+
+Also, in the case of lesser known SOC2 platforms, just out right not being accepted due to not being as well known in the industry? (This one I could understand)
+
+The specific section:  
+[https://pub.aicpa.org/codeofconduct/ethicsresources/et-cod.pdf](https://pub.aicpa.org/codeofconduct/ethicsresources/et-cod.pdf)  
+Section 1.295.150  
+Paragraphs .06a /.06c / .06d
+
+>**.06** Threats to compliance with the “Independence Rule” \[1.200.001\] would not be at an
+
+>acceptable level and could not be reduced to an acceptable level by the application of
+
+>safeguards, and independence would be impaired, if, for example, in addition to those
+
+>activities listed in the “Management Responsibilities” interpretation \[1.295.030\] of the
+
+>“Independence Rule,” a member
+
+>*a. performs ongoing evaluations (see paragraph .10 that follows) or control activities*
+
+>*(for example, reviewing loan originations as part of the attest client’s approval*
+
+>*process or reviewing customer credit information as part of the customer’s sales*
+
+>*authorization process) that affect the execution of transactions or ensure that*
+
+>*transactions are properly executed or accounted for, or both, and performs routine*
+
+>*activities in connection with the attest client’s operating or production processes that*
+
+>*are equivalent to those of an ongoing compliance or quality control function.*
+
+>
+
+**b.** performs separate evaluations on the effectiveness of a significant control such that
+
+>the member is, in effect, performing routine operations that are built into the attest
+
+>client’s business process.
+
+>***c. has attest client management rely on the member’s work as the primary basis for the***
+
+>***attest client’s assertions on the design or operating effectiveness of internal controls.***
+
+>***d. determines which, if any, recommendations for improving the internal control system***
+
+>***should be implemented.***
+
+>e. reports to the board of directors or audit committee on behalf of management or the
+
+>individual responsible for the internal audit function.
+
+>f. approves or is responsible for the overall internal audit work plan, including the
+
+>determination of the internal audit risk and scope, project priorities, and frequency of
+
+>performance of audit procedures.
+
+>g. is connected with the attest client as an employee or in any capacity equivalent to
+
+>a member of management (for example, being listed as an employee in the attest
+
+>client’s directories or other attest client publications, permitting himself or herself
+
+>to be referred to by title or description as supervising or being in charge of the
+
+>attest client’s internal audit function, or using the attest client’s letterhead or internal
+
+>correspondence forms in communications).
+
+>
+
+This ties into Troy's LI post around the topic:
+
+[https://www.linkedin.com/posts/troyjfine\_soc2-activity-6886744564133044224-VTFu/?utm\_medium](https://www.linkedin.com/posts/troyjfine_soc2-activity-6886744564133044224-VTFu/?utm_medium)
+
+>Can a #SOC2 automation platform be directly affiliated (i.e., shared name, shared website, shared ownership, shared financial interest, etc.) with a CPA firm that performs a SOC2 audit for the SOC2 automation's platform customers 🤔?
+
+>Let's look at the AICPA's Code of Ethics 🤓 (just something I like to do in my spare time). Keep in mind that the term "member" is equivalent to the CPA firm performing the attestation.
+
+>
+
+>👉🏼 Section 1.295.150 Internal Audit, Paragraphs .06a, .06c and .06d states:
+
+>"Threats to compliance with the “Independence Rule” \[1.200.001\] would not be at an acceptable level and could not be reduced to an acceptable level by the application of safeguards, and independence would be impaired, if, for example,.....a member
+
+>a. performs ongoing evaluations.....and performs routine activities in connection with the attest client’s operating or production processes that are equivalent to those of an ongoing compliance or quality control function.
+
+>c. has attest client management rely on the member’s work as the primary basis for the attest client’s assertions on the design or operating effectiveness of internal controls.
+
+>d. determines which, if any, recommendations for improving the internal control system should be implemented.
+
+>
+
+>SOC2 automation platforms are continuously monitoring their customers' control environments and informing them of control failures....the controls being monitored are the same controls that are then audited as part of the SOC2 audit. Many times, customers will ask the platform if a control is required for the audit or the best way to implement a control (happens on a daily basis to us).
+
+>👉🏼 A CPA firm must be independent in fact and appearance. Based on the above sections from the AICPA's Code of Ethics, in my opinion, the CPA firms directly affiliated with SOC2 automation platforms don't appear to be independent, since their affiliated platforms are performing "internal audit activities" and letting them know what is required and not required.
+
+>I am curious if my thinking is way off base or if I am missing something.
+
+>\*\*\*\*To be clear, I have my opinion, but most of my opinion is based on my interpretation of the Code. I am more interested in knowing what the official answer is. If the official answer is that this type of set up does not impair independence, then the market will act accordingly, and I will change my opinion. However, in the absence of an official answer, the market will also act accordingly, which I believe will result in the same market response as if it were allowed.
+
+POST COMMENTS:
+====================================================================================================

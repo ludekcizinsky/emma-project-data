@@ -1,0 +1,16 @@
+POST ID: 1g3vop8 / POST TITLE: SQL injection help? 'String' confusion. 
+====================================================================================================
+I'm learning SQL injection presently, however I am slightly lost. I'm on Hackthebox and using this mock website to try to get into the database. I understand what I am doing, until I don't..... I understand what SQL is but I am confused by one thing. When I am trying to exploit SQL, do I need to actually change this? (photo below) [https://ibb.co/4sNCPw1](https://ibb.co/4sNCPw1) and if so where is this SQL code located. I have managed to get into some database files by guessing the "/images" and "/home" type of thing but I am still lost when the writeup starts talking about SELECT, FROM, WHERE, etc. Because....where are those things physically located?
+
+POST COMMENTS:
+====================================================================================================
+ID: lrz84kx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I really don't understand your question...
+The code to call the database is the code that website uses mostly php.
+You can just take a look on the inspect elements tab to see what's going on in the background.
+The data is saved on the database itself.
+If the code used to call the database is vulnerable the database is compromised.
+You guessed /images and /home ? That are just urls noting to do with the database.
+What are you using to perform a database attack?
+From that image if that codes works.... we'll done 1 is always equals 1.
+----------------------------------------------------------------------------------------------------

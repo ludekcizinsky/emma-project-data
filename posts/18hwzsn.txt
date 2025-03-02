@@ -1,0 +1,17 @@
+POST ID: 18hwzsn / POST TITLE: How to land a job in ethical hacking? What certification do I need, if any?
+====================================================================================================
+As title says. I've been doing games programming for 4 years after university, but I'm completely done with it. I've been interesting in ethical hacking since childhood, never had the courage to pursue that career though, due to how difficult it is. It's different now. I have a good theoretical understanding of the subject matter and some practical knowledge. I've already been reading a stack of books and got myself ParrotOS, learnign how to use all the tools.
+
+However this post is not  a "how to start/learn ethical hacking" it's rather: How do I land a job? I'm an adult and I need to earn money, obviously. So, how do I move from the limbo of games programming into ethical hacking? I believe I can learn everything on my own. My degree is in game design, it's a non-technical one, and I did just fine learning how to program and use game engines. But that first job? How do I get a foot in the door?
+
+POST COMMENTS:
+====================================================================================================
+ID: kd9j42m # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My suggestion is to do bug bounty and to find vulnerabilities that can net you an CVE to your name.
+----------------------------------------------------------------------------------------------------
+ID: kdmpuds # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sounds right up my alley. What is a CVE though? I've been considering Sec+ certificate.
+----------------------------------------------------------------------------------------------------
+ID: kdw0g5y # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: "Common Vulnerabilities & Exposures". If you don't know people it can be difficult to land a job without any certs or experience. TCM security has really good videos. Plus they give you machines to practice on. So it's hands on as well.
+----------------------------------------------------------------------------------------------------

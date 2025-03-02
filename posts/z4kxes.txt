@@ -1,0 +1,24 @@
+POST ID: z4kxes / POST TITLE: Wanting to take a udemy course on ethical hacking, which one of these would yall recommend?
+====================================================================================================
+I'm in school, about to graduate, as a web dev. I do have some experience with systems stuff from my A+ classes and just general interest in the topic as well as being decent in python. I'm interested in taking one of these courses for fun and because, well, I like it. Has anyone taken one of them/ which one is better?
+
+POST COMMENTS:
+====================================================================================================
+ID: ixrha12 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have this course. I think it is a good starting point and I recommend it. I also have Modern Ethical Hacking by Vonnie Hudson but doesn't cover the basics like the ZSecurity one.
+----------------------------------------------------------------------------------------------------
+ID: ixt2f2q # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does it have to be Udemy? I highly recommend TCM Practical Ethical hacking class.
+----------------------------------------------------------------------------------------------------
+ID: ixsadvk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I suggest you look into the ZTM Ethical Hacking course as well. It'll teach you some scripting as well if you're new to that. But be sure to pick the ethical hacking course, not the cybersecurity course. The latter is more basic in my opinion
+----------------------------------------------------------------------------------------------------
+ID: ixtmuv6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Follow hackersploit youtube channel bro he will give good vedios
+----------------------------------------------------------------------------------------------------
+ID: ixu4kcb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am currently doing ZTM  cource on ethical hacking on udemy  they cover almost every basic and little advance things
+----------------------------------------------------------------------------------------------------
+ID: ixtiq94 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: +1, instead of these courses, i would go with the cyber mentor stuff. His practical ethical hacking course is great for beginners. He has a 10 hour beginners course on youtube also.
+----------------------------------------------------------------------------------------------------

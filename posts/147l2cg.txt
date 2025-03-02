@@ -1,0 +1,95 @@
+POST ID: 147l2cg / POST TITLE: Putting together my own C|EH pentesting environment
+====================================================================================================
+Hi people.
+
+&#x200B;
+
+So i am taking the Ethical Hacking Certificate at CE Council, and apparently you only get lab access for the first 6 months of the full year i have course access.
+
+&#x200B;
+
+The video instructor just casually mentioned that he would suggest taking the lab first, but i wanted to go through the videos first and write a bit about it before diving into the labs.
+
+&#x200B;
+
+So now i have been informed that i will need to pay $200 dollars more if i want to access the labs that was included in the course, since i have exceeded the 6 months access. 
+
+&#x200B;
+
+I have been trying to contact them about it for a few weeks now, but just get repeated calls from their offshore "support"  call centre, informing me i need to pay to get the lab access.
+
+&#x200B;
+
+So i have now given up on the idea of using their labs and are instead aiming for a simplified version i need to set up myself, to gain some more experience, before taking the certificate exam in about 3 months.
+
+&#x200B;
+
+I have been an avid Linux user for +10 years now, and have been programming and setting up servers and databases for many years, i would however still like to gain some experience with the tools and techniques before trying to take the exam, so i wanted to ask people here for some input and feedback on how to get started on setting up these labs. 
+
+&#x200B;
+
+The main areas of focus is: 
+
+&#x200B;
+
+\* Footprinting & Reconnaissance 
+
+\* Scanning Networks
+
+\* Enumeration
+
+\* Vulnerability Analysis
+
+\* System Hacking
+
+\* Malware Threats
+
+\* Sniffing
+
+\* Social Engineering
+
+\* Denial-of-service
+
+\* Session Hijacking
+
+\* Evading IDS (intrusion detection systems) firewalls and honeypots
+
+\* Hacking Web Servers
+
+\* Hacking Web Applications
+
+\* SQL injections
+
+\* Hacking Wireless Networks
+
+\* Hacking Mobile Platforms
+
+\* IoT and OT hacking
+
+&#x200B;
+
+&#x200B;
+
+I am looking for any suggestions of VM images and the likes, to test out tools and techniques on, to make sure that i can expand on what i have been able to gather myself.
+
+POST COMMENTS:
+====================================================================================================
+ID: jnw6fs1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I recommend Tryhackme, its a fantastic resource you can find most of these lessons for free and membership to advanced lessons is only $10 a month. Less if you are a student. Vulnhub is also a great free resource with tons of VM’s you can download and work through. Hackthebox academy and hackthebox are also good resources but Tryhackme is cheaper and simpler.
+----------------------------------------------------------------------------------------------------
+ID: jo1rsgu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Set up an AWS account which will come with a 12 month free tier. Go to 7 Minute Security YouTube and look with videos dealing with pen testing. They usually will have links to VMs that you can download and install. Have fun!
+
+https://youtube.com/@7MinuteSecurity
+
+Most stuff you do will be done under the free tier, and if not will only cost a few bucks at most.
+----------------------------------------------------------------------------------------------------
+ID: jnw6if9 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Forgot to add for a lot of the webapp stuff look at OWASP juice shop and portswigger academy. Both free
+----------------------------------------------------------------------------------------------------
+ID: jo076h5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: are they really that good? i see them everywhere
+----------------------------------------------------------------------------------------------------
+ID: jod9yha # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is the most beginner friendly way to learn that I’ve seen so far and I’ve been in this career 5 years
+----------------------------------------------------------------------------------------------------

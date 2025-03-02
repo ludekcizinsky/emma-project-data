@@ -1,0 +1,681 @@
+POST ID: 1iu4w4i / POST TITLE: Complete Guide to VPN's - Why You Might Need One in 2025
+====================================================================================================
+I’ve been resistant to VPNs for many years—mainly because of their heavy promotion through affiliate programs and influencers, which made me question their trustworthiness and benefits. 
+
+I decided to do a deep dive to better understand how VPNs work, which helped clear up some misconceptions I had.
+
+If you’re curious about VPNs, their pros and cons, and whether you actually need one in 2025, I wrote a [detailed guide on the topic](https://darkmarc.substack.com/p/why-ive-avoided-vpns-for-yearsand).
+
+I also developed a fully original step-by-step chart showing how VPNs work. I put a lot of work into this one over the weekend last week, so I hope it's okay to share here.
+
+Enjoy, and please let me know if you have any questions or insights to share!
+
+*Note: If you’re on Substack, I’d love to connect there as well. I post new guides and breakdowns weekly on a variety of cybersecurity topics—every Thursday—and I enjoy reading the work of others as well.*
+
+POST COMMENTS:
+====================================================================================================
+ID: mduk2cm # OF UPVOTES: 157.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Even if you use websites anonymously or create different accounts for VPN use, many analytics script can still identify you pretty accurately. Browser fingerprinting is an interesting (and invasive) technique where they can use many different data points (including size of your screen/window) to create and track unique fingerprints. VPNs do nothing to protect against that. 
+
+I agree it’s better to use a reputed VPN than not, especially if you’re out and about. Just know that you’re not as hidden as you think you are. Do not use VPNs with the intent of doing something malicious. You can still be caught. 
+----------------------------------------------------------------------------------------------------
+ID: mduk6dx # OF UPVOTES: 27.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There is a side of this that is not discussed often and it is: the target site / service might actually block you if you use VPN. Seeing that VPNs can be used for both good and bad reasons (and threat actors use them for bad reasons) - the issue with VPNs being blocked due to having "bad reputation" out there is something that is really problematic.
+
+I'd have no problems trusting a VPN provider of my choice. The issue is that even if I do so, I might still get blocked by variety of places (like for example, Reddit would block me when using Mullvad, various MSFT services like OneDrive would break in interesting ways because MSFT would suddenly start blocking some of their IP addresses etc.)
+----------------------------------------------------------------------------------------------------
+ID: mdxprdo # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you're primarily interested in masking your IP and are willing to pay a little, you could self host your own VPN server, though you lose anonymization perks of being one of many users.
+
+You could get a cloud instance (AWS ec2, digital ocean droplet, etc) and self host with something like [algo vpn](https://github.com/trailofbits/algo) or use tailscale and set it as an exit node.
+
+Then have it rotate external IPs on a set frequency, perhaps every night at 4am.
+----------------------------------------------------------------------------------------------------
+ID: mdyvxzf # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Worked in one VPN way back.
+We were heavily audited, and had no logs policy 15 years ago already.
+
+1. Yes they know what websites ppl are visiting, but you can't identify which user, from which IP, which device and etc.
+2. How long you visiting website - there's no info for that. How long you've been connected to VPN yes, for marketing purposes.
+3. VPNs can't see device, ip, or etc, they are not tracking it.
+4. Goverment can go fuck themselves, there's no rpocess to do that, and if there was.. as we know developers it would take few years to build that (lol).
+
+
+And I still have colleagues from like 5-10 years ago, it's the same.
+----------------------------------------------------------------------------------------------------
+ID: mdv7slu # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdzdhzp # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: VPNs are all about threat model. 
+
+If you trust your ISP and device maker (which is important because most people cant control their root certs) they are unnecessary because most of the Internet is already TLS.
+
+If you don't, or can't because of either something you're doing or where you are, then get a VPN from a reputable provider, with the understanding you're now TRUSTING THEM WITH ALL YOUR DATA instead of the ISP, so you need to be very cognizant of that.
+
+It's really that simple. Crusades for or against VPNs are entirely misplaced because IT DEPENDS ON THREAT MODEL. This is also ignoring the fact that 80% of people buy VPNs to region shift and don't care about any of this stuff.
+----------------------------------------------------------------------------------------------------
+ID: mdwquup # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm astonished at the comments trying to pass off VPN's as snake-oil.
+
+Free VPN's? Yeah these suck.
+
+Private subscription based VPN's? Only if they have a no-log policy that was audited independently.
+
+The argument HTTPS/TLS is good enough is stupid as shit. Defense-in-depth is a thing, you're still thwarting MIM (your ISP for starters) threats on a greater severity. A VPN doesn't guarantee 100% online anonymity as advertised as others have pointed out (analytics, browser fingerprinting), but there are many ways to mitigate those.
+----------------------------------------------------------------------------------------------------
+ID: mdxt9fi # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Appreciate the thorough write up! Learnt something new today. Have a great weekend mate (:
+----------------------------------------------------------------------------------------------------
+ID: me1wtje # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fine work OP, thanks for all the work you’ve put into your posts. While VPNs may keep your ISP & a few others from knowing your full & colorful browsing habits, unless it combats, mitigates or eliminates the threats of triangulation, trilateration & IMSI catchers, we’re still talking little leagues.
+----------------------------------------------------------------------------------------------------
+ID: mdunbzd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Public VPNs are a cyber security nightmare. 
+
+1. When pipping your traffic to a third party provider, they can break TLS and see what's on the wire. When installing the client all you need is to plant a cert in the OS store, and some programs maintain their own cert store for that purpose. 
+
+2. Those public VPNs are using some public open source tech, like everyone else but they are not liable to disclose any vulnerabilities. 
+
+3. Commercial grade VPN vendors are nitrous for high severity CVEs. 
+
+4. Nothing is for free, data in, money out.
+----------------------------------------------------------------------------------------------------
+ID: mdvsldq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Recommend having the same check list for all recommended VPNs.  Selectively leaving stuff off implies they don't have that item.  Example: ProtonVPN - Opensource, has free and paid versions, uses Wireguard and has indepepent audits - that is all missing.
+
+PureVPN is no longer Hong Kong based, it was started by Pakistani techs not Chinese.
+
+I wouldn't trust anything owned by KAPE.  Some recommended reading -  
+
+[Who owns your VPN? 105 VPNs run by just 24 companies](https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/)
+----------------------------------------------------------------------------------------------------
+ID: mdvzo07 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So what is the bottom line? What do you suggest?
+----------------------------------------------------------------------------------------------------
+ID: mdw4htj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would it be possible to create an open source tor-vpn combo for max security where we don't have to worry about the feds spying and requesting data?
+----------------------------------------------------------------------------------------------------
+ID: mdwxdyw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I live in a red state, porn is pretty much only accessible via VPN.
+----------------------------------------------------------------------------------------------------
+ID: mdxuke2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you want true anonymous, disable cookie, JavaScript and use Tor
+----------------------------------------------------------------------------------------------------
+ID: mdz4s7n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Use Mullvad
+----------------------------------------------------------------------------------------------------
+ID: me225yz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So please tell me how would one stay completely anonymous? VPN + virtual box + tor 🤷‍♂️
+----------------------------------------------------------------------------------------------------
+ID: me77itd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I noticed that obscura vpn wasn't mentioned in your article
+
+their source code is on github, and they use wireguard in conjunction with mullvad exit servers
+
+[https://obscura.net/#how](https://obscura.net/#how)
+----------------------------------------------------------------------------------------------------
+ID: mdva0dm # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: VPNs are a scam outside of your workplace using them for its intended purpose.
+----------------------------------------------------------------------------------------------------
+ID: mduet89 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [View the chart here: How a VPN Secures Your Web Traffic](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4876064a-78c7-4930-bef9-260b9d9ad62d_800x1400.png)
+----------------------------------------------------------------------------------------------------
+ID: mduft0k # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: VPNs only protect you, if you control both ends of the tunnel, and even so it can be hacked.
+
+
+If you rely on 3rd party VPNs they can still see all your traffic, because you use their infrastructure.
+
+
+So I don't know what you think you will hide, but you need to study more.
+----------------------------------------------------------------------------------------------------
+ID: mdusuo2 # OF UPVOTES: 39.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That’s why I call it “digital snake oil” in the way that it is marketed. I have a friend who does front-end programming who thinks he is real slick using a VPN. He thinks no one can track him. 
+
+I had to burst his bubble, and told him a better way to obscure who he is online. It’s “too much work” so he is just sticking with the “but no one knows who I am” online bit because the VPN he pays for says so.
+----------------------------------------------------------------------------------------------------
+ID: mdvmzoc # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That's why you should use browsers in private/incognito mode with all the security features enabled.   If Firefox use containers to isolate your internet encounters.
+----------------------------------------------------------------------------------------------------
+ID: mdumzb5 # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: me0bwqo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, for that you should learn OpSec, not just some dumb scriptkiddie thing and think you are safe.
+----------------------------------------------------------------------------------------------------
+ID: mdze8fw # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Anyone buying a VPN already knows this.
+
+VPNs are sophisticated things because THEY BREAK EVERYTHING ALL THE TIME. Mom and pop don't buy them in the first place.
+----------------------------------------------------------------------------------------------------
+ID: mdvnmae # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You get blocked probably because the VPN recycles IP addresses.  A recycled IP address may have a bad reputation becuase of previous usage.
+----------------------------------------------------------------------------------------------------
+ID: mdvairh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can you elaborate on why you think VPNs aren't the security protocol they used to be? 
+
+SSL/TLS encryption happens on the website you're visiting, but a VPN adds an additional layer of encryption—typically AES-256 or ChaCha20—across your entire connection. 
+
+This can still help protect data from network-level threats and ISP tracking. Curious to hear your perspective—are you referring to specific attack vectors or changes in how networks are monitored?
+----------------------------------------------------------------------------------------------------
+ID: me0dy28 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agreed. Have seen some comments from people who say things like "VPNs are useless because the NSA can still track you". 
+
+Bob, you're a manager at an Olive Garden in Florida, I assure you the NSA does not give a fuck what you're doing 😂
+----------------------------------------------------------------------------------------------------
+ID: mdxvf92 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's good enough, *depending on your threat model*.  The reason a lot of us see them as snake-oil is because they are making claims absent of that context. They are providing a false sense of security/privacy for their customers that isn't warranted.
+
+Defense-in-depth is a thing, but the likelihood your HTTP traffic using TLS 1.3 is going to be intercepted **and** decrypted while using public Wi-Fi is so low, throwing a paid VPN into the mix does not provide any meaningful benefit here and now you're shifting your risk from the ISP watching you to the possibility the VPN provider you paid is watching you.
+
+Risk analysis has to play a part in all of this otherwise you're making judgements about other professionals' opinions while ignoring their weighing of the risk that technology may provide or reduce.
+----------------------------------------------------------------------------------------------------
+ID: mdwupzv # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Deleted your other comment, eh?
+
+Here's my reply anyways:
+
+>That's great—so we can agree that VPNs are useful and people should be using them.
+
+>Yes, VPNs obfuscate traffic—that's exactly the point. I didn’t recommend VPNs for anonymity; if you read the guide, you'd see I suggested Tor and other methods for that.
+
+>It might be “ancient advice” to you, but plenty of people, including those in cybersecurity, still aren’t using VPNs—or don’t understand why they should. The guide is meant to offer that perspective.
+
+>Impressive credentials, by the way. Feel free to share your LinkedIn to prove it—after all, anyone can say anything online. I’m an astronaut, award-winning mathematician, and world champion kickboxer with plenty of certs myself.
+----------------------------------------------------------------------------------------------------
+ID: mdwsqfm # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The negativity seems to fall into two camps:
+
+1. **Lacks basic security knowledge:** They don’t understand what HTTPS is and assume “VPNs are bad” because they read an article online about free VPNs selling your data.
+2. **Narrow cybersecurity experience:** They've worked in cybersecurity for years but not on a red team, so they have limited knowledge of hacking or penetration testing. Their only experience with VPNs is in corporate environments where root certificates are deployed on endpoints, allowing SSL/TLS inspection proxies to decrypt and inspect HTTPS traffic. Since this interception occurs at the endpoint before the VPN tunnel is established, they incorrectly assume VPNs are ineffective outside of corporate contexts.
+----------------------------------------------------------------------------------------------------
+ID: mdywdt5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please tell us how my ISP is going to MiTM https without installing a root certificate on my device.
+----------------------------------------------------------------------------------------------------
+ID: mdx3c0b # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can you explain how a VPN provider can “break TLS”? How would they a) convince a browser to use the wrong certificate used for negotiating end to end encryption or b) decrypt the traffic? This is literally the threat model TLS is designed to protect against.
+----------------------------------------------------------------------------------------------------
+ID: mduou66 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Free VPNs almost always sell customer data. 
+
+High-quality, publicly available VPNs, however, don’t store logs, operate in privacy-friendly countries, and undergo independent audits to verify compliance.
+
+While the highest level of privacy comes from using machines you control, most privacy-conscious people fall somewhere between raw dogging the internet and owning their own server room. For everyday use, reputable public VPNs provide enough privacy for most people.
+----------------------------------------------------------------------------------------------------
+ID: mdwoaj2 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bottom line: Get a VPN that is 1) in a privacy friendly country and 2) has independent audits to verify they are not logging or intercepting data.
+----------------------------------------------------------------------------------------------------
+ID: mdzqhh3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Someone has to be paying to keep the servers running. Either pay with dollars or your privacy.
+----------------------------------------------------------------------------------------------------
+ID: mdwn7xb # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you live in the USA, the feds can access your data at will. If not through your devices, then through the devices of others, IOT (cameras in public, etc). Your best bet is don't be on their bad side. But yes, for more security, you can use VPN with Tor - that is covered in some more depth in the guide.
+----------------------------------------------------------------------------------------------------
+ID: me2vp21 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Staying completely anonymous online is incredibly difficult, and ultimately, everything is breakable and hackable. There's no foolproof way to stay truly anonymous forever. At some point, you might slip up. It's crucial to define why you want to stay anonymous in the first place and what your privacy and security goals are. Consider your risks and threat model—what are the most likely threats to your identity, security, or finances?
+
+If, for example, you're concerned about identity theft or financial theft, those are manageable risks with proper safeguards, but if you're worried about a nation-state actor or government intervention, like the U.S. federal government, your chances of remaining anonymous are slimmer. They have the resources to track you down if they really want to.
+
+For staying "anonymous enough," using a VPN is a good start. If you're paying for the VPN with a privacy-friendly cryptocurrency like Monero, you add an extra layer of privacy. VPNs mask your IP address, but using Tor in conjunction with a VPN enhances your anonymity even more. The VPN hides your real IP from your ISP, while Tor routes your traffic through multiple layers of encryption, making it much harder to track where you're coming from or where you're going.
+
+As for VirtualBox, it would provide an additional layer of security by isolating your activities in a virtual machine. It can help protect you by reducing the risk of malware affecting your main operating system. However, while it adds some separation, it doesn't eliminate the risk of being traced—especially if the virtual machine is still tied to your real-world identity in some way (like through your payment method or a misstep in setup).
+
+Ultimately, it's a combination of layers, and every layer adds complexity and security—but no method is 100% guaranteed.
+----------------------------------------------------------------------------------------------------
+ID: mdvaty5 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How are VPNs a scam if they provide all the protections I outlined in the guide? You *did* read the guide before commenting, right? I mean, everyone on Reddit reads before commenting... right?! 😂
+----------------------------------------------------------------------------------------------------
+ID: mdvnz8y # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why do businesses, including those in cybersecurity use vpns?
+----------------------------------------------------------------------------------------------------
+ID: mdugta3 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You’re right that using a third-party VPN means trusting their infrastructure, but they still can’t break SSL/TLS encryption and view the contents of your traffic if the website uses HTTPS. 
+
+They can see the domain you're connecting to (like *reddit.com*), but not the specific pages or data.
+
+If you're extremely concerned about privacy, you can add additional layers of security:
+
+* **Public Key Encryption (PKE):** Encrypt sensitive messages using the recipient's public key, ensuring that only they can decrypt it with their private key. Even if the data is intercepted, it remains unreadable.
+* **Tor for Obfuscation:** Use Tor to route your traffic through multiple nodes, further obfuscating both your destination and origin. Combining Tor with a VPN hides your IP from the Tor entry node and prevents your ISP from seeing that you're using Tor.
+
+This combination of HTTPS, PKE, and Tor minimizes the risk of exposure, even if the VPN provider or other intermediaries are compromised.
+----------------------------------------------------------------------------------------------------
+ID: mdulwbw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: %100 !!! I am shocked to see this whole post. You are pipping all your traffic to an encryption device that CAN decrypt your data if they want. Nothing is for free.
+----------------------------------------------------------------------------------------------------
+ID: mdvszf8 # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: lol VPNs worth it just so your ISP can’t track every single website you go to.
+----------------------------------------------------------------------------------------------------
+ID: mdxuaiy # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would highly appreciate it if you could please share the better way to obscure who one is online, thanks in advance.
+----------------------------------------------------------------------------------------------------
+ID: me2u4b5 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: YOU MEAN MY INCOGNITO WINDOW ISNT ENOUGH?! Lol
+----------------------------------------------------------------------------------------------------
+ID: mdxb8xu # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That sounds more environmental than buying so many new monitors.
+----------------------------------------------------------------------------------------------------
+ID: mdv2qob # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Accurate browser fingerprinting is possible without JS, just using CSS.
+----------------------------------------------------------------------------------------------------
+ID: mdzfj0r # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Anyone buying a VPN already knows this
+
+Do they? There is a wide spectrum of tech awareness between grandparents and hackers. I’d imagine most people buying VPN know what VPN companies want them to know - which is hiding their online presence. What they don’t tell is the whole list of terms and conditions on when and which type of presence it’s good at hiding. 
+----------------------------------------------------------------------------------------------------
+ID: mdw70q1 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A lot of content providers block IP addresses that are known to be from VPNs. Either as a precaution or to enforce content licensing agreements
+----------------------------------------------------------------------------------------------------
+ID: mdweqc0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: me0nmoc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The NSA does mass surveillance, they care about what everybody is doing. That's the point.
+
+But still, no need to be paranoid, I just don't like the mindset that nobody should care about privacy because you assume government agencies only care about big bad guys. Their goal is to defend the interest of the people in power, it's in their purview to do everything to have the ability to track everyone as much as they can.
+----------------------------------------------------------------------------------------------------
+ID: mdzpr0b # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It helps for what they do. 
+
+I was shopping for something for my wife on my computer as surprise, and she started getting ads for it on her phone before I even finished the purchase.
+
+I use VPNs now for most of my browsing. It doesn't stop me from being "attacked" but it definitely helps with the thing I got it to help me with.
+----------------------------------------------------------------------------------------------------
+ID: mdwy9fa # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Uh, wrong reply but....this seems like you used ChatGPT or some sort of AI to respond back to them. Last paragraph gives it away.
+----------------------------------------------------------------------------------------------------
+ID: mdywhv0 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Or hear me out we have lots of cybersecurity experience and see VPNs as snake oil.
+----------------------------------------------------------------------------------------------------
+ID: me19p7f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you’re cool with them indexing every website you visit.
+----------------------------------------------------------------------------------------------------
+ID: mdzq98e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As they said, if they can plant a cert in your approved set, they can intercept all that traffic.
+
+If it's a browser extension it might have access to your requests before they leave your browser.
+
+I have my VPNs running in docker containers that things tunnel through so I know exactly what they can and cannot do.
+----------------------------------------------------------------------------------------------------
+ID: mdzqig9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Read this example on how TLS inspection works: [https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview](https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview)
+
+I work in the space for a different company. All you need is a client that can plant a certificate authority cert in the OS, which is easy if the client has admin privileges while installing. Keep in mind that some clients can use their own cert stores as well. 
+
+What my company does for the enterprise space is exactly that.
+----------------------------------------------------------------------------------------------------
+ID: me27jt6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you very much
+----------------------------------------------------------------------------------------------------
+ID: me02xoi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well so help me out here because I am by no means a security expert but which servers are you referring to?
+----------------------------------------------------------------------------------------------------
+ID: me2wtkp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wow thank you so much for a fantastic response! For me it’s just so I don’t get hacked or exposing my identity to potential hackers I want to be able to roam freely with the risk of clicking on anything malicious
+----------------------------------------------------------------------------------------------------
+ID: mdvjvlq # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I didn't need to read your advertisement "guide" to know how VPNs work. I commend you on writing a bunch of slop for the cash grab but in reality a VPN is useless for 99% of people. Particularly outside of the workplace. 
+
+Your entire argument for use case of VPN in 2025 is AI threats. Of which you gave no evidence for. I have bachelor information system and cyber security. As far as I am aware there is no ai threat like you described other than asking some semi jail broken AI to write you a script or phishing email. In which case it's still the same threats as before just looking better. Which a VPN does nothing about. 
+
+99% of people's internet traffic is already encrypted and their IP addresses rotated. 99% of people are NOT targeted by planned attacks. Random phishing and spray attacks are not going to be mitigated by a VPN. Any planned attack against a high value tsrget is always going to succeed. If they want whatever you have. They will get it. 
+
+99% of people can pirate and visit whatever website they want because ISP no longer give a shit about it because they aren't allowed to look at your data unless U do "serious" illegal activities. And pirating media doesn't count as serious in most countries. 
+
+Serious crimes is drug traffickers. Csem. Etc. in which case if your only defense was a VPN then U are fucked. 
+
+Illegal activities are pointless on VPN because most VPN providers would bend over backwards and suck the dick of the NSA the moment they asked for your data in relation to a serious crime. 
+
+Do you know what is the only actual use case for a VPN is? Do switch countries for Netflix. 
+
+That's why it's advertised that for most companies. 
+
+Because in reality. The VPN provides no real protection. Your ISP and the VPN providers will absolutely give all your information to anyone that asks if it's in relation to a serious crime. 
+
+Being anonymous requires significant extra steps more than just turning on a VPN. Like Mac address spoofing. Multiple Proxies. Not using your home fucking internet connection. Not using a device which you purchased using your bank account. And the list goes on. 
+
+As for this "hacker threat" . The VPN is going to provide no more protection to grandpa clicking on a phishing email. If grandpa has crypto coins. They will find a way to get it. Regardless of ur VPN. VPN doesn't magically hide your personal information like email or whatever else they scraped from the darkweb. 
+
+VPNs are a scam outside of workplaces. 99% of people will get by fine with no VPN. 99% of people are not targeted by hackers. 
+
+Like I said. 
+
+Good on your for taking the time to write out the VPN slop but the reality is VPN services are a scam 99% of the time.
+----------------------------------------------------------------------------------------------------
+ID: mdyxs71 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They use VPNs to get into their network they don’t use them to randomly browse the internet.
+----------------------------------------------------------------------------------------------------
+ID: mdvoswg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Because businesses are often targeted and the infrastructure for remote access . Most people are not remote accessing anything.
+----------------------------------------------------------------------------------------------------
+ID: mdui8mx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It is possible to bypass TLS, every company does it, so traffic can be inspected for inside and outside threats.
+
+
+There is also a problem with Tor, who controls the node can trace your path, and several security agencies control a lot of nodes. And if you dont know what you are doing, your device will 100% be hacked by someone just for fun.
+
+
+If you play with tor, use it on a PC that you don't use for anything else. And with no data.
+
+
+The point is there is no 100% privacy online, even if you use more advanced techniques.
+----------------------------------------------------------------------------------------------------
+ID: mdvr820 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your TLS secured tunnel ends at the 3rd parties' servers. The data is now in their control. If the client injected their SSL cert to encrypt your traffic, they can see everything in plaintext and resign it so you are none the wiser.
+----------------------------------------------------------------------------------------------------
+ID: mdum50d # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Who said you cannot break TLS? All that's needed is planting a  cert in the OS store ... if you're installing an agent, not hard to do. Even more, many programs have their own cert store! Absolutely not true.
+----------------------------------------------------------------------------------------------------
+ID: mdvw0jh # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Right, but other websites are able to know who you are and what you are doing based on browser fingerprinting and other techniques. If you want true anonymity from
+everyone online you need to get a VPN in a country that is not a member of the five, nine, or fourteen eyes pacts. Run a VM with Tails, deadman switch on the VPN you use, and run the VM at a lower resolution in window mode.
+----------------------------------------------------------------------------------------------------
+ID: me9taou # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A VPN is connected to someone's ISP, therefore making you trackable.
+----------------------------------------------------------------------------------------------------
+ID: mdxyjm8 # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sure thing.
+
+So there is a great Linux Distro called TAILS that is built completely for privacy. TAILS inherently routes all your internet traffic through the TOR network and automatically spoofs your MAC address. You can use a VPN that is NOT in a 5/9/14 eyes pact (Google it if you don’t know what this means. It’s important you understand what this is and why it can compromise your identity using a VPN). Try to find one in Switzerland. 
+
+Live boot TAILS from a DVD or USB drive that you are okay destroying once all is said and done. 
+
+Avoid using clear net connections (anything NOT tor). Never log into personal accounts. Email. Social media. Banking. Reddit. Nothing else. Make and use burner accounts within TAILS. 
+
+Preferably only use a hardwired connection. If your network keeps a record of connected devices, like Google WiFi routers, make sure you purge all records of this device from your internal network. 
+
+If you are moving files around, be careful of metadata. I’d just avoid uploading anything with EXIF data like unless you know how to clear it. 
+
+NEVER resize the TOR browser window. This can create a fingerprint that can be used to narrow down your identity based on monitor resolution. 
+
+Disable JavaScript if you can and don’t install browser plugins. 
+
+Also, TAILS is non-persistent. Every time you reboot it clears itself and wipes all data. 
+
+And lastly, your behavior while using TAILS matters the most. Your online behavior/patterns are what will allow a forensic investigator to find out who you are, regardless of what precautions you take. It’s like when they tell people in witness protection to not reach out to people from their past lives. 
+
+And disclaimer - DO NOT USE THIS INFORMATION FOR ILLEGAL OR UNETHICAL PRACTICES. This is just something that fascinates me from an op-sec perspective. It’s good to know the techniques your adversaries may be using.
+----------------------------------------------------------------------------------------------------
+ID: mdwxpvj # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CSS can't send data anywhere or do anything outside of your browser, can only act as a measurement of your screen.
+
+You'd need a script to measure and utilize the CSS data to do something with that information. Blocking scripts still solves that issue.
+----------------------------------------------------------------------------------------------------
+ID: mdzv7lw # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes.
+
+Do you SERIOUSLY think grandma is buying a VPN?
+
+Do you realize that running a VPN breaks random websites and apps constantly (because they block anonymization services)? Do you think grandma has the technical savvy to know why that happens and how to fix it?
+
+No, she doesnt which is why it is an advanced tool used by advanced users. Grandma is not buying a VPN - its total fiction. Show me any data that proves that whatsoever.
+----------------------------------------------------------------------------------------------------
+ID: mdwnwti # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Funny, I was thinking the same about you 😂 If you want to reply to my points instead of making personal attacks, I'm all ears. You still haven't explained your perspective.
+----------------------------------------------------------------------------------------------------
+ID: me0qgnm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's not that you shouldn't care about privacy, it's that there are certain things you can't control and whether you like it or not, in this day and age having privacy from the government is long gone.
+
+Yes, the government will support people in power ie the government. That's what they do. Don't threaten that and you won't become a target. If you become a target, there is nothing you can do to evade them if you live in the country they're governing.
+
+If you exist in modern society, you are being tracked and recorded at all times. That's why considering your threat model is so important. You may not be able to avoid government spies, but you're not a terrorist--and are of no concern to them--so it doesn't matter.
+
+Most people need privacy to protect themselves from hackers who want to steal their money. A VPN is one tool that will help with that.
+----------------------------------------------------------------------------------------------------
+ID: mdywl4i # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Most of their posts in here are written by an LLM.
+----------------------------------------------------------------------------------------------------
+ID: me17r83 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nah hear me out. If you have lots of cybersecurity experience, then you know personal VPN usage has a purposes and is far from being considered snake oil.
+
+How they’re advertised is snake oil, yeah.
+----------------------------------------------------------------------------------------------------
+ID: me03zn6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The ones your network traffic is going through.
+----------------------------------------------------------------------------------------------------
+ID: mdwlhbp # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: **Maybe try reading the article before criticizing.** It seems like you have a personal issue with VPNs. I never mentioned AI as a threat. The examples I gave were real-life attacks that I’ve seen happen:
+
+1. **Data theft over public Wi-Fi:** When using unsecured networks, it's easy for attackers to intercept your data.
+2. **IP address exposure after data leaks:** Once your personal information is leaked, your IP address can help attackers identify and target other accounts you own.
+
+A hacker could use your username to find breaches where your account was included, and if one of those breaches has your IP associated with it, they can search your IP to find ALL of the accounts you created through that IP.
+
+With the rate that companies are being breached nowadays, it would benefit everyone from taking on some more security measures -- a VPN is just one of many you can use.
+
+Also -- I specifically mentioned I do not recommend any specific VPN, so there's no advertisement here. No affiliate links or ads in the article. Again, if you would have read the actual article before reacting, you would know this 🙂
+----------------------------------------------------------------------------------------------------
+ID: mdvtc4u # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So they are not a scam?
+----------------------------------------------------------------------------------------------------
+ID: mdunh5u # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It is not possible to “bypass” TLS in this context. That only works at a company because they pre-install their MITM cert on the endpoint.
+----------------------------------------------------------------------------------------------------
+ID: mduykf0 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: TLS is broken by companies when they put a cert on your computer.  Breaking TLS is way harder to break then you make it out to be.
+----------------------------------------------------------------------------------------------------
+ID: mdulbun # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [TLS 1.3 is considered safe. (ZDNet)](https://www.zdnet.com/article/raccoon-attack-allows-hackers-to-break-tls-encryption-under-certain-conditions/)
+----------------------------------------------------------------------------------------------------
+ID: mdumvsw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I work in the space, breaking TLS is easy is you plant a client on the machine. All that's needed is a cert in the OS store or planted in the client.
+----------------------------------------------------------------------------------------------------
+ID: mdukua6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: TLS is secure enough for most people's needs. The resources required to break it are extremely high, making it unlikely that the average person would be targeted this way. If you're facing surveillance from a national spy agency, then stronger operational security is necessary, but this guide is focused on VPNs for everyday use.
+
+Tor also has vulnerabilities, but the expertise and resources needed to control enough nodes to capture both your entry and exit points are extremely rare. Hackers and government agencies worldwide rely on Tor successfully, so it's generally considered safe for privacy-focused browsing.
+
+As for the idea of Tor hackers reversing connections or breaking into devices “for fun,” I’d be interested in learning more if you have sources. Any electronic device can be hacked—there’s no such thing as perfect security. Even a device at the bottom of the ocean inside a volcano might not be safe if a determined scientist gets involved.
+
+Ultimately, everyone should assess their own risk level and choose tools accordingly. For most people, the biggest threats come from hackers trying to steal data, money, or personal information, not from state-level actors.
+----------------------------------------------------------------------------------------------------
+ID: mdunq6p # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If someone can install a root certificate on your device, they’ve already gained full control over your system—at that point, they could just keylog you or directly access your data. So the concern about breaking TLS becomes moot. 
+
+The key point is that attackers cannot intercept and decrypt your HTTPS traffic over the air without compromising your device first. If malware or unauthorized access is involved, that’s an entirely different issue beyond what a VPN or TLS is designed to prevent.
+----------------------------------------------------------------------------------------------------
+ID: mdxx8oc # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Who said you cannot break TLS? All that's needed is planting a  cert in the OS store ...
+
+That's not breaking, TLS. That still requires you to install the Certificate Authority certificate on the endpoint you want to strip TLS from.
+----------------------------------------------------------------------------------------------------
+ID: mdw7sxz # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I agree with what you're saying and understand. But you shouldn't let perfect be the enemy of good. For how easy VPNs are to have and run they are good, for at the very least preventing your local ISP from tracking everything you do. ISPs are basically a centralized source of every website you ever go to which is a pretty massive privacy breach. ISPs deserve no trust and definitely don't deserve to be given access to your ENTIRE internet history. Now you shift that trust to a VPN provider since they can now track every IP you access but I think it makes sense to trust them if not slightly more than an ISP. Not preventing websites from tracking you is fine if you understand that the VPN is mitigating one MAJOR instance of centralized tracking and privacy leakage, even if it's not preventing other more "lesser" breaches. I say lesser because each webpage or service can really only track what you do on their own service, and to compile that data with other services at the very least takes a lot of coordination and work for them to do it, whereas for an ISP to track everything you do without a VPN is absolutely trivial.
+
+Anyway TLDR: VPN good because fuck ISPs.
+----------------------------------------------------------------------------------------------------
+ID: mdvzupx # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would you recommend Proton (Switzerland) over Mullvad (Sweden)?
+----------------------------------------------------------------------------------------------------
+ID: mdxzpu1 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That’s intense, one needs to adjust the browsing mindset to consider all this at once.. thanks, and noted.
+----------------------------------------------------------------------------------------------------
+ID: me61uz9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wow. It is interesting- so you’d have to toss a usb drive each time if you’re trying to be thorough
+----------------------------------------------------------------------------------------------------
+ID: mdx2fzi # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I could be wrong but CSS can be used to send data by selectively loading assets like images. Pretty for a browser to defeat though, always request all assets mentioned in the CSS, but that’ll have some impact on performance.
+----------------------------------------------------------------------------------------------------
+ID: mdxt7xt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting
+----------------------------------------------------------------------------------------------------
+ID: me9a7lk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Grumpy.
+----------------------------------------------------------------------------------------------------
+ID: mdwsm76 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: me04axd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I mean isn't the point of Tor/VPN to make it harder to know who is actually accessing those servers?
+
+Or do you mean ISPs?
+----------------------------------------------------------------------------------------------------
+ID: mdwted1 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Huh? Your entire threat analysis section was about AI. 
+
+Finding ip addresses? ISP rotate IP addresses regularly (dynamic IP) and the likely hood any person has the same IP address from a previous data leak is basically zero. Any person that has a static IP address would have received several warnings about the risks when they asked their ISP for the static Ip address. These people are the ones who are using VPNs. Static IP are used for businesses or other purposes. The average person does not have a static IP. 
+
+So I will say again. The average person does not a VPN unless they wanna watch Netflix from another country. Any other reason. Like a business. Is logical. The business needs it for security. The average person who is not selling drugs online has no use for a VPN. They are a scam designed to target ignorant and vulnerable people so the VPN company can make extra money outside of its legitimate purpose which is for protecting businesses who actually need encryption and static IP address for there private networks and remote connections. 
+
+That is why they have subscription payments and use buzzwords like you fell for. Again. 99% of people have no uses for a VPN.
+----------------------------------------------------------------------------------------------------
+ID: mdxrrm8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >**Data theft over public Wi-Fi:** When using unsecured networks, it's easy for attackers to intercept your data.
+
+I mean... the average end user must ensure that they're using TLS protected pages anyways if they're inputing sensitive data wether they're on a public wifi or not.
+----------------------------------------------------------------------------------------------------
+ID: mdyoffs # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Data theft over public Wi-Fi: When using unsecured networks, it's easy for attackers to intercept your data.
+
+Care to elaborate? Are they breaking HTTPS "easily"?
+----------------------------------------------------------------------------------------------------
+ID: mdyxoxk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Data theft over public WiFi when 95% of traffic in chrome last year was https. Please explain to us how using public  WiFi is going to lead to people losing their data. Well unless they use a website using http and ignore the warning by chrome that it’s insecure and press continue.
+
+Then I would ask exactly what websites that the average user will be using will result in personal data being transferred in plain text http.
+
+https://transparencyreport.google.com/https/overview?hl=en
+----------------------------------------------------------------------------------------------------
+ID: mdvty6s # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Maybe reread the first comment.
+----------------------------------------------------------------------------------------------------
+ID: mdva65p # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This needs more upvotes. You can tell if your company is breaking SSL by looking at the cert your apps are leveraging for web apps. It should be signed by a third party certificate provider and not your company.
+----------------------------------------------------------------------------------------------------
+ID: mdvrzc9 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Exactly, it is very hard to strip the TLS layer, on a useful time frame.
+
+
+But the man-in-the-middle still works today.
+----------------------------------------------------------------------------------------------------
+ID: mdvsna5 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It is hard to break, specially with the new algorithms of eliptic curve cryptography.
+
+
+But if I manage to impresonate the site you want to see, send you my fake certificate and recieve yours, I can inspect the traffic and still send your traffic to the original server and send you the replies.
+
+
+This is what is done in companies, they just put the fireall cert on the clients so you dont have to accept it, or get browser errors.
+----------------------------------------------------------------------------------------------------
+ID: mdx61rm # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My understanding was this is about personal devices, most people aren’t installing third party TLS certificates on their own devices. Businesses have somewhat justifiable reasons for doing that to corporate devices. IIRC Facebook had some kind of “VPN” app that did exactly that though, and could spy on basically all traffic.
+----------------------------------------------------------------------------------------------------
+ID: mdvr8pe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Or a man-in-the-middle, used for SSL Inspection.
+
+
+There was a tool from marlinspike that managed to strip the ssl layer, was awesome while the vulnerability was not patched.
+----------------------------------------------------------------------------------------------------
+ID: mdvqnca # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Perfect security is a computer disconnected from the internet encased in concrete, but that is of no use for anyone.
+
+
+You did a good research work, I really enjoyed.
+
+
+
+If you like the topic, check the Man-in-the-middle attack, also man-in-the-browser.
+
+
+The main issue with tor is if you need to be careful with the scripts that run in the browser, and the nodes you use, it is safe to use but you need to know what you are doing, and resarch a bit before you use it.
+----------------------------------------------------------------------------------------------------
+ID: mduq215 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I work in the space, do TLS inspection for a living all day.
+
+You are choosing to install the client. The client with admin creds CAN install a cert in the OS store, and can use its own store if it chooses.
+----------------------------------------------------------------------------------------------------
+ID: mdzqolh # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Read this example on how TLS inspection works: [https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview](https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview)
+
+I work in the space for a different company. All you need is a client that can plant a certificate authority cert in the OS, which is easy if the client has admin privileges while installing. Keep in mind that some clients can use their own cert stores as well.
+
+What my company does for the enterprise space is exactly that.
+----------------------------------------------------------------------------------------------------
+ID: me6lry7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: To be fair, I don't know that ISPs want to expose their customers, they're just forced to in the courts. 
+
+https://arstechnica.com/tech-policy/2025/02/isp-sued-by-record-labels-agrees-to-identify-100-users-accused-of-piracy/
+----------------------------------------------------------------------------------------------------
+ID: mdw1g1d # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proton. As their VPN service is based in Switzerland, they are not part of any information sharing convents. 
+
+Any VPNs in Sweden would be part of 14 eyes, so I would discourage the use if you potentially do not want you data capable of being subpoenaed.
+----------------------------------------------------------------------------------------------------
+ID: me0ooi3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No. Find hosting in countries like Iceland and host WireGuard.
+----------------------------------------------------------------------------------------------------
+ID: me7byg8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You don’t have to. The OS is non-persistent so rebooting wiped it to a clean slate. I just mean, if you want true anonymity/deniability - destroying the physical media when done will make sure no one knows that you even have TAILS.
+----------------------------------------------------------------------------------------------------
+ID: mdx35zu # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That actually makes sense. You can't defeat all methods of fingerprinting, but the amount of info an attacker can glean from that type of fingerprinting is limited. JS is a much bigger risk. You make a good point though.
+----------------------------------------------------------------------------------------------------
+ID: mdxtldw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Awesome! Thanks for sharing this.
+----------------------------------------------------------------------------------------------------
+ID: mdwu0g3 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Is this an AI bs profile or something? You still haven’t said anything actually backing up the claim and this reads completely like someone asked chat gpt to write a smarmy troll post
+----------------------------------------------------------------------------------------------------
+ID: me0ctz3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: With a VPN, your traffic is routed to another server that serves as the exit point on the network. The VPN service runs that server and has to pay for it.
+----------------------------------------------------------------------------------------------------
+ID: mdx10xc # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: "Send you my fake cert" okay so you have no idea how certs work.  To "impersonate" a site and send a "fake cert" that has the same domain name you are going to have to get a cert that is signed by a trusted CA.  Guess what they make you verify that you own the domain.  It is an important part of being a trusted CA.  You equating the ability to send a fake cert to a cert being applied by group policy is comparing apples to moons.
+----------------------------------------------------------------------------------------------------
+ID: mdzqmdy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Read this example on how TLS inspection works: [https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview](https://cloud.google.com/secure-web-proxy/docs/tls-inspection-overview)
+
+I work in the space for a different company. All you need is a client that can plant a certificate authority cert in the OS, which is easy if the client has admin privileges while installing. Keep in mind that some clients can use their own cert stores as well.
+
+What my company does for the enterprise space is exactly that.
+----------------------------------------------------------------------------------------------------
+ID: mdvcnsq # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No one is saying you are wrong but we are talking about something completely different. In your example you didn’t break TLS, you comprised a host and made it sign apps with your cert which the machine was told to trust.
+
+TLS with proper encryption level and cipher suites is not easy to break. Unless you are walking around with the most advanced quantum computer on the planet, it’s not breakable.
+----------------------------------------------------------------------------------------------------
+ID: mdzroba # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My man, read what I said. I know how they work.
+
+That's still not breaking TLS.
+----------------------------------------------------------------------------------------------------
+ID: mdyft6g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They were part of Tesonet... (NordVPN)
+----------------------------------------------------------------------------------------------------
+ID: me0g5ko # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So what if all the computers running this hypothetical software were also possible servers to exit from? I would assume the traffic of 2-3 people wouldn't overwhelm a computer?
+----------------------------------------------------------------------------------------------------
+ID: mdzcd5t # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Did not mention GPO's, if you trust the CA it will not give you a cert error if all is done right, otherwise it would not work.
+
+
+So how do you think a phishing attack works ?
+
+
+If I need your bank credentials, if you get a cert error the attack would not work or even be a concern.
+----------------------------------------------------------------------------------------------------
+ID: mdvoxu5 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You don't have to decrypt tls ("break" is not a very precise word), it's enough to terminate it and fake the server cert (not a problem if you have your agent add your CA to trusted on victims device). Cipher suites have zero relevance here. So technically it's much easier for a "VPN provider" to spy on a user than for the internet provider. And as hiding traffic from ISP is the main purpose of such VPNs (and watching UK shows when you're in Italy, but that's not a security feature) they don't make much sense imho.
+----------------------------------------------------------------------------------------------------
+ID: mdzt10i # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A phishing attack either sends you to a fake page at a bad address, which means certs don't matter or it leverages some other means.  It does not MiTM.  This is a totally different thing from what we are talking about.  Instead of arguing when it is pointed out you are wrong, you should educate yourself.  This is not a philosophical different, you just don't know how things work.
+----------------------------------------------------------------------------------------------------
+ID: mdx7wp1 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is about individuals, not enterprise machines, we all know enterprise agents can intercept traffic by modifying the certificate store, but why would someone be installing that on a personal machine. 
+
+This whole thread is so frustrating, with people bringing their knowledge about corporate IT and trying to apply it to the very different use case of personal devices where the threat model is quite different. A VPN allows you to prevent your ISP from inspecting your traffic, even if it is encrypted traffic. It also somewhat hides your location from websites etc by making your public IP appear to be somewhere else. It does not offer absolute anonymity or protection but it does improve things. That seems to be exactly what the post says, and yet people are making all sorts of “but what about”s that aren’t actually relevant, just to show off that they work in corporate IT somewhere.
+----------------------------------------------------------------------------------------------------
+ID: me0n6sr # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You are missing the point, the cert must be trusted by the host, in both cases, otherwise it would not work.
+
+Of course the certs matter, were is where you are bending the argument to invalidate my point.
+
+I'm not mixing things up to prove my point, honestly I have nothing to prove to you.
+----------------------------------------------------------------------------------------------------
+ID: me0xy09 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your point is invald because you think creating and using a "fake cert" is trivial.  I can explain it to you, but i cannot understand it for you.  
+
+
+Good day.
+----------------------------------------------------------------------------------------------------

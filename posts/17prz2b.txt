@@ -1,0 +1,32 @@
+POST ID: 17prz2b / POST TITLE: Where to start?
+====================================================================================================
+I want to become an ethical hacker. I am very much interested in programming and cyber security stuff. But my career as a Physicist is important to me, as a hobby or second career I want to be a hacker. I am thinking to put very little time available to me into this hobby. 
+
+Any suggestions where can I learn some basic stuff (not too basic, but if suggested I will take it).
+
+Thanks in advance.
+
+POST COMMENTS:
+====================================================================================================
+ID: k87lj61 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme.com is the best place to start and a lot of the beginner material is free.
+----------------------------------------------------------------------------------------------------
+ID: k87fpe9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There's such an abundance of available material and different ways to start the journey that it in itself can become a barrier.
+
+My suggestion, if you're serious about wanting to give it a go, and since you're already employed, is to join [HackTheBox](https://app.hackthebox.com/invite) and get a paid membership. 
+
+If you want to be efficient, go for the VIP membership so you can use the personal instance freely, not worry about the timer and not have to deal with VPN, local environments, etc. It is possible to strictly use a free membership, but since you point out that your time is limited I would rather pay the money and have a running start. (You can sign up with a free account, have a look around etc before committing money though.)
+
+Then start doing the Starting Point tracks, they are great beginner machines that all have tutorials/write-ups directly available on the site so even if you're clueless you can basically just follow along. 
+
+In my opinion that's one of the best ways to get hands-on and get a taste for it without getting stuck/becoming too overwhelmed. If money is a concern, or there are other constraints, I might suggest differently though.
+
+But it's a vast field, so it helps to start thinking about what kind of tasks/job more precisely that you're hoping for because there's everything from analyzing bugs and writing exploits for firmwares in embedded devices to creating and implementation organization wide policy documents. :)
+----------------------------------------------------------------------------------------------------
+ID: k87pl0c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: sign up for OSCP. If you like the challenge buy learn one for 1 year and make it your challenge to master in 1 year :)
+----------------------------------------------------------------------------------------------------
+ID: k8asiwl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m not sure where it went but I used to have a pinned post on this subreddit with a big list of resources for beginners. May have to post it again.
+----------------------------------------------------------------------------------------------------

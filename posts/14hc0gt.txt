@@ -1,0 +1,21 @@
+POST ID: 14hc0gt / POST TITLE: Career advice
+====================================================================================================
+Hey guys I am fairly new to the cybersecurity realm and am interested in taking a course offered by a vocational school. The military is going to cover the costs and I was wondering if my options would look good for employment after this school (given the hypothetical scenario that I learn what I am supposed to and earn the certificates that I should be able to pass after). The course has it so by the end I should be able to obtain the following: CompTIA Server+, CompTIA Linux+, CompTIA Cloud+, CompTIA Network+, CompTIA Security+, CompTIA Pentest+. The class is in penetration testing. As for my background I work in non-cyber counterintelligence, I have 2 associates (intelligence studies and something to do with leadership and management), and I have a ts/sci clearance. Even though I am new in the cyber field would this play out well or would it be a waste of time. I keep hearing back and forth answers and now I am looking to the reddit professionals. Any help is appreciated! I think the cyber security thread was more appropriate but every time I tried to post there it crashed.
+
+POST COMMENTS:
+====================================================================================================
+ID: jpaaq6e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >I have a ts/sci clearance
+
+This right here is your bread and butter (in my opinion).  Couple your clearance with some GIAC certs, and you're gonna find yourself looking at some pretty nice infosec jobs if you've got the aptitude\* for it ('it' being cybersecurity).  
+
+&#x200B;
+
+\* I say this because knowledge doesn't always equal capability.  I've known many folks over the years who have all the certs, but you ask them to do something hands on, and they fall apart.  I say go for it, and while in school build yourself a home lab or check out HackTheBox or TryHackMe so you can start *doing* what you're learning.
+----------------------------------------------------------------------------------------------------
+ID: jpafcqq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate it! Many people are telling me the clearance is great in getting employed, but I've also heard a few people saying the same. Do you think it would make more sense to do the pen testing or the cloud engineering route?
+----------------------------------------------------------------------------------------------------
+ID: jpb7p5l # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Personally, I'd go cloud engineering, but only because I feel like when I was job hunting, I'd see that more than pentesting gigs.  Ultimately though, dig into both and go for whichever one you could see yourself dealing with on a daily basis and being made to *continually learn* and *re-certify* for for ever and ever and ever.
+----------------------------------------------------------------------------------------------------

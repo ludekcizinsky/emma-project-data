@@ -1,0 +1,10 @@
+POST ID: 1iqm0bx / POST TITLE: FastCMS Template Menu menu Cross Site Scripting- CVE-2025-1332
+====================================================================================================
+A vulnerability was found in **FastCMS up to 0.1.5** and classified as **problematic**. The manipulation leads to cross site scripting. The identification of this vulnerability is **CVE-2025-1332**. The attack may be initiated remotely. Furthermore, there is an exploit available. This product does not use versioning.  
+  
+Learn More : [https://prashantdangi.github.io/cve/xss/fastcms-xss/](https://prashantdangi.github.io/cve/xss/fastcms-xss/)  
+  
+For AI Automation, Cybersecurity and Tech Updates join this free telegram group: [https://t.me/prashantdangiblogs](https://t.me/prashantdangiblogs)
+
+POST COMMENTS:
+====================================================================================================

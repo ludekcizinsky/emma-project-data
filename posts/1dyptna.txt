@@ -1,0 +1,59 @@
+POST ID: 1dyptna / POST TITLE: Some newbie question.
+====================================================================================================
+Hi, I am new to the cybersecurity domain and just started. Everyone I ask keeps telling me to learn networking and Linux first as they are good foundational skills. However, I am unsure how much networking knowledge is necessary. Networking is a vast domain with areas like computer networking, general networking, and network administration. How much networking do I need to know to advance to the next level in cybersecurity? If possible, can you tell me the specific networking topics that are necessary for the cybersecurity domain?
+
+POST COMMENTS:
+====================================================================================================
+ID: lcbunbr # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: every single thing you know comes out handy. basically, the more you learn, the better. there is no such thing as “necessary” skills. learn whatever you can learn. i recommend TryHackMe as it is beginner friendly and it has courses on networking, pentesting, linux and even tools
+----------------------------------------------------------------------------------------------------
+ID: lccaboj # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cybersecurity is a vast domain. 
+It depends on what you want to do and what interests you.
+
+But networking and linux will come into play in most areas of cybersecurity. 
+So jeah, those are foundational skills that will come in handy almost everywhere. All of them. The more you know, the better.
+
+What next level do you mean?
+----------------------------------------------------------------------------------------------------
+ID: lcbisb3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can start with the Google Cybersecurity Specialization to build a strong foundation. For further assistance, feel free to DM me.
+----------------------------------------------------------------------------------------------------
+ID: lcc3yss # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check my post out. I recommend anyone new to follow my steps https://www.reddit.com/r/ethicalhacking/s/MMAkJBNhUl
+----------------------------------------------------------------------------------------------------
+ID: lcdetge # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Curiosity is the battle in the field. I work as a network administrator focusing in cybersecurity. I’ve learned how to move laterally across the entire network through understanding different tools, configurations, and permissions. You should never say “how much do I need to know” and just start learning. Because no matter how much you learn. In cybersecurity you’ll need to learn even more to succeed. Including things that nobody else may announce to you. If you are wanting a finite amount to learn as the basics, read the following and feel free to skip what you choose, but bear in mind that if you do skip something, you could break laws, not see easy vulnerabilities, or something else. Start with the basics and learn ip address schemas, foundational concepts, then start with user account and permissions. Then group policy and configurations, next you’ll need to learn laws regarding the nitty gritty of what you can and can’t do in what environment. Then there’s data disclosure laws and policies, then what you can and can’t touch in most any circumstance (looking at HIPAA, COPA, and PCI as well as Europes policies) responsible disclosure acts, company guidelines in any scope. The laws alone will take a LOT of learning. And after all this you’ll have a decent understanding of the basics in Ethical Hacking and pen testing. Then you’ll start with a platform like Kali or another pentest system. Learn nmap, wire shark, the insecurity of telnet and what mitm is, sql injection, buffer overflow, persistence, evasive techniques, etc. then you learn customized tool utilization, creating your own packages and deploying your software.
+----------------------------------------------------------------------------------------------------
+ID: le9pyji # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Guys can someone read this and tell me if he can help me https://www.reddit.com/r/ReverseEngineering/s/YeZ55si7yD
+----------------------------------------------------------------------------------------------------
+ID: lcv1mxc # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are the learning paths on TryHackMe not free? I started with the "Introduction to Cybersecurity" course, but now they are asking me to subscribe. Is there a way to use TryHackMe for free?
+----------------------------------------------------------------------------------------------------
+ID: lccarnz # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have learned the basics of networking and Linux. What should I do now? Should I start practicing skills like pentesting and using Wireshark, or should I focus more on networking and Linux?
+----------------------------------------------------------------------------------------------------
+ID: ldwhlk4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lf3umxv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This
+----------------------------------------------------------------------------------------------------
+ID: lcv3333 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: the start of most(or all, i don’t remember) courses is free, but then the continuation is premium. unless you get a subscription you can’t keep going with it sadly
+----------------------------------------------------------------------------------------------------
+ID: lo0unxi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, it’s frustrating, but you can check out free resources like Cisco.
+----------------------------------------------------------------------------------------------------
+ID: lccjban # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can learn a lot about networks when you learn wireshark, so yes absolutely. 
+Learn as you go. Learn as much as possible. Linux can go extremely deep, same as networking. These two skills will always come in handy. 
+
+So practice and learn both. You also learn a lot about it by practicing actual pentesting anyways.
+----------------------------------------------------------------------------------------------------
+ID: ldwhlm3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

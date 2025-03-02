@@ -1,0 +1,31 @@
+POST ID: 1aq28mg / POST TITLE: In modern pentesting, what is considered a stealthy nmap scan?
+====================================================================================================
+Before I elaborate on the question, yes I'm pretty much a total noob to this stuff, but I'm learning as part of my future career. The reason I ask this question is that if you were hired to pentest systems, if you kept getting detected at such an early stage of scanning the target network, you wouldn't be able to do the rest of your job. Then, the company might mistakenly conclude that their systems are secure, and nothing else might be done to secure them, defeating the whole purpose of the pentest.
+
+I know many years ago a SYN scan was considered stealthy due to it not fully connecting, but I would think a decent IDS has no problem detecting this now. On that note, I would think that regardless of the scan type, an IDS would always ring alarm bells after seeing one source knocking on hundreds of ports on the network. It's possible to use multiple simultaneous scans from spoofed ip addresses to cloak the real scan, but wouldn't all that network traffic make it blatantly obvious that there is an attack in progress, and warrant further investigation?
+
+I have heard about IDLE/Zombie scans, but honestly I don't know much about that or if it's even a valid option. There's also the option to fragment packets, but does that even still evade detection in the modern world? The only other method I can think of would be to literally scan only 1-2 ports a day at random times. While that shouldn't generate enough traffic to be noticed, I also realize that it's unrealistic in the real world, because on a real pentest you likely don't have enough time in the contract to do that when scanning targets. 
+
+I guess I should rephrase my question a bit after describing that:
+
+In a real pentest that you are hired to do, what are the most realistic, modern methods of scanning targets on a network that have the lowest chances of being detected by something like an IDS?
+
+POST COMMENTS:
+====================================================================================================
+ID: kqa67v3 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Don’t worry about being detected yet. A pentest is very loud and will almost always be detected. Your goal on a pentest is to find as many vulnerabilities as fast as possible. Once you learn how all the tools work you can move into red teaming and learning how to use a C2. That’s where you start learning about opsec/detections and AV/EDR evasion techniques.
+----------------------------------------------------------------------------------------------------
+ID: kuxfvn9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can use packet fragmentation with nmap some IDS/EDR may not resemble packet size correctly missing the scanning attempt.
+
+Use the --mtu in nmap  to specify custom packet  sizes to break packet packet sizes down to a smaller amount.
+
+Use built in system tools like poweshell, bash,python and netcat to connect to ports,
+
+Use arp,netstat command to identify hosts and services running on the network.
+
+Write a script that uses sockets to connect to open ports and perform banners grabbing.
+----------------------------------------------------------------------------------------------------
+ID: kqa6lhw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To add to this a pentest can only be a few days long. On the kickoff call discuss your host should be whitelisted if it’s blocked. A red team takes much longer and can last months to provide time for OSINT, payload development, standing up C2 infrastructure, etc.
+----------------------------------------------------------------------------------------------------

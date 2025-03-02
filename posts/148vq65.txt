@@ -1,0 +1,45 @@
+POST ID: 148vq65 / POST TITLE: Net.spoof on / connection lost
+====================================================================================================
+I'm trying to sniff windows 10 VM using bettercap. When i run Net.spoof on then net.sniff on , the victim loses internet connection (the wifi sign exist but no internet).4 days searching and trying but no solution.any holy help cuz I'm really 😢.i also ran forward ip command.
+
+POST COMMENTS:
+====================================================================================================
+ID: jo24n4e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What os are you using bettercap with?
+----------------------------------------------------------------------------------------------------
+ID: jpoj3eh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you guys find a way to solve it? Im facing the same problem right now
+----------------------------------------------------------------------------------------------------
+ID: jo24oxj # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bettercap
+----------------------------------------------------------------------------------------------------
+ID: jo24qzq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is the host OS
+----------------------------------------------------------------------------------------------------
+ID: jo24wgm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My local machine is win11 ( using kali linux), the victim machine is win 10 on vmware.
+----------------------------------------------------------------------------------------------------
+ID: jo2579z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So you're using Kali Linux in WSL, try installing Kali Linux to a usb or onto the hard drive, that way it shouldn't have these problems.
+
+Also try net.ipv4.ip_forward to 1 in /etc/sysctl.conf and reload it using the command sysctl -p
+
+Either should work better and if the connection is HTTPS you'll need to install a certificate or downgrade the connection, real world scenario you'd have access to the victims machine and install your certificate that way they wouldn't see any errors.
+----------------------------------------------------------------------------------------------------
+ID: jo25wdi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Where should i write the forward command ? In the terminal or inside bettercap terminal? TBH the sniffing ran once good and  but never again ! I will try that hope it works .the websites i tried to test the victim machine on is a HTTP test websites
+----------------------------------------------------------------------------------------------------
+ID: jo2696e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In the terminal, if it ran once and it was fine then you may have changed something which broke it, have a look at previous commands or think back to things you've done in the past since it ran well.
+
+It shouldn't just stop working.
+----------------------------------------------------------------------------------------------------
+ID: jo271dh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you . I've done nothing wrong but i feel like the linux or bettercap is not stable .while using net.show sometimes it shows all ip's connected on the network and sometimes shows nothing! .a restart needed to work good again and so on
+----------------------------------------------------------------------------------------------------
+ID: jo27jm1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It does that sometimes without really telling you what the issue is, but it's stable ettercap is EOL but I'd suggest checking /var/logs and under Kali and see if there's any issue there
+----------------------------------------------------------------------------------------------------
+ID: jo27rm5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's about open TeamViewer to let you see the issue ! Or even you try by yourself.nothing important on my laptop tbh😂
+----------------------------------------------------------------------------------------------------

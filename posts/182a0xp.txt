@@ -1,0 +1,22 @@
+POST ID: 182a0xp / POST TITLE: A long question about privacy and open source projects!
+====================================================================================================
+Hey guys. I was thinking about trying to not giving information to big tech companies. I realized that there are 4 main ways that they can get data from us:
+
+Operating Systems
+Mail and Cloud
+Social Media apps and Messaging apps
+Browsers and Browsing history
+I was thinking and talking with my friend about using open source apps for all of these 4 categories, because they say that open source apps are the most secure and private apps. But I noticed, that for example, Telegram is an open source messaging app, but the app is open source, not the servers that our data is stored on! So yeah, they can still sell our data.
+So I realized there's no real open source messaging app or cloud service (the idea of an open source cloud service is even silly).
+Then I went for other items in the list, I thought about Brave browser, it's a browser, not a messaging app and it doesn't need a server, I thought it's really private and open source then. But my friend said that they can say it's open source but in fact it can be not open source! He said they can put an open source project on github and put another version with trackers on google play store and nobody can realize. He said if want a real open source app, you gotta download the github code and build the app with android studio yourself lol.
+
+Now my question is: do you guys think that my friend's right? If he's right, then how can hackers trust open source tools they use for hacking?
+If he's right, so there's no real safe apps to use then?
+
+POST COMMENTS:
+====================================================================================================
+ID: kahzv5y # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: `...how can hackers trust open source tools they use for hacking?`
+
+A combination of source code review and reputation.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+POST ID: 1djy3zb / POST TITLE: Amazing training for beginners 
+====================================================================================================
+So I've been dabbling in pentesting training for a little bit doing TryHackMe, Portswigger academy, books such as Getting started becoming a master hacker By occupytheweb also Evan when through a good portion of PEH from tcm security. 
+All theses resources are awesome high quality training for pentesting and red teaming but just recently I started to really focus on getting certified to become a penetration tester in the near future and my route of choice is to do the CPTS from hack the box then knock out the OCSP so I signed up for their penetration tester job role path and that is what brings me here...
+THIS TRAINING IS THE BEST TRAINING IVE HAD SO FAR!!!
+It may be almost pure text but for the few dollars you throw at it for Access the quality of the information is top notch the explanations and thought process is shows you is amazing they don't lie when they say they aren't just trying to teach you the tools and what they do but they teach you why they work and what the concepts are at their core I've only made it through two modules so far but the DEPTH and RICHNESS of the information is something to behold 
+So if anyone is looking for high caliber training for a very modest price please take my advice and you won't regret it!!!
+Does anyone else here have experience with the Penetration tester job role path from HackTheBox if you do please share your experience!
+
+POST COMMENTS:
+====================================================================================================
+ID: l9ek055 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Anyone who has taken the pentesters path knows no other courses come close.
+----------------------------------------------------------------------------------------------------
+ID: l9lkqpf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hello,   
+after finishing a few paths at THM, I was also looking to get certified as penester. I registered at HackTheBox, but I dont understand the Cubes system exactly. If I register and pay the Premium monthly, is it enough to enroll in the CPTS course? Thank you in advance, im dumb jeje
+----------------------------------------------------------------------------------------------------
+ID: l9leq1j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: how much is the cost ?
+----------------------------------------------------------------------------------------------------
+ID: la766pb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Get the platinum monthly 2 months will give you enough cubes to cover the whole thing then cancel and you will have access to the content forever👍👍
+----------------------------------------------------------------------------------------------------
+ID: la76dc5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Once you complete the pentester job role path you will be able to take the CPTS but not before sorry not my rule it's thiers
+----------------------------------------------------------------------------------------------------
+ID: la7bchc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you get the year subscription it comes with the course plus the exam voucher but you can't take the exam until you are 100% done with the course it's $450 for the year but if you subscribe to the platinum monthly for 2 months it will give you enough cubes to buy the course (about $136 total)that will give you access to the course forever then just buy the exam voucher when your ready to take the exam ($210) for a grand total of $346
+----------------------------------------------------------------------------------------------------
+ID: lbklkmg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's the advice I was looking for. Thank you :)
+----------------------------------------------------------------------------------------------------

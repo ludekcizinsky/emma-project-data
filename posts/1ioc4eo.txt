@@ -1,0 +1,10 @@
+POST ID: 1ioc4eo / POST TITLE: How to practise paloalto firewall PA-440?
+====================================================================================================
+I'm new to firewalls and haven't done any practical work in a firewall. In work, we are using PA-440 and I want to know every nitty gritty of using it.
+
+What's the best way to practise PA-440?  
+Where should I begin with firewalls? What should I do?  
+Is there any free labs or softwares to practise it?
+
+POST COMMENTS:
+====================================================================================================

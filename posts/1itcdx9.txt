@@ -1,0 +1,13 @@
+POST ID: 1itcdx9 / POST TITLE: DORA
+====================================================================================================
+Hi guys! Anyone succesfully implementing DORA can share some wisdom? Easiest checklist(s) to use, best practices/templates?
+
+  
+We will be preparing it with an outside company, but as a PM I like to have some general knowledge of how things should be done. I'm currently reading through DORA itself.
+
+Thanks,
+
+E.
+
+POST COMMENTS:
+====================================================================================================

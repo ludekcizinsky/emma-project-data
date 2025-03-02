@@ -1,0 +1,48 @@
+POST ID: 171gsjo / POST TITLE: Ethical hacking
+====================================================================================================
+I want to pursue ethical hacking and I want to know what job opportunities there are in the field and as I am still a student paid courses are not something I can afford so I was wondering if there are any courses which teach you basic. Keep note that I installed Kali Linux and am aware of basic commands.
+
+POST COMMENTS:
+====================================================================================================
+ID: k3qpffa # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check out TCM's youtube channel, I believe they put their whole course up there for free. https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT\_\_MCUeixqHJ1TRqrHsEd6\_EdEvo47
+----------------------------------------------------------------------------------------------------
+ID: k3qvhjg # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cisco netcad, Tryhackme,  on YouTube you have a lots of channels like Hackhunt etc
+----------------------------------------------------------------------------------------------------
+ID: k3sh2iy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For job opportunities:
+
+Penetration tester
+Red team operator
+Vulnerability Researcher
+
+In terms of learning I’d suggest you start with the basics. Your fundamentals are very important, so you should already know about computer hardware, some basic coding in python or some other language etc
+
+
+Then you want to start with either web penetration testing or network penetration testing, mobile etc 
+
+Web application testing: Portswigger has a lot of nice tutorials out there 
+
+For network mobile etc you can google free ebooks for beginners 
+
+You’d want to install vms for practice such as metasploitable juice shop etc
+----------------------------------------------------------------------------------------------------
+ID: k3tc1d9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is the best place to start and most of it is free
+----------------------------------------------------------------------------------------------------
+ID: k3zpcqd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As a person who has 13 years of software engineering experience I think you evolve into hacker. You can evolve from any area of tech. It can be networks, system administration, dba, programming. And your expertise will be the strongest in that area. 
+I personally do reverse engineering quite well. But it didn’t happen because of any courses. I’ve had a critical mindset all my life. As a programmer at some point I started to hear “oh we couldn’t find it for years” more and more. I was expanding my knowledge across many areas while working. And eventually I faced the situation when I had to push it through. Then it happened the second time. And so on.
+I do lack expertise a bit in networks/systems. And I choose projects accordingly. While studying that part.
+So I personally would advise you to find the area of IT that you would be excited about. Work, study and expand your knowledge. And eventually you’ll become a hacker. 
+But of course everyone’s path is different. And I would think people got there through different ways.
+
+Regarding the jobs. I lie freedom. Bugcrowd/Hackerone is an excellent place to make money. Though I’d choose managed programs.
+----------------------------------------------------------------------------------------------------
+ID: k4dzyxq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: k4k63in # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You were caught promoting, please do not break this rule again.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+POST ID: 1itmrun / POST TITLE: Has anyone here actually adopted ML-KEM for Post Quantum Encryption?
+====================================================================================================
+So a couple months ago NIST deprecated all encryption protocols used on the web today including good old RSA and the new elliptic ECDSA and ED25519 encryption algorithms which we thought were safe.
+
+NIST says they’re not and they’re making the Federal Government switch away from all of them by 2030.
+
+My question is have any of you actually used PQE (Post Quantum Encryption) Algorithms like ML-DSA, ML-KEM, and SLH-DSA?
+
+Have you ever seen or used it?
+
+I just spent half an hour with the ML-KEM GitHub repos and I’m completely astounded that this is the biggest news in cybersec and I haven’t heard anything about this online aside from finding out by deliberately Googling it.
+
+This algorithm is completely different and completely incompatible with existing RSA / ECC infrastructure. 
+
+Having just found out about this I find it impossible for most organizations to switch to it in the next 5 years because these algorithms only just made their way to OpenSSH in late October 2024. 
+
+TLS is working on it, OpenSSL is working on it, PGP is working on it. This technology won’t make its way into Debian and RHEL for another few years or so guaranteed, never mind other apt, dnf, npm, and pip packages.
+
+And it’ll be 2-3 years until we see it on the web at all, 3-4 for the GUI on your GitHub/GitLab SSH drop down, and widespread adoption on the web will take at least…
+
+…(checks notes on IPv6) 
+
+Yea not looking good. 
+
+And even when we adopt it, how long will these algorithms even be safe for? PQE is alpha stage at most and RSA is already deprecated, are we gonna start entering yearly algorithm release cycles? 
+
+Those 90s WordPress sites are gonna be in for a wild next 5 years 😂
+
+
+TL:DR; Fuck Bezos and Google
+No such thing as security
+We’re back to fax!
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,12 @@
+POST ID: 1065odf / POST TITLE: Help with a box
+====================================================================================================
+I’m attempting to hack a box.
+
+I have the VM box running on VMWare on Ubuntu (bare-metal) on my laptop. The box is an Ubuntu 20.02 LTS server that, upon booting up, requests login information. I attempted to start the VM into the GRUB menu by holding shift during start up, but the command line editor was blocked by additional login information. I can ping the server successfully in the terminal of my main OS. I ran nmap on the IP address of the box and ports 22, 80, and 8080 are open. The http service is running Apache 2.4.52 (Ubuntu). The SSH port is running OpenSSH version 8.9p1, Ubuntu 3. I could not SSH into the box without login information. When I enter [http://IP\_ADDRESS\_OF\_THE\_BOX/](http://ip_address_of_the_box/) into my web browser, the search redirects to a new domain, but does not load. I get the “We can’t connect to the server at:” message in Firefox. I have tried using curl on the IP Address of the box which gives me a 301 Moved Permanently message to the domain my web browser redirected to. I tried gobuster on the IP Address which resulted in 301 responses. I tried gobuster against the domain name redirected to and got a “no such host” message. I even tried messing around in burpsuite by limiting the scope to the domain and I sent a GET request to the the domain name. The request was sent and I got back an ERROR in the burpsuite browser: “Unknown Host”. I also tried isolating the GET request in the Repeater function in Burpsuite, but did not receive any responses back. The last thing I tried was changing the DNS settings on my machine to the google DNS servers (8.8.8.8 and 8.8.4.4). I’m still unable to connect to the domain. I’m stuck.
+
+If this was clear, any suggestions to what you think I should try next? Am I going in the complete wrong direction here?
+
+EDIT: Made progress!! Had to edit the /etc/hosts file and add the IP address and domain name of the box and now I can access the website!
+
+POST COMMENTS:
+====================================================================================================

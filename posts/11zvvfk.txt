@@ -1,0 +1,46 @@
+POST ID: 11zvvfk / POST TITLE: How to create wordlist with customaztion?
+====================================================================================================
+How to create wordlist with customaztion?
+
+I want to create a word list but specified. Example to be clearer. Let's say I want the password of a man named John Doe and I know his phone number, birth date, ID etc. And want to combine many combinations of that info. For example :
+JohnDoe21012001
+John8881245322doe (imagine it's a phone num)
+JD2001 (JD for John doe and his year) 
+
+And so on, make many combinations so that I the wordlist will be more specific. How can I do it? 
+Can I make a wordlist that creates itself on the fly? That means that it won't take space in my pc as much as a full wordlist would take?
+
+Thx people
+
+Of course it is for educational purposes in order to expand my knowledge on the use of word lists.
+
+POST COMMENTS:
+====================================================================================================
+ID: jdefbe4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://github.com/Mebus/cupp
+----------------------------------------------------------------------------------------------------
+ID: jdefpw5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wow okay
+Can it be used with hashcat?
+----------------------------------------------------------------------------------------------------
+ID: jdegegd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah i think the wordlists would be compatible with hascat(i dont remember how hashcat work i dont really use it)
+----------------------------------------------------------------------------------------------------
+ID: jdeglvw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh okay just from curiosity, do you have a different method for password cracking with gpu?
+----------------------------------------------------------------------------------------------------
+ID: jdegw68 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: bah sorry man i m not really experimented for this lmao i m not Into bruteforcing
+----------------------------------------------------------------------------------------------------
+ID: jdeh3ht # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.javatpoint.com/kali-linux-password-attack-tools
+----------------------------------------------------------------------------------------------------
+ID: jdekjhy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: From experience hashcat is the most versatile. You can look up a cheat sheet, or use the man pages to maximise the efficiency. Any wordlists created with things like cupp, dymerge, etc work fine with hashcat. If you have the storage space, I recommend looking into using rainbowtables :)
+----------------------------------------------------------------------------------------------------
+ID: jdeo1a9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cuda maybe if you can make multiple instances of the thing your trying to break into
+----------------------------------------------------------------------------------------------------
+ID: jdepuxs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That sound interesting. I will check it out
+----------------------------------------------------------------------------------------------------

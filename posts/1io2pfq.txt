@@ -1,0 +1,20 @@
+POST ID: 1io2pfq / POST TITLE: Study partner - Windows & Active Directory
+====================================================================================================
+Hi guys,
+
+# I'm currently study penetration testing path, and at the same time I want to get into windows security because I don't have enough experience about it, so I want to take my time to fully understand it.
+
+I'm looking for study partner/group looking to study the following modules:
+
+# [Windows Fundamentals](https://academy.hackthebox.com/module/details/49)
+
+# [Introduction to Windows Command Line](https://academy.hackthebox.com/module/details/167)
+
+# [Introduction to Active Directory](https://academy.hackthebox.com/module/details/74)
+
+or any module from penetration testing path
+
+after that I'll move further in AD directory modules.
+
+POST COMMENTS:
+====================================================================================================

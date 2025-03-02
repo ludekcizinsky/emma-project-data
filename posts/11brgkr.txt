@@ -1,0 +1,32 @@
+POST ID: 11brgkr / POST TITLE: Are books worth it ?
+====================================================================================================
+I wanted to know if book are worth it when trying to learn ethical hacking, or any kind of hacking for that matter.
+
+I've seen books like:
+
+* Black Hat Python by Justin Seitz
+* Linux Basics for Hackers
+
+etc.
+
+&#x200B;
+
+My question is if they are worth it since it seems that you can learn a lot more and a lot faster by actually hacking using websites such as hackthebox or tryhackme.
+
+&#x200B;
+
+What is your view on this ? If you think books are worth it, what recommendations to you have ?
+
+POST COMMENTS:
+====================================================================================================
+ID: japrg4p # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hands-on practice is best, but only if you have a slight inkling of what you are doing, or intend to do.
+
+Read the books, practice what's in them and take notes, then move the books along to someone else. I funnel most new books (mostly No Starch Press) to local security students, because nobody likes moving boxes of old tech books.
+----------------------------------------------------------------------------------------------------
+ID: j9zhw8t # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: not everyone learns the same, what might be best for you might not be best for someone else. in addition to that you can use them as reference books.
+----------------------------------------------------------------------------------------------------
+ID: j9zu6r2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I really like learning from books, espacially when I am away from my pc. I take notes and try them when I get bsck
+----------------------------------------------------------------------------------------------------

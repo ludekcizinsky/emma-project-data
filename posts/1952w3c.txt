@@ -1,0 +1,41 @@
+POST ID: 1952w3c / POST TITLE: How do people usually use Kali Linux in their jobs?
+====================================================================================================
+Hi, I'm currently pursuing a carreer in penetration testing, and I was wondering how Kali Linux is used professionally in terms of installation. Do pen testers usually have a dedicated machine with kali on it? Is it their main machine? Do they use it from a live USB Stick? 
+
+POST COMMENTS:
+====================================================================================================
+ID: khkji6c # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have it in a virtual machine in vmware or virtual ox on my windows machine.  The only time you would need it to be your main OS is when doing Wi-Fi attacks
+----------------------------------------------------------------------------------------------------
+ID: khlwpdi # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So the way I operate depends on a lot of things. I work as a contractor and they send a physical box to the client which I Ssh into over a bastion host. One connected I ssh proxy it to my local kali box. I also have a private light sail kali box in aws with my domain that I use to host my c2 server. For external pentests I just use my approved box with my public ip.
+----------------------------------------------------------------------------------------------------
+ID: khofcwi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For all external tests vmware on work laptop, for internal/wireless tests a physical Dropbox with kali installed is shipped to customer. Sometimes we do cloud testing and we have them spin up kali in their environment, whitelist our public IP and we send ssh keys.
+----------------------------------------------------------------------------------------------------
+ID: khkmnmi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Currently VM, but heavily invested into learning Qubes because of security reasons. 
+
+Just much harder to plan a good setup with high security standards.
+----------------------------------------------------------------------------------------------------
+ID: khmemf8 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why do you need it when doing WiFi attacks?
+----------------------------------------------------------------------------------------------------
+ID: khmcda1 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting have a company website?
+----------------------------------------------------------------------------------------------------
+ID: khmc8hc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: agreed, however installation of qubes is mental abuse especially trying to meet the specific hardware requirements.
+----------------------------------------------------------------------------------------------------
+ID: khmczsl # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not gonna share that info, sorry.
+----------------------------------------------------------------------------------------------------
+ID: khmd4a9 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Mh even more interesting,
+----------------------------------------------------------------------------------------------------
+ID: khmwozi # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: standard security.  don't share personal identifying information with strangers online.
+----------------------------------------------------------------------------------------------------
+ID: khpg3js # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ah everyone's stick slips out every now and then lol
+----------------------------------------------------------------------------------------------------

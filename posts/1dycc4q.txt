@@ -1,0 +1,9 @@
+POST ID: 1dycc4q / POST TITLE: Are paid proxies the only option?
+====================================================================================================
+I'm currently learning and new to this field . It's been confusing for me since the free proxies are not trustworthy and the paid ones are a bit expensive . Any suggestions on this?
+
+POST COMMENTS:
+====================================================================================================
+ID: lc7ja7k # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on why you want one I guess. I can't really think of a reason to use a proxy beyond password spraying, but that's omega cheap (1 million requests are $1 through an Amazon gateway).
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,587 @@
+POST ID: 1iunnrk / POST TITLE: What are the low cost alternatives to the Splunk?
+====================================================================================================
+The question is pretty straightforward, additionally it would be a bonus if that SIEM can have the computation power of the Splunk. Please feel free to also suggest ones that are not low cost but are widely used in the industry (eg. Wazuh)
+
+Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: mdysjcw # OF UPVOTES: 381.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Raw dog the logs
+----------------------------------------------------------------------------------------------------
+ID: mdzd69x # OF UPVOTES: 64.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The Greylog for me has been a long time SIEM option for no or low cost requirements. 
+Low cost as they have an enterprise version. 
+Back a little while ago they were flirting with the idea of a commercial version. But their open source option was always adequate for just log storage. 
+Your costs will go into detection engineering and tuning it as time progresses. 
+
+https://graylog.org/products/source-available/
+----------------------------------------------------------------------------------------------------
+ID: mdytgir # OF UPVOTES: 133.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ELK would probably one of the better ways. Open Source, wide community support and widely used.
+----------------------------------------------------------------------------------------------------
+ID: mdz7gss # OF UPVOTES: 31.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh
+----------------------------------------------------------------------------------------------------
+ID: me0lym8 # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: QRadar if you hate yourself
+----------------------------------------------------------------------------------------------------
+ID: mdytj1a # OF UPVOTES: 36.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elastic Stack. You can self host the IP open source version on you own secrets. Or with the logsdb mode the logs strange is cut in half and that makes the every level tower on their cloud a lot cheaper than splunk.
+----------------------------------------------------------------------------------------------------
+ID: mdz2kjj # OF UPVOTES: 19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ELK, more than once in my career I’ve built a passable Logging, Monitoring and Altering platform on Elastic.
+----------------------------------------------------------------------------------------------------
+ID: mdzcwti # OF UPVOTES: 18.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gravwell is an excellent choice.  There are a number of large orgs that have replaced their Splunk deployment with Gravwell due to the flexibility and scaling ability.  
+
+It’s available on prem.   Pricing model is based off the indexer (splunk search head equivalent ) count, and not some arbitrary number or metered usage.   Structure on read similar to  Splunk.    Supports different tier storage (hot/ cold / frozen) so you can keep logs you regularly search on higher performance SSD’s while throwing long term onto cheaper spinners or even cloud archives.     CBAC controls for both tool functionality, and the resources and data within the system.   Replication.   Etc etc.  
+
+They also have a Free Community edition Advanced tier that allows up to 50gb/day of ingest,   But it limits the total number of accounts and doesn’t support replication or the CBAC controls.  
+
+(Full disclosure,   I work as a resident Engineer for the company embedded in a large enterprise client,  so I’m a little biased….  But honestly I personally haven’t seen/used a tool with this kind of flexibility and power outside of splunk).
+----------------------------------------------------------------------------------------------------
+ID: mdzh4sb # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you're a crowdstrike customer. their free 10gb of additional log storage in addition to your endpoint\\runtime logs comes in handy.
+----------------------------------------------------------------------------------------------------
+ID: mdztcq1 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What does "computation power" mean? The "power" depends on the hardware you throw at it. Has little to do with software cost.
+
+There are tons of capable SIEMs
+
+Exabeam/LogRythm  
+Secureonix  
+Gurucul  
+Greylog  
+Gravwell  
+Datadog  
+Sumologic  
+Crowdstrike Logscale/NG SIEM  
+Palo Alto XSIAM  
+MS Sentinel  
+Elastic SIEM\*  
+OpenSearch SIEM (either on AWS Cloud, or run it yourself)\*
+
+Some cautions about this space:
+
+"Low cost" is in the eye of the beholder. Paying less for a license but then spending way, way more time in maintenance of open-source and mucking about with parsing and ingestion, is not saving money, it is burning money. Simmilarly, paying less money for software only to burn it all on hardware (because the solution is inefficient) is also burning money. Do your research.
+
+Many, many solutions in SIEM are actually based on ElasticSearch/OpenSearch under the hood, and all of those will have similar limitations when it comes to scale-up, which Elastic doesn't deal well with. Do your research on this. This is why I don't even include Wazuh in this list.... it's just Elastic with some customizations. Opensearch has a different set of them. Fundamentally, the capabilities are the same.
+----------------------------------------------------------------------------------------------------
+ID: me4geog # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So from what I’ve seen so far in the European Market:
+
+On Prem
+- Crowdstrike humio (on prem-version of siem)
+- Logpoint
+- ELK
+- Greylog
+
+Cloud:
+- Palo xsiam
+- Crowdstrike siem
+- Google Chronicle
+----------------------------------------------------------------------------------------------------
+ID: mdzcufe # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The problem with just a raw installation of elasticstack is it does not come with all the nice pre-built displays and other features.  So you need to go with something like Security Onion or Wazuh where people have spent all the time to do that.
+
+Even then if you are comfortable and use the non-basic features of splunk you are going to be missing alot.
+----------------------------------------------------------------------------------------------------
+ID: mdzd1dn # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Security onion
+----------------------------------------------------------------------------------------------------
+ID: mdyyx5i # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I used Logpoint back in the day. Probably requires more hands on building your own visuals than Splunk but I think the cost makes up for it.
+----------------------------------------------------------------------------------------------------
+ID: mdz9p3e # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Depending on your size, maturity and budget: PocketSIEM or InsightIDR
+----------------------------------------------------------------------------------------------------
+ID: mdyz0gf # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sumologic - it’s a blue splunk - but better imo.
+Natively built on cloud.
+
+They have tiered pricing if you use enough
+----------------------------------------------------------------------------------------------------
+ID: mdz310j # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: When using ELK are you paying for the security features for tamper proof logs? 
+
+I'm keen to explore open search for my next open source logging project to get a truly feature rich OS solution.
+----------------------------------------------------------------------------------------------------
+ID: mdz9zlh # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You can save lots of license cost with splunk if you only put in specific events. So many companies just has everything which is nuts
+----------------------------------------------------------------------------------------------------
+ID: me18ayz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elastic/Opensearch if you're maxing "balling on a budget"
+
+Gravwell if you want "splunk but not made by assholes"
+----------------------------------------------------------------------------------------------------
+ID: me3kddk # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not sure what kind of environment you have, but if your company has Microsoft E5 licenses, but you can get a lot of bang for your buck with Microsoft Sentinel if you do and use Azure. Easily integrates with Defender and a lot of applications.
+----------------------------------------------------------------------------------------------------
+ID: me3za8l # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I tried Wazuh and didn't like it too much on it's own. ELK by itself s good, but it's a PITA to configure from the ground up and it's not like Splunk where it can build things on the fly. Graylog was promising, but I don't believe their free version has an agent. So, I got Wazuh and Greylog working together where Wazuh and the agents were used to collect the events I wanted and then I forwarded all those results to Graylog. I like Graylog's search and features a lot more than Wazuh's. SOF-ELK from SANS is free and has a lot of pre-built templates too. How much data are you ingesting with Splunk and is your UF properly configured? I pushed for Splunk at my job and we use it for DFIR investigations. I have it extremely fine tuned for what I collect though doing a DFIR case and collect about 50MB per endpoint of OS artifacts in CSV format for what I need. Huntress also has a baby SIEM I would call it. It can ingest Windows events and several other third party log sources and I believe it's based on ELK too.
+----------------------------------------------------------------------------------------------------
+ID: me3zxii # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What are you actually trying to solve?
+----------------------------------------------------------------------------------------------------
+ID: me6ugt1 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Logscale and its just so much better.
+----------------------------------------------------------------------------------------------------
+ID: me0wgiy # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just stay away from Crowdstrike "Next Gen SIEM"
+That shit is terrible 😂
+----------------------------------------------------------------------------------------------------
+ID: mdzvdts # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Haven't seen anyone mention Google Chronicle/Google Security Operations but definitely worth checking out. I would also vote for Wazuh as others have.
+----------------------------------------------------------------------------------------------------
+ID: me0awdd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: LogScale
+----------------------------------------------------------------------------------------------------
+ID: mdzkv5v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I guess I would ask first, are you using it for correlation between log events, or just a place to search data? Those are two huge differences, a lot of folks blur those lines and make poor decisions.
+----------------------------------------------------------------------------------------------------
+ID: mdznon8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You could write a shell script which is cron triggered every minute or so, the shell script would run grep using regex and you can have a conditional statement which can trigger a SMS/Email in the event of a particular event or pattern occuring. this is okay for small scale rollouts, it can get complex very quickly though.
+----------------------------------------------------------------------------------------------------
+ID: mdzoddb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm using Businesslog and I'm very happy with it, some configurations to do initially but then it's very powerful and with a security operation center included
+----------------------------------------------------------------------------------------------------
+ID: me0jd6f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Id say Wazuh and Graylog are solid low cost alternatives to Splunk. Wazuh integrates well with Elastic Stack and offers decent SIEM capabilities for threat detection, while Graylog has a pretty solid free tier and is easier to set up. If youre  comfortable managing ELK, it can also be a powerful option, though it requires more fine tuning.
+
+Of course, nothing truly matches Splunk’s computational power out of the box, but if cost is the main concern, these options get the job done with the right configuration.
+----------------------------------------------------------------------------------------------------
+ID: me0jgg7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have used emails to auto export to a google sheet, then used them as data points to create a dashboard. 
+----------------------------------------------------------------------------------------------------
+ID: me0x1md # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you're not using something like Cribl for data processing, try that, it would lower the ingestion cost by quite a lot
+----------------------------------------------------------------------------------------------------
+ID: me190hx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Alternatives like Wazuh, ELK Stack, and Graylog are cheaper than Splunk, but may lack its power and scalability. Should companies opt for affordable tools with fewer features, or invest in more expensive, robust solutions like Splunk?
+----------------------------------------------------------------------------------------------------
+ID: me1ouxj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check kibana
+----------------------------------------------------------------------------------------------------
+ID: me1r2gq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Observe if you don't want to host a solution.
+
+Grafana Loki if you want to host your own solution.
+----------------------------------------------------------------------------------------------------
+ID: me28d23 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elasticsearch; basic mode + fleet has lots of options.
+----------------------------------------------------------------------------------------------------
+ID: me2cshe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Anything will be lower cost than Splunk. 
+As far as same level of compute power there are really only 2: Elastic and sumologic 
+
+Cheapest SIEMs would probably be MS Sentinel or Google Chronicle/SecOps 
+----------------------------------------------------------------------------------------------------
+ID: me2xqz7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ELK (elasitic community ed)
+----------------------------------------------------------------------------------------------------
+ID: me39nga # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elk stack
+----------------------------------------------------------------------------------------------------
+ID: me3a81e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Blumira
+----------------------------------------------------------------------------------------------------
+ID: me3ds35 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cribl
+----------------------------------------------------------------------------------------------------
+ID: me3k3s9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That depends... if you're using the capabilities of Splunk, you'll have to spend money reimplementing them in other tools.  What parts of Splunk are you looking to replace?
+----------------------------------------------------------------------------------------------------
+ID: me3pmrc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ELK for lower cost, Wazuh for even lower. But you need to understand there is tradeoff between the capabilities and cost.
+----------------------------------------------------------------------------------------------------
+ID: me5oo59 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Text Editor and command+F
+----------------------------------------------------------------------------------------------------
+ID: me5ov7a # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: RemindMe! 1 day
+----------------------------------------------------------------------------------------------------
+ID: me5wt7k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gravwell.
+----------------------------------------------------------------------------------------------------
+ID: me5zti2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Loki
+----------------------------------------------------------------------------------------------------
+ID: me610uk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elastic stack
+----------------------------------------------------------------------------------------------------
+ID: me66stk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Logzilla. Super easy to install and run.
+----------------------------------------------------------------------------------------------------
+ID: me6zafn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well you could look i to MDR likr sophos that ingests your logs.
+
+For close to the cost of edr you have a fully managed solution.
+
+Or look at OSSIM
+
+AlienVault OSSIM
+
+A free, open-source SIEM (Security Information and Event Management) system 
+
+A tool that helps users detect threats, assess vulnerabilities, and monitor behaviors 
+
+A tool that can be set up with VirtualBox 
+----------------------------------------------------------------------------------------------------
+ID: me7lr0l # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have this hidden gem that nobody's heard of. Go get SentinelOne. It's half the price. 🤣😂
+
+
+
+
+
+
+Please don't. This was a joke.
+----------------------------------------------------------------------------------------------------
+ID: me7nfi4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ELK stack...
+----------------------------------------------------------------------------------------------------
+ID: me8714f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Rapid7 InsightIDR - logs are stored in the cloud and it has built in detections.
+----------------------------------------------------------------------------------------------------
+ID: meavc0a # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elastic or Logging-made-easy/Malcom
+
+Google Cloud - Security Center
+
+Graylog
+----------------------------------------------------------------------------------------------------
+ID: me0c8bo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Datadog Sumologic Elasticsearch
+----------------------------------------------------------------------------------------------------
+ID: me0g5qi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why do people have the idea that splunk is expensive.   How many GB per day of logs do you have?
+----------------------------------------------------------------------------------------------------
+ID: mdz9ldk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ad audit plus was inexpensive from manage engine zoho and is WAY cheaper than splunk.  We combined that with admindroid (cheap) recently and I am very pleased.  We have elastic/ (can’t beat free) and only run into issues everytime we update, but it is still good if you have the admin to handle.
+----------------------------------------------------------------------------------------------------
+ID: mdzze1c # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: opensearch + timesketch
+----------------------------------------------------------------------------------------------------
+ID: me2ol40 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cheaper isn’t always better. We migrated off Splunk recently to Stellar and it suuuucksss.
+----------------------------------------------------------------------------------------------------
+ID: me3cv8o # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CrowdStrike Humio is supposed to be good.
+----------------------------------------------------------------------------------------------------
+ID: mdzl0hs # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: the question is, why do you want a SIEM? do you need to have it because of compliance? From a security perspective I think you are in a way better place if you have EDR + NDR.
+----------------------------------------------------------------------------------------------------
+ID: mdza1jo # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Happy with Devo. Cloud native
+----------------------------------------------------------------------------------------------------
+ID: mdz2s4h # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sentinelones AI SIEM
+----------------------------------------------------------------------------------------------------
+ID: mdzag6q # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: the question is not really straightforward because you have not told us your estimated budget
+----------------------------------------------------------------------------------------------------
+ID: mdzdtv2 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elasticsearch
+----------------------------------------------------------------------------------------------------
+ID: mdzjba2 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: BluSapphire saved us over 1 million a year. I'm serious and they're a great product.
+----------------------------------------------------------------------------------------------------
+ID: mdzpw5f # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Kibana/ELK, SOF-ELK
+----------------------------------------------------------------------------------------------------
+ID: me03dy5 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Elastic
+----------------------------------------------------------------------------------------------------
+ID: me0bqjo # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Manage engine Eventlog Analyzer
+----------------------------------------------------------------------------------------------------
+ID: me3bs5p # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh
+----------------------------------------------------------------------------------------------------
+ID: me3rjxn # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Xsiam by Palo Alto
+----------------------------------------------------------------------------------------------------
+ID: mdz9noe # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you have e5 licenses then sentinel is a good shout. As with most SIEMs if you tune them right and their price model is around queries, not ingestion like Splunk, then most will give you a good return on investment.
+
+Question for you. How are you monitoring the SIEM? are you having a dedicated internal team/person? Depending on your budget, internal skills, and resources might want to look at either outsourcing or hybrid approach
+----------------------------------------------------------------------------------------------------
+ID: mdz4agw # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Greylog is pretty cheap. I like Sumo Logic and Devo Security best though.
+----------------------------------------------------------------------------------------------------
+ID: mdze17k # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh which is actually the ELK stack as others have mentioned with a security front end to it. (Or it was a few years ago? Idk if it has changed since then)
+----------------------------------------------------------------------------------------------------
+ID: mdzla5h # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh, ELK
+----------------------------------------------------------------------------------------------------
+ID: mdzrsxr # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Grafana!!
+----------------------------------------------------------------------------------------------------
+ID: me00ehu # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh + ELK
+----------------------------------------------------------------------------------------------------
+ID: me0r8he # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Solarwinds sem
+----------------------------------------------------------------------------------------------------
+ID: me2t9jk # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: FortiSIEM
+----------------------------------------------------------------------------------------------------
+ID: mdz9pqg # OF UPVOTES: -7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you have e5 licenses then sentinel is a good shout. As with most SIEMs if you tune them right and their price model is around queries, not ingestion like Splunk, then most will give you a good return on investment.
+
+Question for you. How are you monitoring the SIEM? are you having a dedicated internal team/person? Depending on your budget, internal skills, and resources might want to look at either outsourcing or hybrid approach.
+----------------------------------------------------------------------------------------------------
+ID: mdz9suq # OF UPVOTES: -7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you have e5 licenses then sentinel is a good shout. As with most SIEMs if you tune them right and their price model is around queries, not ingestion like Splunk, then most will give you a good return on investment.
+
+Question for you. How are you monitoring the SIEM? are you having a dedicated internal team/person? Depending on your budget, internal skills, and resources might want to look at either outsourcing or hybrid approach.
+----------------------------------------------------------------------------------------------------
+ID: mdz9beq # OF UPVOTES: 173.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bite your lip and grep it
+----------------------------------------------------------------------------------------------------
+ID: mdzar6c # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: With enough vi and regular expression skills, you can accomplish anything
+----------------------------------------------------------------------------------------------------
+ID: me16fsw # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Awk tuah
+----------------------------------------------------------------------------------------------------
+ID: mdytuzd # OF UPVOTES: 38.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ah yes, masochism
+----------------------------------------------------------------------------------------------------
+ID: mdz0851 # OF UPVOTES: 17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I laughed way harder at this than I should have.
+----------------------------------------------------------------------------------------------------
+ID: mdzw9qc # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Honestly if you know your stack this is probably faster than Splunk anyways.
+----------------------------------------------------------------------------------------------------
+ID: me7u6qq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: there was a Performance based question just like this for the Cysa+. Pretty fun question and really made me appreciate the SIEMs!
+----------------------------------------------------------------------------------------------------
+ID: me10f5o # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Greylog is awesome.  Take syslog data, turn it into graphs, turn graphs into a dashboard.
+----------------------------------------------------------------------------------------------------
+ID: me0x7m9 # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: \+1 for Graylog
+----------------------------------------------------------------------------------------------------
+ID: me10u9k # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm with you, but in my tenure I've yet to defeat "But we need a vendor/support in case SHTF scenario, like an attack where ELK goes down and it's critical to see the logs
+----------------------------------------------------------------------------------------------------
+ID: mdznzyk # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Seconded
+----------------------------------------------------------------------------------------------------
+ID: mdzshxe # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yep this one
+----------------------------------------------------------------------------------------------------
+ID: me7bf97 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I love ELK. If qRadar is Windows, Splunk is Mac, then ELK is Linux. Except its CentOS and paying for RHEL isn’t worth it.
+----------------------------------------------------------------------------------------------------
+ID: me0lw4b # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Also has vuln management, which honestly surprised me. It's not amazing like other scanners, but it's free, and totally actionable content.
+----------------------------------------------------------------------------------------------------
+ID: mdzx07c # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Depends imo. Wazuh is a great SIEM with ok EDR capabilities however its slower on updates uses an older version of Elastic (open search?) from the last time I used it. The doc is a hit or miss when you’re troubleshooting. It’s great if you’re looking for easy deployment. ELK would be more suited for larger volumes of data and had stronger visualization capabilities imo (even tho they are very similar). ELK would take more experience to tune to one’s needs compared to Wazuh
+----------------------------------------------------------------------------------------------------
+ID: me1c2yr # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Second Wazuh. Love it, btw if anyone is running it make sure it’s up to date-4.9.1. Cve out on earlier versions (CVE-2025-24016)- awaiting analysis but allows remote code execution so it might be worth looking into.
+----------------------------------------------------------------------------------------------------
+ID: mdz8tci # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've read about it but never used it. There's decent documentation out there it seems. How is it?
+----------------------------------------------------------------------------------------------------
+ID: me16egx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We do all hate ourselves. Soooo you’re sayin I should qradar!
+----------------------------------------------------------------------------------------------------
+ID: me202uo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: it’s had its “rough around the edges” moments, but is there anything specific you’re not a fan of or think needs some work?
+----------------------------------------------------------------------------------------------------
+ID: me3v7bz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Qradar feeding into ELSA if you REALLY hate yourself.
+----------------------------------------------------------------------------------------------------
+ID: me0v3sz # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We went from Splunk to Gravwell and couldn’t be happier. Not only was the pricing and model much better, the support has been fantastic as well. My company is pretty small with about 2TB of ingest per day, but we have received such excellent support to go with it. 
+
+We found performance to be much better than that of Splunk as well when it came to searches.
+----------------------------------------------------------------------------------------------------
+ID: me02dd8 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: +1 for Gravwell. They contribute heavily to the SCinet.supercomputing.org effort, was really impressed with what they did ingesting all the SC24 data without astronomical hardware or license costs
+----------------------------------------------------------------------------------------------------
+ID: me1kl3t # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is actually not a bad option at all if you're a CS customer.  10gb can add up fast though.  So using something in between like Cribl or whatever really helps trim things down.  It'll easily ingest just about anything you want to throw at it, and CS engineers are receptive on helping build parsers.
+
+One thing I'll add though...I don't care for CS's log collector.  Having everything on its own port based on what you're looking to ingest can get cumbersome.
+----------------------------------------------------------------------------------------------------
+ID: me28x8e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just FYI,   Gravwell is built on top of it's own custom back-end.   IMO it's one of the core differentiators between it and many other SIEMs which are built on top of Elastic (as you mentioned),  or even tools built on top of other cloud based data lakes like S3, BigQuery, etc.
+----------------------------------------------------------------------------------------------------
+ID: mdzxxce # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No disrespect to the Security Onion team, they are doing good work but imo Wazuh is way more refined. I would say ELK > Wazuh > Security Onion
+----------------------------------------------------------------------------------------------------
+ID: mdz5c5y # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: To me, the big key with them is different rates for different storage methodologies of your data. Stuff you want to ingest into the siem is the most expensive. But they have other tiers of data too that are lower cost. The cheapest is dirt cheap, but you pay when you search it. The higher tiers are more expensive on ingest but have unlimited searching on them if you query them frequently. Retention isn’t that expensive either. We’ve bumped almost all of our indexes up to a year. 
+
+We moved to them from an on-prem logrythym instance that was struggling. We are throwing so much more data at them now and it doesn’t even break a sweat. This is for a 15k employee organization with a larger data center footprint.
+----------------------------------------------------------------------------------------------------
+ID: me9lvu3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would that work (budget wise) for non-Azure environments but still most infra is Windows? We want to explore that option once available
+----------------------------------------------------------------------------------------------------
+ID: me1uywo # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not sure why you are getting down voted the CS SIEM has a terrible interface and is a pain to use
+----------------------------------------------------------------------------------------------------
+ID: me1d1c1 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agree on this 1/4 the price of splunk with 1 year default retention. Much better now that it was as chronicle too. 
+----------------------------------------------------------------------------------------------------
+ID: me29dka # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gravwell pretty much matches Splunk's Computational power,   and may even exceed it in some areas.  (Check out the "Taint" module for an example)
+----------------------------------------------------------------------------------------------------
+ID: me5oy6n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I will be messaging you in 3 days on [**2025-02-25 13:05:18 UTC**](http://www.wolframalpha.com/input/?i=2025-02-25%2013:05:18%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/cybersecurity/comments/1iunnrk/what_are_the_low_cost_alternatives_to_the_splunk/me5ov7a/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fcybersecurity%2Fcomments%2F1iunnrk%2Fwhat_are_the_low_cost_alternatives_to_the_splunk%2Fme5ov7a%2F%5D%0A%0ARemindMe%21%202025-02-25%2013%3A05%3A18%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201iunnrk)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+----------------------------------------------------------------------------------------------------
+ID: me2bmu8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you only have "GB's of logs a day",  Splunk may not be that expensive,  but also probably isn't needed as a TON of tools can handle that volume easily.     When you jump up into the "TB's per day of logs" territory however,  Splunk costs can scale quickly,  and the list of tools that can scale and handle that volume starts to get smaller.
+
+At PB's a day,  which there are indeed people generating that amount,   the list becomes EXTREMELY small. 
+
+  
+Also,  if you have an on-prem requirement,  which there are a number of companies and industries that do for security or regulatory concerns,   that also removes a lot of tools from contention due to migration a lot of tools have made to the cloud.
+----------------------------------------------------------------------------------------------------
+ID: mdzq8fr # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Honestly,  estimated budget doesn’t tell us much without also providing an idea on how much data they are looking to ingest and/or search,  how long they want to retain it,  and even potentially data sources.   
+
+With so many tools using some sort of tiered or metered pricing model,   The costs can quickly escalate depending on your needs and use cases.
+----------------------------------------------------------------------------------------------------
+ID: mdzd5qe # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wrong, you still pay for ingestion into a Log Analytics workspace. And for the retention of the data too. 
+
+Imo, MS Sentinel might be one of the more expensive ones out there.
+----------------------------------------------------------------------------------------------------
+ID: mdzbi64 # OF UPVOTES: 31.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Probably still faster than LogRhythm's brute force search algorithm.
+----------------------------------------------------------------------------------------------------
+ID: mdzphoh # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Lmao clever
+----------------------------------------------------------------------------------------------------
+ID: me1q6u9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good one lol
+----------------------------------------------------------------------------------------------------
+ID: me62grn # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Better than DarkTrace.
+----------------------------------------------------------------------------------------------------
+ID: me040mk # OF UPVOTES: 17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Awk em if you got em.
+----------------------------------------------------------------------------------------------------
+ID: me5272a # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: +2 for spelling
+----------------------------------------------------------------------------------------------------
+ID: me182qp # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well there are plenty of vendors out there who will gladly take your money to support elk. But then it’s not free/low cost anymore as OP wanted. 
+
+However I’m decently sure that a support contract for elk ist still significantly cheaper than any of the splunks, qradars and whatnot of this world.
+----------------------------------------------------------------------------------------------------
+ID: me6hygz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Put "reassuringly expensive" in as one of the row titles in your pro/con evaluation grid.
+----------------------------------------------------------------------------------------------------
+ID: me956lq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In house logging should be logging to a syslog server as text as well as dumping into elk. Often needed for compliance and for the SHTF scenario.
+----------------------------------------------------------------------------------------------------
+ID: mdzolr6 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thirded
+----------------------------------------------------------------------------------------------------
+ID: me0qp7j # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Love this. And it has compliance checks.
+----------------------------------------------------------------------------------------------------
+ID: me0xo66 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They upgraded their supported version of OpenSearch with Wazuh 4.9. I believe 4.11 is using OpenSearch Dashboards 2.16.0 now.
+----------------------------------------------------------------------------------------------------
+ID: mdz98np # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Actually surprised how good it is. I would advise to do an install to do a quick install. Like 15 minutes total and test it out. They offer support too.
+----------------------------------------------------------------------------------------------------
+ID: me1ztw2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: … I’ve heard their technical support is phenomenal 🥸
+----------------------------------------------------------------------------------------------------
+ID: me03o1r # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is exactly where I used them for the first time and I was impressed. Would definitely take them on if I didn't already have a SIEM in place
+----------------------------------------------------------------------------------------------------
+ID: me32k2a # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Funny, that's what I like about it.
+----------------------------------------------------------------------------------------------------
+ID: me29lqt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The majority of rhe ones in this list are not based on Elastic. They all have their own backend.
+
+But there's about 15 not in this list that are
+----------------------------------------------------------------------------------------------------
+ID: me2g06o # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A syslog / nifi / cribl solution in front can really save some costs to. Ie extract features and send it to the monitored tier. Send the raw logs - depending on usage - to a lower tier.
+----------------------------------------------------------------------------------------------------
+ID: me1y6ji # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Who knows honestly. I never said the CS agent was bad but their SIEM is awful. It was fine when it was using the Splunk Query Language because if you knew splunk then you'll be fine in CS. That's no longer the case and even people I know that are CS customers hate the SIEM tool.
+----------------------------------------------------------------------------------------------------
+ID: me2sys4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Very few orgs have TB’s per day of actual necessary logs.   PB’s per day and you’re probably not on Reddit whining about costs.
+----------------------------------------------------------------------------------------------------
+ID: me0hezr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, let me tell you how much we paid for just ingestion last month...
+----------------------------------------------------------------------------------------------------
+ID: me2zdpd # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ha, PTSD flashbacks of having to use LogRhythm.
+----------------------------------------------------------------------------------------------------
+ID: me1mndy # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well sed
+----------------------------------------------------------------------------------------------------
+ID: me0rto7 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: yep, it's a robust little platform, and the support isn't *that* expensive if you go that route.
+----------------------------------------------------------------------------------------------------
+ID: me6t2yh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: And m365 monitoring
+----------------------------------------------------------------------------------------------------
+ID: mdz9j4m # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's actually on my list of things to try out this year, I'll have to bump it up then.
+----------------------------------------------------------------------------------------------------
+ID: me33b7w # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: valid
+----------------------------------------------------------------------------------------------------
+ID: me2zdne # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Who says if a log is necessary or not?   I’m honestly of the belief that you should ingest as much as possible if you can,  because you never know what is or isn’t important until it is or isn’t.  
+
+The examples I always pop back to is the solarwinds exploit several years ago.    When news broke about it, and how long it had been around and been an issue,  everybody suddenly had new questions they didn’t know they needed to ask of historical data.  If you were only saving “the important stuff”,  then odds were very good that you may not have had the data you needed to determine if someone was in the system.  
+
+Even today we still have all sorts of firewall exploits that come out which could’ve caused unknown access to the systems.   We have living off the land attacks that by their definition look like normal mundane activity.  And we have average dwell times still in the hundreds of days before an attacker is identified in the system.      In all these cases,  having a lot of data available for a long period of time (CISA recommendations were at least 18mo of retention) is pretty much required to be able to answer those questions around the unknown.   It’s also very hard to track abnormalities or entropic behaviors that could be an indicator of a problem,  if you are throwing away all the data you feel you can because you don’t have a use case. 
+
+
+I understand the trend that has emerged to strip down your logs and data ingested as much as possible to only what is absolutely necessary for your current use cases.  Whole products,  like Cribl, have sprung up to help lower the amount of data that is ingested.     But IMHO,   From a security standpoint this is a move in the wrong direction.     This issue is that the marketplace in general has moved towards metered pricing models so it’s becoming cost prohibitive to ingest all the things.  Budgets aren’t unlimited,   And they have actually tightened,  so cost savings need to be found….  And cutting back how much you ingest is a pretty easy way to cut back those costs.   By definition,  this is cost driven engineering choice,  and not one being driven by security needs/threats.
+----------------------------------------------------------------------------------------------------
+ID: me30fnq # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I may be wrong then, thanks for the info. I was going off what we had when I was internal.
+----------------------------------------------------------------------------------------------------
+ID: me2znl5 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yep, the number of times I've had a second look fail on me after waiting weeks for it to finish. 
+
+What did you upgrade to?
+----------------------------------------------------------------------------------------------------
+ID: me42tb9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That may have come across wrong, our ingestion cost was spiraling for a while until I got tasked to figure it out, it was several thousand per month and we were nowhere near 100GB/Day where you start getting price breaks. It can be a lot, depending on how much you want to have to work with. We're a 500ish user org, hybrid azure/on-prem, and were set up by a consultant a few years ago before I was on board. Somebody spun something up and connected it to my log analytics space, pushing a bunch of data to it that the data connectors/collection rules didn't explain and until I figured it out we were on track to spend close to $8000 last month, next month it'll be back down to about $12-1500 which is normal.
+----------------------------------------------------------------------------------------------------
+ID: me6k4ww # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: *cries in 2nd Look.*
+
+Had to run one l, on the fly last week, for an auditor when our LogMart searches kept erroring out. Thankfully we’ve moved away from LR recently, so after 12 months I’ll never have to pull from LR again.
+----------------------------------------------------------------------------------------------------
+ID: me82itd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Crowdstrike Logscale.  Amazing search capabilities and speed.
+----------------------------------------------------------------------------------------------------
+ID: me4x5m2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ouch yeah I can see where you were coming from with your comment, that's quite a chunk of change.
+
+When we looked at it the organisation was circa 4k employees, full cloud and Microsoft. Sentinel was around 10kish per month, as they had E5 across the board, they only paid for what wasn't included in that and wasn't just going to add noise. For the budget at the time, it was reasonable when they were paying upwards of around 7 figures a year for the cloud.
+
+I think ultimately it comes down to the configuration and department resources when looking at SIEMs and other security tools. Not much return on investment having the SIEM if you haven't got time to look at what data you are getting from it.
+----------------------------------------------------------------------------------------------------

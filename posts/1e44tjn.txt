@@ -1,0 +1,20 @@
+POST ID: 1e44tjn / POST TITLE: Book recommendations 
+====================================================================================================
+I recently read a book called Hacking: The Art of Exploitation by Jon Erickson. It was fantastic, the sort of book where the author knows the subject so well that they communicate more than just the words, if that makes sense.
+
+Looking for any similar reads to this, if anyone knows any?
+
+POST COMMENTS:
+====================================================================================================
+ID: ldeh0g6 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s actually a few books just like it. The arg of social engineering, the art of hacking, the art of deception, the art of intrusion. Each of these will have similar knowledge from respective speacilists including Kevin Mitnick
+----------------------------------------------------------------------------------------------------
+ID: ldku7b1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: New to the field would appreciate some help
+----------------------------------------------------------------------------------------------------
+ID: ldg34bh # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's how I started back in the day. Ph0ne Phr34k's glorious times. Kevin Mitnick, Mark Abene, etc. They were my role models haha
+----------------------------------------------------------------------------------------------------
+ID: ldenmdw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks appreciated
+----------------------------------------------------------------------------------------------------

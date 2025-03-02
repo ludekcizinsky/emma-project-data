@@ -1,0 +1,6 @@
+POST ID: 1inn3g8 / POST TITLE: Are Passkeys really worth using if sites still allows password login?
+====================================================================================================
+Doesn't allowing password login defeats the purpose of passkeys in the first place? Anyone who have your password can still login to your account. You can set up 2fa but then it's just the same old method of logging-in with password. Also 2fa will be required with passkeys too and it defeats the passkey "ease of use" claim.
+
+POST COMMENTS:
+====================================================================================================

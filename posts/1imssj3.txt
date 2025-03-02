@@ -1,0 +1,6 @@
+POST ID: 1imssj3 / POST TITLE: Defender XDR Home lab
+====================================================================================================
+Hello, new to the sec world. Company does not want to pay for Defender XDR and eventually Sentinel for testing purposes. I’ve used all my mobile numbers and cards to set up free trials. Planning on just getting Defender XDR and possibly Sentinel to set up a home environment lab. Have any of you guys done it? If yes, any advice? What is the most cost efficient way to do that?
+
+POST COMMENTS:
+====================================================================================================

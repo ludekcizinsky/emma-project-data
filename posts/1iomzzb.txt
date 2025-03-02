@@ -1,0 +1,6 @@
+POST ID: 1iomzzb / POST TITLE: GoPhish, tracking not working.
+====================================================================================================
+Hey, so I set up everything, email template works, and is able to send to ppl, the link in the email directs them to the landing page which is a website i set up for people to enter their information.  For some reason, gophish is only tracking the emails being sent, and nothing else.  let me know if anyone can help.
+
+POST COMMENTS:
+====================================================================================================

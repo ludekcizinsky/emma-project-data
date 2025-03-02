@@ -1,0 +1,35 @@
+POST ID: 1gzhilh / POST TITLE: Confused about choosing my career path
+====================================================================================================
+Hey guys. I am a web developer working in MERN stack. I want to CEH and this is something I wanted to be from my childhood (when I was around 15-17 y old). But currently, My situation is so confusing right now. Here is what is going on:
+
+I have a good knowledge of technologies used in MERN and I took around 1 year to master. I have done an internship as well. Here comes the part where confusion begins, I want to be a CEH and again if I join an institute certified by EC-council, it will take around 1.5-2 years(average time after I researched to learn everything) to be prepared for the job as a CEH.
+
+So, I fall behind by around 2 years, If I go with CEH compared with MERN. Other thing, I know MERN, which means I am already job ready. Here are the 3 scenarios. I was able to assess based on my condition.
+
+Note: Before choosing any option, remember I am not financially stable, I am 24 about to be 25 this December(this is the part which scares me the most). I have responsibilities of my parents, We don't have our own home, we live on rent(We only have small piece of land). I will be taking a loan from one of my friend or maybe from a bank for my CEH course. But the most important is I want to learn at any cost.
+
+1). Just go ahead with CEH course and start working as a CEH after around 2 years which will make me fall behind by 2 years compared to MERN.
+
+2). Choose to go with MERN job and take around 2 YOE, generate savings. Use that amount to learn EH
+
+POST COMMENTS:
+====================================================================================================
+ID: lyzbwit # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My advice is to keep your job and study in your spare time. There’s a lot to unpack here but I think your assumption that passing CEH will land you an ethical hacking job is incorrect. You can learn ethical hacking for free or very cheap on sites like tryhackme and hackthebox academy. TCM academy is also good for entry level. Then aim for something like OSCP. This journey will take years.
+----------------------------------------------------------------------------------------------------
+ID: m1719rl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Who told you to do CEH certification, that's only for stereotypes HRs, it doesn't teach you real skills. First do tryhackme, hackthebox and side by side look what type of cybersecurity field you like most. Like SOC, pentester , security engineer or Application security engineer. Oh there is cloud security engineer also... Then go for any certification on specific area. I'm insane condition but doing my job with learning side by side.
+----------------------------------------------------------------------------------------------------
+ID: m1bpfrq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: why dont u get MERN to fund for your CEH.
+----------------------------------------------------------------------------------------------------
+ID: lyzctla # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Maybe I misunderstood. I see you talking about an institute for learning CEH but I’ve never heard of such a thing. If you are already working in IT and you have a bachelors I don’t recommend you go back to a school or spend any significant amount of money on anything but taking a certification that will help you get a job. Also things like Bootcamps are generally a waste of money.
+----------------------------------------------------------------------------------------------------
+ID: m1wfc1w # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm unaware if I need certifications or not
+ But a lot of people( online resources ) said that I need to get certification.
+
+I'm really interested to be a Pen-tester.
+ So, according to you, I should start working and side by side keep learning. I guess that would be a good option to consider for now
+----------------------------------------------------------------------------------------------------

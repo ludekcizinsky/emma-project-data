@@ -1,0 +1,8 @@
+POST ID: 1in9hsd / POST TITLE: Dreading As a SecOps Engineer
+====================================================================================================
+Is it just me or when you have a manager who delegates tasks after tasks without priorities or requirements, there’s more pressure on you as the individual. I often hear “you have to own it, run with it”…and then when you offer a solution or idea, it’s ignored or you’re told why should it matter. When you have a question or problem, you’re told to “just google it…” rather than the manager presenting their insights or thoughts. I’m the type to learn when seeing it myself or shadowing others, not getting stuck on a problem forever. I get it that sometimes, managers want to challenge you to get the most out of you…but the tradeoff can be getting burnt out.  
+
+I tell myself everyday and every week to find a new job elsewhere, but is this how SecOps is everywhere else? 
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,138 @@
+POST ID: 1ivsqd5 / POST TITLE: Vuln Management solutions by start ups?
+====================================================================================================
+I was looking for a solution for vulnerability management but gearing my search towards startups because of pricing. 
+
+I’ve looked at Snyk, Tenable and other solutions but they seem to cost too much. 
+
+I’ve looked at:
+Aikido: https://www.aikido.dev
+Pensar: https://www.pensarai.com 
+Aquila: https://aquilax.ai
+
+Has anyone used these offerings or know of other options from start ups?
+
+POST COMMENTS:
+====================================================================================================
+ID: me8gdvb # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just be careful. Startups have a terrible half-life and you don't want support for your infrastructure to vanish before you even recover your integration costs.
+
+If they are open sourcing their products, perhaps you could find some comfort in that.
+----------------------------------------------------------------------------------------------------
+ID: me8aeri # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you feel like self-hosting, Wazuh has a very solid setup for free (aside from spending time setting it up.)
+----------------------------------------------------------------------------------------------------
+ID: me8g5qz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Full disclosure I work for the company, but Symbiotic Security ([www.symbioticsec.ai](https://www.symbioticsec.ai)) might be worth looking into. Startup that launched late last year that gives real time fixes for vulnerabilities while developers draft code.
+
+Don’t want to be overbearing so I’ll leave it there. (really hope I’m not breaking any rules, very sorry if I am)
+----------------------------------------------------------------------------------------------------
+ID: me8kfoj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What about defectdojo?
+----------------------------------------------------------------------------------------------------
+ID: me8zfih # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Depending on your infrastructure, vuln mgmt will look pretty different. Hopefully this is helpful! 
+
+https://list.latio.tech/
+
+I also have some articles on what categories of solutions do:
+
+https://pulse.latio.tech/t/market-overviews
+
+This article might be especially helpful if you're seeing what's out there in terms of code scanners, since that can mean so many different things: https://pulse.latio.tech/p/defining-aspm
+
+TLDR though:
+
+I call modern vuln management tools "Remediation Platforms" on the site, but a more common acronym is CTEM. These tools typically don't have their own scanners, and only exist to prioritize third party findings across different scanners. 
+
+ASPM I consider all in one AppSec testing + management. These are tools like aikido or cycode, but aikido for example is more about the testing than the management. The Gartner definition makes the scanners optional, which can be quite confusing if you're looking for testing or just the management. 
+
+CNAPP typically tries to be vuln scanning for every kind of cloud infrastructure, through either "agentless" scanning which clones your disks and scans them on their side, or through an agent. Which tool is best here depends highly on your infrastructure. There are actually quite a few cheaper options out there, and even bigger players like Upwind, ARMO, or Sweet can be cheaper than alternatives. Most CNAPPs are terrible on the code side, but technically do it, conversely, some ASPM even does infra scanning as well, but it's not universal. 
+
+The big incumbents like tenable and qualys are built more around their older agents, and are quite disjointed for modern infrastructure in my opinion, but are still solid solutions if you have an extremely large hybrid environment with not a lot of DevOps happening. 
+
+Hopefully this helps! Based on the solutions you linked I assume you're mostly looking for AppSec vulnerability scanners, and typically I recommend Aikido, Arnica, or Ox for smaller companies without any existing scanners.
+----------------------------------------------------------------------------------------------------
+ID: me9p9tm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you’re not going to invest in the proven commercial technology just use the open source stuff man
+
+It’s better established and less likely to disappear
+----------------------------------------------------------------------------------------------------
+ID: meaeooa # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check out qwiet.ai, impressive codsec approach.
+----------------------------------------------------------------------------------------------------
+ID: meazoag # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What’s your use case?
+----------------------------------------------------------------------------------------------------
+ID: me8acxd # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There are tons out there. Do you have an idea of a budget?
+----------------------------------------------------------------------------------------------------
+ID: me8dr0e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wazuh’s elasticity is fantastic. I’ve tested it in my home labs and was about to implement it at work, before they finally gave me a budget for an MSP to do it. 
+
+I’ve thought about side gigs implementing it for small businesses.
+----------------------------------------------------------------------------------------------------
+ID: me8exjx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Free software is only free is you don’t value your time. :) that aside Wazuh can be a good solution.
+----------------------------------------------------------------------------------------------------
+ID: me8bedv # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looking for a Saas solution
+----------------------------------------------------------------------------------------------------
+ID: me8aphn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looking to stay around ~5k per year. I spoke to Pensar, their platform looks intriguing and even has a focus on ai agents and has an appealing pricing. I just don’t know anyone that’s used them for credibility
+----------------------------------------------------------------------------------------------------
+ID: me8ejty # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s easy to set up for vulnerabilties but I somehow find it complex to do much more aside from that as someone who doesn’t really know how to code, any resources you’d recommend for automated response or anything more complex than just scanning for vulns?
+----------------------------------------------------------------------------------------------------
+ID: me8jbct # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: would you mind sharing what your home lab is like?
+----------------------------------------------------------------------------------------------------
+ID: me8fj2w # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hence the latter part of the comment :)
+----------------------------------------------------------------------------------------------------
+ID: me8bilu # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They offer that as well, maybe check out if they’re more affordable
+----------------------------------------------------------------------------------------------------
+ID: me8bl8t # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don’t have any experience with Pensar but their website does look good. Their pro plan would only cost you $2,400/year so you’d have wiggle room to customize it to how you want it. 
+
+Looks like you get a 14 day free trial too. What’s holding you back from trying it?
+----------------------------------------------------------------------------------------------------
+ID: me8n0bg # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I just gutted it to redo my networking but am rebuilding it. This is what I have so far: 
+
+Proxmox Server- 
+
+Docker VM with portainer. Inside portainer I’m running NGINX, Tailscale, Plex Media Server, home assistant, homepage. 
+
+Also in the Docker is the Wazuh Manager. 
+
+Next VM is a Windows 2022 server with DNS, AD User and Computer, DHCP, and a File Share Server, as well as an NFS one.
+
+Next VM is a Kali Linux that I use for various projects such as PenTesting any projects/ systems I’m working on. 
+
+Next VM is a security onion OS that I’ve been messing with and learning about. 
+
+——-
+
+Most of my time has been working on my portainer stuff. Working on making my cloudflare be nice to NGINX and Tailscale so I can add my home network to a private domain using the VPN tunneling. All the programs are open source and I’ll provide documentation on r/homelab when it’s done
+----------------------------------------------------------------------------------------------------
+ID: me8c618 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m doing their trial right now just wanted to explore other options
+----------------------------------------------------------------------------------------------------
+ID: me8rt98 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Another homelabber. Nice. Thanks for the recommendation on Wuzah
+----------------------------------------------------------------------------------------------------
+ID: me8czf7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gotcha. If you have a good amount of cloud infrastructure, I’ve heard good things about Wiz. Not exactly sure about their pricing though.
+----------------------------------------------------------------------------------------------------
+ID: me8sfwm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you. Home lab is how I break things down and learn more. It’s been great for skilling up as a Sys Admin and red team/ blue team work. 
+
+If I read up on something new or possibly useful, I’ll usually test it on my own environment at home before bringing it anywhere else. Just to ensure I don’t look like an idiot if I bring a new idea up lol. One day I’ll have time to sit down and finish my private domain access with SSO and VPN tunneling.
+----------------------------------------------------------------------------------------------------
+ID: me8xh9h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yea man, I basically have the same use case as you. I use it as a testing environment. I can honestly say learning the sysadmin side of things has made me a way more involved cybersecurity practitioner and I attribute a lot of my homelab stuff for getting me my current job.
+----------------------------------------------------------------------------------------------------
+ID: me99ve9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yea I believe it’s essential to have a Sys admin background or knowledge to grow in most cyber security career field. Or at least it makes the job easier for you!
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+POST ID: 1itvel3 / POST TITLE: Help me generate a PCAP that triggers an Suricata Alert
+====================================================================================================
+I tried so hard, used tools like Scapy, re2pcap and many more but still could'nt trigger the Suricata Alert (sid: 2025113)
+
+The Rule is:
+
+alert http $HOME\_NET any -> $EXTERNAL\_NET any (msg:"ET PHISHING Possible Credentials Sent to Suspicious TLD via HTTP GET"; flow:established,to\_server; flowbits:set,ET.eduphish; http.method; content:"GET"; http.uri; content:"user"; nocase; content:"pass"; distance:0; nocase; fast\_pattern; [http.host](http://http.host); pcre:"/\\.(?:ga|gq|cf|ml|gdn|tk|icu)$/"; classtype:social-engineering; sid:2025113; rev:5; metadata:affected\_product Web\_Browsers, attack\_target Client\_Endpoint, created\_at 2017\_12\_04, deployment Perimeter, confidence Medium, signature\_severity Major, tag Phishing, updated\_at 2024\_03\_07;)
+
+Help a brother out pretty please :)
+
+POST COMMENTS:
+====================================================================================================

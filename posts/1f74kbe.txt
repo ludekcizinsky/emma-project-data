@@ -1,0 +1,14 @@
+POST ID: 1f74kbe / POST TITLE: Advice on login form injection ('<!' and '</' causes error)
+====================================================================================================
+I am doing a bug bounty. I managed to find a server containing a login page for a remote desktop app. It is running windows server 2016 and is running on IIS 10.
+
+The Domain/Username field is susceptible to some type of injection. I have tried sql, xss, and xxe and nothing works except when I input either '</' or '<!' which causes a server runtime error & doesn't return any specific error messages. The password field does not return an error when those characters are inputted. Any advice on what I should try or if someone could point me in the right direction it would be massively appreciated.
+
+[The login form](https://preview.redd.it/lmzlj9w1udmd1.png?width=921&format=png&auto=webp&s=b44f24f75160e411e50479b1a5a5ff7e9f8c10ab)
+
+[Error recieved when inputting the characters](https://preview.redd.it/cwza53e6udmd1.png?width=1606&format=png&auto=webp&s=9b2f9ad25a5f8db36faffbce3721894a031cd138)
+
+
+
+POST COMMENTS:
+====================================================================================================

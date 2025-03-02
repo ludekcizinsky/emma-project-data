@@ -1,0 +1,42 @@
+POST ID: 1f7oscu / POST TITLE: Becoming a Pen tester
+====================================================================================================
+Not sure if this place is the right one to ask but I’ll try my chances.
+I’ve been trying to figure out what exact qualifications I need to become a pen tester (degrees, no degrees, which programs are needed/good, etc) but I’m finding stuff that isn’t for pen testers at all. It’s all about other branches or even other countries (I’m in Canada, Quebec more specifically). Is anyone from Canada able to tell me what exact parkour I need to take? I dont wanna take a program just to realize it has 0 use for what I wanna do and have to redo an entire other program until I find which one I actually have to do. 
+
+Thanks in advance
+
+POST COMMENTS:
+====================================================================================================
+ID: ll9habu # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check cisco networking academy there is a free perfect course about ethical hacking
+----------------------------------------------------------------------------------------------------
+ID: llc76im # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I took EC Councils (CEH) Certified Ethical Hacker certification course. I highly recommend it if you're just starting out. Heads up it's a course with a lot of information. You might find yourself loss with the different OSes or Write up languages.
+----------------------------------------------------------------------------------------------------
+ID: ll8x27g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: /r/securitycareeradvice
+----------------------------------------------------------------------------------------------------
+ID: ll93iwm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lme0ylh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Everyone wants to jump straight into the sexy cyber stuff they see in Mr. Robot. As someone who’s conducted a Pentest before, it’s a moderately fun job when you’re actually running a Pentest, but the majority is documentation, report writing, vulnerability analysis, remediation reports, etc. so little of it is spent doing what you think.
+----------------------------------------------------------------------------------------------------
+ID: llfuukk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yea this a good start point
+----------------------------------------------------------------------------------------------------
+ID: llc76li # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ll93iyh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lme0ync # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

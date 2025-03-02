@@ -1,0 +1,11 @@
+POST ID: 11utua6 / POST TITLE: Prevent iPad from doing a factory reset
+====================================================================================================
+Hello
+
+I  have an old iPad which I got locked out of some years ago. I remember  typing in the wrong PIN too many times, which prompted the iPad to go  into some sort of lockdown mode. It showed a message which said  something about it would do a factory reset. So do any of you guys know  how to prevent the iPad from doing this factory reset? Maybe there is a  Linux tool I don't know about?
+
+  
+Thanks in advance.
+
+POST COMMENTS:
+====================================================================================================

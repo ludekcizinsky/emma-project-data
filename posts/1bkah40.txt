@@ -1,0 +1,15 @@
+POST ID: 1bkah40 / POST TITLE: Setting up pfsense
+====================================================================================================
+Hello, ive been struggling for days trying to set up pfsense on virtual box, anyone who can help would be amazing.
+
+POST COMMENTS:
+====================================================================================================
+ID: kvzoon8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What machines are you working with?
+----------------------------------------------------------------------------------------------------
+ID: kw1n7fq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: kwr2q3w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What steps are you taking to set it up?
+----------------------------------------------------------------------------------------------------

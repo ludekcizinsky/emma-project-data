@@ -1,0 +1,14 @@
+POST ID: 1g79lnr / POST TITLE: Career Advice 
+====================================================================================================
+I'm currently working as automation engineer with Java 5 years of experience and my interest towards the to learn hacking is like considering as passion and dream.
+Does it advisable to learn this thing as this stage of career cause I'm totally confused.
+If yes then which is the best platform to learn 
+Any udemy course suggestions.
+
+Thankyou in advance.
+
+POST COMMENTS:
+====================================================================================================
+ID: lspeqvg # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am going to assume some things based on your post and you can correct me if I am wrong. I am going to assume you have an understanding of Operating Systems and networking. If not, start there. If you are good on all of those, look to Try Hack Me or Hack the Box. Both have great paths to get you started.
+----------------------------------------------------------------------------------------------------

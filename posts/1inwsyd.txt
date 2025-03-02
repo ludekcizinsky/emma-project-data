@@ -1,0 +1,10 @@
+POST ID: 1inwsyd / POST TITLE: Ransomware-Penetration-Testing-and-Contingency-Planning-by-Ravindra-Das
+====================================================================================================
+Completed this book . Anyone looking to get some gist of how ransomware works can give this a try . 
+
+My Notes from this Book :
+
+[https://github.com/ASHDEX/Ransomware-Penetration-Testing-and-Contingency-Planning-by-Ravindra-Das](https://github.com/ASHDEX/Ransomware-Penetration-Testing-and-Contingency-Planning-by-Ravindra-Das)
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,11 @@
+POST ID: 1iohhza / POST TITLE: Leveraging AI to De-Obfuscate large .js Files
+====================================================================================================
+Hello all, I’m working on a project to deobfuscate a large JavaScript file (9mb) that employs multiple methods of obfuscation. The code's been prettified and such but the code replaces original functions, variables and such with names with calls like a0\_0x1feb(0x19a8), and my goal is to replace those with valid names, relating them to their function; so that the final output looks as close as possible to the original pre-obfuscation code.
+
+  
+I'm struggling with finding resources to go about this, and how to effectively employ them. One tool I found was [https://github.com/jehna/humanify](https://github.com/jehna/humanify) to use AI to rename the variables, but I was unsuccessful in getting it to work with such a large file. I also looked into employing the API calls on it's own, but again faced context limits that wouldn't easily be solved with chunking, as it wouldn't be able to cross reference such a large data set I don't believe. 
+
+I'm looking for some general guidance about how I can go about getting a javascript completely de-obfuscated while leveraging AI to it's maximum potential, as I feel like it could excel at something like this. Any help is appreciated. Thank you.
+
+POST COMMENTS:
+====================================================================================================

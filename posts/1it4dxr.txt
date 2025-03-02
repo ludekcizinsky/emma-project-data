@@ -1,0 +1,8 @@
+POST ID: 1it4dxr / POST TITLE: Jamf Pro vs Intune
+====================================================================================================
+Our organization is planning to purchase Jamf Pro. We already have Intune, but we haven't used it. I was surprised that we are planning to buy Jamf Pro without even testing Intune first, which, as I understand, has identical support for macOS.
+
+What can Jamf Pro do that Intune cannot? Theoretically, I can assume that Jamf Pro does the same things as Intune but better. Could anyone provide examples? What is your own experience?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,47 @@
+POST ID: z26jwf / POST TITLE: Need help with CTF
+====================================================================================================
+Ill try to describe the problem best as i can.
+
+Here we go.
+
+I need to extract bash\_history file of admin user. Obviously a dont have a permission to /etc/shadow and etc. The only thing that i have to use is something called "Archiver", which archives all the files of regular user to /var/backups and store it in file 'home-regular-user.tar.gz'. The box doesnt have 'file' command to identify the type of file,but it surely not a regular tar file (I tried to decompress it, the output was "not in gzip format")
+
+I tried to relocate The Archiver to gain permission,and i succeed,but i dont really understand what it gives to me.
+
+https://preview.redd.it/3h6nx8g6sk1a1.png?width=498&format=png&auto=webp&s=d2d84760a25af48069e523ad883138539af11ae1
+
+POST COMMENTS:
+====================================================================================================
+ID: ixi5cho # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I solved the CTF and got the flag,turns out that i can search inside the tool by using -f flag....I just searched for .bach\_history and extract it and captured the flag...This CTFs man.Thanks everybody who participated in this!
+----------------------------------------------------------------------------------------------------
+ID: ixh34zq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: tar -xvf file.tar.gz
+----------------------------------------------------------------------------------------------------
+ID: ixhp6rp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: First use gunzip,  then tar it
+----------------------------------------------------------------------------------------------------
+ID: ixhzys5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check for symbolic links, nano the file maybe it is a read me, or we will have to check the Archiver tool and see what it is doing
+----------------------------------------------------------------------------------------------------
+ID: ixh3ftq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Its not a tar file,its doesnt work
+----------------------------------------------------------------------------------------------------
+ID: ixhr0o3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It didnt work in my case
+----------------------------------------------------------------------------------------------------
+ID: ixh4iko # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you try it?
+----------------------------------------------------------------------------------------------------
+ID: ixh6gx6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you read the post?
+----------------------------------------------------------------------------------------------------
+ID: ixho4g9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: ixizqxf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pretty sure you need to try harder
+----------------------------------------------------------------------------------------------------
+ID: ixhrgvk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The problem is that i cannot understand what should i do next,if i cannot open it the regular way,it means i need to do something else,but what?!
+----------------------------------------------------------------------------------------------------

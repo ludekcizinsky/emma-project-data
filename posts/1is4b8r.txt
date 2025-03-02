@@ -1,0 +1,8 @@
+POST ID: 1is4b8r / POST TITLE: Vendor not sharing SOC2 Report
+====================================================================================================
+I have a vendor who is unwilling to share their full SOC 2 Type 2 report. Instead, they are linking me to their public facing Vanta portal, with green check marks indicating controls compliance in a "Snapshot".
+
+They've also mentioned that any control gap found be the auditor was addressed and is remediated. Is the compliance portal good enough or should I push for the SOC 2 report?
+
+POST COMMENTS:
+====================================================================================================

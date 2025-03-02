@@ -1,0 +1,12 @@
+POST ID: 1fyil23 / POST TITLE: Want to get into this field
+====================================================================================================
+Ive been studying a+ then i’ll move on to networking. Not worried about certs just want to learn as much as i can. Done a few beginner ctfs on picoctf. Any advice is appreciated. 
+
+POST COMMENTS:
+====================================================================================================
+ID: lr3p1wo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A+ information is really outdated and is a two part test, $250 each test. I’d say just move onto Network+ and leave the A+ behind unless you’re really close to finish it. Network+ covers all the basics of networking that you’ll actually have to use in ethical hacking and IT in general. Most A+ jobs will take a Network+ cert anyway like help desks.
+----------------------------------------------------------------------------------------------------
+ID: lrb1p7f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.professormesser.com
+----------------------------------------------------------------------------------------------------

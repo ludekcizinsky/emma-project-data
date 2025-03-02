@@ -1,0 +1,21 @@
+POST ID: 13tidij / POST TITLE: Beginner advice
+====================================================================================================
+I did a beginner networking course last year and was really interest in Linux’s abilities. I did the free tryhackme beginner path but was of course Meg by a pay wall. I was wondering if there were any open source ethical hacking beginner courses that someone with experience would recommend to me. I only have experience with Ubuntu on a vm.
+
+POST COMMENTS:
+====================================================================================================
+ID: jlwoeht # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Maybe for start u should try Metasploit Unleashed. It is free and online with videos, labs, and exercises, an there are basic about ethical hacking and penetration testing using the Metasploit Framework
+----------------------------------------------------------------------------------------------------
+ID: jm1ecd0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not a course per say but thecybermentor has some good content on YT some videos are 12-15h. Might interest you
+----------------------------------------------------------------------------------------------------
+ID: jmhreni # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: this is awesome
+----------------------------------------------------------------------------------------------------
+ID: jmhrjmi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: regarding metasploit, do you know if it's something experienced hackers use regularly or something you're supposed to grow out of? asking for a friend
+----------------------------------------------------------------------------------------------------
+ID: jlxha7v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks will check it out
+----------------------------------------------------------------------------------------------------

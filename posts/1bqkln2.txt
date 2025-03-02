@@ -1,0 +1,13 @@
+POST ID: 1bqkln2 / POST TITLE: Tcm
+====================================================================================================
+Hey guys , im a reallll new comerto the cyber scene and tryong to find out what the best place is to learn. I saw a lot of great things about the tcm all acces acedamy. But my question is, is it smart to buy without any previous experience? Or should i get that somewhere else and get back to the tcm acedamy 
+
+POST COMMENTS:
+====================================================================================================
+ID: kx3zfwv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My advice is learn to type first because none of your commands are gonna work with that many spelling errors. 
+Start on Tryhackme it’s free for beginner lessons.
+----------------------------------------------------------------------------------------------------
+ID: kx42acz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hahahahahaha iphone keyboard problems
+----------------------------------------------------------------------------------------------------

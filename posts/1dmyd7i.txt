@@ -1,0 +1,84 @@
+POST ID: 1dmyd7i / POST TITLE: Has anyone on here done a career change from a non tech background to cybersecurity through certifications alone?
+====================================================================================================
+Title says it all. I’m a nurse. I am done nursing. Considering app academy for swe and realizing that cyber security might better match my interests and temperament. 
+Lots of talking heads on YouTube suggest it’s possible but I’m curious if anyone here has actually done it?
+
+
+POST COMMENTS:
+====================================================================================================
+ID: la0abi9 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah. I was a truck driver before a SysAdmin
+----------------------------------------------------------------------------------------------------
+ID: l9z0n2s # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Many people have done this. Heath from TCM Security worked in accounting and was bored of it before he switched to his passion which was hacking. [https://www.youtube.com/watch?v=1CusVEJFkgI](https://www.youtube.com/watch?v=1CusVEJFkgI)
+----------------------------------------------------------------------------------------------------
+ID: l9zftpm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I mean a lot of people try and the talking heads have financial inventive to make you believe it.
+
+At the end of the day certs can show what you know but not what you can do. With no IT experience it’s gonna be very difficult to get into cyber security and if you wanna go exclusively red team, that’s already a rare job in a rare field.
+
+Certs can help but without an education or experience, you’re gonna have to have a stellar portfolio of personal projects, but that would never get you an interview, just help during one if that makes sense.
+----------------------------------------------------------------------------------------------------
+ID: l9zl960 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes but it’ll take years and years of hard work, dedication, and some luck. I’ve done it and it’s only gotten harder since then.
+----------------------------------------------------------------------------------------------------
+ID: l9z1yws # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just to be clear, I built a few Frankenstein-computers like 15 years ago and since then have been a very basic user. I can’t even code a spreadsheet. But I did a lot of physical penetration testing as a kid and have a knack for finding weaknesses or exploits in whatever situations I tend to take part in…though I’ve never used it to hurt people. My brain is always looking for angles. I’m getting older, need a career change, and it would be nice to put this to use. The rest just seems like tools I can learn but you never know, YouTube is full of people just looking for revenue. It’s good to hear it’s really possible.
+
+Thanks for the link.
+----------------------------------------------------------------------------------------------------
+ID: l9zm3te # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, that makes sense. I’m not partial to red or blue team. I just want in. So IT help desk remote from the Philippines for a few years while I work on my chops? I think I can do that 😎
+----------------------------------------------------------------------------------------------------
+ID: lanqfen # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry if this is a dumb question - what is red and blue team? Hackers and crackers or attackers and defense?
+----------------------------------------------------------------------------------------------------
+ID: l9zrxlq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you think it’s a waste of time to learn full stack and work adjacent while I learn? I ask bc app academy will find me a job or I don’t have to pay for the skills. So it’s a win-win and will diversify my opportunities in the long run.
+----------------------------------------------------------------------------------------------------
+ID: l9zivom # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's absolutely possible. Think about it this way, what if I went into r/nursing and posted there saying I was sick of computers and wondered if I could learn how to be a nurse. Anyone with enough determination to learn can succeed.
+----------------------------------------------------------------------------------------------------
+ID: l9z28sf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ll probably start with Google security and compTia security+ and see where things lead.
+----------------------------------------------------------------------------------------------------
+ID: lanq89i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just want to say to yourself I've always been a person looking for gaps myself, and spent many years in psych nursing on top of which I actually did clinical quality and audit and clinical research with proper RCTs and double-blinded studies. Very much feeling in a similar boat to yourself but trying to contemplate between Systems or Law(which is basically the same thing of finding the gaps) - if you have any success please do let me know the path you took!
+----------------------------------------------------------------------------------------------------
+ID: laof7jb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Its all good, the attackers and defense analogy is the best one I would use.
+
+Basically red teaming is offensive security, they simulate cyber attacks in order to find and exploit vulnerabilities in an organizations IT environment before malicious actors can exploit them, providing insights into the organization's security weaknesses and helping to improve defenses. These are primarily penetration testers and are overall rare jobs to find in cyber.
+
+The bulk of the jobs in cyber including mine are "blue team" which is defensive security. We use tools to defend an organization by monitoring, detecting, and responding to security threats. Me particularly as a security engineer my job is to set up and maintain these tools for analysts to use. 
+
+There is also purple teaming which is a collaborative approach where both teams work together.
+----------------------------------------------------------------------------------------------------
+ID: l9zwwbx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It really depends on what type of ethical hacking you want to do. Pentesting, code review, exploit development, red teaming, hardware hacking, web app testing, etc, all require different skills and toolsets with overlap in various places. Be weary of boot camps and job promises since most of them exaggerate to make sales. Read lots of reviews and try to find someone who has taken it if possible. I can’t speak to that course since I haven’t heard of it. If you have any questions about pentesting/red teaming/webapp training or certs I can probably help
+----------------------------------------------------------------------------------------------------
+ID: la10tqk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Absolutely not at all. Also the way around the whole experience thing is you just start a little company making websites and you just need to get a like 2-5 websites. This gets you experience at another company and adds to your portfolio. Just keep the fact you own the company to your self until your hired and some time has gone by
+----------------------------------------------------------------------------------------------------
+ID: l9ziws9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Here's a sneak peek of /r/nursing using the [top posts](https://np.reddit.com/r/nursing/top/?sort=top&t=year) of the year!
+
+\#1: [Ummm](https://i.redd.it/2uyvzbwuvn2b1.jpg) | [189 comments](https://np.reddit.com/r/nursing/comments/13u88zh/ummm/)  
+\#2: [This is the “World’s Largest Man” in 1890 and he was a circus show. Now, he’s just our average patient](https://i.imgur.com/fidXSLM.jpg) | [453 comments](https://np.reddit.com/r/nursing/comments/13nt0jt/this_is_the_worlds_largest_man_in_1890_and_he_was/)  
+\#3: [This MD was bullied into deleting her account after tweeting this. I genuinely don’t understand what was controversial of this statement](https://i.redd.it/d8g67w36lerb1.jpg) | [536 comments](https://np.reddit.com/r/nursing/comments/16w8ahp/this_md_was_bullied_into_deleting_her_account/)
+
+----
+^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| ^^[Contact](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| ^^[Info](https://np.reddit.com/r/sneakpeekbot/) ^^| ^^[Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/o8wk1r/blacklist_ix/) ^^| ^^[GitHub](https://github.com/ghnr/sneakpeekbot)
+----------------------------------------------------------------------------------------------------
+ID: l9zlmkx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: lol, yeah that’s legit. I have reminded myself a few times I wanted to be a nurse well before I knew anything about nursing.
+----------------------------------------------------------------------------------------------------
+ID: laylqgh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting and fascinating - thank you for the response! Colours can ofc be abstract but I assumed it was offense vs defense - out of interest why are there less jobs in offense? Because it's hard to necessarily find results/penetrate?
+
+
+Ironically like OP I used to work in a nursing field, so the topic too my interest quite quickly...
+
+
+Are there any other colours in between, or even grey/gray hackers/team?
+----------------------------------------------------------------------------------------------------

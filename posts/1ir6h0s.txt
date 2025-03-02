@@ -1,0 +1,1893 @@
+POST ID: 1ir6h0s / POST TITLE: Mentorship Monday - Post All Career, Education and Job questions here!
+====================================================================================================
+This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do *you* want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away!
+
+Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future.
+
+POST COMMENTS:
+====================================================================================================
+ID: md68rfv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How do I get a mentor for my IT/Cybersecurity journey?
+----------------------------------------------------------------------------------------------------
+ID: md6apbl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey there, so I am trying to go through a career change (26M). I've started taking some courses through coursera for CS like Google CS, AI For CS, Python, Network Security and a whole bunch of others. Here's my problem, I know no one in this field. So I am curious, can I get a job in CS with all these and some other CERTS? If not, how can I get into the field? I really do not want to take years out of my life at this point to pursue a bachlors. I would be more inclined to do so if I could get an entry level position in CS first. Then pursue that on the side. Any advice?
+----------------------------------------------------------------------------------------------------
+ID: md6v30a # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good evening, everyone. I am currently going to school for IT, (cybersecurity & networking specifically). I have a history of only blue-collar jobs and I feel so alienated going to school with people who have grown up building computers and have extensive experience with tinkering with computers and I feel light years behind the ball. Lately, I have started watching PC build videos, and intro to networking playlists on YouTube just to try to surround myself with IT information.
+
+I am looking for advice, things to watch, listen to, get into, and just general suggestions on what to do to further envelop myself in the IT culture.
+----------------------------------------------------------------------------------------------------
+ID: md8pykh # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good Morning Cyber Community,
+
+I am transiting into cybersecurity after many years of working in the entertainment business. 
+
+In December I received my CompTIA Security+ Certification and recently passed my MS-900, gaining fundamental knowledge of Azure and Microsoft 365, Microsoft’s cloud based resources. 
+
+My overall goal is to eventually work as a threat analyst, learn the in’s- and-out’s for a few years and then work as an engineer. I’m okay starting at the bottom and working my way up. 
+
+My question is, with my CompTIA Security+ Certification, Microsoft Azure Certification and Google Technical Support Certification, which roles should I be applying for when seeking my first job in tech? Outside of the labs I had to complete during my courses, I have no real world tech experience. 
+
+I currently live in Las Vegas, I’m always hearing that the Casinos and Hotels need cybersecurity personnel but most of the jobs seem to require 3-5 years of experience.
+
+Where should I start? Which roles should I be applying for?
+
+Any advice would be greatly appreciated…
+----------------------------------------------------------------------------------------------------
+ID: md9tolv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi Everyone - I'm currently a worried, job insecure civilian Fed working in cyber and IT procurement with several years experience. I'm concerned that experience will be for nothing once Elon is through destroying the government and all its security standards. I was an ISSO for 3 years before (again, civilian agency), and a systems assessor before that (NIST 800-53). In your opinion, should I: 
+
+1. Transition to DoD work, hoping those standards and investments won't be killed regardless of the political persuasion of the White House? Only problem there is I don't live in the DC Metro area. I don't have DoD experience or Secret clearance or anything - any advice in breaking in there?
+2. Transition to private sector GRC work? Again, I need to somehow break into that field (no ISO, GDPR, SOX experience, unfortunately, so advice would be appreciated)
+3. Transition to cyber engineering? I only really have a compliance background and haven't really done the nuts and bolts of implementation (like say, setting up a key vault in Azure or anything). I see lots of jobs for engineers. Any pro-tips?
+4. Flee to South America with my family and open a beach bar? (Only semi-kidding about that).
+
+I have CISSP and Sec+ and technical writing background too, if that helps.
+----------------------------------------------------------------------------------------------------
+ID: mdagmw9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m currently taking a cybersecurity course and need to conduct a short informational interview with a professional in the field. Unfortunately, my original plans fell through, and I’d really appreciate 10–15 minutes of time to ask a few questions about your career path and experiences.
+
+Please let me know if you can answer a few questions via Reddit chat, discord etc. —thank you in advance!
+----------------------------------------------------------------------------------------------------
+ID: mdak38g # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Need Some Clarification On Asymmetric Encryption Understanding if someone wouldn’t mind helping!
+
+
+So I’m a little ways into my cyber security course and had a question about this.
+
+My understanding of this was a bit confusing so I wrote out an illustrative example of my understanding and wanted to check if it’s correct.
+
+
+*So In illustrative terms, I have my own unique “locks” (public key) I can send out to people,
+
+They can use this custom lock I have to lock a treasure chest and send that chest to me.
+
+But I am the only one who has the key (private key) to those custom locks.
+
+Therefore I can give each person who wants to send me a treasure chest a custom lock and even though they all have the same custom lock, I’m the only one with the key to open them.*
+
+As goofy as it sounds, I have an easier time learning when breaking it down into something more illustrative.
+----------------------------------------------------------------------------------------------------
+ID: mde26jt # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am 18 years old, I had some exposure to cyber because I was in college while in high school but I decided to take a gap year, and right now I think that going back to college would be too much due to financial reasons. I was looking into certifications and boot camps but l’m unsure where to start. Any advice would be helpful, I am just looking for an opportunity to do something great.
+----------------------------------------------------------------------------------------------------
+ID: mde8grc # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Career with criminal background
+
+Hello,
+
+Yes I’m posting this in another subreddit but just for more information.
+
+This is even embarrassing to talk about and yes I know I am a POS for my actions.
+
+I am currently getting a degree in cyber security but I was charged with an assault 4th degree dc(domestic violence). I am pretty sure I am unable to get this expunged. 
+My question is am I still able to get a job in cybersecurity or should I just change my major before I finish it? Also if I am able to get a job am I able to advance through this field with promotions and such.
+
+Thank you
+----------------------------------------------------------------------------------------------------
+ID: mdk7k1h # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hellooo. I’m fairly new to the idea of cybersecurity but I’m really interested in it. I’ve been a fanatic for a while and it’s something I’d like to explore. Does anyone have an idea on how to get started and with what? I’m really lost about it and don’t want to do something unnecessary like Google Cosera lol. I just want to go down the right path without unnecessarily extending my experience and education with bs certifications and what not. I just need some direction please please please.
+
+Thank you!!!
+----------------------------------------------------------------------------------------------------
+ID: me5jwkh # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m currently 17 (About to be 18) and I already know I want to get into Cybersecurity. My goal by the end of this year is to get my Security + and maybe a security clearance because I’m thinking about overseas government contracting. My question is what are some projects that I can put on my GitHub that will increase my likelihood of getting a job.
+----------------------------------------------------------------------------------------------------
+ID: me84gid # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi all!
+
+I am 19 working as a SOC L1 at a big mssp.
+
+Still in my probation period and will be getting a 3 year contract at the end.
+
+Question : Should I stay with the company for 3 years as a L1? or should I find another company and stay there for 2 yrs before moving to another role?
+
+I have pnpt , oscp , sc200. Going to get crte and oswe this year.
+----------------------------------------------------------------------------------------------------
+ID: md7i5al # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey guys, i finished Uni with digital forensics as my major and now i want to make my way into blue teaming. Got myself started with THM to get that practical knowledge and experience but what else can I do better to upskill myself ?
+Please advise
+----------------------------------------------------------------------------------------------------
+ID: md7vmmn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 
+
+Hi everyone! I’m deciding between a Diploma in Networking Technology and a Diploma in Information Technology, and I want to pursue a career in cybersecurity.
+
+Which diploma would provide the best foundation for getting into cybersecurity? Does Networking Technology give a strong starting point, or should I go for a more general IT diploma and specialize later?
+
+Would appreciate any advice from those in the field! Thanks!
+----------------------------------------------------------------------------------------------------
+ID: md7yckm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Career guidance
+
+23M working as network security researcher in a product based company (legacy product) since 3 yrs
+-no promotion/good pay
+-no learning due to a lot of work load as team size shrunk
+-no guidance bcz there are no seniors to work well and learn from them.
+
+
+I got an offer in a contract company, we will work in well known IDs/ips teams as contract workers:
+
+-the work I'll do here is something I've already done long back at my present company.
+-contract based so there won't be full access to the product to learn new things or add to my resume.
+-they might not take us as full time employees and it'll be same mundane routine work till I move out of this new org.
+
++100% hike in salary 
++Bcz I've done this work already, I'll save half day everyday (from info I got calculations I can make). So I'm thinking to use my remaining time to write blogs on research, do GMAT, oscp, grem,...
+
+Now I'm in a dilemma thinking:
+1. If it'll make my job shift to better companies further if I'm going to be in this contract company.?
+2. Will my resume be impacted if it has experience as a contract worker.?
+
+
+Please advise and give pointers that'll help me out of this dilemma.
+----------------------------------------------------------------------------------------------------
+ID: md7yp38 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm currently looking for a new job, and trying to figure out how to best define myself.  I've been working at GCP for almost five years, focusing on developing infrastructure for onboarding and permissions management.  Prior to that I spent two years working for a small cyber security startup on wireless (802.11) monitoring and intrusion detection.  
+
+At the moment, I'm pretty familiar with IAM and auth for cloud services.  I'm considering moving to a more security-focused role or company.  Can I get some advice for what kind of roles might best suit me and/or what companies I should look at in the SF Bay Area?  I'm a developer that likes to make things, but I'm also interested in the security space and want to figure out how to capitalize on my existing skillset.
+----------------------------------------------------------------------------------------------------
+ID: md8ejz9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi guys! Thoughts in Net+ to enter to cyber?
+----------------------------------------------------------------------------------------------------
+ID: md8zu28 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m currently working as a full-time Customer Support Specialist in a FinTech start up, and I’m also aiming to transition into cybersecurity. Recently, I got the chance to apply and land an offer for an Identity and Access Management internship. I am wondering if it would be practical to go for an IAM internship to advance to cybersec. I have about a year and a half till i finish Uni.
+
+Here’s the catch:
+
+* I’m already in a full-time role, which provides job stability and a steady income.
+* The IAM internship is a 5% increase in pay.
+* The internship most likely would give me exposure to cybersecurity tools and concepts like user authentication, permission management, and security audits.
+* I’m also interested in IT auditing and eventually transitioning to roles like cybersecurity consultant or even a C-level role in the future.
+* I hate my Support Job will all my heart
+
+Should risk the full time role to go for this Internship?
+----------------------------------------------------------------------------------------------------
+ID: md93uxq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Career Guidance needed. 
+
+I am about to graduate next month with my BS in Cybersecurity. 
+
+I have: 
+A+,
+Net+,
+Sec+,
+ISC2 SSCP (associate due to lack of experience),
+LPI Linux Essentials.
+I should have Pen+ next month. 
+
+I have been trying to break into the field with internships, helpdesk, anything really to get going with experience and I have not landed a single interview. I've tried, on site roles, hybrid, and remote. I've tried networking on LinkedIn and reaching out to recruiters. I'm located in Ohio, if that makes a difference. 
+
+I would prefer hybrid or remote because I do have a disability that makes it dangerous to drive some days. Sometimes I wonder if marking the "I have a disability box" is really there to just kick my resume out. 
+
+I have no idea what I'm doing wrong. Any advice would be so appreciated! Thank you!
+----------------------------------------------------------------------------------------------------
+ID: md9apvx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m a 22-year-old currently working toward my Network+ certification While I’m not enrolled in a traditional school, l understand that certifications and experience often hold more weight in IT vs a traditional education, so l’ve been taking online courses from Dion and Messor to build my knowledge for the exam.
+I’ve identified some great IT companies in my area and am considering reaching out to managers or department heads to inquire about internship opportunities. My goal is to gain hands-on experience and develop my skills.
+My question is—should I start pursuing internships now while studying for my Networkt, or would it be better to wait until I’ve secured the certification? I feel having the cert would strengthen my case for the internship, but gaining experience sooner could also be beneficial. 
+
+whats your advice on this?
+----------------------------------------------------------------------------------------------------
+ID: md9j6i2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, i just started studying cyber sec in Uni, and i want to study a head.
+
+Will sql be useful for a job?
+
+Should i learn Python? If yes, how far should i go?
+----------------------------------------------------------------------------------------------------
+ID: mdaear5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi! I am a first-year university student pursuing a bachelor’s degree in computer engineering.
+In the past, I studied for the CCNA 200-301 and I have been doing CTFs for two years. Now, I have many doubts about how to apply for a pentester role. My plan is to study for certifications after my bachelor’s degree and then possibly pursue a master’s while working.
+However, I have read that the market is saturated and constantly changing. Can someone give me some advice?
+----------------------------------------------------------------------------------------------------
+ID: mdaus6u # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good afternoon: I want to make a career change into cyber security, but I don't know if my 2 drug felonies are going hinder me? Please help if you can. Thanks.
+----------------------------------------------------------------------------------------------------
+ID: mdc1ddr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: IT Technician with good hardware background, diploma and 4yr experience on position. Summary covering whatever is required on IT side in company (from hardware, through services, emails, servers, network and support - around 200 persons company). Recently I started CompTIA PenTest+ course with CMIT. Any advices how to start in cybersecurity after that? I always was into cybersecurity and I think that this area as very interesting so few months ago I decided that I should go with that. Recently after email breach in company (stolen session) I was looking through everything and it's satisfying when you're finding information which help to find out what exactly happened how attacker worked etc. What courses / next step should I take after current course and what is best way to start? Currently earning ~35k/a so I guess that it will be hard to  go lower even on start but I've willing to get experience and I don't expect crazy money until I'll get proper experience. Thanks for any advices!
+----------------------------------------------------------------------------------------------------
+ID: mddf6gq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello so i will be quick and to the point as the title says i got my first corp job after uni graduation "bachelors in media engineering & technology" aka software engineering.
+
+I tried work as a web developer and later on i found my passion in cybersecurity, since then i got certified Security + , now working on SOC Level 1 on tryachkme and since graduation i am applying to jobs. I applied to over 70 security jobs even admin jobs and technical support, and the only answer i got was from a Digital media distribution company as **a Data Input/Output Specialist.**
+
+My job is to make sure data goes from point A to B on time and securely. There is a lot of security but mostly in practice and not very technical (stopping attacks, exploiting, scripting.. etc). I like the company but for that reason i am afraid i am wasting my knowledge or am overqualified and settling to the only response i got. It feels like a system admin almost fulfilling ticket requests through a queue (as best as i can explain it)
+
+Lastly, I wanna make some things clear i am studying on the side SOC Level 1 and after plan to get CEH certified and applying for masters in germany starting in October but not sure at all to get due to my average bachelor grades. That said i would not like to be wasting my time wether i get accepted and quit or denied as currently between the job and studying i can barely workout but my social life is clapped which i am totally fine with as long as it is worth it. 
+
+So experts of the field enlighten me <3, Thank you
+----------------------------------------------------------------------------------------------------
+ID: mddmnk6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've been accepted to WGU and Indiana Tech for cybersecurity. Which one do you all think I should attend?
+----------------------------------------------------------------------------------------------------
+ID: mde0ota # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Digital Asset custody, Cryto Career transition
+
+I’m planning to transition into a digital asset custody cybersecurity role. I have certifications in CISSP, CISA, and CYSSA. I’ve been studying OSCP, OSWA, and OSWE materials and other pentester academy stuff and ine stuff have around 4 pci audits under my supervision and several other, as well as several SANS courses, including 554, in the past. However, I’m still struggling to determine what I should learn to become more proficient and knowledgeable in this field. I’ve participated in quite a few crypto CTFs, but I feel I need more guidance and expertise. I’ve tried using ChatGPT and Deepseek to help me navigate this area, but I’m still not sure if they’re the right tools for me. If anyone can provide me with some resources or guidance, I would greatly appreciate it. Planning on taking on bugbounty on crypto companies to start
+----------------------------------------------------------------------------------------------------
+ID: mde0u4h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you really need to be very smart to get into cybersecurity? What has been your experience in cybersecurity..are there any of you who don't have a CS degree? How did you get into cybersecurity?
+----------------------------------------------------------------------------------------------------
+ID: mdf9kb2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Advice needed choosing BS in Cybersecurity program (college)
+
+My Employer is paying for a BS in Cybersecurity and I can’t decide which one of these colleges have a better online program.
+1.SHNU (Southern New Hampshire University)
+2.Bellevue University
+3. Wilmington University
+4. University of Maryland Global Campus
+5.Excelsior University ( BS in Cybersecurity
+Technology)
+Anyone who has gone through these programs or colleges please point me in the right direction. My main concerns are;
+
+1.The college ranking (reputation)
+2. Quality of the program and employability rate. 
+
+All fully online (busy parent) and fully paid scholarships.
+Please advise what would your choice and why.
+----------------------------------------------------------------------------------------------------
+ID: mdfu46h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have IT experience for about 4 years now. 
+Consultant and Security experience, for my resume I have 2 pages and I’m wondering if that’s enough?
+----------------------------------------------------------------------------------------------------
+ID: mdg39we # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am 18 year and considering my career options. I am thinking of engineering or a cyber security degree. I am from ireland and I belive the job growth in cybersecurity will be good. Is there things I should do so I will know which career to pick as I have no experience in both. Thanks
+----------------------------------------------------------------------------------------------------
+ID: mdgecme # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdgjx8k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: • am a newbie , and just started learning coding langueges , so do i have to all coding languages to enter cybr securty ,
+• and i dont have any educational background related to cyber security , 
+• so am i able to achieve a degree in cyber security ? 
+• and can anyone Cybr sec expert guide me the road map for cyber sec!
+----------------------------------------------------------------------------------------------------
+ID: mdgmmcb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdgprvy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm majoring in Computer Engineering and was considering minoring in Security Technology with my interest in CyberSecurity. Will employers take me seriously for any cybersec roles with a minor, or would it be better to just collect certs like sec+ and cysa+ and minor in something else like software engineering or psychology?
+----------------------------------------------------------------------------------------------------
+ID: mdgs7oe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi all. I am looking to make a change in my career from Telecoms and Cyber Security is something that has been on my mind for a while now. 
+
+I'd really like to get some recommendations for training courses to get started. I am UK based and I've come across Just IT and Learning People but I'm seeing mixed reviews and I wanted to make sure I am getting the best possible start. 
+
+Thanks in advance!
+----------------------------------------------------------------------------------------------------
+ID: mdgv96p # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can anyone look over my resume. I am graduating in the spring and I have not heard back from any jobs that I have applied to yet. I am applying for help desk roles, sec analyst roles, net analyst roles. I think my resume might be the issue   
+[https://imgur.com/a/PsvAKYU](https://imgur.com/a/PsvAKYU)
+----------------------------------------------------------------------------------------------------
+ID: mdh7r2z # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello,
+
+I am seeking advice on choosing between two schools primarily based on the math requirement of each.
+
+Oregon State University requires math 251 and 252. 
+
+Eastern Oregon University does not.
+
+I have taken precalculus many years ago and struggled. I got a C. It was really the first course I took in college that I realized you had to actually put work into outside of just going to class in order to succeed and as a young adult I just did not put in that work.
+
+I am returning to school many years later because I want to finish a bachelors. I have a career as a first responder and work full time nights so I will be completing the degree online and these schools are in partnership with my current CC, transferring will be easy, so that's how I narrowed down these two.
+
+Completing a bachelors is a personal goal and is mainly something to fall back on since I have my first responder career and also possibly could advance in digital forensics in my career.
+
+All that to say, I feel confident that if I wanted to pass calculus I could. I understand I would have to put in a lot of work. I am interested in using kahn academy to brush up on my algebra, pre calc (maybe retake altogether), etc.  I might have to take just the calculus class one semester in order to really focus on it, while managing work full time, but I COULD do it.
+
+Is it worth it though? I am not sure. As stated previously, it's mostly a personal goal to get the degree and a fall back since I have a career. 
+
+Does one degree look better than the other? Is that important? Interested in hearing others advice and opinions. TIA.
+----------------------------------------------------------------------------------------------------
+ID: mdhjh27 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello,
+
+I am in my second year at university, majoring in computer engineering. Next year, I have to choose a specialization, and I have recently developed an interest in cybersecurity. I am currently taking a course about cryptography, and I really enjoy it.
+
+Do you have any tips or suggestions if I want to pursue a career in this field? What do you like and dislike about your job? What are the main career paths in cybersecurity? Should I start obtaining certifications early on? How difficult was it to find a job after college? Also, is there room for advancement in your company? Is there always an opportunity to grow and develop professionally?
+
+I am from Central Europe, but if I had the opportunity, I would definitely like to work in the USA. I hope my question is relevant to the topic.
+I would appreciate any tips.
+----------------------------------------------------------------------------------------------------
+ID: mdhvrp0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: **Can I Transition into Cybersecurity Audit with a Background in Evaluation & Monitoring?**  
+I'm considering a career change into cybersecurity, specifically in audit or assessment. 
+
+My background is in process analysis, monitoring, and evaluation—developing assessments for development cooperation. I want to explore something I'm interested in, but I have no formal education or experience in cybersecurity and I'm aware the current job market is not good.
+
+**How viable is it to break into cybersecurity auditing?** Are there transferable aspects from my evaluation background that could be valuable? 
+
+**Should I focus on certifications like CISA or Security+? Or should I consider another cybersecurity path for entry level?**
+
+Any advice or insights from those in the field would be greatly appreciated! 🙏
+----------------------------------------------------------------------------------------------------
+ID: mdidnxk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello: 
+
+  
+i would love some opinions on what my next steps should be? I have a cert through the NJIT cybersecurity bootcamp but I have yet to find a job. is it worth doing the Google Cert and CompTIA security+ cert? or do you recommend getting an associate's degree?
+----------------------------------------------------------------------------------------------------
+ID: mdj5l4f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As many say, there are many roles within this great field. My question is what things would you not do or avoid for someone starting out?.I think it is more enriching to learn from the mistakes and experiences of others. I listen to their advice and experiences. I hope in the future to do the same for others.
+----------------------------------------------------------------------------------------------------
+ID: mdjtei6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello everyone, hope this gets answered as it seems a lot of people need help lol. I am 22 and recently out of the military I have my full GI bill and I’m going to use VR&E first. For background I was an all source intelligence analyst while for 3 years. I’m currently undecided but I’m looking to start a career in either cyber or information technology and was looking for some advice. First off I know it varies by company policy but how is marijuana use treated I have a medical card and rely on it for migraine / chronic pain relief. Secondly I know a lot of roles are remote but takes time to get into them but what’s that like ? With my current health conditions I’m looking for a remote role but am willing to work in person until a role is available. And lastly where to start ? Some people have degrees and some people just have certifications what would you recommend? I’m sure it’s a case by case thing but in terms of job security / growth which do companies value better experience and a cert or would they rather have someone with less experience but a degree. Thanks!
+----------------------------------------------------------------------------------------------------
+ID: mdlab2k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My tech job unexpectedly let me go. Currently in my young 20s. I’m having a hard time finding what I need to do next.
+
+I have a degree in Cyber Security but no certs yet, currently planning to get my Network+ and CySA+.
+
+For labs I’m also doing TryHackMe, they also have completion certs, can anyone let me know if this is a good route to get my feet back up?
+----------------------------------------------------------------------------------------------------
+ID: mdlgukh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Spunk courses for cyber security 
+
+Any recommendations for cyber related Splunk courses? I want to get more knowledge and experience with Splunk for my role as an Information Security Analyst. 
+
+Additionally, do you have any useful Splunk queries i could use in my organisation?
+
+Thanks all
+----------------------------------------------------------------------------------------------------
+ID: mdlijjt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi, I have a job offer for 82,500 EUR gross from a company based in Düsseldorf.
+
+My position would be an information security GRC expert. I have 7+ years of professional experience 4 of which are in information security.
+
+I have bachelor's and master's degrees in business. I worked for 3 years in that field.
+
+In addition to working in information security, I hold multiple certificates with the most relevant being ISO 27001 LI.
+
+Does the proposed salary make sense or is it too low for German market considering my background?
+----------------------------------------------------------------------------------------------------
+ID: mdm2nbu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi guys! I‘m pursuing International Relations and Comp Sci in my undergrad. If I want to pursue cybersecurity is it more beneficial to go for a masters or is it better to focus on certificates? I’m most interest in government and national security jobs but not limited to that. Thank you for any input!!
+----------------------------------------------------------------------------------------------------
+ID: mdmmrr0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Very interested in the field, they have a 2 year program degree for Cyber security. Would y’all recommend that? Or just get certs? Or would a 4 year degree be worth it. What route did you take to get your job?
+----------------------------------------------------------------------------------------------------
+ID: mdmzbhb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Seeking Advice:  
+Currently Hold: CISSP, CCSP, SEC+, PMP, Rubrik Administrator, Masters in Cyber Security and Info Assurance
+
+Used to Hold: Multiple Microsoft Server Admin certs, ITIL Foundations 1.0
+
+Thinking about 1: CISM, CGRC, CRISC
+
+Thinking about 2: "Chief Technology Officer Programme" - from University of Cambridge (Can anyone Recommend?)
+
+Disappointed in: C|CISO
+
+Goal: looking to obtain a CIO or CISO role / executive role before leaving gov service and then get a CIO/CISO roll in the commercial sector.
+
+Currently work for the Government in Cyber. Provided I'm not downsized in one form or another I want to put in another 15 years with the Government before heading back to the commercial sector. Currently put my plans to look for a promotion on hold, even though I am eligible and have been getting green lights in the past few weeks.
+
+Also spending time learning and using AI in any cyber or work related task I can every day. Anything from scripting to analysis to policy review and comparison.
+
+I am planning on an MBA as a must have from a rather good school before I leave gov service. Spoken to several co-workers in my agency and I am disappointed in what I have heard about the C|CISO, doesn't sound difficult at all. One of my co-workers said once he got his CISM, because he already had his CISSP, they gave him the C|CISO. Not the kind of cert I am looking for if they're just going to give it away - I'm looking for the next CISSP level certification. Thoughts?
+
+For those at the higher level what is the current value of the CEH certification, (Certified Ethical Hacker)?
+
+Also Interested in "Chief Technology Officer Programme" from Cambridge University. Has anyone been? Can anyone recommend it? Valuable or expensive resume fluff?
+
+What certs, skills, experience would you recommend for someone who wants to be ready for that 300k-500k+ CISO, CIO Position in 15 years?
+----------------------------------------------------------------------------------------------------
+ID: mdnl2od # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISO or CRO?
+
+Originally I had thought long term career goals maybe I would want to be a CISO. Recently interviewed for a position at a different company and spoke with their CISO and it was a really good talk but this CISO mentioned if they had to do it all over again they would have went for a Chief Risk Officer role because it is more satisfactory and also more lucrative. Curious to hear if anyone has experience in either of these two roles, what they feel more fulfilled with, and what seems to be more the lucrative option in your opinion.
+----------------------------------------------------------------------------------------------------
+ID: mdo5vkh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Planning to switch my focus from AI to Cybersecurity. DSA is not for me. I feel more inclined towards Cyber security. Although I am starting from scratch; learning networking, cloud and linux fundamentals. Just one question, is it worth it? I am planning to lock in myself after I wasted years behind AI. I am curious to know from you experienced peeps whether Cyber security is worth the struggle and rewarding enough in the long term?!
+----------------------------------------------------------------------------------------------------
+ID: mdols6l # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wanting to go college for cybersecurity, 1. What kind of cybersecurity security degree should I go far that im gonna wake up every day and actually love and also pay really good 2. Should I go for bachelor or higher
+----------------------------------------------------------------------------------------------------
+ID: mdospyz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are there any remote apprenticeships in the US for cybersecurity?
+----------------------------------------------------------------------------------------------------
+ID: mdpc4lv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I got some learning experience and even made a few certificates (Google cybersecurity, cisco IT, ICDL, tryhackme course completed for SOC) but still I am a student and want to gain actual experience like with a job in that field. So any advices where now i can go even further? Like for example weekend freelancing or afterschool activities? I am really passionate about this and want to keep pushing.
+----------------------------------------------------------------------------------------------------
+ID: mdpeu6v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey Cybersecurity! I’m seriously considering making a career move into cybersecurity. I currently have a BS in Accounting with 3 years of accounting related experience. Has anyone successfully been able to segway into cybersecurity with a finance background? If so, what helped the most to land a job (college degree, certifications etc).
+----------------------------------------------------------------------------------------------------
+ID: mdpmqeb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Any advice on self teaching?
+
+Hello, does anyone have any information on self teaching for cybersecurity?
+
+I wan to get into cybersecurity, but I don’t know where to start or where to find reliable sources.
+
+Books, websites, videos, really anything would help.
+----------------------------------------------------------------------------------------------------
+ID: mdq6r3t # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Which is the right platform to start your cloud security freelance
+----------------------------------------------------------------------------------------------------
+ID: mdqvwe7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Any advice on setting a path?
+
+Hello, I’m just getting started in my journey into cybersecurity but was looking on some insight on goals I should set or certain things I should do to create a path for myself to follow. Currently working towards the google cybersecurity certificate just to get a ground work.
+
+Any advice would help, even video/book suggestions!
+----------------------------------------------------------------------------------------------------
+ID: mdr4p9i # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Struggling finding job/experience
+
+Hi all, been watching this subreddit for a couple months now, figured it was finally time to ask for some advice.
+
+About 6 months ago now, I graduated online with a degree in cybersecurity from Colorado State. A few months before I graduated,  I started looking for internships, entry level roles, or just any sort of experience to get my foot in the door and let’s just say- it’s been pretty defeating. I spend almost every day applying, messaging people on LinkedIn, emailing, just trying to make a connection to potentially land me something- and it’s been no luck. I have not even been able to land an interview and I’ve probably tried at least 100+ places. Where am I going wrong? What steps should I take?
+
+To talk a little about my background- I’m an operations lead for a catering company in my home town, and I also worked as solutions specialist for Verizon. Other than that, I don’t have much professional experience outside of my associates in business and bachelors in cyber. I don’t have any certs, mostly because all I have seen are pretty pricey + I’m in debt with credit cards and student loans. Is there a certification that’s on the cheaper side (less than 200$?) that could potentially bolster my resume? Honestly looking for any and all advice- definitely at a block in the road here and looking for advice.
+
+One last thing to add - from what I’ve seen on here, cyber isn’t really an entry level field to get into, and I’m best off applying to IT and entry level help desk positions, which I have really focused on the past couple months and still really had no luck.
+
+Thanks in advance for any advice given below , it’s truly appreciated!
+----------------------------------------------------------------------------------------------------
+ID: mdrdgqb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looking for career advice. 
+
+I’ve been a Security Engineer for about 2.5 years now. My first year I was a junior and was my first professional full time job doing government contracting. After that I was moved into a more senior role as one of two people holding down my companies position on a contract, with the only other person being my team lead.
+
+On each preformance review I’ve done, I’ve either gotten a perfect or near perfect score. I’ve gone out of my way to take any opportunity my company throws my way but ever since I last got officially promoted I’ve felt immensely stagnant and like I’ve lost agency over my career.
+
+The reason for this feeling is because when I got promoted I was told “no certifications or new knowledge will increase your salary or move up your position in the company. You just need to put in the time.” The most I got in terms of things that can increase my agency to move forward in my career is got “get a Masters degree.” This does make some sense, but I’m going for my PhD, so “getting a Masters” is not going to just happen for me. Though I do understand this is my choice and I do recognize that not directly going for a Masters is me choosing my personal interests over my career.
+
+The worst part is that I decided to interview for other companies but I’m either getting rejected for my lack of years of experience or when I do interview, I find the interviewers are asking questions they would a Junior or mid level engineer, and I have no issues answering their questions, but when I get their offers, It is much less than what I make now and for a position less senior.
+
+I want to move forward. I hate how stagnant I feel. I want new challenges. I even have been helping other departments where I can just to have new and interesting challenges to help tackle. I just don’t know what to do with myself. I have started to accept that I may just need to put in years to be accepted into higher roles, but I find it extremely depressing that it has little to do with the quality of the work I do and my knowledge/capabilities.
+----------------------------------------------------------------------------------------------------
+ID: mdrdjb9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello all, I know this question may have been asked many times but I need some guidance. Im expecting to start my internship soon, it isn’t CyberSec related but more IT. I have sec+ currently but wanted to see if anyone recommended to get the splunk user certificate aswell. Ive seen it listed on some job applications, but I also want to be familiar with the platform. Should I go for a udemy splunk course instead? After learning a good bit, I just want something to prove that I do know how to do a task asked/ expected. Thanks!!
+----------------------------------------------------------------------------------------------------
+ID: mdrm8jw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not looking to get a job immediately but I am currently In school for computer science (I know I know the job market) but I wanted to know how to get my foot in the door of cybersecurity where do I start security + ,a,etc?
+My goal is to try and look for internships at the end of the year so I can change my resume around before I graduate (I’m a truck driver and it kind of looks crazy to go from that to tech)
+----------------------------------------------------------------------------------------------------
+ID: mdshutc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi I am just doubting on what possible path is better suited for me. I am a CS student (as many others here from what I can see haha) I have a bootcamp in some cybersecurity thing that i was granted via a scholarship.
+
+I have experimented on linux many other times and toyed around with many concepts and am currently working on personal projects (setting different networks through virtualized environemnts) and  want to do many more to familiarize myself with different things I enjoy, mainly setting and developing environments/networks, creating tools to do certain tasks or setting tools for said tasks. 
+
+I enjoy toying around with linux, I enjoy networks and different sublevels of knowledge domains of computers and systems as a whole, I like the concept of cloud and want to toy a lot more with it.
+
+  
+So from all of this I am just wondering what path would be better suited for me, cybersecurity engineering interests me but i am not attracted to being a SOC analyst at all, devops sounds good as well? and then system engineers/cloud engineers also attract me but I do not know which path would be better suited for me and what ways i could set myself for said path so I would be very thankful on any guidance.
+----------------------------------------------------------------------------------------------------
+ID: mdsx9m1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi everyone. I just landed my first job as Junior security detection analyst. Its my second job since graduating from university and I'm a bit nervous about what to really expect. I was curious if anyone had advice on what things to focus on/avoid and how you manage a good work life balance working from home. Any advice or tips would be greatly appreciated. Thanks!
+----------------------------------------------------------------------------------------------------
+ID: mdsxep9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I like the idea of doing Malware Analysis / Secure Software Development in the future. Combining Cybersecurity, Programming, possibly Machine Learning.  
+  
+Is this path overly ambitious/crazy?:  
+IT Helpdesk / Internship -> SOC -> Software Development -> Pentesting -> Threat Hunting/DFIR -> Malware Analysis -> Exploit Development / Secure Software Development / Security Research (utilizing ML)?  
+  
+Background: MS in Cybersecurity, 2 years part-time Java Development, starting to forget programming, doing THM.
+
+I know some would suggest skipping helpdesk in this case, but I like the idea of a more social role, improving softskills, helping people, and getting practical groundwork IT experience. I've just learned about Active Directory for example.  
+At the same time, I would like to utilize programming in the future (preferably in C/Rust/Python/Haskell), perhaps even web development as a personal project.
+
+I don't really want to skip anything. I don't mind lower pay, working odd hours early in the career, etc. I know priorities can change and I can figure stuff out as I go.
+
+So my question really is, is it a good idea to look at Helpdesk or Internship jobs first or should I start with something else? Is anything less essential? Is it too drawn-out, risking burnout before I get anywhere near MA?
+----------------------------------------------------------------------------------------------------
+ID: mdtfj3n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I just passed my SEC + this year, and I am now looking for a career change in cybersecurity. I have knowledge and self-taught in Python. I'm looking to work remotely or hybrid in the greater DC area. what can I do to my resume to land the position, as my experience is limited to school classes and being inside the IC community for the government.
+----------------------------------------------------------------------------------------------------
+ID: mdtqp87 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello all,
+
+I'm a licensed mechanical engineer with some experience in the IT field as a system administrator. When I began working in the IT capacity, I designed and modernized our new controls system on secured network system as well as maintaining large database and infrastructure on our local networks. Eventually I ended up lead a team of Data Scientists and Software developers to develop one of the first in its kind optimization application. This was about 2-3 years ago. 
+
+After working solely as a mechanical engineer during this time, I am getting the itch to get back into the IT field as I really enjoyed it back then. I would lose track of time and before I know it 8 hours had gone by. I want to focus more on cyber security but work life balance is a big thing for me. I'm taking certificate courses like Google Cyber Security and going to attempt to get my Sec+ certification as well.
+
+I'm looking for someone whos been in the field to help me imagine what it is really like working in cyber security. Reading articles and job descriptions doesn't tell me what day-to-day experiences are and how that could potentially impact my life with my 2 kids who are still toddlers. I'm not sure where to even head into in cyber security as well as it is such a big field to navigate in and there is no one correct choice either. Sometimes I feel like I'm just jumping into the deep end of the pool and trying to stay afloat.
+----------------------------------------------------------------------------------------------------
+ID: mdtrgh3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: These are the units offered by my university for two separate degrees. Which of the two options is best to become a cybersecurity professional?
+
+| Option 1 | Option 2 |
+|----------|-----------------------------|
+| Calculus I | Communication Skills I |
+| Calculus II | Communication Skills II |
+| Communication Skills I | Computer Networks |
+| Communication Skills II | Computers Fundamentals |
+| Database and Enterprise Systems | Database Systems |
+| Discrete Mathematics | Differential Calculus |
+| Fundamentals of Economics | Discrete Mathematics |
+| IT Fundamentals | Fundamentals of Economics |
+| Introduction to Computer Networks | Integral Calculus |
+| Introduction to Programming | Introduction to Programming |
+| Linear Algebra | Linear Algebra |
+| Object-Oriented Programming | Object Oriented Programming I |
+| Philosophical Anthropology | Philosophical Anthropology |
+| Principles of Management | Principles of Management |
+| Computational Modelling | Service Based Learning |
+| Computer Organization and Architecture | Advanced Networking |
+| Cryptography I | Computer Organization and Architecture |
+| Data Communications and Networks | Data Structures and Algorithms |
+| Data Network Design and Management I | Digital Logic |
+| Data Structures and Algorithms | Language elective I |
+| Entrepreneurship Skills | Language elective II |
+| Language elective I | Object-Oriented Programming II |
+| Language elective II | Operating Systems |
+| Internet Programming | Principles of Ethics |
+| Introduction to Telecommunications | Probability Statistics I |
+| Network Programming | Probability Statistics II |
+| Principles of Ethics | Software Engineering |
+| Probability and Statistics | Systems Analysis and Design |
+| Wireless Telecommunications | Web Application Development |
+| Project I | Advanced Database Systems |
+| Cryptography II | Artificial Intelligence |
+| Data Network Design and Management II | Assembly Language Programming |
+| Embedded Systems and Internet of Things | Automated Theory and Computability |
+| Ethical Hacking I | Project I |
+| Language elective III | Computer Graphics |
+| Language elective IV | Computer Security and Cryptography |
+| Internetworking Communication Systems | Language elective III |
+| Introduction to Cyber Security | Language elective IV |
+| Mobile Application Development | Internet Application Programming |
+| Network Security | Human Computer Interaction |
+| Research Methods and Technical Writing | Microprocessors |
+| Server Administration | Mobile Application Development |
+| Service-Based Learning | Operations Research |
+| WAN Technologies | Research Methodology and Technical Writing |
+| Wireless and Mobile Security | Server Administration |
+| Work-Based Learning | Compiler Construction |
+| Artificial Intelligence | Computer Simulations and Modeling |
+| Business Law | Computing and Business Law |
+| Cloud Computing and Security | Computing for Bioinformatics |
+| Project II | Corporate Governance and Sustainability |
+| Corporate Governance and Professional Ethics | Distributed Systems |
+| Cyber Law | Embedded Systems and Internet of Things |
+| Digital Forensics | IT Entrepreneurship and Innovation |
+| Ethical Hacking II | Project II |
+| Privacy Enhancing Technologies | Information Systems Security and Design |
+| Project Management | Machine Learning |
+| Special Topics in Computer Networks | Multimedia Applications |
+| Special Topics in Security | Social Informatics |
+|  | Work Based Learning |
+----------------------------------------------------------------------------------------------------
+ID: mdtxcve # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I didn't get an internship - what should I do now?
+
+To give a brief overview, I'm a junior in college majoring in Cybersecurity and minoring in Criminal Justice and Computer Science with a 3.6 GPA. I know my resume isn't great - I have no experience in the field. I worked at Best Buy for a year and am currently working at Giant Eagle since last year. I recently switched over to Cyber as it is a very new program in my university. Before that, I was a Computer Science major. I applied for both cyber and help desk internships, and have gotten all denials with the same copy/paste reason - my experience isn't tailored to what they're looking for. I could give up, but I want to see what I can do from here. I know it is likely too late to get an internship now, but what should I do now to improve my chances in the future? Certifications are something I can do, but I don't want to shell out the money just for them to mean nothing. I want to know what the best path forward from here is.
+----------------------------------------------------------------------------------------------------
+ID: mduzhwg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdvvuv4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am currently a mid level Software Engineer with 7 YOE. I graduated in Computer Science from a UC. I love using code to solve problems, but this career path leaves me wanting something more. I want a career thats more interdisciplinary, use my programming skills, but to do more than just build user microservices and applications. I'd also like a career path that isn't dev tech lead/software manager. I'm interested in Cybersecurity, I think - or maybe what I \*think\* it is. I enjoy the idea of "defensive" coding, learning and defending against cyber threat tactics, especially with the use of AI. High level concepts more than programming paradigms. Plus, it was one of my favorite courses in undergrad.
+
+I'm not opposed to going back to school or getting a certification for this specifically. In fact I think I'd enjoy going deeper into security topics again. 
+
+  
+Is this a viable idea for a career swap? What kind of "titles" do these jobs have? Would school be beneficial or a waste? 
+
+  
+TIA<3
+----------------------------------------------------------------------------------------------------
+ID: mdvzco5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello I am posting this because I am going to the army for cybersecurity for the next 5 years and want to know what’s the best degree to get to be the most marketable for when I get out. I have heard a lot of people say cybersecurity or computer science but I don’t know which one to pick when I’m in. Any advice would be really appreciated.
+----------------------------------------------------------------------------------------------------
+ID: mdw758v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey everyone,
+
+I’m considering making a career change into cybersecurity or GRC, but I have a lot of questions and would love to hear from people who are in the field. Here’s a bit about me:
+
+* I'm a woman with a finance degree and about 6 years of work experience in that area, but It was too stressful. Learned a lot (managing clients/account management) but don't want this level of urgency/liability/stress anymore.
+* I’m interested in **cybersecurity or GRC roles** because of the job demand and potential for higher salaries.
+* I want to know what the **real day-to-day is like**. Is it tolerable, or is it mostly paperwork and high stress?
+* I'm not interested in starting in help desk or entry-level tech roles; I’d prefer something more aligned with my background, like **risk management, compliance, or cybersecurity governance.**
+* I’m looking into certifications (like **CISSP, CompTIA Security+, CISA,** etc.)—are they actually worth it? Do they **guarantee** **a job**, or is it still competitive to land a role even with certs? (I don't want to waste time if they're not necessary - which do you recommend?)
+* How **stressful** is the work? I’d like a challenge but don’t want to burn out.
+* What about **remote work**? Is it common in these fields?
+* Also, what’s the **realistic starting salary** for someone transitioning into cybersecurity or GRC, and how much growth can I expect as I gain experience?
+* Lastly, are there **other fields** that might be more worth pursuing, considering my background and goals, that offer better work-life balance, salary potential, or growth?
+
+I’d really appreciate hearing about real-world experiences, especially if you transitioned from another field or have a background similar to mine.
+
+Thanks in advance!
+----------------------------------------------------------------------------------------------------
+ID: mdwh4nd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, my name is mohammed ibrahim am a 17 years senior high school student living in Egypt.
+
+Ever since i was a kid i have always dreamt of being a cyber security engineer / ethical hacker, but things havent been going good lately. Since i started middle school i noticed that i dont quite understand what am learning i took not studying at the as the excuse for why 3 years later and i got into junior high, and now i started studying and trying to understand began to notice that am not as bright as my classmates and i got diagnosed with ADHD the same year which explained alot. 
+ 
+I still clung to the hope that one day i will reach my dreams started taking a Python course at Udemy with Dr Angela Yu but i never finished the course cuase i would spend hours infront of medium and advanced level code projects not knowing what to even do.
+
+I again still clung to hope, but now, approaching the end of senior high school i discovered that am stupid. I do not even compare with my average classmates no matter how hard i study i do not get good grades i do not quite understand the lesson completely.
+
+So i am asking this... Am i fit to be a cybersecurity engineer ? Is it worth the hustle running after an unachievable dream? I began to give up..
+----------------------------------------------------------------------------------------------------
+ID: mdwi4m1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, I’m a college freshman majoring in cybersecurity. I have a lot of downtime so I want to start studying for certs. I have a couple questions.
+
+1. What are some certs that I could start with?
+2. How long would each cert take to get?
+3. Should I instead do something else with my time like projects?
+4. What are some ways to help myself in the future in the career of cybersecurity?
+----------------------------------------------------------------------------------------------------
+ID: mdxqc2d # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looking for career advice. Getting into GRC.
+
+So for my background I'm 21, a BCA graduate, with a complete analyst and data scientist skillset, from what I've heard cyber security is a really hard field to crack into, especially with the given market.
+
+Im looking to get into the side of GRC roles in general, especially wanna settle in EU, I'm planning on Masters in IT Risk and Governance, provided I have no experience and a complete fresher!
+
+I'm actively looking for IT risk analyst type jobs but i don't think I would be able to find any now, so 
+would the MS be benificial to me in terms of management and career opportunities? (About the pay too!)
+or would certifications be more valueable? 
+
+And if possible I wanna know more info about GRC too, please!
+
+Thank you in advance for any advice! :3
+----------------------------------------------------------------------------------------------------
+ID: mdxtxy5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Need advice in choosing a subject.
+
+I am currently in my third year of college and have recently started studying cybersecurity. I am particularly interested in ethical hacking and penetration testing. As part of my coursework, I need to choose from the following subjects:  
+
+1. Advance Computer Architecture
+2. Natural Language Processing 
+3. Soft Computing 
+4. Embedded System
+5. Human Computer Interface
+
+I seek advice on which subject would be most beneficial for my cybersecurity career. My goal is to gain practical skills and knowledge that align with ethical hacking, penetration testing, and related fields. Any guidance on which course would best support my career aspirations would be greatly appreciated.
+----------------------------------------------------------------------------------------------------
+ID: mdy0d9l # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 
+Hi all,
+
+I have some general newbie questions that others who are still new to the field might also want to know.
+
+How to determine what hardware and software is private and secure?
+i). Are there any cybersecurity websites report on hardware and software tests undertaken, the methods and analysis used for those tests, and their findings of their test results, do they state what their findings represent (if there exists cybersecurity/privacy weaknesses and what adverse occurances/risks those weaknesses could represent)?
+
+ie. it's all well and good to state a software is "open source", but unless those with the necessary knowledge have analysed, assessed, stated the weaknesses and risks along with any limitations of their analysis (scope), "open source" is analogous to a kindergartner being seeing a calculus equation (sure, they can see the equation, but are completely inept at being able to solve it, let alone understand what a correct result represents).
+
+If such cybersecurity websites and/or forums do exist, do they have other cybersecurity analysts comment (weigh-in and provide insight) on the cybersecurity testing results and what those results represent (akin to peer-review) to validate said findings and potentially highlight any errors, limitations not listed, or corrections that need to be incorporated (thus ensuring the results are relevant and valid to ensure the integrity of said findings)?
+
+ie. stating,
+
+which tests were run on the hardware or software,
+what the respective test methods are testing for,
+and what the tests found,
+all of which allowing test and result replication along with comparative result analysis (the raw data and data result validation capability), testing of the methodology assessment (test parameter adequacy analysis so that what is supposedly being tested for is accurate), what weakness exists in the testing methodologies used (what had potentially been missed or possibly slipped through the testing process), and what the findings mean concisely/summerised form (similar to that used in engineering and science reports).
+
+ii). If 1.i does not exist or is unavailable to the general public, what reputable sites and forums disseminate unbiased and reliable cybersecurity and privacy findings of cyber products (opposed to fear-mongering clickbait with generalised statements)?
+
+iii). Does country of origin (manufacture or ownership) dictate trust scores or indicative trust confidence values related to cybersecurity hardware and software?
+
+2. What websites/forums do those whom are cybersecurity experts (those of whom whos job it is to know and are heavily relied upon to give their expertise on cybersecurity software and/or hardware) use to stay currently informed on cyber risks?
+
+3. Are there cybersecurity community/group collectives that only rely upon donations and genuine cybersecurity interests (Not for Profits with zero-ties to advertising or cyber business) for software and/or hardware that has no vested interests in having a bias towards those that fund them (integrity above monetary gain), if so what are they?
+----------------------------------------------------------------------------------------------------
+ID: mdy2lmu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey everyone! 👋
+
+
+
+I’m working on a **college project** focused on **cybersecurity** and need recommendations for **AI models under 3 billion parameters** that I can use for:
+
+• Anomaly detection
+
+• Intrusion detection
+
+• Malware classification
+
+• Phishing detection
+
+
+
+Looking for models that are **lightweight**, preferably **open-source**, and easy to integrate.
+----------------------------------------------------------------------------------------------------
+ID: mdybjmr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please what certifications do I need for a cyber security engineer
+----------------------------------------------------------------------------------------------------
+ID: mdz8gvm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi everyone 👋! I'm starting my cybersecurity career can anyone please guide me on what  should I  learn, certifications I must do and exams to clear.
+----------------------------------------------------------------------------------------------------
+ID: mdzzja2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello all i was asked to post this here:   
+  
+For a bit of background I am a 54,yr old Network Admin (Jack of all master of none) I am being given an opportunity within my current position of 14yrs to move to a Security Admin position. My CIO is pushing for me to get training more on what seems to be the compliance side. Start and maintaining iso27001 and others. He is pushing for a boot camp type of training as I mentioned I wanted to go back to school to start from ground up. His response was our firm isnt going to wait 2 yrs for you to complete your course and in the mean time possibly lose clients due to not having a certified Compliance rating. I am at a loss as I think he is more focused on satisfying the need with the dept than my actual education. Where do I go from here.......
+----------------------------------------------------------------------------------------------------
+ID: me009vz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Taking some courses as part of my master's program. I have a statistics background so hardware and low level programming was fairly new to me. Even then since I work as a programmer I thought it wouldn't be so bad to approach and understand the material.
+
+How do people understand assembly language(we're using nasm, Ghidra for assembing and disassembling) and actually use it at work?? Is my current reverse engineering course one of those just take and never user classes?
+----------------------------------------------------------------------------------------------------
+ID: me1bmsl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have a coding background and interested in pivoting to Cyber Security related roles
+
+I'm a fairly new graduate with a computer science degree and I have a resume for tailored towards software engineering. I had one internship but I have some interest into IT roles.
+
+How can I translate my skills to anything cybersecurity related and how should I change my resume so that it can be useful for employers?
+
+I've seen a lot saying to do certifications so any help on that would be nice.
+----------------------------------------------------------------------------------------------------
+ID: me1toff # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi everyone,
+
+I have 2 years of software development experience and decided to pursue a master’s in Cybersecurity in the USA to level up my career. I’ve received admits from 3 schools:
+
+**UMD College Park** (M.Eng in Cybersecurity
+
+**Northeastern University (NEU)** (MS in Cybersecurity)
+
+**NYU Tandon** (MS in Cybersecurity)
+
+I’m leaning towards UMD, but I would like to know your thoughts on the decision.
+----------------------------------------------------------------------------------------------------
+ID: me2b3j7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, my name is mohammed ibrahim am a 17 years senior high school student living in Egypt.
+
+Ever since i was a kid i have always dreamt of being a cyber security engineer / ethical hacker, but things havent been going good lately. Since i started middle school i noticed that i dont quite understand what am learning i took not studying at the time as the excuse for why. 3 years later i got into junior high, and started studying and trying to understand began to notice that am not as bright as my classmates. I got diagnosed with ADHD the same year which explained alot. 
+ 
+I still clung to the hope that one day i will reach my dreams started taking a Python course at Udemy with Dr Angela Yu but i never finished the course cuase i would spend hours infront of medium and advanced level code projects not knowing what to even do.
+
+I again still clung to hope, but now, approaching the end of senior high school i discovered that am stupid. I do not even compare with my average classmates no matter how hard i study i do not get good grades i do not quite understand the lesson completely.
+
+So i am asking this... Am i fit to be a cybersecurity engineer ? Is it worth the hustle running after an unachievable dream? I began to give up..
+----------------------------------------------------------------------------------------------------
+ID: me2gya0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello world. (Ive edited some parts because last post had too much cursing, Im sorry to that one mod who had to read it. Wasnt in the right headspace :( )
+
+I would like to know what you guys would do in this position. So, I was given a note stated that I'll be kicked out from my uni for failing to pay. I only have 10K left in my bank acc and I don't think I can continue studying hahaha. But I did stumble upon certs that I could get. I dont know in Malaysia they would allow such thing but I heard that outside like america and such, allowed it.
+
+**But is it an idiot option if I stop my degree (Well i have to lmao), and pursue for certs?**
+
+It was my dream to get into cybersec because I like to protect. Thats all I wanted in life. To protect. And i find Cybersecurity to be my magnum opus when it comes to finding the best job. Now that dream's gone lmao. and I'm willing to spend every dollar of that 10K to get back to that dream of mine.
+
+ps: The reason why I went to get my CS degree was only because my parents had the money at that time. I dont even want to explain what had happen to that money during my degree, but the money = poof.
+----------------------------------------------------------------------------------------------------
+ID: me2j6ks # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi my name is Tre I’m 25 and recently I have been going through a rough patch in life. I decided that I want to try my hand at the cybersecurity field mainly because I have always had a fascination with computers. I also would like to make a career out of it while also garnering a lot of money for my future. So my question is to all the people who have gone through the courses, classes, and what not how should I start. What websites should I be looking at? Is it better to be self- taught? I would greatly appreciate it. If y’all are wondering I have been self teaching myself about Linux which brought me here today to ask this question.
+----------------------------------------------------------------------------------------------------
+ID: me31xic # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, I am a student graduating soon with a degree in cyber security. I had a couple questions I would like to ask and any feedback would be greatly appreciated!
+
+1. I created my own social engineering toolkit for my capstone project, as well as to put onto my resume. I built it from scratch and also included a UI for easier use. I programmed it so that I could put it onto a USB, run it as an executable rather than installing anything, and it can also run on windows. What could I do to take this project to the next step in order to impress any possible future employers?
+
+
+
+2. What are the best ways to showcase my skills in a resume/interview?
+
+
+
+3. Where do you see this industry going in the next 5-10 years?
+
+
+
+4. What are hiring managers/recruiters looking for in entry level candidates?
+
+
+
+5. Are there any mistakes you made or anything you wish that you had known sooner/before entering this industry?
+
+
+
+Thank you for anyone who reads this post or responds I appreciate having a moment of your time! 
+
+  
+Certs Obtained: CCNA, Security +, AWS Cloud practitioner
+
+Are there any other certs I should look into getting? Currently working on my PenTest+
+----------------------------------------------------------------------------------------------------
+ID: me42879 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey y’all, with apple intelligence added to apple devices, I wanted to get to understand forensics for apple products. What are some good sources or certifications to learn this from that’s not the expensive SANS one? Thanks, I appreciate any advice!
+----------------------------------------------------------------------------------------------------
+ID: me5qq7i # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello all, 
+
+I've been an android developer for 5 years. And I love what I do; However,  ai is starting to make it's way into my current company and I have friends at other places who are already being pruned. With that being said, cyber looks safe for job security. Where should I start? What cert are valuable and is this even a good transition for me skill wise?
+
+I have knowledge in kotlin and Java 
+As well as a bit of spring
+I make around 110k and as the sole bread winner i need to be able to stay near that range. 
+Any advice would be appreciated.
+----------------------------------------------------------------------------------------------------
+ID: me6jt1g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: peaple always say if you can do something free of cost for someone without any regret or hesitation then you should chose it as a career . i am obsessed with computers i do a decent poster works and video editing anywhere i go i am the guy edits photos posters and videos reels for others as helpbecause i love to do so recently i am so obsessed in collecting informations of my frinds close or distint friends from net for fun idk if its legel ,,,, i always watch hacker and cyber security type movies and i dream f my mysself as a hero against hacker sometimes even as hackers ,,,,, soo what do i do help me
+----------------------------------------------------------------------------------------------------
+ID: me8d46r # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am in my first Cyber Security role (approx. 6 months in) in a SOC environment and have a rough idea of what the job itself entails but I am at the point where I am trying to figure out a rough plan of things to do to improve my career in the long run.  
+
+The main tasking involves Sentinel/ Defender so I have been trying to get more familiar with KQL so I can be better/ more efficient with KQL queries since this is the tool that I spend the most time on and think I'm slowly getting better. I looked into the Microsoft SC-200 for a more in depth understanding of the tool but due to the Microsoft training being poor to navigate and the training not seeming to relate much to what I do I dropped it for general KQL learning which seemed to be more useful.
+
+  
+Due to this I was planning on working towards the Comptia CySA as I  already have the Security+ and A+ (will be looking in the Network at some point as well). Would you reccomend this path or are there better quals to do instead or after this? 
+
+Thanks
+----------------------------------------------------------------------------------------------------
+ID: me8k950 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm a seasoned IT pro, sysadmin for 7 years followed by a decade+ years at a multinational rising up the ranks to L5.  Redundancy hit and I pivoted to tool up in Cyber - sec+, Pentest+ , ccst , and the CISSP. 
+
+Happy out to dig in as a TSE in a cyberfirm but I'm getting constant rejections for L1 / L2 jobs I could easily do and excel in......
+
+Is it just the market ? Was going to start the CySA+ this month but my motivation is drained by waffly , generic rejection emails on the weekend and I feel I might be getting rejected because I don't have direct SOC experience over technical acumen so before blindly ploughing forward in the same manner....
+
+Any advice?  
+
+If you are a hiring manager or an SM , and saw a successful 40 something applicant from the general IT space, what's your thought process ?
+----------------------------------------------------------------------------------------------------
+ID: me8q31n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Should I get the Google it or Google cybersecurity certificate as a complete beginner
+----------------------------------------------------------------------------------------------------
+ID: me922oa # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Got my CompTia security+ at 20 years old. I am living in Germany for two years and i only have B1 language level. I am trying to apply for jobs (i do also have Google cybersecurity certificate, and i am finishing my bachelor\`s in university {cybersecurity major}), but it seems like i dont have enough to get my first job. What should i do next? I still don\`t know if i want to be a pentester or SOC analyst, and i was thinking i will try to work at first, but i just can\`t get those interviews.
+----------------------------------------------------------------------------------------------------
+ID: mea8876 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, I’m currently a sophomore looking to concentrate in cybersecurity. Does anyone have any recommendations for beginner friendly projects that’ll impress companies and recruiters for an internship? Thanks!
+----------------------------------------------------------------------------------------------------
+ID: meaqfng # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello! I'm currently an undergraduate student and I've been interning as a cybersecurity engineer for around a year and a half now. While I love the work that I do and the hands-on approach that I have when it comes to engineering, my ultimate goal is to work in the field of public policy, and influence legislation and law, or serve in some sort of consulting/advising capacity in government. 
+
+I think that having a solid foundation in cybersecurity (especially engineering) now can really lend itself to opening opportunities in the policy/legislation field, and I was wondering if anyone has any tips on how I can map out my career timeline best, to ultimately achieve that end goal. Are there any good internship programs for students who want to influence cybersecurity policy? Or maybe degree programs at a university that emphasize this? My foreseeable goal is getting a master's degree in cybersecurity engineering, though I'm uncertain if that's the right step, or if I should wait to gain more experience and apply to programs that cater to policy at large.
+
+Any help or guidance would be greatly appreciated!
+----------------------------------------------------------------------------------------------------
+ID: meb3mll # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, my current position is a NOC Operator where I do “Network Monitoring”, which simply involves watching for networks to go down, then creating tickets to report them. My team is supposed to be moving towards some sort of vulnerability management tasks as well, but the instructions on what we’re supposed to be doing are so vague that I can’t even explain at the moment. I’m also a grad student with a major in information technology, any advice on how to pivot into a cybersecurity career would be nice. I used to think that my end goal was to become a security architect, but I’m not so sure since the field is so vast. The classes that I’ve taken so far have been database management, OOP with Java, software engineering (I struggle with programming, so that is one of the areas where I’m looking to improve my skills), & AI/ML. I should also mention that my bachelor’s is in computer networks/cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: md8ajjp # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi guys 
+I am currently dealing with Python and Java, I have the basic knowledge of it and sometimes do html and css in the meantime, but l also have a very great interest in cybersecurity how viruses are structured or cheats work. I don’t know how to start, is this thing.
+----------------------------------------------------------------------------------------------------
+ID: mdhjdy0 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Trump invested $500 Billion in AI. How will this affect the IT Cybersecurity field.
+----------------------------------------------------------------------------------------------------
+ID: me2f4n5 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey everyone,
+
+I’m a cybersecurity analyst venturing into the world of cyber consulting, and I’m looking for like-minded professionals who want to join me on this journey. Whether you're experienced in pentesting, cloud security, threat analysis, or any other cybersecurity domain, I’d love to collaborate and build something great together.
+
+If you're interested in working on projects, sharing insights, or exploring opportunities, feel free to reach out. Let’s secure the digital world together!
+
+DM me or drop a comment if you're interested. Looking forward to connecting!
+----------------------------------------------------------------------------------------------------
+ID: md69ub0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ideally someone you know IRL who works in the industry or someone who works at the same place as you.
+
+Someone in my org decided they were just going to message some senior folks in the company for advice/mentorship and almost all of them at-least gave her some time. Including some on the ExCo.
+
+Short of that reaching out to people on LinkedIn or this subreddit can’t hurt!
+----------------------------------------------------------------------------------------------------
+ID: md6s546 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Local defcon, Owasp, ISC2, and other groups in your city is a great way to network with professionals. They usually don't have requirements to join their chapters.
+----------------------------------------------------------------------------------------------------
+ID: md6sytz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The 3 most important things to get a job in cybersecurity are:
+
+1. Work experience
+2. Education
+3. Certs
+
+Sounds like you are taking some online courses, those can be good, but I also want you to recognize reality. If it's a course anyone can do in a short time, why would it get you a job, right? You will be competing for jobs with people with 4 years experience, a degree, AND certs.
+
+Your best path is to try and get the most important piece ASAP. Work experience! Cybersecurity is just a branch of IT. Go find an IT job. It can literally be anything, just start *something*. If help desk is all you can do, do it.
+
+While working, I do encourage you to at least consider college. You say you don't want to take years out of your life, but I hate to break it to you, that's life. You're 26 lol. You have literally 40 years of your career left. You (and I, I am 28) can't even comprehend that amount of time. So yeah, it's going to take 3-5 years to get in the industry. That's fine.
+
+Certs are complements to a career, NOT a replacement to experience and education. While you are doing all this and want to grind, sure, get your Security+, Network+, etc. But recognize you can't just get a couple and expect a job.
+
+Hope this helps, let me know if you have other questions. I just want you to know that you are incredibly young and have plenty of time. You can do this!
+----------------------------------------------------------------------------------------------------
+ID: md7lxjv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > I feel so alienated going to school with people who have grown up building computers and have extensive experience with tinkering with computers and I feel light years behind the ball.
+
+This is an incredibly common and relatable feeling. The good news? You are not nearly as far behind as you think!
+
+At the end of the day, the cyber and IT industry is about *being good at boring*. Knowing networking fundamentals, having experience doing sysadmin work, and most of all, knowing how to work with people and write documentation are so, so much more important than building computers.*
+
+While it isn't a competition, I think it's healthy to realize these people in your school will be competing for the same jobs as you. So how do you "beat" them? You work harder. You study the boring things. You know what a networking packet looks like inside and out.  You mess around with Linux on your own time and become a command line ninja. (when I was in school I got really into Linux, which led to a linux sysadmin job, which led to a better sysadmin job, which led to a 6 figure cyber job..... purely anecdotal but shows how a passion started in school can lead to good things).
+
+Now is a time to mess around with a ton of technologies and find out what *you* are into. The more "boring" it seems to the majority... the better for you. If your passion is pen testing, go for it, but realize that half the people you're studying with think they want to be pen testers because it sounds exciting.
+
+I always invite people to put linux on a laptop and just do all their work from it if possible. You learn so much just using it day to day, and there is a high likelihood you will work with linux systems in your career.
+
+*Tangent on building computers: I recognize this is a major hobby for many cybersecurity professionals, but I personally have never been interested in it. Been working in some IT/cyber job for over 5 years and consider myself good at my job, have a senior title, etc, and never built a computer. It really doesn't matter for most jobs. 
+
+THAT BEING SAID, if building computers is interesting, do it. You'll make more friends in your major and future coworkers. That alone is HUGE. One of my jobs is literally from replacing a last minute dropout a friend from my major had in a contractor position.
+
+Hope this helps, sorry if overly verbose.
+----------------------------------------------------------------------------------------------------
+ID: mdcxm4w # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Apply to any lower-level IT job. SOC, jr sysadmin, network admin, NOC, M365 admin would be the best options. But desktop support, help desk, tech support are the usual entry points.
+----------------------------------------------------------------------------------------------------
+ID: mdttnhs # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Surely 4 is the only option, given your stated set, right? Re. 2; as long as one is good on fundamentals, specific standard, framework or regulatory requirements would just require analysis & interpretation - perhaps proactively as an investment, if you anticipate this to be a barrier for you specifically
+----------------------------------------------------------------------------------------------------
+ID: mdbckl6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mde1x4f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: See related Q&A here:
+
+https://old.reddit.com/r/cybersecurity/comments/17e733b/mentorship_monday_post_all_career_education_and/k6apz0x/
+----------------------------------------------------------------------------------------------------
+ID: mdbch2j # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: YYeah, that’s pretty much how it works at a basic level. The public key is generated in a way that is mathematically linked to the private key. you create a lock (public key) from your key (private key). Anyone can lock a message with your public lock, but only your private key can unlock it.
+----------------------------------------------------------------------------------------------------
+ID: mde1qph # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would extend your metaphor to account for digital signatures as well.
+
+How would we know - for example - that something sent actually comes from you (vs. someone pretending to be you)? In this example, you'd encrypt (sign) with your private key - then everyone with your public key is able to verify the thing came from you. This is why it's important to describe both private/public parts of asymmetric encryption as keys.
+
+The metaphor in this case is kind of like the Cinderella story, if everyone - including the prince - had the glass slipper (public key). When all the step sisters (malicious actors) come forward claiming to be Cinderella (you), we can trivially check if that's the case by seeing if our copy of the glass slipper fits (since it should only fit Cinderella).
+
+A bit of a round-about way of thinking, but important to include in your understanding of asymmetric keys.
+----------------------------------------------------------------------------------------------------
+ID: mde3aaa # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oxlrx/
+----------------------------------------------------------------------------------------------------
+ID: mdkvu9h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: At some firms even a bankruptcy can disqualify you, let alone an actual arrest. Many small and medium sized companies tend to be more flexible. Gain general IT skills to broaden the number of jobs you qualify for. This will maximize your potential. With enough experience, excellent references, and a solid professional network it will reduce the impact of that charge over the lifespan of a career.
+----------------------------------------------------------------------------------------------------
+ID: mdl9s28 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The best way: Attend a quality university (local is fine). Get a computer science, IT management, or similar fundamentals degree. Work in IT or software development where entry level jobs are plentiful. Keep an eye out for security related projects. Build a professional network of cybersecurity professionals (easier than ever before). Find out what it takes to bring valuable skills to the table in your particular area, work to obtain those specific items. Transition into cybersecurity. Later in your career, pick up that MBA and move toward management or senior roles.
+
+The hard way: Be exceptionally skilled, passionate, and hard working. Teach yourself.
+
+The absolute worst way: Get a bunch of meaningless certificates from expensive "bootcamp" programs with no other education or experience.
+----------------------------------------------------------------------------------------------------
+ID: me6bc8m # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > what are some projects that I can put on my GitHub that will increase my likelihood of getting a job.
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyt7a/
+----------------------------------------------------------------------------------------------------
+ID: meb33q0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: More experience will be better. Staying is a personal choice. If you are paid decently, enjoy the work, are learning what you need, and feel satisfied - why leave?
+----------------------------------------------------------------------------------------------------
+ID: md7mhpg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Let's back up a little bit. What are you doing for work right now?
+
+Experience, education, certs, that is the order of importance for landing a job. THM is cool, don't get me wrong, but it doesn't even lead to any of those things. Sounds like you have done plenty of learning, you got your degree, so let's focus on working. And if you are just getting years in IT, awesome. Let's get some real certs! Start taking account what you already have and get the ones that most commonly show up in the jobs you are applying for.
+----------------------------------------------------------------------------------------------------
+ID: md818kd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Networking imo is a big part of cybersecurity, if you don't understand it you'll have a hard time. For example, if you understand networking, you'll be ahead of the curve regarding the sec+ considering there's some PDQs that can come from it.
+
+Also, network security is a niche that some choose, so there's that.
+
+Personally I started in networking and made the jump to cybersecurity so I'm a bit biased. I don't regret it. Networking helped me to get my foot in the door at a lot of places.
+----------------------------------------------------------------------------------------------------
+ID: md9nh2p # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: imo a contracted position is worth it if you get literally double the salary, if that’s what you are asking. 
+
+I understand it’s tough to leave stability, but if you’re getting paid double, that’s worth the risk of needing to job search again. I know it’s more nuanced than this, but it sounds like if the contract is a year long and you get double the pay… without lifestyle creep you could survive for 2 years?
+
+Anyways, just some thought. Happy to talk through it. 
+
+I’m not a hiring manager so take this with a grain of salt but I really don’t see a reason a contractor position would hold less weight. It more depends on title and what you are doing.
+----------------------------------------------------------------------------------------------------
+ID: mdag6lt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Security vendors? Perhaps especially scaleups in this space..
+----------------------------------------------------------------------------------------------------
+ID: md8ursn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Net+ can complement a good work history and education. I think it is worth getting, it’s a certification that my company wants their juniors to get.
+
+If you’re asking if you can just get a certification and get a job, the answer is no.
+----------------------------------------------------------------------------------------------------
+ID: md90odd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doesn’t seem like much of a risk. IAM *is* cybersecurity, I don’t see a reason not to take it.
+
+Let’s say worst case scenario the internship ends with no full time offer. Couldn’t you likely go back to your current role here or somewhere else?
+
+Don’t know if we have full picture to understand why you’re hesitant. Seems like an easy choice to me.
+----------------------------------------------------------------------------------------------------
+ID: mdaf339 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Outside of what's already been discussed in this sub on this, consider browsing this resource, I happen to come across, to develop further insights..  https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm
+----------------------------------------------------------------------------------------------------
+ID: md9mfwn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So I have a different opinion about traditional school vs certs. Traditional schooling is often far above the weights of certs, but it’s possible to skip. I do encourage to at least look at it, especially if you have trouble getting internships.
+
+As with getting a job and internship, start applying now and keep applying. Never stop applying and networking. It’s a numbers game. Get in wherever you can. Don’t wait for the perfect resume. A year of work is worth 10 certifications.
+----------------------------------------------------------------------------------------------------
+ID: md9k7lj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: SQL could be useful. Some use it a lot, some not at all. Impossible to say.
+
+A programming language like Python doesn’t have a measure that you are looking for. Learn enough to do what you need to do. Learn more if you like it. Additional knowledge and skill can only help.
+
+Stop looking at learning technologies as things to check off. They just don’t work like that. Tools are used to complete objectives. Can you use the tool to complete the objective (whether that be a homework assignment, personal project or work duty)? If the answer is yes, great. If the answer is no, keep studying until the answer is yes
+----------------------------------------------------------------------------------------------------
+ID: mdaqzvv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well let’s back up a little bit.
+
+Becoming a penetration tester is a great goal. If you work hard enough, you can get there.
+
+But remember that *you’re a first year university student*. There is a long time to go before your dream job! Don’t stress so much about it. Work on:
+
+1. Doing well in school.
+2. Getting work experience. While you should go for cybersecurity internships for sure, you should also be working in IT. Working as a system admin got me into pen testing eventually. After all, how do you expect to break in and create reports on systems you don’t understand?
+3. Pursue your passions! Being passionate and diving deep on something (assuming you have 1 and 2 covered) will help a lot.
+
+Hope that helps. Happy to answer other questions.
+----------------------------------------------------------------------------------------------------
+ID: mdcwl6h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, felonies are going to a non-starter for many companies, especially in high trust & high access role like cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: mdczd4l # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You have good IT experience for a SOC or security admin role. Pentest+ isn't going to do much for you, but if you paid for it, you should finish it. Security+ is really the baseline minimum and provides a good overview of cybersecurity as a field. CySA+ is a popular follow up, but there are more hands-on certs like BTL1 and CDSA that might be better options.
+
+Update your resume to highlight the security-related duties and accomplishments in your current role. The email breach is great experience, but also focus on IAM and endpoint security, which most IT support positions still deal with.
+----------------------------------------------------------------------------------------------------
+ID: mde0rwv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> So experts of the field enlighten me <3, Thank you
+
+Apologies, but I didn't see a question in your comment. What did you need help with?
+
+Were you looking for job hunting guidance more generally?
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9ogpq3/
+----------------------------------------------------------------------------------------------------
+ID: mde0mpo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> I've been accepted to WGU and Indiana Tech for cybersecurity. Which one do you all think I should attend?
+
+What has your [program auditing efforts](https://www.reddit.com/r/cybersecurity/comments/1fn7dbl/comment/lp9bnpz/?context=3) turned up? And which do *you* want to go with (and why)?
+----------------------------------------------------------------------------------------------------
+ID: mde385b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Do you really need to be very smart to get into cybersecurity?
+
+Not strictly in terms of raw IQ scores, college admissions tests, and grades - if that's what you mean. But to do *well* in this space there is [considerable background material](https://roadmap.sh/cyber-security) to get acquainted with.
+
+> What has been your experience in cybersecurity..are there any of you who don't have a CS degree? How did you get into cybersecurity?
+
+I outline as much in this comment:
+
+https://old.reddit.com/r/cybersecurity/comments/1h9wkw4/mentorship_monday_post_all_career_education_and/m181pkq/
+
+If you don't have a degree, most folks that make it generally lean on some subset of:
+
+* Military service
+* An extended cyber-adjacent career (i.e. IT, webdev, etc.), later specializing
+* Opportunities within their present employer to adopt/own more security-centric tasks.
+* Professional network hook-ups, nepotism, etc.
+----------------------------------------------------------------------------------------------------
+ID: mdkvefu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That is probably too long. See if you can get it to fit on a single page. The resume won't help you get an interview in most markets (currently it takes a professional network and referral). The resume will help guide a hiring manager as they interview you to explore the boundaries of your knowledge. Keeping it to a streamlined single page, focused on your best highlights, is going to aid that process.
+----------------------------------------------------------------------------------------------------
+ID: mdtq6uv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This might help.. https://www.ukcybersecuritycouncil.org.uk/careers-and-learning/cyber-career-framework/
+----------------------------------------------------------------------------------------------------
+ID: mdkv1mz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It is difficult to offer help to someone who, by their own admission, is not taking things very seriously. Many of us have had to face a moment in our lives when it was time to grow beyond ourselves. It can be a difficult moment, to be sure. As for if the degree will be useful to you or not, that largely depends on how successful you are at breaking in to your preferred field.
+----------------------------------------------------------------------------------------------------
+ID: mdgrzvj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't get your point here. You don't have to quit your job to look at other jobs.
+----------------------------------------------------------------------------------------------------
+ID: mdi2yrq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Commenting because I'm curious.
+----------------------------------------------------------------------------------------------------
+ID: mdkujaq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: General IT and software engineering skills will prepare you for more jobs, making it easier to break in. The goal is to get work experience closer to the field, so why specialize unless you are exceptionally talented or confident? Keep it broadly open, gain experience, then pivot into cybersecurity when the right opportunity comes along.
+----------------------------------------------------------------------------------------------------
+ID: mdtow7o # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://www.ukcybersecuritycouncil.org.uk/careers-and-learning/cyber-career-framework/
+----------------------------------------------------------------------------------------------------
+ID: mdkuaxc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are you applying at firms where you have a contact or internal referral? What are the people in your professional network recommending for jobs in your area?
+----------------------------------------------------------------------------------------------------
+ID: mdku2k4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm not sure this is really a cybersecurity related question. If the question is "will doing something hard, just beyond my ability, be worth it?" The answer is usually: "Yes."
+----------------------------------------------------------------------------------------------------
+ID: mdoghw7 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do internships/apprenticeships while getting your degree, that hands-on experience is key in your early career. Develop your professional network, your peers and professors may end up being lifelong professional contacts. Knowing someone at a company that can give you a referral will always give you a leg up.
+
+Advancement and profession development is company dependent. My company tries to hire internally and provides a lot of growth within the team, such as hiring help desk techs to our SOC or sysadmins as security engineers. There are also multiple tracks for advancement for each role. We have Admins and Specialists that are the junior roles. Mid-level and beyond there are Analysts I-IV; Engineers I-III, Senior, Principal; Architect, Senior, Principal. Leadership side, there are Lead Analysts and Engineers, Managers, Senior Managers, Directors/AVPs, Deputy CISOs/VPs, CISO/SVP.
+----------------------------------------------------------------------------------------------------
+ID: mdod71u # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm not familiar with your background field, but it sounds like there is a lot of core skill that would transfer over to GRC. Utilizing your existing skillset is definitely the way to go when changing careers.
+
+Do you have a bachelor degree, even in an unrelated field? CISA is good but does have an experience requirement of 5 years in IT audit or infosec. Having a bachelor degree in any field will take 2 years off that. Security+ is a good place to start for an overview of the field. ITIL Foundations might be a good cert for you, it's more about IT processes but is sort of the backbone of IT auditing. Might be a good bridging cert until you can get CISA.
+----------------------------------------------------------------------------------------------------
+ID: mdoae71 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you have any related experience? IT, Dev, etc? Cybersecurity is generally a mid-career specialization for IT professionals. It's very unlikely that one would land a cyber role with just a bootcamp and certs without prior IT experience.
+
+The "entry-level" cyber market is extremely saturated. Most employers are going to be looking for a 4 year tech degree (Computer Science, Information Technology, Information Systems, etc) + internships or a few years of lower-level IT experience like help desk.
+----------------------------------------------------------------------------------------------------
+ID: mdktenh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would not waste money on certifications or bootcamps. I would not wait to learn solid computer science skills. I would not have sold those stock options at vest (still killing myself over that one).
+----------------------------------------------------------------------------------------------------
+ID: mdoi5lg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The Splunk fundamentals courses are free: https://www.splunk.com/en_us/training/splunk-fundamentals.html
+
+And if your company pays for training, Splunk has a SOC analyst track and certification: https://www.splunk.com/en_us/training/course-catalog.html?filters=filterGroup2SplunkCertifiedCybersecurityDefenseAnalyst
+----------------------------------------------------------------------------------------------------
+ID: mdtmfqq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You are better placed to form an opinion on this. Have you leveraged likes of payscale.com to dig deeper?
+----------------------------------------------------------------------------------------------------
+ID: mdoit10 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A 4 year degree is almost always worth it these days. The majority of the candidates that you'll be competing against will have one. You can (and should) do internships while enrolled in a 4y degree. You also have a huge network available to help you in your career, your professors, peers, and alumni can be life-long contacts.
+----------------------------------------------------------------------------------------------------
+ID: mdo1wwo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I did my MBA at the behest of my CISO, which got me promoted from  Director of Security Architecture to Deputy CISO. The business acumen helps a lot with communicating and negotiating with execs and aligning the business' goals with my technical security strategy.
+
+I hold CISSP, CISM, and a handful of SANS, Cisco, and lower-level certs. I think CISM was of decent value, it goes a lot deeper into risk management and governance than CISSP does. My CISO does have CRISC, but he deals with more of the GRC side than I do. I haven't heard of much value from CGRC or C|CISO. CEH has no value.
+----------------------------------------------------------------------------------------------------
+ID: mdnwopp # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CRO deals with the company's entire enterprise risk profile, not just information and technology risk. For example, CRO at a financial company will deal with financial risks (credit, liquidity, interest rate, etc risks), operational risk, regulatory and compliance risk (which is much more than just infosec compliance), etc.
+
+Your breadth of knowledge as CRO is more focused on enterprise risks within your company's sector, ie: finance, manufacturing, retail, etc. While CISO is more focused on technology and information risks across any sector or industry.
+----------------------------------------------------------------------------------------------------
+ID: mdol7mn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I wouldn't say you are starting from scratch. The computer science fundamentals that builds toward ML/AI are still very valuable for cybersecurity. Especially system design and computer architecture, plus any programming you learned along the way.
+
+Learning IT fundamentals like networks, systems & storage, OS, and identity management is a good next step for most cyber roles.
+----------------------------------------------------------------------------------------------------
+ID: mdt8yqc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's usually recommended to go with a broader technology degree, such as Computer Science, Information Technology, or Information Systems. Computer Science is generally considered to be the strongest degree because of it's theoretical content. It also provides the most career paths like SDE/SWE, data science, and IT & cyber.
+
+Information Technology and Information Systems degrees are good options too. The content is still broad to provide multiple career paths, sysadmin, SRE, networking, database, cyber. The downside is that there is little theory, instead focusing on operational content that can quickly be out of date.
+
+The problem with Cyber degrees is that many are just cash grabs with terrible curriculums. They might focus on "flashy" but largely irrelevant topics like pentesting without building any fundamentals. A good Cyber degree should be at least half a CS or IT degree before even getting into security topics. It also might limit your career options to just security and security-adjacent roles.
+----------------------------------------------------------------------------------------------------
+ID: mdq9aq5 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You'd be better off moving into a financial risk/controls area and then trying to move from there into cyber risk and controls. 
+
+My partner works in financial risk and I work in cyber risk. I don't think the jump would be too hard but you'd definitely benefit from technical experience.
+----------------------------------------------------------------------------------------------------
+ID: mdw1d0i # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > I wan to get into cybersecurity, but I don’t know where to start or where to find reliable sources.
+
+https://bytebreach.com/posts/hacking-helpers-learning-cybersecurity/
+----------------------------------------------------------------------------------------------------
+ID: mdtjdus # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What's your analysis of the resources in this sub's wiki?
+----------------------------------------------------------------------------------------------------
+ID: mdw199c # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Any advice on setting a path?
+
+More generally:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+----------------------------------------------------------------------------------------------------
+ID: mdw167b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> Where am I going wrong? What steps should I take?
+
+It's challenging for us to be prescriptive when...
+
+* We can't see your resume, which is how you present yourself to employers (vs. your comment, which is how you present yourself to us).
+* We don't know what your job hunting looks like more granularly. See related: https://www.reddit.com/r/cybersecurity/comments/184p0vk/comment/kb0qji6/
+
+> Is there a certification that’s on the cheaper side (less than 200$?) that could potentially bolster my resume?
+
+Probably not. If you're trying to promote your employability (vs. upskilling), what you want to be doing is determining [which certifications are the most oft-requested](https://bytebreach.com/posts/what-certifications-should-you-get/) and prioritize those. Unfortunately, they usually are priced in the hundreds (if not thousands) of USD.
+
+> One last thing to add - from what I’ve seen on here, cyber isn’t really an entry level field to get into, and I’m best off applying to IT and entry level help desk positions, which I have really focused on the past couple months and still really had no luck.
+
+Concur with nuance: having a relevant work history [carries more weight with employers than anything else](https://bytebreach.com/assets/images/isaca_survey.PNG), which lends to the majority of employed cybersecurity professionals being more experienced.
+
+For guidance on job hunting more generally, see:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9ogpq3/
+----------------------------------------------------------------------------------------------------
+ID: mdvz9o5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> I want to move forward. I hate how stagnant I feel. I want new challenges.
+
+I'd put it to you to try and qualify/quantify this a bit better. What does forward progression look like to you? What would that look like?
+
+Moreover, what kinds of concessions would you be willing to make in order to achieve those goals? It sounds like from your interviewing experience that loss of pay and loss of title are off the table, which may limit the opportunities (depending on how you qualify the first set of questions). What other kinds of constraints are you observing (e.g. can't relocate, injury/illness/disability, family/dependents, etc.)?
+----------------------------------------------------------------------------------------------------
+ID: mdvxcxa # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > where do I start
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+----------------------------------------------------------------------------------------------------
+ID: mdvxa55 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> I am just wondering what path would be better suited for me, cybersecurity engineering interests me but i am not attracted to being a SOC analyst at all, devops sounds good as well? and then system engineers/cloud engineers also attract me but I do not know which path would be better suited for me and what ways i could set myself for said path so I would be very thankful on any guidance.
+
+Candidly, when you're as early in your cybersecurity career as you are, you can't really afford to be picky; you should look to take *any* form of cybersecurity employment. It's much easier to shape your career towards how you want to to be once you're already working (vs. trying to force your way into the role you desire from the outside looking in). That may involve the SOC, it may not; I never worked in the SOC (my first cybersecurity role was as a GRC functionary), but I didn't really have any weight to my employability until I was already working 3 years or so. That time allowed me to more readily shape how I did (and did not) want my career to look like, answering similar questions as yours.
+----------------------------------------------------------------------------------------------------
+ID: mdvw8rw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> Is this path overly ambitious/crazy?:
+>
+> IT Helpdesk / Internship -> SOC -> Software Development -> Pentesting -> Threat Hunting/DFIR -> Malware Analysis -> Exploit Development / Secure Software Development / Security Research (utilizing ML)?
+
+Here's the points of friction I might anticipate:
+
+* SWE/dev roles look for different indicators of your employability than what most cybersecurity roles might (and vis versa). The kinds of experiences you want to highlight will be different, the types of projects you showcase will be different, and how you prepare to interview will likely be divergent. If you want to be employed as a SWE, you're probably hurting your chances by trying to work in a SOC.
+* While it's not uncommon to pivot laterally between lines of work in cybersecurity - especially because it's easier to do so once you're already working in cybersecurity at all - each time you do so you're doing a soft reboot of your career; breadth in your career is nice, but depth is what will make you more employable as a 3+ year staffer looking to either promote or make more money, otherwise you risk interviewing for more junior roles relative to your cumulative YoE each time you transition between lines of work.
+
+> At the same time, I would like to utilize programming in the future (preferably in C/Rust/Python/Haskell), perhaps even web development as a personal project.
+
+Speaking in *very* broad strokes, most dev work in the cybersecurity space is more-or-less the same as dev work anywhere else, it's just that the product is functionally different. So if you want to be a dev, I'd encourage you to focus on promoting your employability in the dev space with the (eventual) goal of targeting employers that offer such products/services.
+
+A lot of cybersecurity work (most - I'd contend) is about protecting *someone else's* stuff (be it code, networks, data, etc.) vs. generating original work. Most of the original authored work I've seen have been in the spaces of personal projects (which might extend to published security research), smaller-scoped R&D, and/or academia.
+
+> So my question really is, is it a good idea to look at Helpdesk or Internship jobs first or should I start with something else? Is anything less essential? Is it too drawn-out, risking burnout before I get anywhere near MA?
+
+It's not altogether inappropriate, but I think - without looking at your resume - you might want to consider instead aiming for either the SWE roles or (alternatively) see if you have any luck in the AppSec/DevSec spaces.
+----------------------------------------------------------------------------------------------------
+ID: mdvrcwd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> what can I do to my resume to land the position
+
+I suggest /r/EngineeringResumes and https://bytebreach.com/posts/how-to-write-an-infosec-resume/.
+
+More generally:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9ogpq3/
+----------------------------------------------------------------------------------------------------
+ID: mdvjc6d # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> I'm looking for someone whos been in the field to help me imagine what it is really like working in cyber security.
+
+See related:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oiuac/
+
+> Reading articles and job descriptions doesn't tell me what day-to-day experiences are and how that could potentially impact my life with my 2 kids who are still toddlers.
+
+I made the pivot into cybersecurity from an unrelated military career pre-kids; I now have young children.
+
+The early-career experience is likely not going to be representative of your long-term WLB, likely being more demanding of your time and offering less flexibility than when you become more senior. The *biggest* differentiator when it comes to being available for family (for me) is whether or not the role is remote or not; remote work has made me *way* more present in my kids' lives than an in-office job ever could have afforded.
+----------------------------------------------------------------------------------------------------
+ID: mdvia67 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> These are the units offered by my university for two separate degrees. Which of the two options is best to become a cybersecurity professional?
+
+Respectfully, you're probably not going to find someone to audit your options on your behalf. [That's a lot of work](http://www.reddit.com/r/cybersecurity/comments/1fn7dbl/mentorship_monday_-_post_all_career_education_and_job_questions_here/lp9bnpz?context=3) and should extend well beyond just the names of the courses you might take.
+
+There's a lot of context we lack from what you've provided. A non-exhaustive list:
+
+* Would you be taking all of these classes or only some of them? If only some, which?
+* Since there's so much overlap between the plans, have you mapped out which courses are unique to each plan?
+* Of the classes you intend to take, have you pulled past syllabi, looked into the staff instructors teaching those classes, and the reviews from your peers? Where are the pain points? Where are the ones that you'd expect the most growth from?
+* Having done the above, which courses within each respective plan would you miss out on by choosing the opposing plan?
+* Why are there a dissimilar number of classes between the plans?
+* Would you be taking the courses in the order that they are presented? Does that matter?
+
+So on and so forth. 
+
+Most importantly, we don't know what *you* value in your education - you haven't indicated to us one way or the other which option you like more (or more importantly, why). So it's that much harder to prescribe which we might think is more appropriate.
+
+Best of luck!
+----------------------------------------------------------------------------------------------------
+ID: mdvg5mk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> I could give up, but I want to see what I can do from here. I know it is likely too late to get an internship now, but what should I do now to improve my chances in the future?
+
+You definitely don't give up; not looking for work certainly makes it less likely that you'll find employment (ever).
+
+Besides [the job hunting guidance I prescribe more generally](https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9ogpq3/), I'd encourage you to look at your university's opportunities for work study (e.g. with the IT dept. at your school to help offset tuition). I'd also encourage you to look at localized part-time employment opportunities that may either build on what you have or diversify your skillset (I'm unfamiliar with what your responsibilities look like at Giant Eagle, but I'll assume they are at best cyber-adjacent).
+
+Cultivating that work history is *THE* objective, offset only by not dropping out of school. Everything else is secondary or on an as-able basis.
+
+> Certifications are something I can do, but I don't want to shell out the money just for them to mean nothing.
+
+They *can* help, but there's a lot of caveats to that. See related:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+----------------------------------------------------------------------------------------------------
+ID: mdveovv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> Hi, I am looking into online masters programs for cybersecurity and it would be great to get some advice.
+
+Just to give you an additional option, I got my MS in CompSci from Georgia Tech:
+
+https://omscs.gatech.edu/
+
+They have a parallel program for Cybersecurity (which has a lot of the same overlapping coursework available to enroll in):
+
+https://pe.gatech.edu/degrees/cybersecurity
+
+Both programs are likewise asynchronous, which I saw you valued. The former also caps off at about $10k total for the degree (more or less), significantly cheaper than the other offerings you were weighing.
+
+If it's worth anything for you as a datapoint: I finished my MS in CompSci in just over 3 years, taking 1 course each semester (Fall, Spring, Summer) taking no breaks while working fulltime, having 2 kids, and a pandemic. I wrote more about the experience here: https://bytebreach.com/posts/omscs_writeup/ Some people double up on classes to accelerate their timetable, but I wasn't in a hurry.
+
+> I obtained a B.S. in Aerospace Engineering, and found myself a Cybersecurity Engineering role out of college. I love what I am doing and plan to stay in the field. I have <1 year of experience, and am looking into masters programs to begin in the Fall term.
+
+Just as a note: your work history in this space will do far more for your employability. Since you already attained a job in the space (one of the hardest steps for many in their early career), just make sure you don't do anything to jeopardize that.
+
+I was in a similar position as you at one time (I got my first job in Cybersecurity with a BA in Political Science) and I found - ultimately - I felt like I needed my Masters degree a whole lot *less* as my career matured; by the time I graduated I found more value in the degree's academic exploration of subjects matter I was unlikely to encounter in the scope of my work (vs. making me feel more qualified/employable).
+
+Food for thought.
+
+> My main question is, does it matter where the masters degree is from? Do employers or a company's upper management care about the credibility of schools in the cybersecurity world?
+
+In cold-submitting applications, no. Whether or not you have a degree at all (and if said degree is in a related area of study) matters more in such cases.
+
+Where it *does* matter is in what opportunities your given institution is able to afford you while you're there. This includes things like:
+
+* Better staff involved in research that you can participate in
+* More grant money to fund more interesting/modernized curricula
+* Larger/more competitive employers to your institution's career fairs for students/graduates.
+* A (potentially) greater likelihood in networking with peers who will achieve outcomes you can engage to help your own professional trajectory.
+
+Smaller, less established school tend to attract less prominent faculty, fewer research opportunities, and smaller/fewer employers to their career fairs; their alumni also are more variable in their outcomes, making the professional peer network likewise more nebulous in its value.
+
+> ...want to learn and be able to finish as quick as possible.
+
+As a third-party in your academic considerations, these goals are not necessarily in harmony with each other. Which are you prioritizing?
+
+> Is that extra time spent obtaining a masters at a more credible / widely known school worth it in the cybersecurity world? Or does it not matter where the degree is from, just that you have it.
+
+Again, depends on what you do with your time there. If you're just there for the degree - to pass classes and get paper - I'd argue there's a case to be made that it isn't worth the extra time/money.
+----------------------------------------------------------------------------------------------------
+ID: mdw2ozx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's not uncommon for many of my peers to have hopped into AppSec from having been SWE. Here's a comment I responded to someone else asking what that is like: https://old.reddit.com/r/cybersecurity/comments/17e733b/mentorship_monday_post_all_career_education_and/k6apz0x/
+
+And here are resources you can peruse that include 1-on-1 interviews to get a better sense of what their roles might be like (and if such descriptions fit what you're looking for):
+
+https://www.reddit.com/r/cybersecurity/comments/sb7ugv/mentorship_monday/hux2869/
+----------------------------------------------------------------------------------------------------
+ID: mdw2zjq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I contend a CompSci degree is best, particularly at the undergraduate level. See related:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oxryb/
+----------------------------------------------------------------------------------------------------
+ID: mdwc6r8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> I’m considering making a career change into cybersecurity or GRC...
+
+Small point-of-order: I'd consider GRC to be a subdomain of cybersecurity employment, among [many other roles that collectively contribute to the space](https://www.reddit.com/r/cybersecurity/comments/smbnzt/mentorship_monday/hw8mw4k/).
+
+> I want to know what the real day-to-day is like. Is it tolerable, or is it mostly paperwork and high stress?
+
+I worked at one time as a GRC functionary for a DoD contractor pre-current presidential administration. That was my first cybersecurity job in pivoting from an unrelated military career.
+
+I found the work at that time to be among the most stable and predictable among all of the jobs I've held within cybersecurity. There's a lot of administrative tasks that are involved (i.e. paperwork), but there can be - at times - pressure for you to perform; federal systems are not authorized to operate without observing/participating in GRC, which can *really* irritate stakeholders who would observe your job as being obstructionist.
+
+In the present day, I won't pretend to know whether or not GRC functionaries that work for the U.S. federal gov't would still say that their work feels stable/predictable; but this is probably owed to the administration's behavior and less to their capacity as being GRC.
+
+For more details, you might consult these resources which include 1-on-1 interviews with people from all across the domain, including GRC: https://www.reddit.com/r/cybersecurity/comments/sb7ugv/mentorship_monday/hux2869/
+
+> I’m looking into certifications (like CISSP, CompTIA Security+, CISA, etc.)—are they actually worth it? Do they guarantee a job, or is it still competitive to land a role even with certs?
+
+Are they strictly necessary? No - at least not in the United States. Cybersecurity employment isn't licensed (unlike professionals in the medical and legal spaces, for example).
+
+Generally speaking, people pursue certifications because:
+
+* They want to upskill (and certifications usually have accompanying trainings which facilitate that).
+* They want to improve their employability on-paper, improving the odds of a callback for an interview.
+
+How competitive you'll appear to an employer [largely rests with how applicable your existing work history is](https://bytebreach.com/assets/images/isaca_survey.PNG) more than anything.
+
+> How stressful is the work?
+
+Variable by team and employer, less so by role-type. Employment contract can also contribute to this (e.g. maintaining billable hours as a contractor).
+
+> What about remote work? Is it common in these fields?
+
+In the case of working for the DoD, rarely - I never saw it. Working with classified information implicitly means you can't work from home.
+
+More broadly? Sure, there's opportunities. However, you may not be able to net one in your first cybersecurity role.
+
+> Also, what’s the realistic starting salary for someone transitioning into cybersecurity or GRC, and how much growth can I expect as I gain experience?
+
+There's wildly differentiating numbers here. Broadly speaking, your compensation is tightly coupled to your seniority, your geography, and your employer more than anything else. See related: https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyxg5/
+
+Generally speaking, compensation averages are well north of the national median.
+
+> Lastly, are there other fields that might be more worth pursuing, considering my background and goals, that offer better work-life balance, salary potential, or growth?
+
+I wouldn't know; I haven't looked into them.
+----------------------------------------------------------------------------------------------------
+ID: mdwjiym # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> What are some certs that I could start with?
+
+Typically, I point folks early on towards some subset of the CompTIA trifecta depending on where their comfort/familiarity rests. See related:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+
+> How long would each cert take to get?
+
+Wildly variable based on your familiarity with the subject matter, your comfort with the exam format, and your availability to study. However, I'd speculate *on average* an arbitrary certification might take 3-6 months of dedicated study, though - again - there's a lot of room for variance here.
+
+> Should I instead do something else with my time like projects?
+
+I'd approach certifications on an "as-able" basis, supplementing your other employability efforts. Your primary effort should be in cultivating a pertinent work history (likely in cyber-adjacent roles, though potentially direct in internships). If after that and your studies you have bandwidth (and funds) for a certification, go for it.
+
+> What are some ways to help myself in the future in the career of cybersecurity?
+
+Variable, depending on what your career ends up becoming. If you meant what else you might consider for your (eventual) job hunt, see:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9ogpq3/
+----------------------------------------------------------------------------------------------------
+ID: me14kru # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+Lot's of great questions.
+
+> How to determine what hardware and software is private and secure?
+
+Strangely, that's tough to answer.
+
+I'd encourage you not to think of privacy/security in absolute terms, but instead as a kind of gradient along acceptable risk. Because of the sheer sprawl, rate of innovation, and emergent vulnerabilities in tech, it's generally not tenable to ascribe anything as being absolutely private/secure unless you were to render it unusable.
+
+To that end, enterprise/regulated software and systems are generally ascribed a grade based on standardized frameworks (e.g. ISO 27001, RMF, etc.). These kinds of frameworks effectively assures due care and due diligence is performed by the owners/custodians of these software/systems to mitigate risk as best as possible.
+
+The overwhelming majority of software isn't so professionalized, however - and the majority of the public has never heard of (or is even aware of) such standards. Instead, most end-user consumers operate on word-of-mouth, third parties, or (lately) whatever an LLM tells them. More mature organizations might have their own supply chain management process in place to vet what kinds of software they admit into their networks/systems for professional use (and some enterprises - like Google - prefer in some cases to write their own to mitigate the risk of introducing outside malicious code dependencies); however, even then so-called trusted software or "known good" partners can fail (see the recent Okta and Crowdstrike compromises, for example).
+
+> Are there any cybersecurity websites report on hardware and software tests undertaken, the methods and analysis used for those tests, and their findings of their test results, do they state what their findings represent (if there exists cybersecurity/privacy weaknesses and what adverse occurances/risks those weaknesses could represent)?
+
+Yes and no.
+
+There are some sites - like virustotal - which allows users to submit suspicious software/files for fingerprinting; this allows third-parties to identify trends in emergent malware, which virustotal pipes along to most modern AV solutions. End-users can also see if anyone else has submitted that software/file, which - in aggregate - may help ID whether it's safe.
+
+But outside of malware, the secure testing of commercial and/or non-malicious software tends to be opaque. Most proprietary software owners aren't keen on disclosing their source code because they don't want to surrender their competitive business advantage; ergo, the public is generally limited in knowing the extent of security testing performed - it's usually not in the best interest of the software owner to be overly prescriptive about what they have (and have not) done, lest they provide insight to bad actors about where to look. At best, a curious individual could look up to see if there are any [CVEs](https://cve.mitre.org/cve/search_cve_list.html) reported for particular versions of their software, but this wouldn't detail the breadth of other tests that were performed.
+
+The above also assumes that the software owner is open to third-party testing (vs. prosecuting such research as being criminal, or in the very least in breach of terms of service). There are instances where good Samaritans looking to disclose discovered vulnerabilities shy away from doing so due to the perceived individual risk they would incur. Ironically, such sentiment contributes to black market activity (i.e. instead selling knowledge of the vulnerability to someone who *would* do harm). This is why we should encourage organizations to develop bug bounty programs with safe harbor clauses in reporting security vulnerabilities.
+
+Open-source software tends to be a little bit better, provided the community around said software is active and large. In principle, the idea of having so many eyes on said software elevates the opportunity for a good Samaritan to identify/fix exploitable bugs; "rising waters lifts all ships", so to speak. Using utilities like git allows everyone to observe changes to the software over time and understand why they're being implemented.
+
+> If 1.i does not exist or is unavailable to the general public, what reputable sites and forums disseminate unbiased and reliable cybersecurity and privacy findings of cyber products (opposed to fear-mongering clickbait with generalized statements)?
+
+As an end-user consumer? Outside of entrusting some vendors as "known good", you're probably looking at aggregating a collection of sources as corroborating any given software version as appropriately secure.
+
+> Does country of origin (manufacture or ownership) dictate trust scores or indicative trust confidence values related to cybersecurity hardware and software?
+
+Sometimes, but not always.
+
+As a U.S. resident, if I know that some software was produced/made/released out of North Korea, I almost assuredly wouldn't trust it, for example - even if it was centrally managed by an authoritative body from within North Korea. The inverse of this national bias isn't true too: I don't implicitly trust all software made within the U.S. (but I don't have an immediate knee-jerk response to its national authorship in the way I do with North Korea). At the end-user consumer level, different people will have different feelings about national authorship, and that's assuming they are even aware of it. Case-in-point: TikTok and DeepSeek.
+
+For organizations the story is a little different, because they tend to be beholden to laws, standards, and regulations about what they can and cannot do. ITAR - for example - is one such compliance measure that businesses in the U.S. have to observe in where they can export their software to. There's also various embargos that have been placed on various nation-state's overtime further limiting where software can be (officially) imported from.
+
+But all of the above speaks to commercial software; it's often tricky - especially in cases where the software is open-source - to truly attribute where the code is authored.
+
+> What websites/forums do those whom are cybersecurity experts (those of whom whos job it is to know and are heavily relied upon to give their expertise on cybersecurity software and/or hardware) use to stay currently informed on cyber risks?
+
+I don't have any *singular* source; I have a managed RSS feed from a range of different sources. Honestly though - since my work isn't involved in Intel - the rate of new developments tends to outpace my awareness of most matters except those that directly impact me and my work.
+
+> Are there cybersecurity community/group collectives that only rely upon donations and genuine cybersecurity interests (Not for Profits with zero-ties to advertising or cyber business) for software and/or hardware that has no vested interests in having a bias towards those that fund them (integrity above monetary gain), if so what are they?
+
+I didn't understand this question as written.
+
+More obliquely, there's all kinds of groups that have mission statements of looking to help secure consumer privacy, data, systems, etc. - with varying degrees of effectiveness and scope. I defer you to your choice of search engine first, however.
+----------------------------------------------------------------------------------------------------
+ID: me5hwnm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Those interested in exploring may want to take a look at the books section of the wiki in this sub, for example the engineering book by ross anderson. Getting into these would require some perquisite knowledge and a whole bunch of nuance. There are lots of checks and balances but none could be considered perfect - in fact I have yet to come across anything that could be perfect in any aspect of life
+----------------------------------------------------------------------------------------------------
+ID: mdyctyb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi there!
+
+> Please what certifications do I need for a cyber security engineer
+
+Technically, you don't *need* any certifications. They're ancillary to your employability.
+
+If you're asking which ones we might recommend for someone just getting acquainted to the professional domain, see:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+----------------------------------------------------------------------------------------------------
+ID: me0qrzd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please read the wiki and FAQ for a baseline on how to get started:  
+[https://www.reddit.com/r/cybersecurity/wiki/index/](https://www.reddit.com/r/cybersecurity/wiki/index/)
+
+[https://www.reddit.com/r/cybersecurity/wiki/faq](https://www.reddit.com/r/cybersecurity/wiki/faq)
+
+You'll hear it parroted a lot that cybersec is not an entry-level field and that is true, to a point. You'll need to really immerse yourself in the learning and dive head-first to prepare yourself.
+----------------------------------------------------------------------------------------------------
+ID: me0qex4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your boss simply does not have to care about your education or training timelines. He has his own deadlines that he is trying to push, and it sounds like he's pushing hard for compliance goals. I'd take the free training, if you're interested in it, and then do your education on the side (ideally compensated from your company).
+----------------------------------------------------------------------------------------------------
+ID: me0puxj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A large portion of the security community will never have to code anything in assembly in a professional sense. I am one of those people. That being said, it's important to understand the basis of machine code just to know how things operate. The people who *really* use assembly are reverse engineers or programmers working on low-level architecture. There is also a niche for individuals who do code reviews and optimizations. 
+
+Assembly helps a lot, too, in CTFs and other gamified learning platforms, but not to a massive extent.
+----------------------------------------------------------------------------------------------------
+ID: me16ulw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > How do people understand assembly language(we're using nasm, Ghidra for assembing and disassembling) and actually use it at work?? Is my current reverse engineering course one of those just take and never user classes?
+
+For context, Assembly used to be *THE* programming language programmers learned (i.e. circa 1980s or so). Famously, the "Roller Coaster Tycoon" video game was programmed entirely using the language (a feat that seems unimaginable today). Higher-level programming languages have helped abstract away such low-level instructions and made coding more accessible to a broader talent base. EDIT: importantly, compiled binaries can still be disassembled from machine code back into their assembly instructions, hence why it's still pertinent as a language to learn.
+
+If your work requires you to use it, then you learn/adopt it. Arguably, most roles in the professional space don't require you to engage code at that low-level. Those that do - however - *really* need you to understand what's happening (e.g. reverse engineers, malware analysts, etc.).
+
+More to-your-question, however: like anything else, you get better at it through repeated/consistent exposure and engagement. I remember when I first saw x86 Assembly how intimidating it looked, but now it's not so bad.
+----------------------------------------------------------------------------------------------------
+ID: me1p68v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > How can I translate my skills to anything cybersecurity related and how should I change my resume so that it can be useful for employers?
+
+First, I'd ask what is it you want to do in cybersecurity *specifically*? What do you envision doing in particular? There's a [huge swathe of roles](https://www.reddit.com/r/cybersecurity/comments/smbnzt/mentorship_monday/hw8mw4k/) that collectively contribute to the professional domain.
+
+That bit of introspection would help guide what next steps might look like.
+
+More broadly:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+
+Also:
+
+https://bytebreach.com/posts/how-to-write-an-infosec-resume/
+
+> I've seen a lot saying to do certifications so any help on that would be nice.
+
+See:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+----------------------------------------------------------------------------------------------------
+ID: me2z8ji # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Have you [audited the respective programs](http://www.reddit.com/r/cybersecurity/comments/1fn7dbl/mentorship_monday_-_post_all_career_education_and_job_questions_here/lp9bnpz?context=3)? And what have those results turned up?
+
+We don't know what you value in a postgraduate program (nor what constraints you're observing), so it's hard to understand your preference.
+----------------------------------------------------------------------------------------------------
+ID: me2yvqj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> I got diagnosed with ADHD the same year which explained alot....I again still clung to hope, but now, approaching the end of senior high school i discovered that am stupid. I do not even compare with my average classmates no matter how hard i study i do not get good grades i do not quite understand the lesson completely.
+
+There's some stuff to unpack here:
+
+* First, you need therapy (or at least a figure in your life to affirm that you are worthy). You are not stupid, and ADHD is not a career death sentence. You're being extraordinarily hard on yourself unnecessarily.
+* You're young and - if I may say so - hormonal. This lends itself to massive mood swings during our teenage years; I know it may feel like I'm patronizing you here, but I'm trying to suggest that - perhaps - your situation only *feels* as dire as you're making it out to be. Your frame of reference is confined to your limited experience/impression to the professional world (and therefore what seems like a big deal really isn't - or at least, not in terms of your lifelong career trajectory).
+* Formal academia - particularly when working through your formative years with a disability - may not gel with how you best learn/ingest what's of interest to you. Candidly, you're probably going to have to take some indeterminate amount of time learning *how to learn*. It may - or may not - involve medication, certain environment(s)/condition(s), trying out different times for engagement, etc. The point here is that sitting and listening to lectures (recorded or otherwise) may not be the way you learn best, so you might want to try experimenting with ways that *do* resonate with you.
+* Udemy (or any other MOOC) isn't an industry standard for measuring employability. People opt out of finishing those kinds of courses *all the time*. They're supplemental and low-stakes.
+
+Cut yourself some slack.
+----------------------------------------------------------------------------------------------------
+ID: me2vx36 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> But is it an idiot option if I stop my degree (Well i have to lmao), and pursue for certs?
+
+As opposed to what?
+
+You haven't really informed us what your alternative plan would be, so it's hard for us to be meaningfully prescriptive. Having said that, I will caution you that I have *never* met a professional peer in-person who has been able to attribute the start of their professional career to certifications exclusively. See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oxlrx/
+----------------------------------------------------------------------------------------------------
+ID: me2vc5k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> So my question is to all the people who have gone through the courses, classes, and what not how should I start.
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+
+> What websites should I be looking at?
+
+See collection of resources here:
+
+https://bytebreach.com/posts/hacking-helpers-learning-cybersecurity/
+
+> Is it better to be self- taught?
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oxlrx/
+----------------------------------------------------------------------------------------------------
+ID: me38kdo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome!
+
+> What could I do to take this project to the next step in order to impress any possible future employers?
+
+Polish up the product, try and make it spread (either as an open source tool or a side-hustle income). It's a project, so if you want to make it more noteworthy, then it has to become more worthy of note.
+
+Other avenues include expanding its applied research in academia (i.e. published in peer-reviewed journals or conference presentations).
+
+> What are the best ways to showcase my skills in a resume/interview?
+
+Redirect to /r/EngineeringResumes or consult https://bytebreach.com/posts/how-to-write-an-infosec-resume/
+
+> Where do you see this industry going in the next 5-10 years?
+
+In the U.S.? Likely responding to upsets introduced by the federal government under the current administration. Huge upheavals in the GRC space and vulnerabilities that result as a consequence of systemic de-regulation.
+
+Globally? More AI panic. Implementation friction points concerning quantum-resistant cryptography algorithms at-scale. A decrease in reported memory-faults relative to other vulnerability types. Otherwise, more of the same more generally.
+
+> What are hiring managers/recruiters looking for in entry level candidates?
+
+https://bytebreach.com/assets/images/isaca_survey.PNG
+
+> Are there any other certs I should look into getting?
+
+More generally:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+----------------------------------------------------------------------------------------------------
+ID: me6b8is # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Where should I start?
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+
+> What cert are valuable...?
+
+See also:
+
+https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyo33/
+
+> ...and is this even a good transition for me skill wise?
+
+Perhaps? It's unclear what within the professional domain you want to do. [Cybersecurity is not a monolith](https://old.reddit.com/user/fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oiuac/).
+----------------------------------------------------------------------------------------------------
+ID: me6jytc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: to know i am in the end of my 12th boards and actively preparing for jee mains in 2026
+----------------------------------------------------------------------------------------------------
+ID: me7c0hd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > what do i do help me
+
+Two points:
+
+1. I struggled to follow along with your query as written - I apologize in advance if my response below misunderstands what you were asking. As a gentle form of constructive criticism, you may want to consider working on your ability to communicate effectively; cybersecurity work is tightly coupled with being able to accurately and unambiguously relay information to stakeholders, be it in the form of testing reports, security research, vulnerability analysis, etc.
+2. More directly to your point, I think the resources here would help: https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+----------------------------------------------------------------------------------------------------
+ID: me9d4jy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How did you get your first job? What certs do you have? Was it hard?
+----------------------------------------------------------------------------------------------------
+ID: me9364f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Maybe they are considering you as overqualified? With CISSP it should be easy to get job offers to a L1 and L2 jobs. Or maybe they are not reading your CV because of parcing scripts.
+----------------------------------------------------------------------------------------------------
+ID: me92fv7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I got this certificate, it\`s like level 0 in cybersecurity. My uni also paid for coursera so it was a great start.
+----------------------------------------------------------------------------------------------------
+ID: meafzw6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Does anyone have any recommendations for beginner friendly projects that’ll impress companies and recruiters for an internship?
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oyt7a/
+----------------------------------------------------------------------------------------------------
+ID: mde26cq # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > I don’t know how to start, is this thing.
+
+See related:
+
+https://old.reddit.com/r/u_fabledparable/comments/17xlmrc/cybersecurity_mentorship_references/k9oftbi/
+----------------------------------------------------------------------------------------------------
+ID: mdktv3s # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't see how it would, at this point. Seems more likely to simply make a few rich people even more wealthy. The electrical infrastructure would be nice, if they spent it well. Our power grid could stand to be hardened significantly from cyber threats.
+----------------------------------------------------------------------------------------------------
+ID: mdtogv0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are you referring to this? https://en.m.wikipedia.org/wiki/Stargate_LLC
+----------------------------------------------------------------------------------------------------
+ID: me2f4ub # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cybersecurity) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: md6a57o # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ohhh, I don't know any IT folks, I work in a police station
+----------------------------------------------------------------------------------------------------
+ID: md7cd1c # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would you recommend going back to university still if you don’t have a relevant degree (BA in business for example or political science) but am in the r technical field currently?
+----------------------------------------------------------------------------------------------------
+ID: mdd9bu7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for the response! I've been applying to IT jobs in my area. How much work experience is needed to get an entry level job, and what would that job be? I looked into companies like Rapid7 ect  and from what i can tell, they seem to be pretty open to hiring entry level people (thats assuming they're hiring in your area). I'd love to pick your brain some more and potentially speak on discord if you have the time? I can reach out over the DMs if thats cool.
+----------------------------------------------------------------------------------------------------
+ID: mdqdvdg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: thank you so much. I really appreciate this. I'm an adult student (30+) and I have real-life experience with real adult jobs, I'm also prior military as well. So I've been told I have great people skills and I've had my share of customer-facing jobs. So hopefully that will give me the edge I need to land a job after college
+----------------------------------------------------------------------------------------------------
+ID: mdcxyun # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for this advice. 🙏🏾
+----------------------------------------------------------------------------------------------------
+ID: mdcd8nr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Same here. Feel free to DM me. 20 years of cyber experience.
+----------------------------------------------------------------------------------------------------
+ID: mdddm5t # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Tysm for the help
+----------------------------------------------------------------------------------------------------
+ID: mdgbqzw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Awesome way to describe it, I appreciate it
+----------------------------------------------------------------------------------------------------
+ID: mdbvinn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Trying to land an entry level role. I've got my basics right and have a security + cert with ccsp on the way. Experience wise I have hands on experience in digital forensics but nothing to show for when it comes to IT. 
+Currently I'm getting myself acquainted with SOC environments from THM, let's defend but other than that, im not sure what I can do better.
+----------------------------------------------------------------------------------------------------
+ID: md86m9e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Great!  thank you so much for ur help 🙏🏼
+----------------------------------------------------------------------------------------------------
+ID: mdaqbts # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gotchu! I’m mostly certing up for cybersecurity and was wondering if this one is worth the time investment
+----------------------------------------------------------------------------------------------------
+ID: md9oqnk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for your respons
+
+So i assume sql  will be used if i delve into database defense, then?
+
+Alright, i will study the syntax of Python  and might deble in ml. You said that Python  doesn't have the measure, so what language gave it?
+
+So i shouldn't  look at learning technology as a thing to check off. But i dont have any objective in mind for now. What do you recommend?
+
+I might be learning webdesign in uni will learning that and java be necessary  for web defense
+----------------------------------------------------------------------------------------------------
+ID: mddjrje # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for advice! I'll get mentioned courses as next ones (or maybe I'll even get Security+ now and I'll postpone current one a little - as I just started Pentest+ - to better understand it and get more profits from it. I though that I have enough background so I didn't though about and i wanted jump into deep water to see how things look from second side). They're not very expensive - some I can get paid by company for others I'll not have problem to pay out of my pocket. In my current place of work is still a lot to do regarding IAM and endpoint security, so I've planty space to learn about. Only thing is that I'm short on time as I'm mostly busy with day to day things (I'm not alone in team but still planty of job including projects for production area, support for sale team, supervising hardware sitewide etc. In last years anyway we improved systems with enabling 2fa for all emails, vpn, moving all users of production main software from one single account to personal ones, optimising firewall to filter even more phishing attempts, blocking Internet access from production floor and few more things. After last breach I will to talk with my manager to get licence for location based conditional access for high risk accounts (of course behind paywall). Anyway. One more thing which I was wondering about. Once I'll get more and more experience with course, do you think that is worth to discuss with my manager option of change my official job title in company from IT Technician to other like IT Security admin or something like that? Or it's doesn't really matter?
+----------------------------------------------------------------------------------------------------
+ID: mdeai9q # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: here is the question, is my current position a good start to pursue cybersecurity from or is completely irrelevant?
+----------------------------------------------------------------------------------------------------
+ID: mdeajvt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Also appreciate the job hunting guidance
+----------------------------------------------------------------------------------------------------
+ID: mdmtj6u # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gotcha, just the past jobs is all IT related with 5 bullet in points
+----------------------------------------------------------------------------------------------------
+ID: mdh1cfe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdn1l7h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I do not have any connections, people around me are recommending IT help desk and trying to get in by internal growth from IT help desk to Cyber job. But, I am not even hearing back from IT help desk jobs
+----------------------------------------------------------------------------------------------------
+ID: mdmlqj6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Spoken like a true Jedi
+----------------------------------------------------------------------------------------------------
+ID: mdohgli # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for your response! 
+
+I got a BS in Industrial Engineering, and a Master in Public Admin and another one in Project Management. In development they are thirsty for graduates so I went that route. 
+
+Taking note of the Security+. and the other certs I could do. Thank you u/dahra8888
+----------------------------------------------------------------------------------------------------
+ID: mdl1qmu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for your experience, I will take your advice regarding certifications and focus more on having solid skills and foundations. And also on improving my network of contacts.
+I am enjoying this process, how nice the internet is and meeting people.
+In terms of contacts, where do you think you had the most impact? On what type of social networks or was it more at a local level?
+I think I consider it equally important to be in the right place at the right time and some luck too, that's why my curiosity.
+For the other thing I will also keep it in mind if the opportunity arises haha
+----------------------------------------------------------------------------------------------------
+ID: mduss14 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I was more wondering about the market situation... and wanted to know if people with comparable experience made more or less. I tried to use payscale but it didn't really work. I had a look at Glassdoor, read a lot on reddit to see other people's posts, skimmed through some German platforms too. But I would rather hear from people.
+----------------------------------------------------------------------------------------------------
+ID: mdwjw4l # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > I did my MBA at the behest of my CISO, which got me promoted from Director of Security Architecture to Deputy CISO
+
+Nice work /u/dahra8888 !
+----------------------------------------------------------------------------------------------------
+ID: me0k0uc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: mdwmxt7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you so much for this! I'll definitely think about this and 'll try to straighten the path.  
+At this point I'm not even sure about my employability in SWE (although I still get LinkedIn offers for Java and none for CyberSec, lol) so I guess I'll see what job(s) I can land and go from there. I guess Internship with trying different departments would be the best.
+
+I'd be fine working in one area and keeping the other one as a "hobby", perhaps combining them later into MA role, etc.  
+My main line of thinking was that I really just wanted to try working in CyberSec after studying it and really liking all of the subjects (more than Java development for sure), not knowing at first it could take years before "getting somewhere". Then I learned you mostly don't need programming, so I stopped practicing that, and now I stopped myself thinking, I don't want to abandon that path either!
+----------------------------------------------------------------------------------------------------
+ID: mdw37o4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: thank you kindly :)
+----------------------------------------------------------------------------------------------------
+ID: mdw6g98 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you!
+----------------------------------------------------------------------------------------------------
+ID: me0zap8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Gotcha, thank you!
+----------------------------------------------------------------------------------------------------
+ID: me2b5p4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Would a day-to-day look more similar to some kind of dialect of sql queries?
+----------------------------------------------------------------------------------------------------
+ID: me2ax7j # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Learned something new! To think a game is fully developed in Assembly boggles my mind. Is the reverse engineering / malware analyst space a niche area within cybersecurity?
+----------------------------------------------------------------------------------------------------
+ID: me2xvnb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ive read the link you gave me and it did give me a new perspective on this matter. Thank you!
+
+To answer your question regarding the alternative plan. Im going to be honest. I have no idea. I really am not in the right headspace to be doing a good plan hahaha, I thought getting bunch of certs would tackle the situation on getting hired but your link post says otherwise (i think?). But 1 thing for sure is that no matter what im doing right now, ill always be learning and be updated on cybersecurity. In the words of Mike Ross "Once i learn it, i would never forget about it". Quirky but works hahaha
+----------------------------------------------------------------------------------------------------
+ID: meaune2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have the A+ and Security + certs. That and a military background helped. Alot of applications and a few interviews combined with a bit of luck I suspect. Took me a good few months but managed in the end. Can't say how hard it was since I don't have much to compare it to really but just kept going ... didn't have much choice not to really. 
+----------------------------------------------------------------------------------------------------
+ID: me936pt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Which one did you get? And should I do both? Wish one first
+----------------------------------------------------------------------------------------------------
+ID: md6ag9e # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: LinkedIn and DM-ing strangers on Reddit then!
+----------------------------------------------------------------------------------------------------
+ID: md7cvm8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m not sure. What job do you have? Might be better to level up at work and complement that work with some good certifications.
+
+Masters degrees could also be a consideration. I wish I had better advice for that, but I only have my bachelors.
+----------------------------------------------------------------------------------------------------
+ID: mddf37y # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ask me whatever on reddit, but I do keep this separated for my personal life.
+
+>I looked into companies like Rapid7 ect and from what i can tell, they seem to be pretty open to hiring entry level people (thats assuming they're hiring in your area)
+
+I am not saying it's impossible, I think that you should definitely apply for this type of stuff. Just realize that you're competing with other applicants with IT experience, you know? But you definitely wouldn't be the first to start in cyber without any prior experience.
+
+What I don't want you to do is to turn down or not apply for IT jobs waiting for that unicorn. That's bad news and how people never get in.
+----------------------------------------------------------------------------------------------------
+ID: mdcd8t4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cybersecurity) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: mdbw8oa # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don’t worry bro, I’m not an interviewer. Can you give me a no-BS answer: what jobs have you actually been paid for? What does hands on experience in digital forensics mean but no IT experience? That seems like a contradiction.
+----------------------------------------------------------------------------------------------------
+ID: mda3hbd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I recommend doing what you need to do to pass your classes.
+
+Outside of that, do what is interesting to you. Explore. You need to be curious and proactive yourself, nobody can hold your hand.
+
+For me, Linux was really interesting during uni. So I played with that a lot.
+
+>what language gave it?
+
+No language does. That’s my point. For example, if you decide to learn French, the only way you know if you’re learning it well enough is speaking to others in France(or somewhere else that speaks French). There is no official measure on how good you are at French. Sure there are tests and certifications, like Python, but there is no universal checkbox.
+----------------------------------------------------------------------------------------------------
+ID: mdhjmwl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You'd fall under entry-associate level experience with 2 years. Those levels are fairly swamped.
+----------------------------------------------------------------------------------------------------
+ID: mdqpq32 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Building a professional network will help improve your chances considerably.
+----------------------------------------------------------------------------------------------------
+ID: mdl4yh9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Meet cybersecurity people in your area. It is very important to get to know others. Look for DEFCON groups, BSides, DevOps, user groups, student groups, and so on. Anything that puts you shoulder-to-shoulder with people in the industry. Ask them what they are looking for when they hire. Ask what interview questions they like to use. Volunteer and get involved, and it is possible you may find a mentor (highly valuable). Offer to take them to a business lunch and learn all you can.
+----------------------------------------------------------------------------------------------------
+ID: me2uxwe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > Is the reverse engineering / malware analyst space a niche area within cybersecurity?
+
+I don't have empirical data to link you to, but my personal impression/experience is "yes".
+----------------------------------------------------------------------------------------------------
+ID: me9ac63 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Google cybersecurity one on coursera. Never heard about google IT tho
+----------------------------------------------------------------------------------------------------
+ID: md6aqyz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks!
+----------------------------------------------------------------------------------------------------
+ID: mdcgh9g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good Bot.  You are doing your job well.  :)
+----------------------------------------------------------------------------------------------------
+ID: mdc0ehn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fresher, interned with law enforcement agencies dealing with incident response and data recovery/Analysis (unpaid labour for experience). 
+What I mean is I have no employment experience in the IT industry 😭
+----------------------------------------------------------------------------------------------------
+ID: mda52ys # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Alr thank you
+----------------------------------------------------------------------------------------------------
+ID: mdhn4i0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdl844s # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What valuable advice. Until now, I have been obsessed with knowledge and forgotten about people. Maybe the years and personal experiences have made me change.
+I'm going to start getting involved in communities and people, also contributing things of value. Sometimes one asks for a lot but gives little.
+You may find it funny but I'm going to have the conversation as my wallpaper so I don't forget it haha. That way it doesn't look like just another conversation.
+----------------------------------------------------------------------------------------------------
+ID: mdi5g20 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That being said you'd likely beat out candidates with a degree and no experience. Shoot your shot.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+POST ID: 1ffqeft / POST TITLE: Email headers 
+====================================================================================================
+I want to ask you experienced folks out there on reddit the thing is I know email headers can be easily modified and I am proficient in it myself I can change the headers and Timestmaps of the email and eml metadata to look like it come from a different date and time but the thing is all email clients like Gmail hotmail proton mail Icloud when view the email it does look like authentic and timespams look changed but when I view the eml on outlook it staightaway away exposed the real date of the mail how do I go around it what is it that outlook is using that can straight away catch the real date and time of the email while all other clients like Gmail cloud etc are not able to detect this I hope you guys understand what I am asking 
+
+POST COMMENTS:
+====================================================================================================
+ID: lnske1j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you viewing the same message? IE you are logging into Outlook and looking at the headers of each account.  Remember Outlook is a program to read the email, there are many different versions. There is the Web version (OWA), the desktop app that comes with M365, and then there is the Outlook app that comes with Windows that was formally named Mail.
+
+If you are looking at the OWA version of the email, it maybe not be Outlook that is setting the timestamp.  It is the Exchange server that received the email.  Also, if you look at an header info in something like Microsoft's Message Header Analyzer, what do you see.  It could be that Exchange is adding a timestamp to the header for when it received the email.  Thus, the timestamp isn't what you are expecting it. 
+
+TL;DR: Exchange maybe modifying the timestamp.
+----------------------------------------------------------------------------------------------------

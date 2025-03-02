@@ -1,0 +1,6 @@
+POST ID: 1itvs6n / POST TITLE: Is there any way to write detections using Windows API calls?
+====================================================================================================
+I haven't seen any popular EDRs allowing to write custom detections using Windows API calls. However, they work using them. Is there any tool or practical way to write detections for a broad environment that checks for Windows API calls?
+
+POST COMMENTS:
+====================================================================================================

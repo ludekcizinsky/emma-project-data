@@ -1,0 +1,12 @@
+POST ID: 1ioqx92 / POST TITLE: What cyber security certs to do?
+====================================================================================================
+Hi, I have 5 years experience in DevSecOps (or whatever you want to call it).
+
+I'm looking to move more into security engineering.
+
+What certs should I do to help me land interviews and learn some more generic security stuff?
+
+A lot of certs I see are for beginners, I feel like certs like CKA / Sec+ etc are not worth it for me since I already have some years of experience in the field.
+
+POST COMMENTS:
+====================================================================================================

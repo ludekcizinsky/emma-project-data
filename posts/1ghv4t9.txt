@@ -1,0 +1,86 @@
+POST ID: 1ghv4t9 / POST TITLE: Software Developer to Ethical Hacker
+====================================================================================================
+Hi Guys, I'm currently working as a MERN Stack developer in a startup company but I am not enjoying the work. And I recently came across with CyberSecurity (Ethical hacking to be more precise). And I really feel this field would be amazing. But I am so much confused where should I start? And as I am a JavaScript Developer with a thorough knowledge. I am confident my skills would surely boost me. I tried finding online resources but unfortunately, I was unable to find proper guide. I would really appreciate if you guys would help me and let me know If this field really has a future.
+
+One last question, application security engineer and AppSecOps , are both same ? (They are financially so stable, just wanted to know about them)
+
+POST COMMENTS:
+====================================================================================================
+ID: lv0dq4i # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For ethical hacking take a look at tryhackme and/or hackthebox. Both are similar but I would say tryhackme is more suitable for beginners. The Junior Pentester Path is a good start.
+----------------------------------------------------------------------------------------------------
+ID: lv2ig2n # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I was a developer and is now working as a security engineer/pentester. Those years as a developer helps me when finding vulnerabilities in applications. I kinda know how a developer thinks, so following the steps are easier. 
+
+Try some rooms on tryhackme. 
+
+Also look into burpsuite academy.
+----------------------------------------------------------------------------------------------------
+ID: lv4qpo8 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn network basics,
+Learn system basics windows and linux,
+You already know programing which is a plus,
+Do cybersecurity courses and put that on your resume (Google cybersecurity certification, Cisco Netcad courses),
+If possible take a paid Ethical Hacking Certification (Ejpt, CEH, Pentest +),
+Spend 1hr daily on Tryhackme. (Hands on experience is the key).
+
+Also reffer this latest article: https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/
+----------------------------------------------------------------------------------------------------
+ID: lv14inb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I share a very similar situation to yours. TryHackMe was great I did premium for a year, their machines were very slow, I’d recommend going VPN route. Currently subscribed to TryHackMe, jury is still out if it’s better than THM.
+----------------------------------------------------------------------------------------------------
+ID: lvdw3cz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I hear that Python is a good language for Ethical Hackers to learn.
+----------------------------------------------------------------------------------------------------
+ID: lvkl4fs # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start with networking and systems fundamentals, especially Linux, and learn about ethical hacking with courses such as Certified Ethical Hacker or platforms such as **TryHackMe**. Focus on web application security, exploring topics such as the **OWASP Top 10**. With your knowledge of JavaScript, it will be easier to understand common vulnerabilities in web applications and how to mitigate them.
+
+About the roles: An application security engineer focuses on securing software, while **AppSecOps** combines security and **DevOps**, ensuring that code and infrastructure are secure throughout the development cycle.
+----------------------------------------------------------------------------------------------------
+ID: lw8el70 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Okay, So if In case I don't know about anything. That would be a great start ?
+----------------------------------------------------------------------------------------------------
+ID: lw8htqq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much for your response. So tryhackme and burpsite academy would be great resources to learn from beginning ?
+----------------------------------------------------------------------------------------------------
+ID: lw8i9tz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Got it. Is there something free resource available? Any cybersecurity course which is freely available ?
+----------------------------------------------------------------------------------------------------
+ID: lw8i756 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Understood. I will create an account on tryhackme. But, Does it also provides good resources to study for beginners? And any freely available course that is available to start with ?
+----------------------------------------------------------------------------------------------------
+ID: lw8i1z5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yupp, Python has easier syntax which makes it flexible for hackers
+----------------------------------------------------------------------------------------------------
+ID: lw8j1pq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much. I really appreciate your explanation. One more request I would like to make. Can you please tell me about couple of cybersecurity resources which are available freely or maybe we can we can find those paid courses for free ?
+----------------------------------------------------------------------------------------------------
+ID: lwa0d6k # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah then tryhackme is probably the best start. You need a good knowledge about how things work so if you are a complete beginner start with the network and Linux fundamental path. This makes further learning a lot easier and ensures that you know what the tools you use actually do
+----------------------------------------------------------------------------------------------------
+ID: lw92hn4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. Absolutely. When I’m recruiting I’m looking for people who are curious and able to learn new skills, whom actually are interested in becoming better. 
+
+THM have a very good and guided approach. 
+
+The Burpsuite academy is also good. 
+
+Understand OWASP top ten, and read the OWASP testing guide 4.2. That one is very good.
+----------------------------------------------------------------------------------------------------
+ID: lw8i768 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lwmpwh1 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: On Udemy there are several free ones, but I found better content on Acilearning.
+----------------------------------------------------------------------------------------------------
+ID: lyw4xb2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Got it. Thank you so much for your response
+----------------------------------------------------------------------------------------------------
+ID: lyw5211 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much for ur response. I will surely try this. And as you are someone who walked the same path, I have a big confusing question. I really need help with
+----------------------------------------------------------------------------------------------------
+ID: lyw56cn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Acilearning, got it. I will search for this one
+----------------------------------------------------------------------------------------------------

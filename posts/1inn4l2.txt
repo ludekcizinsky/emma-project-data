@@ -1,0 +1,14 @@
+POST ID: 1inn4l2 / POST TITLE: Best practice for service accounts for 3rd party apps
+====================================================================================================
+Hey Folks, Hope you'll doing great.
+
+We are deploying PAM solution, and the vendor needs service accounts with certain permissions for services like DB services, AD sync etc.
+
+What's best practice do you recommend for these service accounts?
+
+For installation and deployment, should we provide a temporary domain account with local administrator rights on all servers?
+
+Thanks in advance
+
+POST COMMENTS:
+====================================================================================================

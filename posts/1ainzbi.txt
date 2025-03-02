@@ -1,0 +1,34 @@
+POST ID: 1ainzbi / POST TITLE: Seeking Advice: CEH Official Course vs Bug Bounty Live Streams for Learning
+====================================================================================================
+ 
+
+I find myself in a bit of a dilemma and would love some guidance from the community. I've been diligently following a live stream that focuses solely on bug bounty for the past 16 days, and currently, we're deep into  Nmap.
+
+On the other hand, I've also enrolled in the CEH (Certified Ethical Hacker) official course and am gearing up for the certification. Now, here's where I'm torn – should I continue with the bug bounty live stream or prioritize my time and effort on the CEH course?
+
+I'm aware that bug bounty programs often require a diverse skill set, and the live stream seems like a great hands-on experience. However, the CEH certification is widely recognized and could potentially open doors for more traditional roles in cybersecurity.
+
+Have any of you faced a similar situation? What would you recommend – sticking with the bug bounty live stream for practical skills or focusing on the CEH course for a more structured and certified approach?
+
+Any insights, personal experiences, or advice would be greatly appreciated! Let's discuss and help each other grow in this exciting field.
+
+POST COMMENTS:
+====================================================================================================
+ID: kovxrta # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Focus your attention on the certification. Bug bounties are cool, and you can learn a lot by watching someone, but the certification is more important. There will always be bug bounty livestreams, but you only get one shot to take that test and pass it, otherwise you're spending more money. I would poor all my energy into the certfication. Just my opinion.
+----------------------------------------------------------------------------------------------------
+ID: koxeqli # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would recommend you to continue with the CEH training, since there are some advanced topics (not many) that you won't see on bug bounty. Remember, bug bounty has its limitations, and usually (or never) you won't get involved on post-exploitation phase.
+----------------------------------------------------------------------------------------------------
+ID: kovjrpm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kp1rmxw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: where can you find bug bounty live streams? ive always been so afraid of trying one myself and it would be cool if i can watch people and like hear their train of thought while they do it
+----------------------------------------------------------------------------------------------------
+ID: kovjzhx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ik there are better certifications like oscp CompTIA etc but here in India I have seen companies prefer ceh more and I have also asked my seniors they also suggested the same
+----------------------------------------------------------------------------------------------------
+ID: koz45e8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bro what was the cost of CEH  ?
+----------------------------------------------------------------------------------------------------

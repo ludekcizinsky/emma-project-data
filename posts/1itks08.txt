@@ -1,0 +1,8 @@
+POST ID: 1itks08 / POST TITLE: Slack Leak
+====================================================================================================
+https://github.com/alexoslabs2/slack-leak
+
+Slack Leak scans all Slack public and private channels for sensitive information such as credit cards, API tokens, private keys, passwords and creating Jira tickets
+
+POST COMMENTS:
+====================================================================================================

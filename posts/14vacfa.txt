@@ -1,0 +1,16 @@
+POST ID: 14vacfa / POST TITLE: How can I really protect myself from malicious figures online?
+====================================================================================================
+I have a very elementary level knowledge and skillset in ethical hacking, but I know enough to know whats possible. I want to find the best way I can protect myself from malicious figures. Im aware that really the only way to be 100% safe on the internet is to not use it and avoid it, but I want to do what I can to protect myself.
+
+POST COMMENTS:
+====================================================================================================
+ID: jrcn3zj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Condoms don’t work well. I’ve used them each time I go on the net but still got herpes so if it’s there you can knock that one of your list.  If you’re a standard user using Windows 10/11 stay up to date and utilize the firewall and it’s rule settings. You can also explore additional levels of security through your router allowing/blocking ports etc.. keep it updated as well. Beyond that I just roll through the Thunder-dome we call the internet with my fingers crossed. PS- password managers are good as well.
+----------------------------------------------------------------------------------------------------
+ID: jrcrthu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Everything /u/TheonNoDeek said.
+
+Also, MFA every login you have if the option is available.
+
+My #1 rule: Just don't be an idiot.  If you think something you're about to do is going to have a negative effect somehow, then go with your gut and don't do it.  Don't be the guy who posts hundreds of "Let me send you pictures of my junk" and then gets completely shocked that he's been blackmailed with his own pictures.
+----------------------------------------------------------------------------------------------------

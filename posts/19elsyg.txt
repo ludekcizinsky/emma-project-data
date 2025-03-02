@@ -1,0 +1,64 @@
+POST ID: 19elsyg / POST TITLE: How to show my skills off
+====================================================================================================
+Hi guys
+
+I have started learning ethical hacking, For the last few months, and I was wondering how can I show off the skills I have learned?
+
+At the moment I can do basic hacks and understand basic skills. I am not a developer or coder, so I can't at the moment, write tools that I can show off on Github.
+
+I don't have any experience in this field, but I want to show that I am close to a junior pentester level. I have googled potential projects but, they all revolve around coding tools or programs.
+
+Any ideas?
+
+Thanks so much guys.
+
+POST COMMENTS:
+====================================================================================================
+ID: kjdosrc # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Certifications and start a GitHub and make walkthroughs.
+----------------------------------------------------------------------------------------------------
+ID: kjdomfs # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: HackTheBox or just do a certification
+----------------------------------------------------------------------------------------------------
+ID: kjdvjbq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Record some videos. Put them on YouTube. Reference them on your resume when you apply for jobs.
+----------------------------------------------------------------------------------------------------
+ID: kjecdfu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks so much guys :)
+----------------------------------------------------------------------------------------------------
+ID: kjhmxzl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So I have decided on the certification route.
+Is the CEH worthwhile? Otherwise i was thinking of OSCP although the TCM TPNT looks appealing, any advice?
+----------------------------------------------------------------------------------------------------
+ID: kji46e5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: YouTube.
+----------------------------------------------------------------------------------------------------
+ID: kje5swv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yep, certifications are a good way.
+----------------------------------------------------------------------------------------------------
+ID: kjlwxc1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am someone who is self  studying for pentesting 
+so I did my research part and this is what I figured out .
+
+everyone called CEH a waste for money and time, so skip it.
+OSCP is the to go to If you want your resume to get passed the HR and have a chance with an interview 
+but it's not a cert you would normally do to improve your level at pentesting, the training materials aren't that great and the cost for the exam and training is expensive compared to their content value.
+
+PNPT is great, if you have 400$ to spend then you definitely should take it, the courses materials are great .
+
+So normally what we would aim for is studying for a cheap not very recognized cert like PNPT or CPTC (you can even do both) 
+and then enroll for OSCP.
+
+This is the information I found doin my own research and asking people in different platforms, besides I tried some of tcm academy and HTB courses and they are great.
+you can't get wrong with this,
+but doing your own research is essential too, because you don't want to follow a roadmap just because some random person on reddit said so
+----------------------------------------------------------------------------------------------------
+ID: kjmir02 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is fantastic advice. Thanks so much :)
+----------------------------------------------------------------------------------------------------
+ID: kjn7d80 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Happy hacking, I hope we both make it big 😄
+----------------------------------------------------------------------------------------------------
+ID: kjn8cjf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You too haha
+----------------------------------------------------------------------------------------------------

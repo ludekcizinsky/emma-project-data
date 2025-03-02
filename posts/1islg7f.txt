@@ -1,0 +1,12 @@
+POST ID: 1islg7f / POST TITLE: How is the skillset for SaaS security different from network security?
+====================================================================================================
+A few trends prompted this question:
+
+* Increases in identity-based attacks that have nothing to do with network-based infrastructure
+* More employees working from outside of a well-defined network perimeter
+* More workplace technology delivered as a SaaS app vs. on-prem software
+
+Professional development questions come up a lot here, so were interested in perspectives on how/if the above trends change what skills are most important as an IT security practitioner? What’s the same in your view and what’s different?
+
+POST COMMENTS:
+====================================================================================================

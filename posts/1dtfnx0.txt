@@ -1,0 +1,6 @@
+POST ID: 1dtfnx0 / POST TITLE: QR vulnerability test
+====================================================================================================
+How can vulnerability tests be carried out on machines that use QR as an actuator?
+
+POST COMMENTS:
+====================================================================================================

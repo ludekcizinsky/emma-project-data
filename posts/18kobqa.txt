@@ -1,0 +1,9 @@
+POST ID: 18kobqa / POST TITLE: Any suggestions for simple, freelance tech work??
+====================================================================================================
+I've been wondering if it could be realistic/practical to try and learn/make some money on the side with freelance ethical hacking/IT work. I was looking at [Upwork.com](https://Upwork.com), but idk if it would be worth the effort. Does anyone have any suggestions on how I could possibly start doing freelance tech work online and hopefully learn a bit of ethical hacking in the process?
+
+POST COMMENTS:
+====================================================================================================
+ID: kf773i3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you already have some skills in pen testing, try completing some bug bounties. I’ve heard some people have luck earning extra income that way
+----------------------------------------------------------------------------------------------------

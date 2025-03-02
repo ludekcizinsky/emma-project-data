@@ -1,0 +1,41 @@
+POST ID: 1fsz9sf / POST TITLE: How do you decrypt a rot13 encryption on the terminal itself? 
+====================================================================================================
+There's a data.txt file encrypted in rot13, you've to decrypt it right from the terminal. How do you do it? 
+
+POST COMMENTS:
+====================================================================================================
+ID: lppd2oi # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you tried google?
+
+90% of “hacking” is knowing how and when to use google
+----------------------------------------------------------------------------------------------------
+ID: lpo93ac # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can use tr to accomplish this
+----------------------------------------------------------------------------------------------------
+ID: lq5wzlw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For school I made a python dictionary like {1:a, 2:b, 3:c, etc} and then mathematically shifted the key to the proper one and then output the value? Not perfect but it worked.
+----------------------------------------------------------------------------------------------------
+ID: lr1tyxx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wait until this becomes the top hit. Then we’ll be stuck in an endless loop.
+----------------------------------------------------------------------------------------------------
+ID: lpo9pmm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you give an example please? It'd be easier to understand that way 🙏
+----------------------------------------------------------------------------------------------------
+ID: lpo9w9r # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ll give you an example on how to encode
+
+
+echo ‘hello world’ | tr ‘A-Za-z’ ‘N-ZA-Mn-za-m’
+----------------------------------------------------------------------------------------------------
+ID: lpoa6pc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot, I'll try to figure out the decode by myself now then
+----------------------------------------------------------------------------------------------------
+ID: lpoakm7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you know how rot13 works? You should already know how to decode
+----------------------------------------------------------------------------------------------------
+ID: lpob5i8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, I can decode manually but I'm pretty new to the terminal commands. I stumbled across rot13 on a ctf challenge and thought I don't want to leave the terminal for decoding.
+----------------------------------------------------------------------------------------------------
+ID: lpsz3og # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: rot13 goes 13 letters forward. The reverse is going 13 letters backward. There are 26 letters in the alphabet.
+----------------------------------------------------------------------------------------------------

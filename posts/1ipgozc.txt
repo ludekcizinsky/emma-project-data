@@ -1,0 +1,12 @@
+POST ID: 1ipgozc / POST TITLE: Human Risk Management or just Security awareness 2.0?
+====================================================================================================
+I work for a reseller, and a few of our larger customers have started asking about human risk management (HRM) solutions. Most of them came across the concept in a recent Gartner report and are now pushing to move beyond basic security awareness training.
+
+It’s interesting to see how legacy vendors like KnowBe4, SANS, and others have rebranded to jump on the HRM bandwagon, but I’m curious - what *truly innovative* solutions have you seen in this space?
+
+We’ve been working with a company called OutThink, and their approach feels like a step ahead of the usual offerings, but I’d love to hear what others are doing.
+
+How many of you have CISOs / CIOs asking for more proactive approaches to human risk, that go beyond the basics? Are you seeing this shift too? How many of you have CISOs / CIOs asking for more mature, proactive approaches to human risk? What’s working for you, what’s falling short, and where do you see HRM heading in the next year or two?
+
+POST COMMENTS:
+====================================================================================================

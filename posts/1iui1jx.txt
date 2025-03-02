@@ -1,0 +1,11 @@
+POST ID: 1iui1jx / POST TITLE: NIST Audit reports and sign off
+====================================================================================================
+Hi All. I received a query from a potential client that I had not come across yet as NIST is not common here in Australia. Against the NIST 800-171 framework, are there any formal requirements for someone to sign off on an audit report/attestation in the same manner as say SOC 2 or ISO? Or does it default to the benchmark of "suitably qualified and experienced individual or organisation".
+
+I have no concerns in doing the assessment if I land them (ISO, SOC, E8, SMB1001, CIS18 background) and have tools and platforms to track progress/ensure it all gets done, it is just the audit report.
+
+  
+
+
+POST COMMENTS:
+====================================================================================================

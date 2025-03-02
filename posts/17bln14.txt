@@ -1,0 +1,9 @@
+POST ID: 17bln14 / POST TITLE: Websides for information gathering practice
+====================================================================================================
+I am learning information gathering on kali linux and i want to do practical work. I am searching for just a blank webside from which is legal to gather information. Like nmap.org where you can practice information gathering tools.
+
+POST COMMENTS:
+====================================================================================================
+ID: k5kwh47 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you could use DVWA for testing different ethical hacking techniques. I suppose you could use it for information gathering as well
+----------------------------------------------------------------------------------------------------

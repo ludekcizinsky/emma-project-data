@@ -1,0 +1,12 @@
+POST ID: 1inofkn / POST TITLE: Certificate lifecycle management
+====================================================================================================
+Hello community,
+
+Who manages the certificate lifecycle in your organization? Most orgs I've worked with/for usually has the certificate lifecycle owned by the security operations team.
+
+Obviously, the updating/rotation of certs as the expire is done by a sysadmin (should it?), but the overall process in terms of a RACI is owned and managed by security?
+
+Is this vastly different in other organizations?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,15 @@
+POST ID: 172k18i / POST TITLE: What are some good ddos and OSINT tools?
+====================================================================================================
+I know of HOIC and LOIC, any other reccomendations would be appreciated also some  good OSiMT tools would be appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: k3x8q4c # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you think loic or hoic are good ddos tools you need to do a lot more research.
+----------------------------------------------------------------------------------------------------
+ID: k43ctt6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: most helpful reddit comment
+----------------------------------------------------------------------------------------------------
+ID: k471br0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you reccomend me some
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+POST ID: 1fesxv2 / POST TITLE: Can anyone help me about the best tool in termux 
+====================================================================================================
+Can anyone help me about the best tool in termux 
+
+POST COMMENTS:
+====================================================================================================
+ID: lmpolbp # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The “best tool” is subjective. It would depend on what you’re trying to do specifically. If you’re new to Linux based operating systems I would start off with a Linux essentials course on maybe tryhackme.com
+----------------------------------------------------------------------------------------------------
+ID: ln1a3fc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am trying to network scanning can you help me
+----------------------------------------------------------------------------------------------------
+ID: lnua437 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can help me for enter LAN network
+----------------------------------------------------------------------------------------------------
+ID: lndy7ub # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For network scanning the most efficient tool is nmap but for certain commands it recommends the phone to be rooted (jail break)
+----------------------------------------------------------------------------------------------------
+ID: lnubjqe # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you specifically trying to connect to like a locally hosted IP? You’re asking very broad questions here man.
+----------------------------------------------------------------------------------------------------
+ID: lnubxtb # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If I know the private IP of any device then it is possible
+----------------------------------------------------------------------------------------------------

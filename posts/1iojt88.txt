@@ -1,0 +1,8 @@
+POST ID: 1iojt88 / POST TITLE: DevSecOps Interview
+====================================================================================================
+Hey guys!
+
+I have an interview coming up for the role of DevSecOps and would appreciate any inputs I should focus on. I am particularly want to sharpen DAST. any articles or videos on it will be highly appreciated!
+
+POST COMMENTS:
+====================================================================================================

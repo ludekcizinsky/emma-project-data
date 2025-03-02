@@ -1,0 +1,40 @@
+POST ID: 1ioomy2 / POST TITLE: Get Advice - Career Break - Should I Focus on Data Engineering or Shift to Cyber Security?
+====================================================================================================
+Hello everyone,
+
+I’m currently on a career break due to my pregnancy, and I want to make the most of this time by learning and upskilling. My background is in Data Analysis and Data Engineering, and I feel my experience aligns well with these roles. However, I’ve recently heard that Cyber Security is in higher demand and has less competition than traditional Data Analyst or Data Engineer roles.
+
+I've also been concerned about the long-term stability of Data Analyst or Data Engineer positions with the rise of AI-generated automation, which could eventually impact job security. With this in mind, I’m now torn between continuing my learning path in Data Engineering or shifting gears entirely and learning more about Cyber Security to pursue a career in that field.
+
+To provide more context, here’s a quick overview of my background:
+
+**Skills Utilized:**
+
+* Python
+* ETL (Extract, Transform, Load)
+* Alteryx
+* Advanced SQL
+* Power BI
+* Tableau
+* Azure Databricks
+* SAP ISU
+* Business Object
+* Oracle
+* SQL Server
+* PowerApps
+* CDS
+* SharePoint
+* Forms
+* Data extraction, manipulation, analysis, and visualization
+
+**Certifications:**
+
+* Data Visualization in Tableau: Create Dashboards and Reports
+* IBM ETL and Data Pipelines with Shell, Airflow, and Kafka
+* IBM Python for Data Science, AI, and Development (May 2019)
+* IBM Python Project for Data Engineering (May 2017)
+
+Has anyone been in a similar situation? Any advice on which path to take, considering the current job market and future trends in automation? I’d love to hear your thoughts!
+
+POST COMMENTS:
+====================================================================================================

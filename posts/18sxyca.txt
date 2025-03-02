@@ -1,0 +1,54 @@
+POST ID: 18sxyca / POST TITLE: Is Ethical Hackers Academy legit or worth it?
+====================================================================================================
+Someone I know shared a holiday offer from Ethical Hackers Academy for a [Membership](https://ethicalhacksacademy.com/diamond-membership/) with a bunch of courses for 149 usd.
+
+I mean sure it sounds nice to have access to courses and resources, but I see something cheap and think there's a but.
+
+I wanted to know if anyone has any experience with Ethical Hackers Academy, their content and if it's overall worth it to invest in it.
+
+POST COMMENTS:
+====================================================================================================
+ID: kfar0ab # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can’t speak to that course but Tryhackme is mostly free and covers almost everything. TCM academy is also fantastic.
+----------------------------------------------------------------------------------------------------
+ID: ljkgwe9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: ljkhfy8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: ljuej1x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kfadui8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not familiar with that one but a similar and likely higher quality option might be pentester academy.
+
+https://www.pentesteracademy.com/
+----------------------------------------------------------------------------------------------------
+ID: kfbzo3w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hackthebox too
+----------------------------------------------------------------------------------------------------
+ID: kfsyqnh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Question not to be all in your business but how did tou start out with ethical hacking like did you go to school & get a degree in anything? did you have any past certs or did you just jump straight into learning ethical hacking only ? I ask because my end goal is honestly to get into ethical hacking right now in school for coding.
+----------------------------------------------------------------------------------------------------
+ID: ljkgwgk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ljkhg0h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ljuej39 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: kfu55oz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Everyone I know has a different path. If you have OSCP and know how to do web application and internal/external network hacking well, and can pass an interview then that’ll get your foot in the door. Building those skills is difficult and takes time so interest in the field is important. I jumped straight in and studied on my own for about 2 years before I landed a consulting job. The field is getting more saturated so you may need other certs and experience to get an interview such as CompTIA A, Net, Sec+ and IT help desk/analyst. Pentesting is not a beginner role by any means but it can be done if you build the skills and find a consulting company/contractor that needs people. If I were to start again from scratch I’d do Tryhackme beginner, Linux, and pentesting paths, (build a GitHub and write walkthroughs of any boxes you hack for your resume), tcm academy networking and webapp then the PNPT, then start applying while I work on OSCP class and test. If necessary do CompTIA certs and also apply at help desk/analyst roles to build your resume.
+----------------------------------------------------------------------------------------------------
+ID: kpgnrda # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much for this answer.
+----------------------------------------------------------------------------------------------------

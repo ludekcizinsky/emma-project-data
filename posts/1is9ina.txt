@@ -1,0 +1,20 @@
+POST ID: 1is9ina / POST TITLE: Exposed AWS Keys in Public Repos – Here’s What I Found!
+====================================================================================================
+# 100+ AWS Keys Found in Public GitHub Repositories!
+
+Hello r/cybersecurity ,
+
+While exploring **GitHub Dorking + TruffleHog**, I discovered a shocking number of exposed AWS keys—some with high privileges! To scale this further, I built [AWS-Key-Hunter](https://github.com/IamLucif3r/AWS-Key-Hunter), an automated tool that hunts leaked AWS keys and sends real-time Discord alerts.
+
+🔍 **Findings**:  
+✅ Public repos often leak sensitive credentials.  
+✅ TruffleHog has limitations—so I built a better solution.  
+✅ Automation helps catch leaks before attackers do.
+
+📜 **You can read the article** :  [Article Link](https://medium.com/@IamLucif3r/how-i-found-100-exposed-aws-keys-in-public-git-repos-b475c9089764)  
+📌 **Tool on GitHub**: \[[GitHub Repo Link](https://github.com/IamLucif3r/AWS-Key-Hunter)\]
+
+PS: This was just an experiment for fun.
+
+POST COMMENTS:
+====================================================================================================

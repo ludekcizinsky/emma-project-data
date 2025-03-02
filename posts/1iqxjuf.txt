@@ -1,0 +1,18 @@
+POST ID: 1iqxjuf / POST TITLE: Free Risk Register template for Information Security
+====================================================================================================
+Hi friends! I am back with a free resource - a comprehensive Risk Register template. 
+
+I have tried to make this template unique by including features such as:
+
+* A separate Task Tracker to track the work that you do to mitigate risks. Merged cells to track mitigations is something I always hated in risk registers.
+* Gantt chart to demonstrate the timeline for risk mitigation. This is great if you are just starting off with your Risk Management program.
+* Good Dashboards and metrics
+
+You can download the template from this link: [https://allaboutgrc.com/risk-register-template-for-information-security/](https://allaboutgrc.com/risk-register-template-for-information-security/)
+
+I have tried to include as much information about the template as possible in the post. But if there is something that needs further explanation, do let me know. 
+
+Hope all you find this helpful and feel free to contact me if you have any feedback or suggestions. 
+
+POST COMMENTS:
+====================================================================================================

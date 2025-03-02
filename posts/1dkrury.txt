@@ -1,0 +1,66 @@
+POST ID: 1dkrury / POST TITLE: Ethical Hacking Courses
+====================================================================================================
+So I’m really wanting to get into ethical hacking but don’t know where to start. Does anyone know any reputable/quality courses? Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: l9kaf7z # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 
+ **Beginner Level:**
+
+1. Practical Ethical Hacking - The Complete Course by Heath Adams (TCM Security)
+
+**Intermediate Level:**
+2. Penetration Testing and Ethical Hacking by Georgia Weidman (Cybrary)
+3. CompTIA PenTest+
+
+**Advanced Level:**
+4. Advanced Web Attacks and Exploitation (AWAE/WEB-300) by Offensive Security
+5. Certified Ethical Hacker (CEH) by EC-Council
+
+**Expert Level:**
+6. Offensive Security Certified Professional (OSCP)
+7. Offensive Security Experienced Penetration Tester (OSEP)
+8. Offensive Security Web Expert (OSWE)
+9. Offensive Security Exploitation Expert (OSEE)
+10. Offensive Security Certified Expert (OSCE)
+----------------------------------------------------------------------------------------------------
+ID: l9k83fo # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Books, blackhat python following its instructions is a great start, also Linux system hardening and hacking methodology books.  Courses may seem easier to do at a faster pace. But books you can take and do the tasks and always have access to your curriculum. I frequently revisit my books for assistance in concepts I struggle with.
+----------------------------------------------------------------------------------------------------
+ID: l9m1wqi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is free and fun. Great place to start
+----------------------------------------------------------------------------------------------------
+ID: l9m8nmv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Also another question I have is how strong of a laptop do I truly need to get into this world? I currently have a new HP Victus
+----------------------------------------------------------------------------------------------------
+ID: l9l91gs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Let me ask about your knowledge. Do you have any experience with bash, programming etc?
+----------------------------------------------------------------------------------------------------
+ID: la1kinc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: ma6db2g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hello, i'm in the same boat. Have you followed any path. Any guidance would be helpful
+----------------------------------------------------------------------------------------------------
+ID: l9kvgp4 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: At Expert Level also the CEH Master grade, by EC Council.
+----------------------------------------------------------------------------------------------------
+ID: l9m8exs # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate that layout! Makes it easy for me to know where to start
+----------------------------------------------------------------------------------------------------
+ID: l9ljlu0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That’s a great question, not really but I’ve always had an interest. I’m starting to make time for it now so I have a lot to learn
+----------------------------------------------------------------------------------------------------
+ID: la4tpji # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Who said I didn’t know how to use google? 😂😂😂
+----------------------------------------------------------------------------------------------------
+ID: l9llsae # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Then I would recommend that you learn some basics. There are plenty of ressources in the internet and there are also books and video tutorials as well as paid courses for nearly everything in the IT world. You should know basic stuff about partitions and formats, protocols (layer model), bash, python and at least one or two other languages and much more. IMO it is not a good idea to start with "hacking", if you have zero knowledge.
+----------------------------------------------------------------------------------------------------
+ID: l9m80tk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate the info, I’ll definitely look into all of that! Is there a specific language that’s more important to learn than others that you’ve seen?
+----------------------------------------------------------------------------------------------------
+ID: l9nm810 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Java is for example complete different to Python and therefore good to know. And it is useful, too. For websites Javascript is good to know, as well as PHP.
+----------------------------------------------------------------------------------------------------

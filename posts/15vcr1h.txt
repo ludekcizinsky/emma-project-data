@@ -1,0 +1,48 @@
+POST ID: 15vcr1h / POST TITLE: Am I too late to start with Cybersecurity?
+====================================================================================================
+I'm 27 years old and I have a degree in software engineering but now I'm thinking about specialising in cybersecurity.   
+I've already done some basic stuff on [tryhackme.com](https://tryhackme.com) but I'm very basic still.   
+Sorry if this is not the right community to ask. But do you guys think I'm too late?   
+Most of the good cybersecurity engineers that I see, they started much younger.   
+
+
+Do you guys recommend a good course and certification so I can start this journey?   
+
+
+I appreciate any advice.   
+Thank you.
+
+POST COMMENTS:
+====================================================================================================
+ID: jwuor1s # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: nah. i have interviewed people 30yo with degree in completely different background - like architecture.
+
+it depends on what you want to do. if pentesting i would recommend joining a consulting firm. great exposure and very fast paced to learn and get exposed to all kind of environment/work.
+
+most of the work you'll be tasked with will be appsec. so that is the web app pentesting and mobile app pentesting stuff. typical network vapt stuff as well that can be picked up very easily. once you have these 3 skills sorted out you can pretty much get a job as a junior pentester.
+
+not sure where you're from but in my country (singapore) the starting pay will be around 4k-5k pretty neat. depending on where you're from some certs should be prioritised first (eg. CREST)
+
+if you're really interested go read up OWASP and web app stuff. strongly recommended Burp Suite PortSwigger Academy, completely FREE interactive lessons on learning Burp Suite and Web Application vulnerabilities. this is the best advice ever if you're interested on pentesting stuff. Burp Suite is what we all use.
+
+Mobile App is easy its very similar to web app (just a different client - mobile app instead of a browser). you just need to understand some client-side attacks/issues that are specific to mobile app. OWASP MSTG and OWASP MSVS two very useful resources.
+
+Network VAPT is the easiest out of all. mostly just running Nessus scan and verifying the results of the scan. some manual tasks depending on which port/service is exposed. hacktricks will cover all of the test case you need to know/execute depending on the service you've found.
+----------------------------------------------------------------------------------------------------
+ID: jwufehr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not at all! You already have a degree in Software Engineering and if you stick to a learning routine you can get ahead of many.
+----------------------------------------------------------------------------------------------------
+ID: jwvswap # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I started at 28, 5 years later and I'm a pentester. You're fine.
+----------------------------------------------------------------------------------------------------
+ID: jwxahl8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just graduated at 32 in Cyber Security. I have my own labs and things in learning as I'm applying. Somebody will say yes at some point. Just keep on learning. Don't get caught up in the gate keeping.
+----------------------------------------------------------------------------------------------------
+ID: jwwllz5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No 6 months is enough to became a cyber security expert u need to learn networking, build logic behind coding i.e how code works, hacking tools, critical thinking, Linux os and keep updated yourself but main thing is it's never let to learn anything
+----------------------------------------------------------------------------------------------------
+ID: jwushq0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's never too late. All that matters is if you have the time and patience to dedicate to learning something new.
+
+Look for online college courses. There are some offered for professionals who want to take it in their free time so that it can work around your schedule. GA Tech has an online cybersecurity masters that might be what you need.
+----------------------------------------------------------------------------------------------------

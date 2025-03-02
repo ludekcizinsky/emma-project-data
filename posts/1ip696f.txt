@@ -1,0 +1,6 @@
+POST ID: 1ip696f / POST TITLE: how hard is it to find a job in Trusted Execution Environment related fields (Arm TrustZone, Intel SGX for example)
+====================================================================================================
+I'm an undergraduate student and going to take a MS degree in the US. I'm currently doing a research project related to Arm TrustZone. I think TEE is a hot topic in the academia, and I wonder if it is possible to find an intern in the relevant fields.
+
+POST COMMENTS:
+====================================================================================================

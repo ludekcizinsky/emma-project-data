@@ -1,0 +1,15 @@
+POST ID: 17rffeg / POST TITLE: Question on legal boundaries for trojan horses for educational purposes
+====================================================================================================
+>Hello! I have a question if something is legal.  
+Is it legal to create and distribute a trojan horse via email, sent to my personal email and testing it for educational purposes on my cheap personal computer? I'm not sure the laws regarding this, and wanted to double check here if anyone knows. Thanks!
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: k8ivrho # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Probably not as you do not own the email service provider, "your email" isn't actually owned by you.
+----------------------------------------------------------------------------------------------------
+ID: k8ize4q # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks man. That clears up the gray area i was unsure about. I might have to re-code it on my new PC to run it.
+----------------------------------------------------------------------------------------------------

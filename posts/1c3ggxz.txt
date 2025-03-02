@@ -1,0 +1,107 @@
+POST ID: 1c3ggxz / POST TITLE: Decrypting an Image that has hidden text
+====================================================================================================
+I'm currently working on a capture the flag challenge, and the instruction is: "Find a file related to the incident in challenge 12. It's on one of three servers. After you find the file, extract the hidden message." Here's the challenge 12 prompt: "Recently the security world was rocked by a recent vulnerability that affects bleeding edge versions of some Linux distributions. It creates a back door that can be exploited via SSH. What is the CVE of this vulnerability?" The answer to prompt 12 was CVE-2024-3094. The three servers are: Linux, Windows 7, and Windows (Unknown). On the Windows 7 server, I discovered a folder called pod.GRL, which included a jpeg file entitled "xz". The image had the CVE-2024-3094 vulnerability.  What should I attempt to locate the secret message within this image?  I've tried various steganography websites with no luck.
+
+Here's the image:
+
+https://preview.redd.it/omxdqfo99cuc1.jpg?width=820&format=pjpg&auto=webp&s=79327c0d42a2c00a9078ad43ed057fa50cefcdc8
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kzijs62 # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: strings, file, binwalk, exiftool, stegseek, steghide, zsteg and maybe some online steganography help. Good luck 👍
+----------------------------------------------------------------------------------------------------
+ID: kzh2toq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: kzn67iq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not all steg can survive lossy recompression.  Upload the original xz.jpg to mega or something and we will have an easier time helping you.  Any guess as to what the password might be or is it blank?
+----------------------------------------------------------------------------------------------------
+ID: kzhl63p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: kzi8wsw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you use binwalk?
+----------------------------------------------------------------------------------------------------
+ID: kzk5ge1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: did you figure it out? tell how. 
+----------------------------------------------------------------------------------------------------
+ID: kzlrfuv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Following
+----------------------------------------------------------------------------------------------------
+ID: kzt7cr2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you use Metagoofil: 
+
+https://www.geeksforgeeks.org/metagoofil-tool-to-extract-information-from-docs-images-in-kali-linux/
+
+Go on github and fire up your kali box vm.
+
+The Voodoo Doc...
+----------------------------------------------------------------------------------------------------
+ID: l09rca8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for all of your helpful suggestions and guidance after days and hours of trying to figure things out. I was finally given a direction to head in! In order to solve this, I used Steghide and Stegseek. My initial difficulty was that I was thinking too small. It turned out that I required a wider password list to run the image through than merely rockyou.txt. If you have any further questions, please feel free to ask. Thank you for this new variety of knowledge and tools that I may utilize in the future when dealing with Stegonagraphy.
+----------------------------------------------------------------------------------------------------
+ID: kzjl4yl # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ll try stegseek, steghide, and zsteg I attempted the others with no luck
+----------------------------------------------------------------------------------------------------
+ID: kzn38ew # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I attempted stegseek but was unable to discover a password, therefore I could not utilize steghide. I'm currently using zsteg and discovered a wide variety of information and files, but nothing particularly stuck out, so how would I go about seeing the files from my zsteg -a scan?
+----------------------------------------------------------------------------------------------------
+ID: kzh7hzq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ExifTool Version Number         : 12.82  
+File Name                       : xz.jpg  
+Directory                       : C:/ProgramData/Microsoft/MF/pod.GRL/exiftool-1  
+2.82  
+File Size                       : 59 kB  
+File Modification Date/Time     : 2024:04:11 07:50:10-05:00  
+File Access Date/Time           : 2024:04:13 21:01:16-05:00  
+File Creation Date/Time         : 2024:04:13 21:01:16-05:00  
+File Permissions                : -r--r--r--  
+File Type                       : JPEG  
+File Type Extension             : jpg  
+MIME Type                       : image/jpeg  
+JFIF Version                    : 1.01  
+Resolution Unit                 : None  
+X Resolution                    : 1  
+Y Resolution                    : 1  
+Image Width                     : 820  
+Image Height                    : 480  
+Encoding Process                : Baseline DCT, Huffman coding  
+Bits Per Sample                 : 8  
+Color Components                : 3  
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)  
+Image Size                      : 820x480  
+Megapixels                      : 0.394  
+-- press ENTER --
+----------------------------------------------------------------------------------------------------
+ID: kzn77pw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m not sure how would I go about checking that?
+----------------------------------------------------------------------------------------------------
+ID: kzhlzns # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have not figured it out yet.
+----------------------------------------------------------------------------------------------------
+ID: kzi9exi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I tried binwalk and had no luck, I tried it with also converting the image to png which revealed a zip file which I extracted but when using cat on both files it didn’t reveal anything that I could recognize.
+----------------------------------------------------------------------------------------------------
+ID: kzk5kc0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I haven’t figured it out yet there’s a couple more things I plan to try later today to see if I figure it out
+----------------------------------------------------------------------------------------------------
+ID: kzvbpvb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've tried installing metagoofil two different ways, and after installation, the scripts don't seem to work when I run them. I've also encountered the issue of I'm merely trying to retrieve information off of an image and not an image from a website. This image was already inside of a folder inside the Windows 7 system. Do you have any other recommendations?
+----------------------------------------------------------------------------------------------------
+ID: lwhp7jc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have about a dozen questions as I’m currently working on a Stenography CTF flag. I’ve gotten all the way to the password prompt using steghide extract, but I’m not sure where I need to be looking for the password so if you could provide any guidance at all, it would be much appreciated.
+----------------------------------------------------------------------------------------------------
+ID: kzt8gyc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think he is talking about the Zip file you said you found. Sometimes they are password-protected.
+
+The Voodoo Doc...
+----------------------------------------------------------------------------------------------------
+ID: kzvmokm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Could it be that it's a honeypot? A false flag to get you to spin your wheels on it....? And I agree with @graysky311 that not all stego will survive compression so you may just need to document you found a "corrupt file" and other info. And any information about it. I would still hash the pic as is though for the CTF documentation.
+----------------------------------------------------------------------------------------------------
+ID: kzvoh8h # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It’s not a honeypot, it’s not a false flag since the hints pretty much point to this jpg file, and it may not have survived stego but I have speculation to believe it did since it’s still supposed to be solved. I’ll keep researching and let you know if I figure it out.
+----------------------------------------------------------------------------------------------------

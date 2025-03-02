@@ -1,0 +1,73 @@
+POST ID: 1cko49l / POST TITLE: How do you upskill your skills?
+====================================================================================================
+Hey,
+I am cyber security enthusiast and I am learning constantly. I learn from certs, doing labs and so on. I do come up with different ctf sites or vm machines.
+
+I am wondering how do you guys upskill ?
+
+I am doing DVWA and I discovered bandit wargames and all other wargames over the site, overthewire.org.
+
+It's interesting to be honest.
+
+Even, OWASP Broken Web Application is a long way to go and learn (not yet started).
+
+While I got to know these, I got to know a couple of port swigger free labs for web security and also came across metasploitable 3.
+
+How are you guys learning ?
+
+How do you find your resources, including the solution. Ofcourse, if you are learning something new you would need resources to understand not just the problem or issue.
+
+Let me know, Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: l2o5nch # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: l2of8qz # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hello i am a complete begginer, but i have experience in web development, actually full stack, but i expertise more in backend, and i want to start a cyber security, like red team / penetration testing, because i want to penetrate and do a vulnerability assessment on my own APIs.
+
+i also have linux skills, specially in arch Linux as my daily driver.
+----------------------------------------------------------------------------------------------------
+ID: l2paqu6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take notes! Use something like Obsidian.
+----------------------------------------------------------------------------------------------------
+ID: l2sjw52 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: By being curious
+----------------------------------------------------------------------------------------------------
+ID: l2pcqqo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you guys have any tips on how to start learning cybersecurity knowing that i have some networking background.
+----------------------------------------------------------------------------------------------------
+ID: l2oivis # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh... Great!
+----------------------------------------------------------------------------------------------------
+ID: l2srd4w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yep, sure! But still you might need some where-to-start guidance
+----------------------------------------------------------------------------------------------------
+ID: l2shot6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Which aspect of cyber security?
+----------------------------------------------------------------------------------------------------
+ID: l2tpd71 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In networking field, maybe networks or web security
+----------------------------------------------------------------------------------------------------
+ID: l2tsk8b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If it's web security then get started with OWASP Top 10. Download DVWA and go through it.
+
+If possible, purchase Internshala Ethical Hacking Traning, they provide complete labs along with good explanation and train in hacker mindset.
+
+I am not sure what you mean by networks here. You mean protocol and ports ?
+
+If it's all about securing ports from being compromised, then you should probably learn how a particular software works (example ssh) and then reverse engineering it to learn more on how to exploits and defense.
+
+Suggestions:
+Reverse Engineering: https://github.com/mytechnotalent/Reverse-Engineering
+
+HTB: Hack the box
+
+Overthewire: overthewire.org
+
+If you are beginning start from overthewire
+----------------------------------------------------------------------------------------------------
+ID: l2tt8k3 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh thank you so much for the suggestions, and yes i meant ports security.
+----------------------------------------------------------------------------------------------------

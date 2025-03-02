@@ -1,0 +1,17 @@
+POST ID: 1gpg4wc / POST TITLE: Textbooks - Ethical Hacking and Penetration Testing
+====================================================================================================
+Hi everyone!
+
+I am in the process of completing a first level Master in Cybersecurity.
+
+The subject I am most passionate about is ethical hacking, especially in the area of penetration testing, and I would like to delve into all the techniques that belong to this world (VAPT, malware analysis, sql injection, trojan creation, phishing, website violation, ...).
+
+Do you have any books to recommend me that cover these topics? Both texts for beginners that go into the topics properly and manuals for people with a certain level of knowledge already would be fine (in the course we didn't discussed all the topics, so I have knowledge in some of them, while in others I don't have a deep knowledge).
+
+Thank you all very much 😊
+
+POST COMMENTS:
+====================================================================================================
+ID: m2mujvb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, this would be helpful.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+POST ID: 1c8sltj / POST TITLE: Is there any online love story surface that provIDES AN API FOR python
+====================================================================================================
+I am trying to build up Python program that takes screenshot on a PC and then send it to my PC so is there any online cloud storage survice that I can make the Python file login to and then login on my PC to view all the screenshots and by the way I am doing this all for education purpose.
+
+POST COMMENTS:
+====================================================================================================

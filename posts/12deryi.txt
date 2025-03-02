@@ -1,0 +1,35 @@
+POST ID: 12deryi / POST TITLE: Paid Ethical courses worth it?
+====================================================================================================
+Hello,
+
+Can anyone share their experience with https://www.blackhatethicalhacking.com/courses/ ?
+They are offering 2 courses for half price, is it worth paying?
+
+
+Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: jf7ifn1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nah, that's trash.
+----------------------------------------------------------------------------------------------------
+ID: jfbc81e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is also a good course on [Ethical hacking course](https://www.seco-institute.org/get-trained/ethical-hacking-track-courses/ethical-hacking-foundation/)
+----------------------------------------------------------------------------------------------------
+ID: jfbnhz4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi im my opinion first you try free resources to see how you're doing. Tryhackme is a good solution 😉after you can consider a bootcamp ✌️
+----------------------------------------------------------------------------------------------------
+ID: jfjyr2g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The truth about most paid courses is it's 90% what can be found for free on YouTube and 10% is tempting because of the certificate you can get.
+----------------------------------------------------------------------------------------------------
+ID: jf7jd21 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks. Guess it's too good (cheap) to be true. Cheers.
+----------------------------------------------------------------------------------------------------
+ID: jfjza0o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah, but in this case I would not be interested in this type of Cert. I would not mind paying for curated and properly organised content like Udemy values.
+----------------------------------------------------------------------------------------------------
+ID: jf7k0fw # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to learn, just start with tryhackme and hackthebox. They have a lot of paths for new people.
+
+Do them with the help of online resources and, when you are ready, buy a real certification path like OSCP.
+----------------------------------------------------------------------------------------------------

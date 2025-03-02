@@ -1,0 +1,17 @@
+POST ID: 14iv4ny / POST TITLE: how to create email alias at @bugcrowdninja?
+====================================================================================================
+I am new to bug bounty hunting and i wanted to test for Authorization vulnerability but the target wants me to sign-in with @bugcrowd ninja alias, in this case i will have one email account for user A
+
+What should I do for the userB?
+
+I want to know how you guys do this.
+
+POST COMMENTS:
+====================================================================================================
+ID: jpi6u42 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [https://forum.bugcrowd.com/t/how-to-get-bug-crowd-ninja-account/7935/2](https://forum.bugcrowd.com/t/how-to-get-bug-crowd-ninja-account/7935/2)
+
+&#x200B;
+
+looking things up goes a long way.
+----------------------------------------------------------------------------------------------------

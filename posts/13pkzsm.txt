@@ -1,0 +1,39 @@
+POST ID: 13pkzsm / POST TITLE: EC council certification worth it ?
+====================================================================================================
+Hi everyone ! I'm looking to get into ethical hacking and cyber security I was wanting to know from any one in industry If the EC certification courses is worth it and actually recognised and worth taking.
+For non us citizens such as myself the exchange rate is crazy so I'II be paying quite a large sum of money for it However if the certification is worth it I am more than happy to do it. Can I please have your honest reviews and feedback... Thank you very much for helping!
+
+POST COMMENTS:
+====================================================================================================
+ID: jlao05l # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: EC-Council is terrible. Their textbooks and material are riddled with spelling errors and content errors. My boss wanted me to take the CEH and the C|PENT. I dropped both of them due to so many contradictions and errors in the material.
+
+Honestly, the CEH will only get you past the HR/recruiting step. Any cybersecurity manager knows these certs are garbage.
+
+Don’t know where you are, geographically and career-wise, however, I would recommend getting you Security+, followed with either the CySA+ or something similar.
+----------------------------------------------------------------------------------------------------
+ID: jla2z08 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: cats weather snails fall support longing pause summer zesty dog -- mass edited with https://redact.dev/
+----------------------------------------------------------------------------------------------------
+ID: jlao8o2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m currently working on my eJPT as a precursor to my OSCP. The content is good and doesn’t cost a small fortune either.
+----------------------------------------------------------------------------------------------------
+ID: jlaof4e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: offend distinct safe prick roll close long secretive imminent absorbed -- mass edited with https://redact.dev/
+----------------------------------------------------------------------------------------------------
+ID: jlap6oo # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did get my PenTest+ and while the content was good, it felt too basic. Too much theory and not enough doing. Majority of the content was common knowledge that one would get from either spending 6 months in the field or from a Security+.
+
+Are you doing any TryHackMe or HackTheBox?
+----------------------------------------------------------------------------------------------------
+ID: jlapvr8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: innate quack boat smoggy bedroom bored outgoing depend squeamish absorbed -- mass edited with https://redact.dev/
+----------------------------------------------------------------------------------------------------
+ID: jlaqxo8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: HTB Academy was something I recently found. I like it; the content is updated regularly and all the boxes seem to work. I was having terrible issues with boxes not working with TryHackMe, so I switched over to HTB.
+
+I also looking into WGU’s MS in Cybersecurity. I’ve racked up enough debt trying to get my Bachelors, that I pretty much focus on my certifications. Maybe I’ll take another look at that program.
+----------------------------------------------------------------------------------------------------
+ID: jlarkpk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: roof handle consist crown chubby axiomatic station nippy disagreeable prick -- mass edited with https://redact.dev/
+----------------------------------------------------------------------------------------------------

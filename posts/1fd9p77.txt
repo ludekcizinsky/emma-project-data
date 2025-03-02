@@ -1,0 +1,52 @@
+POST ID: 1fd9p77 / POST TITLE: AUTOMOD issues update
+====================================================================================================
+ALCON,
+
+Im aware of the current issues with the automod. I've made some changes to the rule's coding that hopefully fixed it. if you encounter any further issues please let us know as i have a bit more free time now (its been a busy few months in my private life) so hopefully i can address the issues sooner. if you had a comment removed, try recomenting the same comment on the same post. if it still flags it and it doesn't violate the rules or the banned word list let us know so we can take a look at it adn hopefully figure out why its still being removed. same goes for posts. 
+
+POST COMMENTS:
+====================================================================================================
+ID: lme6cv2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: for anyone who is wondering:
+
+the current "banned words list" basically mentioning these in your post title, post, or comments will trigger the automod to remove said post or comment.
+
+  
+""$zks"  
+  - "airdrop"  
+  - "airdropping"  
+  - "ape"  
+  - "apecoin"  
+  - "coin"  
+  - "ethereum"  
+  - "facebook"  
+  - "insta"  
+  - "instagram"  
+  - "nft"  
+  - "porsche"  
+  - "rolls royce"  
+  - "sea token airdrop"  
+  - "token"  
+  - "ig"  
+  - "fb"  
+  - "btc"  
+  - "bitcoin"  
+  - "₿"
+
+Phrases that will trigger the automod pertaining to hiring a hacker or advertising services. 
+
+  - "hire hacker"  
+  - "hire ethical hacker"  
+  - "need hacker"  
+  - "need ethical hacker"  
+  - "looking for hacker"  
+  - "looking for ethical hacker"  
+  - "offering hacker services"  
+  - "offering ethical hacker services"  
+  - "hacker for hire"  
+  - "ethical hacker for hire"  
+  - "message"  
+  - "dm"  
+  - "hacker"  
+  - "hack services"
+----------------------------------------------------------------------------------------------------

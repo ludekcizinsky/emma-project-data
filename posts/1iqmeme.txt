@@ -1,0 +1,8 @@
+POST ID: 1iqmeme / POST TITLE: How common is the impostor syndrome across Cybesecurity Analysts/Engineers/Architects?
+====================================================================================================
+How do you deal with the impostor syndrome while also knowing that everybody here seems to have seen it all and know it all?
+
+I have recently picked up hack the box, and I find myself not able to follow through so quickly as I would expect, given that I have devoted more than 9 years into this field already (blue team). This has demolished my confidence. I feel like a fraud. I recently started to call myself a Cybersecurity Clown. Maybe I should just embrace it and show up as an actual clown into my next job interview.
+
+POST COMMENTS:
+====================================================================================================

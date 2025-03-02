@@ -1,0 +1,26 @@
+POST ID: 14r18p7 / POST TITLE: Network is unreachable, burp error in brower
+====================================================================================================
+does anybody know why i'm getting this error?
+
+https://preview.redd.it/p6hlok2m13ab1.png?width=1920&format=png&auto=webp&s=224dcf85215d33dc89e136b1e0f7c0b0fcbd9c05
+
+POST COMMENTS:
+====================================================================================================
+ID: m5ilm85 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey did you solve this?
+I'm also stuck in this situation
+----------------------------------------------------------------------------------------------------
+ID: jqrh7fo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's your proxy configuration (for burp and foxy proxy)? Have you the same problem with the embedded burp browser?
+----------------------------------------------------------------------------------------------------
+ID: jqu5w0w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you installed the burp browser certificate?
+----------------------------------------------------------------------------------------------------
+ID: jquifdl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes it's same 127.0.0.1 8080, embedded burp browser doesn't even open
+----------------------------------------------------------------------------------------------------
+ID: jquibj5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You mean burp CA certificate? Yes I did
+
+And I tried everything that i found from Google searches and done everything. Finally I turned the laptop and returned after 2 hours and it's working now
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+POST ID: 1in7kpo / POST TITLE: Looking for Security/Protection Software for Employee Computers
+====================================================================================================
+Hey everyone,
+
+I’m in charge of operations for a rapidly growing startup, and we recently passed 100 employees nationwide. Not all of them use company computers, but we currently have around 65 devices in use across both Apple and Windows platforms.
+
+Cybersecurity isn’t my area of expertise, but as we continue to scale, I want to ensure we have the right protection in place. I’ve done some initial research, but many well-known security software providers seem to have device limits or charge per device. My main concerns are:
+
+1. **Scalability** – As we continue to grow and hire more employees who need security software, how easy is it to adjust licensing or add more devices?
+2. **Ease of Management** – I’d prefer a solution that isn’t overly complex to deploy and manage across multiple locations.
+3. **Comprehensive Protection** – We want to stay ahead of phishing attempts and other threats, especially as not all employees are as cautious about avoiding sketchy links.
+
+Does anyone have recommendations for security software that fits these needs? Any insights on brands that offer flexibility in pricing and scaling, along with a solid management interface?
+
+Appreciate any advice from those with experience in this area!
+
+POST COMMENTS:
+====================================================================================================

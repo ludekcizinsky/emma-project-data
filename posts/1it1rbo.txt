@@ -1,0 +1,6 @@
+POST ID: 1it1rbo / POST TITLE: What sneaky techniques have you noticed when interacting with phishing pages?
+====================================================================================================
+I am coming across a lot of phishing campaigns that are pretty convincing. Most of them have a login form or ask for your credit card. I am curious about what kind of techniques these pages have going on behind the scenes. has anyone noticed any interesting web requests or DOM changes that happen with user interactions? Any sneaky attacks?
+
+POST COMMENTS:
+====================================================================================================

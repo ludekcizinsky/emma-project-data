@@ -1,0 +1,12 @@
+POST ID: 1itrgrf / POST TITLE: Open Source SIEM/SOAR for Medium Organization
+====================================================================================================
+I came from, well I can say top MSSPs in the world, mainly as soc analyst. So I never had experience in SIEM engineering stuff, but I love to explore on that. Now I just joined in-house SOC, with employees around 600. SOC team only have 2 analysts, 1 SOC manager and 1 head of cybersecurity. We don't have SOC or SIEM engineer. Our SIEM, XDR all setup by infra team. We have a very good XDR I can say. But SIEM is very inconvenient. We are mainly monitoring from our XDR, but network devices like switches, routers, firewalls etc. are ingested by SIEM. However, the rules and alerts are currently not being configured and maintained properly.
+
+  
+So here's the thing, I came from MSSP that utilize all the tools they have. The XDR being forwarded to SIEM, the SIEM integrated with the SOAR, the SOAR processes the alerts, creating cases. Any investigation, findings can be put in the case management in SOAR. Malicious IP/domain can be blocked in a single click. Creating ticket to rebuild machine, just one click away in the SOAR. Here, we are using Log360 from ManageEngine. We can't extract the logs to their respective field=value, they can't handle complex nested logs from XDR. The case management is pretty useless, can't event share screenshot, can't add artifact/evidence.
+
+  
+Our organization doesn't want to spend more on cybersecurity. So I was suggesting that we use open-source. I found a team named SOCFortress that uses open-source tools to develop their SIEM stack. We got to pay only for their services of deployment and cloud storage (since our infra manager prefers to have SIEM in cloud. Will that be a good idea? Since we don't have dedicated role who can deploy, configure and maintained the SIEM.
+
+POST COMMENTS:
+====================================================================================================

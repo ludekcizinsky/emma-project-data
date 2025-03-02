@@ -1,0 +1,98 @@
+POST ID: 1ittf3j / POST TITLE: How will the Majorana 1 chips affect cybersecurity?
+====================================================================================================
+With the release of Microsoft Majorana 1 chips quantum computing supremacy seems a closer reality, while quantum computing is unlikely to be available to the consumer for many years how do you expect quantum computing to effect encryption, DoS attacks and such?
+
+POST COMMENTS:
+====================================================================================================
+ID: mdrqlbb # OF UPVOTES: 19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Encryption yes, but there’s PQC. But aside from that I don’t see any other attack vectors tbh.
+----------------------------------------------------------------------------------------------------
+ID: mdrv671 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The known state of any companies QC product is of no danger to cryptography because keys can be made longer & protocols updated to PQC schemes in advance if any credible capability.
+
+OTOH the unknown state of QC from the intelligence agency of some nation state is of more concern as we cannot accommodate for that. It is fortunate then that such efforts require such substantial investment in technology & personnel such that keeping such a project secret trends into Grand Conspiracy territory.
+----------------------------------------------------------------------------------------------------
+ID: mdslaff # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If anyone isn’t aware
+
+Microsoft’s Majorana 1 Quantum Chip: Unveiled in February 2025, Majorana 1 is the first quantum processor powered by topological qubits, leveraging Majorana particles controlled via a novel topoconductor material (indium arsenide/aluminum hybrid). This architecture enables scalable, error-resilient qubits, with a roadmap to fit 1 million qubits on a single chip—critical for solving industrial-scale problems like microplastic breakdown or self-healing materials. Unlike traditional qubits, its topological design reduces error rates (≈1 error/ms) and supports digital control, marking a leap toward practical quantum computing. Current iteration: 8 qubits
+----------------------------------------------------------------------------------------------------
+ID: mdstls0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This seemed inevitable when Google, Msft, etc, pushed out their quantum resistant cryptography a couple months ago. It ended up breaking Deep Packet Inspection on some of our Firewalls due to oversight on the vendors part.
+----------------------------------------------------------------------------------------------------
+ID: mdtkew2 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Basically just use bigger key size(symm encryption scheme). For example, if you were using aes128, consider moving to aes256.
+----------------------------------------------------------------------------------------------------
+ID: mdt4k1j # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't think QCs are even network capable.
+
+Theoretically yous need a quantum tech stack.
+
+I'd give it half a century when there's finally a mixture of technologies.
+----------------------------------------------------------------------------------------------------
+ID: mdsmbj8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This sounds like you're asking us to answer your college homework assignment :p
+----------------------------------------------------------------------------------------------------
+ID: mdrvkzo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don’t know yet. When we know, controls will be in the standards. Like AI, we didn’t know, now we’re getting a [slightly] better idea and can design controls.
+----------------------------------------------------------------------------------------------------
+ID: me03go1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Anything we can do now, just at the speed of instant.
+----------------------------------------------------------------------------------------------------
+ID: mdwhy8a # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You think way too highly of threat actors.
+----------------------------------------------------------------------------------------------------
+ID: mds8fu3 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Pretty much agree on this one. PQC are already being developed to handle the quantum threat to current encryption. not really seeing how quantum would change other attack types much.  they'd still fundamentally work the same way.
+----------------------------------------------------------------------------------------------------
+ID: me1ueph # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: what's PQC?
+----------------------------------------------------------------------------------------------------
+ID: mds2iw7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: PQC is difficult to implement, and data harvesters have followed the motto “Harvest now, decrypt later”  for years. It’ll be interesting to see the effects
+----------------------------------------------------------------------------------------------------
+ID: me0xyxq # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you, that's very helpful. To continue "If anyone isn't aware" :
+
+Current estimates are that practically attacking AES-128 or RSA 2048 are in the 5-10 million qubit range. Scaling up to AES-256 or RSA 4096 occurs exponentially, so a similar computer to to attack them is a square of the size.
+
+While it's not currently necessary to move to post quantum algorithms, increasing key sizes for modern algorithms is advised.
+----------------------------------------------------------------------------------------------------
+ID: me4t8p3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They said “scalable”, can it be scaled up to billions or catching up to key size?
+----------------------------------------------------------------------------------------------------
+ID: me20oml # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Post quantum crypto.
+----------------------------------------------------------------------------------------------------
+ID: mds2si1 # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > PQC is difficult to implement, 
+
+No? The implementation is easy. It just takes a while till it’s adopted. 
+ 
+> and data harvesters have followed the motto “Harvest now, decrypt later”  for years. 
+
+Yeah that’s why we need PQC right fucking now.
+----------------------------------------------------------------------------------------------------
+ID: mdtkwy4 # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: PQC has been adopted in most major crypto for years. Combined with that quantum isn’t anywhere nearly strong enough to perform shors on anything resembling a rapid pace we’re fine. 
+----------------------------------------------------------------------------------------------------
+ID: mdu5rxf # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: PQC is actually pretty simple implementation-wise as others said, it's app open source pretty much, widely researched, NIST has competitions regularly, and are being recommended by the governments worldwide (at least western countries). Whoever does any research, even so much to discover some fearmongering non-technical articles can find Signal which runs on PQC, and can find plenty of other stuff as well if they invest some effort into being secure.
+
+  
+I also know Apple implemented some PQC algorithm into iMessage over a year ago, which should have been a sign to organizations worldwide, but of course, wasn't.
+
+A fun-fact of how unfortunate of a position we are when it comes to general knowledge: I was writing a proposal during undergrad recommending the national police here to use PQC for encryption at rest and possibly in transit (Industrial Engineering course, but a chance to use my security-knowledge as a CS student, working towards InfoSec grad): when I mentioned that we'd recommend PQC, he told me to make sure and detail the costs of buying a quantum computer since it's probably a deal-breaker.
+----------------------------------------------------------------------------------------------------
+ID: me4teyj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Being almost entirely ignorant here of the methods available to defeat encryption I’m presuming what changes with QC is the number of iterations that can be run in parallel. So QC doesn’t mean they can magically decrypt current encryption methods it simply means instead of say a current Intel/AMD CPU that can run a 1000 iterations to brute force a decryption key a QC CPU could run 1m in the same timeframe making it more viable to brute force a decryption key in a small timeframe?
+----------------------------------------------------------------------------------------------------
+ID: mdtuvkk # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Didnt NIST just recently add two PQC algoritmes to the standard?
+----------------------------------------------------------------------------------------------------
+ID: meait1n # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Instead of giving you a wall of text about it here's a link to the episode of my podcast I did on it [No Solace in Quantum](https://www.hackingthegibson.online/episode.html?e=72). I focused entirely on symmetric algorithms, but the same applies to RSA.
+----------------------------------------------------------------------------------------------------
+ID: mduj9mj # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, but it’s been in TLS libraries and blockchains for awhile. 
+----------------------------------------------------------------------------------------------------

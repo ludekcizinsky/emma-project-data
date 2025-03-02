@@ -1,0 +1,11 @@
+POST ID: 17v4r56 / POST TITLE: Can't find file in my ctf
+====================================================================================================
+Hi, i got to do a ctf, website with source code. Problem is, there's a file i have to find but Im unable to. I tried burpsuite and zap and wasnt able to find it. Also for some reasom, burp didn't find robots.txt file but zap did. Sadly it didnt work when i opened it in url.  
+
+Any suggestions? Thanks in advance
+
+POST COMMENTS:
+====================================================================================================
+ID: k98jq0o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go for a walk and come back and look at it with a fresh set of eyes. Good luck!
+----------------------------------------------------------------------------------------------------

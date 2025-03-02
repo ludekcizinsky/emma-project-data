@@ -1,0 +1,80 @@
+POST ID: 1iuu4y7 / POST TITLE: Thoughts on cybersecurity SaaS offerings for HNW individuals?
+====================================================================================================
+I work for a firm that assists HNW individuals with wealth planning, and our clients sometimes approach us with random requests. One of the family office managers that we work with recently asked for our opinion on [BlackCloak.io](http://BlackCloak.io) as a potential means to improve their security. My initial impression is that the offering is overpriced and provides services that can be obtained much cheaper elsewhere. However, since they asked for our assessment, I wanted to see if others have had experience with the service, what their take on it is, and alternatives they might recommend. Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: me09qc7 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I had a little bit of an interface on this previously. The issue is that the HNW individuals that I have interfaced with, want an all-in-one solution to Tech.
+
+Printer, Excel, Security - its all the "same" to them and they want one SPOC to get it done.  So I think theres a niche market for BlackCloak but it will eventually fall short because they do "just" security.
+
+Add some white glove treatment on IT Support and theres something there I think.
+----------------------------------------------------------------------------------------------------
+ID: me0dzem # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In my consulting experience. People with cash in hand are itching to throw it. 
+
+You can divert them to a better product but they often want to spend the cash on "something" for that dopamine reward high. If you interrupt the shopping spree with reasonable cost aversion, they'll turn to another voice and you'll loose them.
+----------------------------------------------------------------------------------------------------
+ID: me0lj47 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We use Blackcloak for exec protection with our customers. Solid.
+----------------------------------------------------------------------------------------------------
+ID: me0ahhp # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't have direct experience, but I am in the same space (as well as alternative investments) and I know a decent amount of financial firms use them for their execs and like them.
+
+One thing I try to keep in mind is that while, yes, you can likely find cheaper services having a high touch firm that is a one stop shop and knows how to speak with and handle HNW individuals is a pretty big plus. 
+
+They'll also likely do a great job of getting you shiny presentations showing what an amazing service they are.
+
+Doppel, Zerofox and Global Guardian are others that come to mind.
+----------------------------------------------------------------------------------------------------
+ID: me0f6jl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I did some work in this space a while ago for a law firm. It's basically just having agents installed on their stuff and monitoring their accounts. It was pretty lucrative but I let them buy me out because I wanted to start a server company.
+----------------------------------------------------------------------------------------------------
+ID: me0izwq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [bolster.ai](http://bolster.ai) and zerofox.
+----------------------------------------------------------------------------------------------------
+ID: me0nmzr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What you’re looking for is SecAAS providers.
+----------------------------------------------------------------------------------------------------
+ID: me1r72g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Interesting! I’ve never used [BlackCloak.io](http://BlackCloak.io), but it seems like a high-end security solution, which explains the cost. That said, have you considered combining solutions like advanced VPNs and multi-factor authentication with IT experts’ support? It might be more cost-effective.
+
+Has anyone here used BlackCloak? Would love to hear opinions on the cost-benefit.
+----------------------------------------------------------------------------------------------------
+ID: me2sq37 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not going to talk about one tool vs another. But from a wealth management services perspective, cybersecurity services in any form is going to be outside of the skill set of your typical wealth management workers’ skill set.
+
+If you look at it that way, you almost need to setup a completely different service offering, contracts with terms and conditions, you need to staff appropriate personnel, have the appropriate liability insurance (if you recommend something and they got breached, you could be liable, etc.). And it goes on. If your shop is not planning to set all that up, not just to be able to offer the right level of services but also to be able to indemnify yourself from liability, then it is almost not worth it to make any recommendations.
+
+That’s my 2 cents.
+----------------------------------------------------------------------------------------------------
+ID: me4t3k8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your weakest area will be email - this is how most comms/sharing  between  the firm and the client  is done and it is useless for security. Add in that the majority of law/management firms either don't care about security or suck at it and you have your work cut out. One breach of a single email inbox and all your good work is useless. 
+
+Some firms use dedicated portals but unless these are really encrypted and really secure they will add nothing of value.
+----------------------------------------------------------------------------------------------------
+ID: me6w0kc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Snaaaaake oil
+----------------------------------------------------------------------------------------------------
+ID: me0ayhh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I still don’t understand what assets and risks they’re trying to mitigate against? I see the lines about identity and finances and stuff. I guess there’s a market to teach people how to not click on malicious links and use 2fa and send data takedown requests but otherwise I’m not sure what other value add the company provides.
+----------------------------------------------------------------------------------------------------
+ID: me1ngvc # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's just Geek Squad support for their personal devices. Any data broker data removal program is just fine and a fraction of the cost.
+----------------------------------------------------------------------------------------------------
+ID: me0a8vx # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for the feedback!
+----------------------------------------------------------------------------------------------------
+ID: me0atkk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for the insight - appreciate it.
+----------------------------------------------------------------------------------------------------
+ID: me0bnv0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, their offerings seem somewhat nebulous to me. I've requested a demonstration, but I just know that a lot of people in this space rely on the fact that many HNW individuals are older and not tech savvy, so they play up stuff that sounds good to a novice but that is pretty "meh" when you look under the hood.
+----------------------------------------------------------------------------------------------------
+ID: me0m2s6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think what they actually want is MDR for their personal devices, with maybe some brand protection and credential monitoring thrown in. As other would say it would probably be best packaged with general IT support
+----------------------------------------------------------------------------------------------------
+ID: me2qnfj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Actually with experience with HNW and personally I don’t think they would be satisfied with just security also. A white glove service that covers everything is what they would want.
+----------------------------------------------------------------------------------------------------

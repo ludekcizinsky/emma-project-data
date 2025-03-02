@@ -1,0 +1,103 @@
+POST ID: 134fstu / POST TITLE: Discock and W4SP Stealer: Malicious pypi packages and horizontally-scrolled masspace imports
+====================================================================================================
+You can watch a video about the WASP stealer here if it is too boring to read the article:  
+
+
+[https://www.youtube.com/watch?v=cW2PHJOuplI](https://www.youtube.com/watch?v=cW2PHJOuplI) 
+
+# Discock Stealer – Another Polymorphic Malware like WASP Stealer
+
+Discock Stealer – Another Polymorphic Malware like WASP Stealer
+
+View original
+
+**What is the package name:** [http5](https://libraries.io/pypi/http5)
+
+**When was it released:** Jan 3, 2023
+
+**Which version we are talking about:** 0.0.1
+
+**How many times it was downloaded in 30 days:** 61
+
+**What the package says it to be:** “A small example package”
+
+**Where we started**
+
+We first observed a package performing “*starjacking” in* the project [https://github.com/pypa/sampleproject](https://github.com/pypa/sampleproject). We flagged the package for further investigation.
+
+**What did we discover from our analysis**
+
+From our preliminary analysis, the name ***‘http5’ looked suspicious*** *and* a victim could fall prey to this package as it sounded like a new version of HTTP library or any such popular package like [***“HTTP3”***](https://pypi.org/project/http3/) . So, we started analyzing the code. During our analysis, we came across the name **‘billythegoat356’** in the source code and  a quick search yielded very few results from which we learned that there is a similar campaign [**“WASP Stealer”**](https://medium.com/checkmarx-security/wasp-attack-on-python-polymorphic-malware-shipping-wasp-stealer-infecting-hundreds-of-victims-10e92439d192) tracked by Checkmarx’ supply chain security research team. Based on the similarity of the code-base and obfuscation techniques as explained in their blog and also their research on [**hunting for WASP stealer**](https://medium.com/checkmarx-security/hunting-for-malicious-code-the-dangers-of-wasp-stealer-e0d073913623) lead us to attribute “Discock Stealer” to “WASP Stealer”.
+
+During our further analysis, it was noted that the package was obfuscated using [“Hyperion”](https://github.com/billythegoat356/Hyperion) and specially crafted to target hosts running Windows Operating Systems. Once the package is installed and executed on the victim’s host, it fetches a malicious piece of python code and saves it on the victim machine. Later the package tries to collect sensitive information such as cookies, saved passwords in a browser, saved cookies of gaming applications and steals financial information from crypto wallets. All the discovered data is saved inside 2 files named **wppassw.txt** and **wpcook.txt. The saved data** is later exfiltrated through a discord webhook API. Additionally, it also collected victim’s geo location based on the public IP address.
+
+**A deep-dive into the code**
+
+As we can observe from the screenshot below the http5 package initially creates a file with a random name in the temp directory of the victim’s host which then fetches a malicious piece of code downloaded from the stage-1 – hxxps\[:\]//www\[.\]ciqertools\[.\]xyz/discock/nigger
+
+📷
+
+The hosted malicious code looks like the code of packages mentioned in Checkmarx research blog posts on WASP Stealer. Also, it can be observed that it is using Hyperion obfuscator to obfuscate its code. Since, it was not possible to conclude anything based on the static code analysis quickly, we decided to conduct a dynamic analysis in our sandbox environment.
+
+📷
+
+While we executed the python code inside a sandbox Linux environment, there was no indication of any network communications or system calls made, and it immediately exited. Hence, we decided to test it further on Windows environment.  
+When we executed the python code on Windows, we noted that it tries to perform multiple lookups.
+
+📷
+
+All the discovered data is saved inside 2 files named **wppassw.txt** and **wpcook.txt**. The saved data is later exfiltrated through a discord webhook API. Along with this it also collects the victim’s geo-location based on the public IP address. The behaviour is quite similar to previously known malicious packages shared on Kaspersky [blog](https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/).
+
+All these collected information was exfiltrated to gofile.io & discord webhook API.
+
+📷
+
+**What do we conclude**
+
+Though we understand the objective of the adversary here, we are not certain how widespread is their campaign. Attacks on the software supply chain kept evolving day by day. The level of obfuscation used in this package to circumvent the security measures is a strong indication and highlights the importance of conducting a thorough analysis of open-source dependencies in use. We also observed few researchers (claimed as) who published similar packages with malicious content such as ”***cxcxcx*****”.** At some point we also thought this package could be one among them. However, we continue to research and track the campaign irrespective of any ecosystem.
+
+**MITRE ATT&CK Techniques**
+
+*Initial access*T1195.001Compromise Software Dependencies and Development Tools*Execution*T1059.006Command and Scripting Interpreter: Python*Defense Evasion*T1140Deobfuscate/Decode Files or Information*Credentials Access*[T1555.003](https://attack.mitre.org/techniques/T1555)  
+T1606.001  
+T1539  
+T1552.001
+
+Credentials from Web Browsers
+
+Forge Web Credentials: Web Cookies
+
+Steal Web Session Cookie
+
+*Discovery*T1083File and Directory Discovery*Command and Control*T1071Application Layer Protocol: Web Protocols*Exfiltration Over Alternative Protocol*T1048Exfiltration Over Alternative Protocol
+
+**Indicators of Compromise**
+
+* hxxps\[:\]//www\[.\]ciqertools\[.\]xyz/discock/nigger
+* hxxps\[:\]//canary.discord.com/api/webhooks/1059836778057580564/bZ3IbBX8QfjxBZ2DLZDi-t5AdHvG-Nzc7QlWrRL76qchpVqH3kstdKNcgvHdiRs4PlE8
+* JA3 – e0ff89ed9185dfb09184797a4c3f2e1c
+* JA3S – f4febc55ea12b31ae17cfb7e614afda8
+
+**YARA rule based on some observed strings**
+
+📷
+
+You can download the rule from [**here**](https://gist.github.com/Loginsoft-Research/dce866c4539bd9d53bada6a6d9c56c9b)
+
+#### Authors:
+
+1. **Dhanesh Hitesh Dodia** – Security Researcher, Loginsoft
+2. **Kartik Singh** – Security Researcher, Loginsoft
+
+#### References used in our Research
+
+#### About Loginsoft:
+
+For over 15 years, leading companies in Telecom, Cybersecurity, Healthcare, Finance, New Media and more have come to rely on Loginsoft as a trusted resource for technology talent. Whether Onsite, Offsite, or Offshore, we deliver.
+
+Loginsoft is a leading expert in Integrations with Threat Intelligence Platforms, integrated more than 200+ integrations with Security TIP, SIEM, SOAR and Ticketing Platforms such as Cortex XSOAR, Anomali, ThreatQ, Splunk, IBM QRadar, IBM Resilient, Microsoft Azure Sentinel, ServiceNow, Swimlane, Siemplify, MISP, Maltego, Cryptocurrency APIs with Digital Exchange Platforms and so on.
+
+Interested to build an integration? Let’s start a conversation.
+
+POST COMMENTS:
+====================================================================================================

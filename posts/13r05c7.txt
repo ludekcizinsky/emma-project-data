@@ -1,0 +1,26 @@
+POST ID: 13r05c7 / POST TITLE: Should Ethical Hacking be regulated?
+====================================================================================================
+Hey everyone,
+
+Basically the title. What’s your opinion on this? Should Ethical Hacking be regulated?
+
+POST COMMENTS:
+====================================================================================================
+ID: jli2s4u # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It technically is - hacking (*as a general terminology*) is illegal, depending where in the world you are. Ethical hacking, is only done with permission from the source. It is unethical when done without permission, or for malicious purposes
+----------------------------------------------------------------------------------------------------
+ID: jlhnxp3 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: IT IS and it should be, there are laws concerning ethical hacking.
+----------------------------------------------------------------------------------------------------
+ID: jlhom39 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jmhrkny # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no
+----------------------------------------------------------------------------------------------------
+ID: jt9rb3a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basically no
+----------------------------------------------------------------------------------------------------
+ID: jlio40k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: well armed militias
+----------------------------------------------------------------------------------------------------

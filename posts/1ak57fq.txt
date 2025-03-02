@@ -1,0 +1,25 @@
+POST ID: 1ak57fq / POST TITLE: Learner
+====================================================================================================
+I m a btech student in fourth year and currently I'm at home due to not get any internship. I m bored at home and I wanna learn ethical hacking, cuz I m really interested in it . Can anyone please guide me ,where to start..
+Hoping someone will guide me :)
+
+POST COMMENTS:
+====================================================================================================
+ID: kp6eunb # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is the best site for beginners. And beginner lessons are free!
+----------------------------------------------------------------------------------------------------
+ID: kpaxheh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Those who ask where to start will never become a hacker. Just start. THM is okay to start with.
+----------------------------------------------------------------------------------------------------
+ID: kq2zddl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kp7ltb8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: kpu7ih8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: kq5e4am # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your post has been removed. Do not attempt to solicit a hacker here. Any further attempts will be met with a ban.
+----------------------------------------------------------------------------------------------------

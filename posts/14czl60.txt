@@ -1,0 +1,20 @@
+POST ID: 14czl60 / POST TITLE: Help with my checklist
+====================================================================================================
+Hello, i am a newb scriptkiddie rawr or w/e, Ive just completed quite a few full courses, Ive done the HTBs and tryhackmes, I feel like Im ready to jump into this field at the bottom (and best area imo) bug bounties. I heard in one tutorial about needing a repeatable process, and every other course mentioned the importance of methodology (essentially a repeatable plan). So I wanted to make a General day to day checklist that can be modified by the scope that listed most of what I should be looking for, the tools, and commands for each. I feel I have a fine rough draft, but IK im missing a bit. I keep hearing about IDORs and whatnot, I just dont know enough to add it. tbh I havent actually done the bug bounty course yet, just a bunch of long pentesting courses, so I am sure I am missing quite a bit of what to look for and how, specific to bug bounties, but tbh I just want to hop in. Ive done well over 100 hrs of courses and I feel like I am missing a lot by not hopping in, maybe doing the course as I work through bounties. Long and pointless intro aside, here is my rough draft checklist for Bug Bounties and Pentesting in general. I want anyone who wants to own a newb on how stupid he is, who has experience, to add or modify the list as you please and send it to me. I would appreciate it a lot, I really just want to jump in. Thanks!   
+
+
+&#x200B;
+
+https://preview.redd.it/ceper5g2cv6b1.jpg?width=1178&format=pjpg&auto=webp&s=ee30e6eded7e54585b975ce71e169b92903188c4
+
+https://preview.redd.it/en6g78g2cv6b1.jpg?width=1231&format=pjpg&auto=webp&s=0cb79914470af4aff44a1ccdd9c3b451b4eb381a
+
+https://preview.redd.it/vmdj47g2cv6b1.jpg?width=1276&format=pjpg&auto=webp&s=021ce9b93f726cd3bd427f1a6f845233f1656dc6
+
+https://preview.redd.it/6ym02ag2cv6b1.jpg?width=1246&format=pjpg&auto=webp&s=197099195ad358e26bef7f8fb8a890ffe191b6e3
+
+POST COMMENTS:
+====================================================================================================
+ID: joncfyx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I sent uneditable photos of a table and asked you guys to edit it and for this, I’m sorry. Please just own me with info in the comments. Thankss
+----------------------------------------------------------------------------------------------------

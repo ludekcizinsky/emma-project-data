@@ -1,0 +1,48 @@
+POST ID: 1g46rap / POST TITLE: OSI Model
+====================================================================================================
+Hi, Everyone! I am a beginner trying to learn ethical hacking and I am watching a video currently by the cyber mentor and he mentioned the OSI Model. I understood most parts of it but I was really confused about the layer 2 of the model. I didn't understand what he meant by switching. So, it would be great if you could explain it to me. Thank you!
+
+POST COMMENTS:
+====================================================================================================
+ID: ls16wm9 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A network "switch" works at level 2, meaning it will decide where packets need to be forwarded based on their layer 2 destination address (MAC address). Basically it learns all the MAC addresses connected to each of its ports by listening to traffic (especially ARP and NDP packets). Then it uses this knowledge to forward incoming packets to the right port, based on their destination address.
+
+I don't know the video you're referring to, but I think that's what "switching" meant in this context.
+----------------------------------------------------------------------------------------------------
+ID: ls5tlad # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So I don't mean this as a "Go Google it" so please don't take it that way...
+
+ChatGPT, Copilot, Claude, Gemini - Those are your friends right now for concepts that just seem abstract at this point in your journey.  When I was going through my degree, if there was a topic that my brain just didn't want to pick up on right away, I'd hit ChatGPT and ask it to "Explain <whatever concept> in simpler terms".  If you really want to break it down super simple, do "ELI5 <topic>" then follow that up with, "Get a bit more technical".  It does wonders for helping you get a different take on a concept or process, and sometimes that all we really need in order to get it.
+
+Here's breaking down Switching:  First I did "ELI5 Switching in Layer 2 of the OSI" and it spit out a paragraph about playing a game with friends about secret notes (data), everyone has a codename (MAC address), and one person knows everyone's codename (the switch) and it's their job to get notes to the right people.  Bam, switching that my kid can understand.
+
+That's too damn simple though and we need more, so next prompt, "Get a little more technical about switching":
+
+`Okay, let's dive in a bit deeper.`
+
+`Network switches operate at Layer 2 of the OSI model and use MAC addresses to forward data to the correct destination. Here’s a more technical breakdown of how it works:`
+
+1. `MAC Address Table: The switch maintains a MAC address table, also known as a CAM (Content Addressable Memory) table. This table maps each MAC address to the corresponding port on the switch.`
+2. `Learning: When a switch receives a frame, it reads the source MAC address and the port it came from. It then updates the MAC address table with this information, so it knows where that device is located.`
+3. `Forwarding: When the switch receives a frame with a destination MAC address, it looks up that address in its MAC address table. If it finds a match, it forwards the frame out of the corresponding port.`
+4. `Flooding: If the destination MAC address is not found in the table, the switch will flood the frame out of all ports except the one it was received on. This ensures that the frame reaches its destination, even if the switch doesn’t yet know where that destination is.`
+5. `Aging: The entries in the MAC address table have a timer. If a device doesn’t communicate within a certain period, the entry is removed. This keeps the table current and accurate.`
+6. `Switching Modes: There are different modes of operation for switches:`
+   * `Store-and-Forward: The switch receives the entire frame, checks it for errors, and then forwards it.`
+   * `Cut-Through: The switch begins forwarding the frame as soon as it reads the destination MAC address, reducing latency but not checking for errors.`
+   * `Fragment-Free: A compromise between the two, where the switch reads the first 64 bytes of the frame (the part most likely to contain errors) before forwarding.`
+
+`This is how Layer 2 switching works to efficiently and accurately direct network traffic within a local network.`
+
+Then, to wrap it up, hit it with "Can you break that down to something shorter?"
+
+`Sure thing!`
+
+`Layer 2 Switching: Switches use MAC addresses to forward data between devices on the same network. They learn device locations by recording incoming MAC addresses and the ports they arrive on. When data comes in, the switch checks its MAC address table and forwards the data to the correct port. If it doesn't recognize the address, it sends the data to all ports to find the right device. This process keeps local data traffic efficient and organized.`
+----------------------------------------------------------------------------------------------------
+ID: m48egme # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Good stuff
+----------------------------------------------------------------------------------------------------
+ID: ls2qirg # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nailed it. The video is a 12 hour beginner course and he defines each layer in layman terms
+----------------------------------------------------------------------------------------------------

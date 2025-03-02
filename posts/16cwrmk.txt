@@ -1,0 +1,25 @@
+POST ID: 16cwrmk / POST TITLE: content restriction that can't be reset through a factory reset
+====================================================================================================
+Hey looking for some help here, been struggling with watching to much porn, and i've tried the accountability apps and my network carriers provided parental controls but they can either be side-stepped, uninstalled or erased through a factory reset. 
+
+Bout to just say \*\*\*\* it and throw my laptop away, but in todays age its difficult to just not have a cell phone or a laptop.
+
+Especially for all the stuff i use my laptop and phone for that not related to adult entertainment. Like misc research about my trade and keeping up with politics....
+
+Do i gotta go on the dark web and pay a hacker to do this (Joke) because  since the parental controls can be side stepped easily, and as much as those accountability apps say that once they're activated they can't be uninstalled is a bunch of bullshit, and those apps require a subscription thats not cheap and while being ineffective for someone who grew up with tech.
+
+Looking for something that once installed on a device is there forever and cannot be uninstalled, deactivated, and one of the first things to install after a factory reset that doesn't even give one the opportunity to ask it just is.
+
+I hope this doesn't violate any of the forums rules, at least it didnt appear to me as doing so, and would fall under the category of ethical hacking.
+
+&#x200B;
+
+Thank you
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: jzmb2zd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It can all be reversed or Uninstalled. Especially if you're the one who employs the ACL or network rule. I'd have a close friend learn to do it for you.  Otherwise you'll just undo the changes yourself.
+----------------------------------------------------------------------------------------------------

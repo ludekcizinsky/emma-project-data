@@ -1,0 +1,18 @@
+POST ID: 1ivu5fd / POST TITLE: Sources that map threat actors to aliases / targets
+====================================================================================================
+Hi. I wanted to see if there are sources that map threat actors - aliases - exploits/targets? I found a table on Microsoft’s site as a starting point for this data. If anyone has sources, that’d be great.
+
+Thanks
+
+POST COMMENTS:
+====================================================================================================
+ID: me8nwsg # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There's the APT groups and operations spreadsheet. It is a google doc,  and not always accurate. Link here: [https://docs.google.com/spreadsheets/d/1H9\_xaxQHpWaa4O\_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=1864660085#gid=1864660085](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=1864660085#gid=1864660085)   
+Or you can google "APT groups and operations spreadsheet" if you're not comfortable clicking a google doc link on reddit lol
+----------------------------------------------------------------------------------------------------
+ID: me9eirm # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: MITRE's ATT&CK website has a good reference list: [https://attack.mitre.org/groups/](https://attack.mitre.org/groups/)
+----------------------------------------------------------------------------------------------------
+ID: me8osy4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for the pointer
+----------------------------------------------------------------------------------------------------

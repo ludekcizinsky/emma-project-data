@@ -1,0 +1,9 @@
+POST ID: 15s0aqv / POST TITLE: Need help with stegonography
+====================================================================================================
+I am part of a hacking team at my University and I am looking for a tool that can extract hidden data from a .png file. I tried steghide but I don't know the passphrase used to encrypt the file. I researched stegcracker but It seems that only works with .jpg. maybe I can convert the .png to a .jpg? Any thoughts or recommendations would really be appreciated. I really want be the first to find the flag.
+
+POST COMMENTS:
+====================================================================================================
+ID: jwccwd5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Zsteg works on png files
+----------------------------------------------------------------------------------------------------

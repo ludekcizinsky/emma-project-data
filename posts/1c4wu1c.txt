@@ -1,0 +1,34 @@
+POST ID: 1c4wu1c / POST TITLE: How to start
+====================================================================================================
+Hey, I'm (22M) and I'm currently in my 6th sem of Engineering. I want to start learning cyber security. How do I start, what courses I should take and How much time will it take to learn some decent stuff to get a job?? 
+
+POST COMMENTS:
+====================================================================================================
+ID: kzqqnn6 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You definitely need a foundation in networking and it's a great idea to know how operating systems work. Most of the servers out there are Linux based, so some Linux experience would be helpful.
+----------------------------------------------------------------------------------------------------
+ID: kzr5iq0 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Play around on tryhackme and make sure you like it. That’s also a good place to learn the fundamentals in a fun way.
+----------------------------------------------------------------------------------------------------
+ID: kzyvjx0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hack the Box is also a great resource! They also have a jr pen tester course.
+----------------------------------------------------------------------------------------------------
+ID: l01gvaj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I got the C CP schlorsship for EC coucil for cyber technician  certification. you Can apply for it here: [https://campaigns.eccouncil.org/cyber-career-starter-scholarship](https://campaigns.eccouncil.org/cyber-career-starter-scholarship)
+
+Also, I advice you to check few youtube video or some UDEMy courses to see if you like it first.  Good luck
+----------------------------------------------------------------------------------------------------
+ID: kzry2gs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Should I start with kali?
+----------------------------------------------------------------------------------------------------
+ID: kzry41s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hmm... Thank you
+----------------------------------------------------------------------------------------------------
+ID: kzs9uxz # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT:  No, start with basic Linux distro and use basic tools to gain fundamental knowledge about how things work. And only then jump on kali. 
+
+Try setting up your own web server, simple backend and learn how you can hack your own server, use simple tools like nmap, red hawk
+----------------------------------------------------------------------------------------------------
+ID: kzs5z0n # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Kali has a lot of tools so it's definitely great to learn.
+----------------------------------------------------------------------------------------------------

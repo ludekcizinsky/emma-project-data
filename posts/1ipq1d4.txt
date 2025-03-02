@@ -1,0 +1,10 @@
+POST ID: 1ipq1d4 / POST TITLE: Hunt for SQLi using Splunk
+====================================================================================================
+Good evening/afternoon/morning to all of you warriors. I’m sure this will be pretty trivial for many in this sub but I’m also well aware of a large amount of novices trying to learn and get into the field or early in their career trying to learn. 
+
+I recently began writing blog posts every once in a while when I get some motivation and decided to share some knowledge on hunting for injection attempts through uri query parameters. It’s most certainly not an end-all-be-all however I think it’s a good stepping stone to build off of and make more specific for certain applications.
+
+Please, feel free to provide feedback, ask questions, whatever. Trying to build some kind of community and would love to tackle some more advanced topics if I garner interest from the community.
+
+POST COMMENTS:
+====================================================================================================

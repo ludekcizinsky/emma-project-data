@@ -1,0 +1,64 @@
+POST ID: 13g3sz8 / POST TITLE: How do hackers get caught/traced? and how do they remain unfound?
+====================================================================================================
+I always notice these showswhere they trace a hacker and find them.  What are these hackers doing to protect themselves and remain anonymous?  Also how are people finding them?  I am pretty new still learning to use powershell so please explain in a way a beginner could understand :)
+
+POST COMMENTS:
+====================================================================================================
+ID: jjy82zy # OF UPVOTES: 12.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Honeypots with sensors
+Network logging wherelogs ACTUALLY get analyzed
+----------------------------------------------------------------------------------------------------
+ID: jjz00f0 # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How they get caught? Poor OPSEC, laziness and complacency.
+
+How to remain unfounded? 24/7 good OPSEC, make no mistakes and have nothing fail or leaks.
+----------------------------------------------------------------------------------------------------
+ID: jk10jha # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Logs. Bragging. Mistakes. People who know who you are telling authorities. Just don’t do anything illegal and you have nothing to worry about. There’s tons of free resources and ways to make money hacking legally.
+----------------------------------------------------------------------------------------------------
+ID: jk039wj # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Serious company clone their system and servers, than place honeypots (open some ports, privileges etc..) and wait hackers. In that way they record their digital signature and technique of hacking.
+----------------------------------------------------------------------------------------------------
+ID: jk56c37 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your digital prints
+----------------------------------------------------------------------------------------------------
+ID: jjy6zre # OF UPVOTES: -3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Lol
+----------------------------------------------------------------------------------------------------
+ID: jjych62 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the comment 👍
+----------------------------------------------------------------------------------------------------
+ID: jk56m5o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the reply 🙂
+----------------------------------------------------------------------------------------------------
+ID: jk57fit # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, OPSEC is key
+----------------------------------------------------------------------------------------------------
+ID: kcox3ob # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >How to remain unfounded? 24/7 good OPSEC, make no mistakes and have nothing fail or leaks.
+
+u/Shogo-Makishima1984 💯
+----------------------------------------------------------------------------------------------------
+ID: jk10tag # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well I'm more interested in actually catching hackers or defending against them I want a career in cybersecurity.  Definitely won't being any illegal hacking more so working for companies in the future to help keep them secure.
+----------------------------------------------------------------------------------------------------
+ID: jk56ivz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting,  makes sense I was talking to someone about this and they were saying that there company even has hidden servers and fire walls.
+----------------------------------------------------------------------------------------------------
+ID: jk56uzu # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the proper term now I can research about digital prints I didn't know the right term but now I have some kind of direction to research. Someone was saying practice on try hack me box the goal is to eventually get a job in cybersecurity after getting some comptia certs and learning kali linux.
+----------------------------------------------------------------------------------------------------
+ID: jjyci01 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's so funny
+----------------------------------------------------------------------------------------------------
+ID: jk11gk4 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a great resource to teach the basics: https://tryhackme.com/path/outline/blueteam
+
+CompTIA CySA+ would be a good entry level cert for you to study for and get. Also Sec+
+----------------------------------------------------------------------------------------------------
+ID: jk5ai4f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The company will be protected to the extent that it provides access to data to cyber engineers. So yes, they just expose just their cloned systems and servers. In a large number of cases, a breach occurs when an employee of the company creates or enables access to hackers.
+----------------------------------------------------------------------------------------------------
+ID: jk11q8o # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for resource appreciate it, I will check it out, I'm actually going to be taking both those tests soon hopefully with the next 3 or 4 months.
+----------------------------------------------------------------------------------------------------

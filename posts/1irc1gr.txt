@@ -1,0 +1,6 @@
+POST ID: 1irc1gr / POST TITLE: Intrusion Detection
+====================================================================================================
+We are a small business with 25 employees. We currently have a Cisco FirePower 1120 firewall. We are searching for recommendations for an intrusion detection system. What is a good system to alert of intrusions?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,23 @@
+POST ID: 10mfgmq / POST TITLE: Ettercap error with TP-Link AC600 wi-fi adapter
+====================================================================================================
+ Recently I bought my Tp-link AC600 wifi adapter fot penetration testing, it works fine with Wireshark, airgeddon, wifite, fern etc.. But it shows error with Ettercap, I don't know whether the adapter is capable of running ettercap or any configurations to be made, if anyone had knowledge about this help me to sort out. Thankyou 😊 #ethicalhacking #happyhacking
+
+https://preview.redd.it/zhdmvjmkjjea1.jpg?width=720&format=pjpg&auto=webp&s=bdc9bd204830376a2a41cfc72976af457b63917c
+
+https://preview.redd.it/u5qa96mkjjea1.png?width=1920&format=png&auto=webp&s=cca3e8ccbe43f80baf3444bbf4e284efa7bb6f48
+
+https://preview.redd.it/htkek5mkjjea1.png?width=1920&format=png&auto=webp&s=e3360cff0b017b17a9a7ddc015dbbc643a4228cc
+
+https://preview.redd.it/klael6mkjjea1.png?width=1920&format=png&auto=webp&s=b054e12a7eee428b9837f74932d8f7bf7e4254bf
+
+POST COMMENTS:
+====================================================================================================
+ID: j632j1q # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: j9iemcr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I found [this](https://github.com/bettercap/bettercap/issues/783#issuecomment-1021912001) on github, does this solve your issue? Can't say I've ever seen a permission error for ettercap, especially after running as root lol
+----------------------------------------------------------------------------------------------------
+ID: j63f7t2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Even after running as root it shows error.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+POST ID: 1it7yls / POST TITLE: Have the CISA RSS feeds broke for anyone else?
+====================================================================================================
+Seems like last week my CISA RSS feeds have broke. Wondering if anyone else uses these feeds or have had similar issues or recommendations. 
+
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
+https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml
+
+POST COMMENTS:
+====================================================================================================

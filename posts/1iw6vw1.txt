@@ -1,0 +1,14 @@
+POST ID: 1iw6vw1 / POST TITLE: Has SnoopGod Linux Been Discontinued?
+====================================================================================================
+Hey everyone,
+
+I’ve been a fan of SnoopGod Linux for a while now, and it’s been my go-to distro for security-focused tasks. However, I’ve noticed that there hasn’t been much activity or updates lately. The official website is down, and I can’t find any recent news or announcements from the developers.
+
+Does anyone know if SnoopGod Linux has been discontinued? Or is the project just on hiatus? I’d hate to see such a unique and niche distro fade away, especially with its focus on penetration testing and cybersecurity.
+
+If anyone has any info or insights, I’d appreciate it! Also, if it is discontinued, are there any similar distros you’d recommend as an alternative?
+
+Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================

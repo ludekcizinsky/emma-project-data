@@ -1,0 +1,14 @@
+POST ID: 16y52dk / POST TITLE: Advice For A Newcomer?
+====================================================================================================
+
+
+Hi guys, I am currently in a program for Cyber Security and am hoping to get into ethical hacking as a subcategory. I was wondering if you could give me some universal advice or ways to get into the community more.
+
+POST COMMENTS:
+====================================================================================================
+ID: k3d0vfn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://jhalon.github.io/becoming-a-pentester/
+----------------------------------------------------------------------------------------------------
+ID: k3aer8b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start by learning Kali Linux; it's a fundamental tool. OverTheWire challenges can help you strengthen your skills. Explore free online resources to delve into specific areas or follow a general path like junior pentesting or red team security. Consider participating in Capture The Flag (CTF) competitions, and platforms like TryHackMe and PortSwigger for further hands-on experience. Don't forget to build a strong foundation in basic networking concepts; it's crucial for understanding how systems communicate and can greatly benefit your ethical hacking journey.
+----------------------------------------------------------------------------------------------------

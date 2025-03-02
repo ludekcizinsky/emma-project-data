@@ -1,0 +1,12 @@
+POST ID: 1it3blw / POST TITLE: "Rules for thee, but not for me” in security teams?
+====================================================================================================
+This happened a while ago but still irks me whenever I recall it. We had a senior member of the security team who always came off as authoritarian and liked to nag both security teams and non-technical employees about basic cyber hygiene, with phrases like “if you get breached it’s game over for us”.
+
+Fast forward and one day I catch him trying to download a YouTube video with a random browser extension (we are not using managed browsers). Unable to resist I made a snarky comment about how “if that extension was malicious it’s game over” and how it was hypocritical to not practice what one preaches. Long story short, got called by HR for a talk on “respect for fellow employees”.
+
+There were no harmful repercussions in the end, but it was intensely annoying (and risky) how people get away with a “rules for thee, but not for me” mindset, especially in security. Anyone else faced this as well, and how do you deal with it? If anyone has stories of malicious compliance, I’d be happy to hear it too just for laughs.
+
+Edit: thanks for all the stories, insights and support! Putting it here for posterity: many of you mentioned how a "no stupid questions" attitude and making people feel safe to report incidents. That probably increases cyber resilience much more than it looks. Conversely, don't be an a-hole especially if you're leading a security team.
+
+POST COMMENTS:
+====================================================================================================

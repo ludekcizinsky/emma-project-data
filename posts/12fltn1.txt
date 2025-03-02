@@ -1,0 +1,36 @@
+POST ID: 12fltn1 / POST TITLE: How do I enable port forwarding?
+====================================================================================================
+I am trying to setup Quasar RAT and a Metasploit Backdoor, but what is the point of setting up a RAT or backdoor if you can't use it accross other networks?  
+
+
+I tried enabling port forwarding, but when I went to my default gateway, I couldn't find any passwords on default router passwords websites, so I clicked how do I find my default admin password and it said "You can find it in your devices quick start". How do I open up my devices quick start and how do I find the router password?  
+
+
+Please help.
+
+POST COMMENTS:
+====================================================================================================
+ID: jfgbed9 # OF UPVOTES: 12.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I cannot emphasize this enough.  You should really,  really learn the basics before you go messing around with RATs and getting yourself in trouble.
+----------------------------------------------------------------------------------------------------
+ID: jfgnhnl # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: An another said, you absolutely should not be messing around with back doors before you understand how the doors themselves function.
+----------------------------------------------------------------------------------------------------
+ID: jfhc6vn # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm always amazed when people try to skip to this level of hacking, even in a lab environment.
+----------------------------------------------------------------------------------------------------
+ID: jgc1hr2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i learned all the basics apart from port forwarding or SSH tunnelling
+----------------------------------------------------------------------------------------------------
+ID: jgc1ih5 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i do know how they function retard
+----------------------------------------------------------------------------------------------------
+ID: jfhugh4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not even hacking but like,  baseline technical knowledge.
+----------------------------------------------------------------------------------------------------
+ID: ji3r0bz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No, you don't.
+----------------------------------------------------------------------------------------------------
+ID: jfjr43x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not too mention, a high level understanding of the laws
+----------------------------------------------------------------------------------------------------

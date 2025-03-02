@@ -1,0 +1,29 @@
+POST ID: 102coyc / POST TITLE: Phishing scam questions
+====================================================================================================
+Hello, there.  
+
+
+I recently received a text message from "my bank," linking to a website (yes, I opened it in a sandbox) asking to 'confirm changes to my account." This was clearly a phishing scam. My quandary is this: I want to warn others, and let them know to notify the right agencies if they fell victim, but the bank, themselves seem unconcerned by this. "We'll put in a note, but we don't handle this stuff..."  
+
+
+I'd like to find out if this is a likely data breach, or if it's just a blanket text sent to loads of folks in my area. It is a regional bank, and not the most common in the area, so that makes me wonder. If it can be substantiated that it is a data breach, the bank can be held accountable and made to inform their customers, to protect the maximum number of people possible.  
+
+
+My next question is: I did a significant amount of surface level investigation. Is it possible in all of that to see how the data is being stored (text file, SQL, etc), and/or where it's being exported? I looked at the 'method' and it seems like if it's 'post,' it's not possible to suss that out.  
+
+
+Finally, do domain registrars really care at all about abuse? Is it worth reporting? Can I even trust the whois lookup to give me an accurate registrar? The whois and the tracert sent me to two different registrars, so I just don't know where to go to report it.  
+
+
+If the bank doesn't care, and the domain registrars don't care (the website is still up, despite being reported days ago - though it is a holiday, I suppose), what can be done? Is awareness all there is? I want to protect my community, but I'm at a loss, and this website is still operating.
+
+POST COMMENTS:
+====================================================================================================
+ID: j2sloxq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: banks ARE beginning to care - new legislation will require them to refund money lost through phishing.
+----------------------------------------------------------------------------------------------------
+ID: j2snqc5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've submitted posts regarding the same and about people trying to take over Facebook accounts 
+
+They talk to someone trying to sell something and want you to confirm that your are real
+----------------------------------------------------------------------------------------------------

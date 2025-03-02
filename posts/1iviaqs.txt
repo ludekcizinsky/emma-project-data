@@ -1,0 +1,260 @@
+POST ID: 1iviaqs / POST TITLE: How to get End to End encryption for iCloud in the UK?
+====================================================================================================
+As I’m sure most of you are aware, Apple has removed the option for end to end encryption for iCloud in the UK. Am posting to ask if any of you are aware of ways that would work to change one’s Apple user location to get end to end encryption despite being in the UK, or other solutions to secure our data
+
+POST COMMENTS:
+====================================================================================================
+ID: me5pt1m # OF UPVOTES: 145.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How about use a different service
+----------------------------------------------------------------------------------------------------
+ID: me5rwp4 # OF UPVOTES: 33.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I somehow think every company within UK will be forced to backdoor their services with time
+----------------------------------------------------------------------------------------------------
+ID: me5q08w # OF UPVOTES: 53.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Holy Shit. UK what is you doing?
+----------------------------------------------------------------------------------------------------
+ID: me5ub9h # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: BTW iCloud always was E2EE, it's just that without icloud advanced data protection the key for that is maintained on Apple's server such that you can recover from device loss etc.
+
+With this protection (now blocked in UK) the keys are maintained on your devices & thus Apple cannot be forced into conducting mass surveillance. BTW UK already has a password carveout for evidence disclosure so once someone's devices are seized they can be compelled to unlock against a they if years of incarceration for contempt. 
+
+Remember though that either way Apple maintains its software & could be compelled to update a device to remove the protections.
+
+Thus if you have stuff you really want kept private either don't put it on your Apple devices or encrypt it offline & the upload the encrypted volume to iCloud.
+----------------------------------------------------------------------------------------------------
+ID: me64u28 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The UK has been losing privacy for ages, and everyone seems to have gotten used to seeing surveillance cameras everywhere. This is just another step in that surveillance state. It’s a shame that the “if you’re not doing anything wrong, you have nothing to hide” attitude has led to this. But hey, good for Apple for standing up and refusing to build backdoors into their products.
+----------------------------------------------------------------------------------------------------
+ID: me5tr4c # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cryptomator
+----------------------------------------------------------------------------------------------------
+ID: me6bc29 # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: UK is slowly becoming North Korea
+----------------------------------------------------------------------------------------------------
+ID: me60hwu # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you want privacy don't back it up.
+----------------------------------------------------------------------------------------------------
+ID: me84tub # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I mean, for now it's probably fairly easy to bypass...
+
+Move your Apple account from UK to USA, EU, Canada, wherever else?
+
+https://support.apple.com/en-us/118283
+
+Setup advanced data protection. 
+
+Move your account back to the UK. 
+
+They turned off the feature for NEW enrollments. Existing enrollments get to keep it, as far as I'm aware.
+----------------------------------------------------------------------------------------------------
+ID: me5v9r2 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There is [tresorit.com](http://tresorit.com) not cheapest honestly, but they are there. I use there free tier for some files. But then again I think it much much safer to leverage Filebrowser (filebrowser.org) running on Nutanix and then leverages CloudFlare tunnel. This way I know my shit is in my control hosted on my own hardware :)
+----------------------------------------------------------------------------------------------------
+ID: me7i4pm # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You encrypt shit on your end, with free, secure, open source software, upload, download, then you decrypt shit on your end, with your own keys. Free software is the only real end-to-end encryption.
+
+As others said, there's free software to automate this.
+----------------------------------------------------------------------------------------------------
+ID: me5qoj4 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Start using proton or self hosting?
+----------------------------------------------------------------------------------------------------
+ID: me5x241 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proton Drive
+----------------------------------------------------------------------------------------------------
+ID: me7v285 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: VPN to enable it?
+----------------------------------------------------------------------------------------------------
+ID: me7vf5v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Idk why no one has mentioned using PGP encryption. Definitely the best encryption.
+----------------------------------------------------------------------------------------------------
+ID: me8fpiw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: PGP is still an option.
+----------------------------------------------------------------------------------------------------
+ID: me5qcm1 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There are many EU services you can use to replace big US tech giants. https://european-alternatives.eu/
+----------------------------------------------------------------------------------------------------
+ID: me7fjgr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: One option is to revert back to none cloud based systems. You could write everything or store things in hidden vaults and bury them off premise.
+----------------------------------------------------------------------------------------------------
+ID: me5pw23 # OF UPVOTES: -17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just leave the authoritarian UK. Its almost as bad as Germany with its speech laws.
+----------------------------------------------------------------------------------------------------
+ID: me5tqzp # OF UPVOTES: -10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: On one hand, I don’t have an issue with authority having access to my data, if I’m being investigated with justifiable cause. What I don’t agree with, is to support that adhoc likely to never happen investigation is having my whole digital persona security weakened. The whole situation is a complete mess. 
+
+I’m a recent big apple user, over joyed that finally I had a solution that allowed for seamless user experience of files / photos / clipboard sync across devices. 
+
+I’ll now be exploring other options, likely self hosted where possible. Feels like a regression to ease. 
+
+If the UK gov want access to my documents, and files they’ll need to ask me for the access key.
+----------------------------------------------------------------------------------------------------
+ID: me6ldj9 # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just get rid of apple.
+----------------------------------------------------------------------------------------------------
+ID: me5ubl2 # OF UPVOTES: -10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s democracy of EU. No need to do futuer
+----------------------------------------------------------------------------------------------------
+ID: me6vyck # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Manually encrypt files and archives with OpenSSL before uploading (very inconvenient)
+----------------------------------------------------------------------------------------------------
+ID: me5xfr7 # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: change region on the phone and you're good 2 go.
+----------------------------------------------------------------------------------------------------
+ID: me5rr5g # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Look up CASB solutions.
+----------------------------------------------------------------------------------------------------
+ID: me606k7 # OF UPVOTES: 39.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cryptomator + any cloud service. You control the encryption keys, not the provider
+----------------------------------------------------------------------------------------------------
+ID: me5qj83 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yup. For example proton has Proton Drive.
+----------------------------------------------------------------------------------------------------
+ID: me5soe8 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: But will the UK govt continue to encrypt their data?
+----------------------------------------------------------------------------------------------------
+ID: me5shvj # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: you assume many have not already or from the start.
+----------------------------------------------------------------------------------------------------
+ID: me5wi9e # OF UPVOTES: 47.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They are using CSAM as a smokescreen to get access to users private data. Sadly too many influential voices hear the obviously emotive cry of ‘stopping CSAM’ and vocally support it without questioning wether criminals are actually using mainstream cloud providers for storage, or what are the knock on effects of removing E2E on non-criminals
+----------------------------------------------------------------------------------------------------
+ID: me5upgw # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They spent several million 18 months or so ago on marketing this proposal on social media. France and Germany are pursuing the same agenda. Encrypt your own files on third party storage if you want to be secure. Even then tools like Truecrypt have a history of having their canary clauses vanish when pressured to offer back doors. https://threatpost.com/of-truecrypt-and-warrant-canaries/106355/
+----------------------------------------------------------------------------------------------------
+ID: meb0tiy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Correct me if I am wrong but isn’t it specifically if you “know” the password you “must” reveal it to UK Gov if you know it. 
+
+But what if it’s the case where you don’t know the password and can prove the fact but you still hold the encrypted data?
+----------------------------------------------------------------------------------------------------
+ID: me7fiv5 # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just so everyone is on the same page:
+
+Apple have their own MDM built into every single device. They can unlock any device if they choose to. They just simply won't.
+
+With this, they can potentially give access to all data already on the local device. Again, they won't.
+----------------------------------------------------------------------------------------------------
+ID: me6jo6q # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Slowly?
+----------------------------------------------------------------------------------------------------
+ID: me83ody # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s done by the icloud account
+----------------------------------------------------------------------------------------------------
+ID: me5qn9h # OF UPVOTES: 33.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The problem isn’t tech giants, the problem is the UK government making it a law for Apple to provide backdoor access into Apple accounts.
+----------------------------------------------------------------------------------------------------
+ID: me7rrm5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cryptomater is a good way to get your own end to end encrypted files storage using any cloud provider.
+----------------------------------------------------------------------------------------------------
+ID: me5uv0t # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well you seem well informed and well balanced.
+----------------------------------------------------------------------------------------------------
+ID: me69nro # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Curious to why my comment is being downvoted, anyone care to comment?
+----------------------------------------------------------------------------------------------------
+ID: me61kmy # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Try that didn't work. Unless it goes off the account as well.
+----------------------------------------------------------------------------------------------------
+ID: me5wwfe # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How, pray tell, would that help?
+----------------------------------------------------------------------------------------------------
+ID: me65i8k # OF UPVOTES: 21.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yup! I've been using [Cryptomator](https://cryptomator.org/) on PCs and phones for a couple of years. I really like it. If you want to be sure your stuff is protected, use your own tools, rather than relying on a service provider's. This allows you to  use any/every storage provider(s) you want, using the same encryption method.
+
+Cryptomator is open-source, and has clients for Windows, MacOS, Linux, Android, and iOS. A license for Android & iOS costs $20, though the desktop clients are free. You can build the Android client yourself [from source](https://github.com/cryptomator/android), using Gradle.
+----------------------------------------------------------------------------------------------------
+ID: me7w92j # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just an FYI: Cryptomator is buggy and unreliable for Mac and iOS users according to the AppStore reviews. Criticisms there include data loss, so proceed with caution.
+----------------------------------------------------------------------------------------------------
+ID: me5u4o5 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proton has been caving to relatively week police requests. End to end encryption is there, but there are rising issues as the three largest countries in the EU are pursuing the same agenda. https://www.bbc.co.uk/news/technology-58476983
+----------------------------------------------------------------------------------------------------
+ID: me5ud8d # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Am open to using other services. However, was wondering more specifically about whether there are ways to still use Apple and get end to end by say finding a way to make them think I’m in another country, or if this is not possible or practical
+----------------------------------------------------------------------------------------------------
+ID: me86y30 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Using ROT13?
+----------------------------------------------------------------------------------------------------
+ID: me60up3 # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: what?
+----------------------------------------------------------------------------------------------------
+ID: me623ve # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, they use CMK on their American cloud provider.
+----------------------------------------------------------------------------------------------------
+ID: me60ele # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I was talking about government issued demand on law level, not like now, \`if company wants to\`
+----------------------------------------------------------------------------------------------------
+ID: me7x0l6 # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: “Think about the children!” 
+
+I have rarely heard anyone talk that way and then advocate for better treatment of children, programs for children, or really anything productive at all.
+----------------------------------------------------------------------------------------------------
+ID: me6kln9 # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Side note: TrueCrypt has been abandoned for nearly 10 years now, [VeraCrypt](https://www.veracrypt.fr/en/Home.html) is a better option these days. Canary link on the homepage.
+----------------------------------------------------------------------------------------------------
+ID: me5wlsj # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't think your link supports what you said
+----------------------------------------------------------------------------------------------------
+ID: me5yo25 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Isn’t that what killed the project?
+----------------------------------------------------------------------------------------------------
+ID: me7xukq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can you explain what you mean by MDM, AFAIK that just stands for Mobile Device Management & is a category of feature not a definition of a specific part.
+----------------------------------------------------------------------------------------------------
+ID: me8ajiq # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So a USA iTunes account would work ?
+----------------------------------------------------------------------------------------------------
+ID: me5y8z3 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: True, but baring leaving your country, which isn't an option for most, self hosting or going for privacy focused options for the short term is a usable alternative.
+----------------------------------------------------------------------------------------------------
+ID: me5y0ve # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: And we know, if there is a Backdoor, there is a backdoor.
+But of couuuuuuurse nobody would ever think a backdoor could be misused
+----------------------------------------------------------------------------------------------------
+ID: me5zp49 # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So you are ok with police raids in Germany if you insult someone? Or post a cartoon online? Don't encourage these politicians in Europe to determine what speech is Ok and what is not.
+----------------------------------------------------------------------------------------------------
+ID: me6nydd # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: People probably didn’t read past your first sentence.
+----------------------------------------------------------------------------------------------------
+ID: me6jjrn # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s the iCloud account. I’m in the UK, in a phone purchased in the UK, on a UK network but I’ve never switched my iCloud to the UK, I still have ADP and the others on my icloud family have the option to enabled.
+----------------------------------------------------------------------------------------------------
+ID: me7i1dw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you build it yourself via gradle there's no license to pay?
+----------------------------------------------------------------------------------------------------
+ID: me82gib # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I feel like any control-your-own-keys encryption tool will always have negative reviews from people who lost data.
+----------------------------------------------------------------------------------------------------
+ID: me6ek4b # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proton can hand over all the data it has.  Some data is not encrypted.  That includes recovery email address and phone number, and probably billing data. If you need to be sure proton can’t turn over your identity, don’t give proton your identity.  If your recovery phone number is registered with a major phone carrier they can find out who you are. If your recovery email contains your name or if it’s an account with a ton of info about you, that can be subpoenaed.
+----------------------------------------------------------------------------------------------------
+ID: me9s72h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just to add, I’m not suggesting Proton are a bad choice. More, that if they divulge your IP address or other information it can indirectly lead to a bread of your access controls and consequently confer access to encrypted information. I don’t have anything to hide, but I tend to err marginally on a right to privacy as a gut feeling. It’s an uneasy balance though, as I’d hate these services to be used by awful people to perpetuate attacks or abuse.
+----------------------------------------------------------------------------------------------------
+ID: me6az1v # OF UPVOTES: -8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proton has never shared anything with authorities apart from IP addresses.
+----------------------------------------------------------------------------------------------------
+ID: me6pzrv # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks I should have mentioned the development fork
+----------------------------------------------------------------------------------------------------
+ID: me86r3b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not the person you replied to (and I can't independently verify their claims) but I believe they would be referring to an MDM enrollment profile. I.e. I think their claim is that Apple devices are enrolled in an Apple-managed MDM policy that allows Apple to push MDM config updates via SCEP to any device they want.
+----------------------------------------------------------------------------------------------------
+ID: me61wkw # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: MAGA has entered the chat. We’re okay in Europe. I worry about friends in the US. As does the sane civilised world.
+----------------------------------------------------------------------------------------------------
+ID: me7p9mg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That makes sense, oh well.
+----------------------------------------------------------------------------------------------------
+ID: me6lzt2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Interestingly it's my work phone so might have been locked by policy. Thank you.
+----------------------------------------------------------------------------------------------------
+ID: me7ssya # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm not sure, though I have wondered that. In wanting to support the project, and wanting to remain a lazy slacker, I just paid for the Android client. I'm guessing that the code includes the license-checking function, but I haven't looked.
+----------------------------------------------------------------------------------------------------
+ID: me6ip9h # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: you are incorrect. Medium\_Astronomer823 is correct.
+----------------------------------------------------------------------------------------------------
+ID: me8w9fv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Apple control above this. Hence they can outright brick a device remotely.
+----------------------------------------------------------------------------------------------------

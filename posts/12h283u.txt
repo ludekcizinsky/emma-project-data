@@ -1,0 +1,24 @@
+POST ID: 12h283u / POST TITLE: Career in CyberSec
+====================================================================================================
+Hey I am 23 and want to switch my career to Cybersec from Architecture. I have no bachelor's degree so I want know about what certifications should I go for? I want to learn from scratch so I want know the best possible sequence to complete my sequence and also want know about other activities along certifications to get better in this field. Please guide me through this.
+After some research I have came to a point where I think the following will be the best certification sequence.
+1. Comptia A+
+2. CCNA
+3. CEH
+4. eJPT
+5. OSCP
+
+POST COMMENTS:
+====================================================================================================
+ID: jfo9ac6 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bro Cyber security is a very vast field, you have to decide, in which sub field you have to specialise? If you are cool with networking security, cyber Ops, etc go with CCNA and at least till CCNP, if you want to learn penetration testing or bug bounty hunting go for OSCP.
+----------------------------------------------------------------------------------------------------
+ID: jfod8sl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes I wanna go for OSCP.
+----------------------------------------------------------------------------------------------------
+ID: jfon12g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Heath Adams PNPT is a great stepping stone certification. If you get that and then OSCP it will greatly improve your chances of landing a job, however, you will still be competing with people with more experience so keep that in mind. You will need to be able to discuss various penetration testing topics and mitigation strategies during your interview. Most penetration testing jobs I’ve done are consulting roles.
+----------------------------------------------------------------------------------------------------
+ID: jfop6ox # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I wanna go for OSCP too bro but I am too busy because of highschool 😭 I wish I could crack it young
+----------------------------------------------------------------------------------------------------

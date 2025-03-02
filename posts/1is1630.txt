@@ -1,0 +1,6 @@
+POST ID: 1is1630 / POST TITLE: Trying to build a VPN as a project for my resumè. Looking for advice or collaboration
+====================================================================================================
+I'm still kinda new to cybersecurity and networking with only 1 year in the field as a learner. I'm thinking of building my own vpn based on the open source wiregaurd framework. I'm looking for someone who might advice me or guide me or is willing to collaborate in the project with me. I am not that experienced so I might not know everything but I am ready to learn all things required as fast as possible.
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,39 @@
+POST ID: 1fypsy2 / POST TITLE: EC-Council Certified Cybersecurity Technician any good?
+====================================================================================================
+Hi all,
+
+With Cyber Security Awareness Month deals flooding my TL, I came across a few deals from EC-Council and subscribed to their newsletter.
+
+Now they are offering the whole C|CT course for 200USD but they are being *super* pushy about it so it makes me doubt.
+
+Is it a worthy deal? For context, I'm failry new to CyberSec, although I have 7 years experience as a Software Engineer, specially in Data, and I'm currently working thru AWS DevSecOps track at my manager's suggestion.
+
+TIA
+
+POST COMMENTS:
+====================================================================================================
+ID: lr9nk60 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: On one hand they own the CEH certification which is is pretty high demand but on the other after using their study stuff I think their website and tech support is complete garbage.
+----------------------------------------------------------------------------------------------------
+ID: lrb5j9u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am on the same boat, don't know if it's iso accredited course?
+I am just a fresh grad so I have no idea about the industry.
+Let me know if you decide to go ahead with the course
+----------------------------------------------------------------------------------------------------
+ID: lyds0u0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Out of curiosity i checkd their website, and the course seems to accredited by ANSI
+----------------------------------------------------------------------------------------------------
+ID: lrb5olq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, and I don't know if it's industry recognised!
+----------------------------------------------------------------------------------------------------
+ID: lrexacj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Decided not to go for it. 200USD is out of budget right now for me and, after consulting with more Senior members of my department, they adviced me to start on ISC2, CompTIA, and LSF certs first.
+
+Hope that helps.
+----------------------------------------------------------------------------------------------------
+ID: lrcjfx6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it is, it was one of the preferred ones to have, but the past few years EC council has been going down hill.
+----------------------------------------------------------------------------------------------------
+ID: lyk7ivu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. from a comprehensive knowledge point.. a $200 scholarhship, it's a beast of knowledge, considering the overhaul domains it covers for great foundational coverage, and practical learning and the proctored practical exam ..Looks heavy from a networking security and soc level. All my votes would be for going for it.
+----------------------------------------------------------------------------------------------------

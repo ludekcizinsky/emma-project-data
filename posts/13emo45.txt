@@ -1,0 +1,50 @@
+POST ID: 13emo45 / POST TITLE: Pen-testing / Ethical Hacking Courses and Certifications
+====================================================================================================
+I'm a beginner who's trying to decide which hacking course to take. So far, I've achieved CompTIA's A+, Net+, Sec+, and Linux+ certifications. I've been working as a NOC technician for less than a year in the IT industry. Before I begin, I want to make it clear that I don't expect to land a job with just a certification, and I know I won't learn everything there is to know from a single course. However, I find structured learning helpful as a measurable goal.
+
+My goal is to find a cost-effective course that will teach me actionable skills for use in CTFs and bug bounty programs. While it would be nice to receive a certificate that's recognized in the industry, it's not my top priority. I've researched some programs, and here are the ones I'm considering:
+
+[Tryhackme.com](https://Tryhackme.com)
+
+[hackthebox.com](https://hackthebox.com)
+
+[Practical Network Penetration Tester - TCM Security (tcm-sec.com)](https://certifications.tcm-sec.com/pnpt/) 
+
+[eLearnSecurity Junior Penetration Tester (eJPT) | Certifications | INE](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-cert) 
+
+I'm open to other programs that I may not have considered. Out of these listed, and any others you may recommend, which do you suggest as the best investment?
+
+Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: jjqq7aw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What did you need to start working in the industry?
+I got my sec+ and A+ and wants to get into the industry at least
+----------------------------------------------------------------------------------------------------
+ID: jjrkkn5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I got my first job with the A+, Net+, and the ITILv4. But it depends on what you want to do. Because I work in networking the net+ was probably the most useful. If you want to start out in help desk I'm sure you can get by with just the A+. The sec+ is a good cert no matter what path you choose. I would say that generally speaking the CompTIA trifecta A+, Net+, and Sec+ will get you most entry level positions.
+
+Assuming you are interested in security because you're in the ethical hacking subreddit. Just know that generally speaking security jobs are not entry level. I'm sure you could get hired as a pen tester if you have verified bug bounties and self-published CVEs but to think that you can get into security with absolutely no IT experience is a reach. Also, being exposed to operation centers, even if you can get a SOC analyst out the gate know that you will spend a lot of time as a Splunk monkey i.e you will be expected to prove yourself with the boring small tasks for a while before they trust you with more advanced tasks.
+----------------------------------------------------------------------------------------------------
+ID: jjrnwx5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What programs and tools should I learn up on? Whether watching videos and installing such programs to do labs on? I see you mention Splunk. I saw some jobs have solarwinds mentioned. Are these similar? As far as the usage. As far as being a newbie, I am quite adept at repairing computers, software or hardware,  and getting rid of viruses or troubleshooting programs. I have no problem going into the registries and modifying it.
+----------------------------------------------------------------------------------------------------
+ID: jjs7mum # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: SolarWinds is a network monitoring platform, and Splunk is a SIEM (security information and event management) similar but very different applications. Generally NOC's are going to use SolarWinds and SOCs are going to use Splunk or some other SIEM.   
+
+
+There are so many resources out there these days. Its really a matter of finding what works for you. I've used the Udemy subscription for like 15 bucks a month, don't quote me on the price. Jason Dion's courses and the practice tests are pretty reliable. I use my local library for books, this is an invaluable resource, even if they don't have the physical tech book you are looking for most library these days have E-books on almost any computer topic out there.   
+
+
+I will note that the official CompTIA labs for the Linux+ are very useful. But if you are strapped for cash just google Linux lab tutorials. RHEL has an article of things you can do to build and practice Linux sysadmin tasks.  
+
+
+Also, use ChatGPT as a resource. Of course, take the information with a grain of salt but its super nice to have if you have a quick question and need it explained in a particular way.  
+
+
+To summarize use tools like Udemy, YouTube, Google, ChatGPT, and your local library.
+----------------------------------------------------------------------------------------------------
+ID: jjs88r2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks. Will do
+----------------------------------------------------------------------------------------------------

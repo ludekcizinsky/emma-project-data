@@ -1,0 +1,13 @@
+POST ID: 1iu3a6y / POST TITLE: New Incident Covered by NorthRecon, Take a Look!
+====================================================================================================
+[https://northrecon.com/incident/2](https://northrecon.com/incident/2)  
+
+
+Hey,
+
+The link above is for the second incident we covered (XWorm Campaign) check the attack flow pdf for more details.
+
+We implemented a few suggestions, such as having some parts of the PDF already on the webpage, so you don't need to download the pdf. Although the PDF has some extra info, so I recommend reading it.
+
+POST COMMENTS:
+====================================================================================================

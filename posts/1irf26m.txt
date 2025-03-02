@@ -1,0 +1,72 @@
+POST ID: 1irf26m / POST TITLE: The Big List of Cybersecurity Resources (News, Info, Learning)
+====================================================================================================
+I recently posted, asking for recommendations on where to stay updated on cybersecurity news and learn new skills. The community shared some great resources—here’s a compiled list based on your responses.
+
+Let me know if anything should be added.
+
+# Cybersecurity News & Blogs
+
+* [**Krebs on Security**](https://krebsonsecurity.com/) – Brian Krebs' investigative journalism on cybercrime.
+* [**Bleeping Computer**](https://www.bleepingcomputer.com/) – Breaking cybersecurity news, ransomware updates.
+* [**Dark Reading**](https://www.darkreading.com/) – In-depth cybersecurity analysis and news.
+* [**Hacker News**](https://thehackernews.com/) – General cybersecurity updates and industry trends.
+* [**Threats Without Borders**](https://www.threatswithoutborders.com/) – Weekly cybersecurity threat intelligence.
+* [**Threatable**](https://threatable.io/) – Aggregated security news and trends.
+* [**Slashdot Security**](https://slashdot.org/) – "News for Nerds" with security discussions.
+* [**Recorded Future News**](https://www.recordedfuture.com/) – Summarized cybersecurity news.
+
+# Cybersecurity Podcasts
+
+* [**Security Now**](https://www.youtube.com/c/securitynow) – Steve Gibson & Leo Laporte’s podcast on cybersecurity topics.
+* [**Risky Business**](https://risky.biz/) – Cybersecurity news and industry interviews.
+* [**Darknet Diaries**](https://darknetdiaries.com/) – Real-world hacking stories.
+* [**Smashing Security**](https://www.smashingsecurity.com/) – Fun take on infosec news.
+* [**CyberWire Daily**](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261) – Daily cybersecurity updates.
+
+# YouTube Channels (Cybersecurity & Ethical Hacking)
+
+* [**NetworkChuck**](https://www.youtube.com/c/NetworkChuck) – IT, cybersecurity, hacking tutorials.
+* [**The Cyber Mentor**](https://www.youtube.com/c/TheCyberMentor) – Ethical hacking and penetration testing.
+* [**John Hammond**](https://www.youtube.com/c/JohnHammond010) – Malware analysis, hacking tips.
+* [**HackerSploit**](https://www.youtube.com/c/HackerSploit) – Cybersecurity training.
+* [**Simply Cyber**](https://www.youtube.com/c/SimplyCyber) – Cybersecurity job prep, SOC analyst insights.
+
+# Best Cybersecurity Twitter/X Accounts
+
+* **Brian Krebs (**[**Twitter**](https://twitter.com/briankrebs) **|** [**Mastodon**](https://infosec.exchange/deck/@briankrebs)**)** – Cybercrime and security news.
+* **MalwareTech (**[**Twitter**](https://twitter.com/MalwareTechBlog) **|** [**Mastodon**](https://infosec.exchange/deck/@malwaretech)**)** – Security research and malware analysis.
+* [**The Grugq (@thegrugq)**](https://x.com/thegrugq) – OPSEC and cybersecurity insights.
+* [**SwiftOnSecurity (@SwiftOnSecurity)**](https://x.com/SwiftOnSecurity) – Cybersecurity humor & advice.
+* [**Clint Gibler (@clintgibler)**](https://x.com/clintgibler) – Security engineering & research.
+
+# Forums & Communities
+
+* [**r/cybersecurity**](https://www.reddit.com/r/cybersecurity/) – Cybersecurity news & discussions.
+* [**r/netsec**](https://www.reddit.com/r/netsec/) – Network security-focused community.
+* [**Offensive Security Forums**](https://forums.offsec.com/) – Pen-testing & hacking discussions.
+* [**r/sysadmin**](https://www.reddit.com/r/sysadmin/) – IT security & incident response discussions.
+* [**r/PwnHub**](https://www.reddit.com/r/pwnhub/) – Hacking news, exploits, breach reports.
+* [**r/CyberHire**](https://www.reddit.com/r/CyberHire/) – Cybersecurity job board & career discussions.
+
+# Cybersecurity Newsletters
+
+* [**TL;DR Sec**](https://tldrsec.com/) – Weekly security updates with actionable insights.
+* [**Threats Without Borders**](https://www.threatswithoutborders.com/) – Security threats and intelligence reports.
+* [**CISA Alerts**](https://www.cisa.gov/stopransomware/alerts) – U.S. government cybersecurity advisories.
+* [**Risky Business**](https://risky.biz/subscribe/) \- Prepared by Catalin Cimpanu, the Risky Business News podcast is published three times a week and gives listeners a rundown on the latest cybersecurity news stories.
+
+# Cybersecurity Researchers & Journalists
+
+* [**Kim Zetter**](https://www.wired.com/author/kim-zetter/) – Cybersecurity and election security journalist.
+* [**Joseph Cox**](https://www.404media.co/author/joseph-cox/) – Journalist covering hacking, surveillance, cybercrime.
+* [**Chris Bing**](https://www.reuters.com/authors/christopher-bing/) – Security and cyber warfare journalist.
+* [**Lorenzo Franceschi-Bicchierai**](https://lorenzofb.com/) – Investigative cybersecurity journalist.
+
+# Official Government Cybersecurity Resources
+
+* [**CISA (Cybersecurity & Infrastructure Security Agency)**](https://www.cisa.gov/) – Official alerts & best practices.
+* [**NIST Cybersecurity Framework**](https://www.nist.gov/cyberframework) – Guidelines and security standards.
+* [**MITRE ATT&CK**](https://attack.mitre.org/) – Adversarial tactics & techniques framework.
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,22 @@
+POST ID: 1iti2xt / POST TITLE: Share your picoCTF & learning experiences with researchers at CMU
+====================================================================================================
+Hi r/cybersecurity!
+
+I'm working with a research team at Carnegie Mellon University to understand what actually works for people learning cybersecurity and what doesn't. We're interested in hearing about your experiences with picoCTF and other learning platforms - the good, the bad, and the "why did I get stuck here for 3 hours?" moments.
+
+We'd greatly appreciate if you could share your experiences:
+
+1. How did you begin your cybersecurity learning journey? What were the biggest challenges you faced when starting out? What strategies worked for you?
+2. Do you use picoCTF?
+   * If yes:
+      * Are you still actively using it? Why?
+      * If you stopped, what made you lose interest or motivation?
+   * If no:
+      * What other cybersecurity learning platforms do you use and why?
+
+*About us: We're researchers at the Carnegie Mellon University Human-Computer Interaction Institute studying ways to improve cybersecurity education. Your responses will be anonymized and used solely for research purposes.*
+
+Thank you for your time and insights!
+
+POST COMMENTS:
+====================================================================================================

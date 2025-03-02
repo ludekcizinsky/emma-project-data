@@ -1,0 +1,55 @@
+POST ID: 1ivxg9s / POST TITLE: Containers are bloated and that bloat is a security risk. We built a tool to remove it!
+====================================================================================================
+Hi everyone,
+
+For the past couple of years, we have been looking at container security. Turns out that up to 97% of vulerabilities in acontainer can be just due to bloatware, code/files/features that you never use \[1\].  While there has been a few efforts to develop debloating tools, they failed with many containers when we tested them. So we went out and developed a container (file) debloating tool and released it with an MIT license.
+
+Github link: [https://github.com/negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
+
+A full description here: [https://arxiv.org/abs/2305.04641](https://arxiv.org/abs/2305.04641)
+
+TLDR; the tool uses the layered filesystem of containers to discover and remove unused files.
+
+Here is a table with the results for 10 popular containers on dockerhub:
+
+|Container|Original size (MB)|Debloated (MB)|Vulerabilities removed %|
+|:-|:-|:-|:-|
+|mysql:8.0.23|546.0|116.6|89|
+|redis:6.2.1|105.0|28.3|87|
+|ghost:3.42.5-alpine|392|81|20|
+|registry:2.7.0|24.2|19.9|27|
+|golang:1.16.2|862|79|97|
+|python:3.9.3|885|26|20|
+|bert tf2:latest|11338|3973|61|
+|nvidia mrcnn tf2:latest|11538|4138|62|
+|merlin-pytorch-training:22.04|15396|4224|78|
+|merlin-tensorflow-training:22.04|14320|4195|75|
+
+Please try the tool and give us any feedback on what you think about it. A lot on the technical details are already in the shared arxiv link and in the README on github!
+
+\[1\] [https://arxiv.org/abs/2212.09437](https://arxiv.org/abs/2212.09437)
+
+POST COMMENTS:
+====================================================================================================
+ID: me9eb5r # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How do you ensure you only remove unnecessary files? Some files may only be accessed under certain conditions/edge cases.
+----------------------------------------------------------------------------------------------------
+ID: me9zf49 # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: People really need to learn how to use multi-stage builds. That would eliminate a huge part of this bloat.
+----------------------------------------------------------------------------------------------------
+ID: mea81lv # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So… like chainguard?
+----------------------------------------------------------------------------------------------------
+ID: meb7qqe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is an interesting sounding tool and concept. Definitely opens your eyes to the risks that could be missed by people relying on docker images without investigation of the underlying bases. 
+
+I agree with the comments about multi-stage builds. 
+
+I am also wondering what the impact of running rootless is and also selecting newer versions of the tools that are in the images on the reduction in exploitable vulnerabilities you've outlined here.
+----------------------------------------------------------------------------------------------------
+ID: me9fn5m # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I do not think that our tool is a one-size fits-all at the moment, so it is only suitable for containers where you are absolutely sure of their usage and what they are supposed to do, for example, a serverless container that is supposed to do x, should only do do x.  That being said, we are working on a version that solves exactly the problem you describe where we guarantee that no file, even for edge cases, is ever missing.
+----------------------------------------------------------------------------------------------------
+ID: meaya7x # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: right, multi-stage builds save so much space. A lot of people just stack everything in one Dockerfile without thinking about layers.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,835 @@
+POST ID: 1iuadbf / POST TITLE: NBC News seeking CISA sources
+====================================================================================================
+Hi Reddit, I'm Kevin Collier, the cybersecurity reporter at NBC News. Here's [my bio page at NBC](https://www.nbcnews.com/author/kevin-collier-ncpn1110251).
+
+Right now I'm specifically reporting on the Department of Government Efficiency's access to CISA systems, layoffs at CISA, and cuts to cybersecurity programs, funding, and employees at any agency.
+
+If that's something you have direct knowledge about and can contact me via Signal, or if you know someone to whom this applies and you can share this with them, I'd be grateful. We adhere to best practices for source protection.
+
+My signal handle is kevincollier.01. Happy to verify my identity if you want to email me (though please don't use your work address) at [kevin.collier@nbcuni.com](mailto:kevin.collier@nbcuni.com). Thank you!
+
+POST COMMENTS:
+====================================================================================================
+ID: mdvue96 # OF UPVOTES: 492.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Have you tried /r/fednews?
+----------------------------------------------------------------------------------------------------
+ID: mdvsdvl # OF UPVOTES: 881.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Leaving comment for engagement. This is an issue that deserves a spotlight from the press.
+----------------------------------------------------------------------------------------------------
+ID: mdwpk8p # OF UPVOTES: 155.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I hope you’re able to get good sources.  We need these reporters now.  This is why journalists exist. 
+
+!remindme 1 month
+----------------------------------------------------------------------------------------------------
+ID: mdwoo9w # OF UPVOTES: 306.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Commenting to keep engaged. CISA is super important. Seems “weird” to slash funding for cyber security when cyber is literally our biggest threat vector in any warfare domain right now. AND AI is popping, making hacking us even easier.
+----------------------------------------------------------------------------------------------------
+ID: mdzp89e # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm not with CISA, but please let us know when you do get something written up. Also, watch out for QR codes on signal and keep tabs on linked devices. As a journalist, your signal's a juicy target to go after.
+
+[https://www.wired.com/story/russia-signal-qr-code-phishing-attack/](https://www.wired.com/story/russia-signal-qr-code-phishing-attack/)
+
+Have you reached out to Senteinel One and Chris Krebs, former CISA head? I'm sure there's no love lost there with the current administration, and he was on the advisory board for the Salt Typhoon attack, before it got axed. 
+
+This is who I believe was on the CSRB before the axe:  
+• **Robert Silvers**: Under Secretary for Policy, Department of Homeland Security (Chair)  
+
+
+• **Heather Adkins**: Vice President, Security Engineering, Google (Deputy Chair)
+
+• **Dmitri Alperovitch**: Co-Founder and Chairman, Silverado Policy Accelerator; Co-Founder and former CTO of CrowdStrike, Inc.
+
+• **Leslie Beavers**: Acting Chief Information Officer, Department of Defense
+
+• **Harry Coker, Jr.**: National Cyber Director, Office of the National Cyber Director
+
+• **Jerry Davis**: Chief Information Security Officer, Software and Digital Platforms, Microsoft
+
+• **Mike Duffy**: Acting Federal Chief Information Security Officer, Office of Management and Budget
+
+• **Jeff Greene**: Executive Assistant Director for Cybersecurity, Cybersecurity and Infrastructure Security Agency
+
+• **Jamil Jaffer**: Venture Partner, Paladin Capital Group; Founder and Executive Director, National Security Institute, George Mason University
+
+• **Rob Joyce**: Owner, Joyce Cyber LLC
+
+• **Chris Krebs**: Chief Intelligence and Public Policy Officer, SentinelOne
+
+• **David Luber**: Director, Cybersecurity Directorate, National Security Agency
+
+• **Marshall Miller**: Principal Associate Deputy Attorney General, Department of Justice
+
+• **Katie Nickels**: Senior Director of Intelligence Operations, Red Canary
+
+• **Bryan Vorndran**: Assistant Director, Cyber Division, Federal Bureau of Investigation
+----------------------------------------------------------------------------------------------------
+ID: mdvxtqq # OF UPVOTES: 75.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I know a few
+----------------------------------------------------------------------------------------------------
+ID: mdwxd0p # OF UPVOTES: 51.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've been dreading what Trump and Musk will do to CISA. I primarily work with clients going into the FedRAMP space. The gutting of all the agencies is bad enough but apparently they really just wanna cripple every area of national security while making most of the world our enemy.
+----------------------------------------------------------------------------------------------------
+ID: mdwq0pv # OF UPVOTES: 26.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please keep doing what you’re doing! We need people like you now more than ever.
+----------------------------------------------------------------------------------------------------
+ID: mdxboe7 # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I hope this gets results. I'm a government contractor, and CISA won't tell us anything.
+----------------------------------------------------------------------------------------------------
+ID: mdwno70 # OF UPVOTES: 110.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They are not layoffs. They are illegal firings. Call it what it is and you’ll get more engagement.
+----------------------------------------------------------------------------------------------------
+ID: mdwsajx # OF UPVOTES: 35.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Both CISA and NIST have historically educated and facilitated best practices. 
+
+But the employees of CISA were viewed as non essential to the mission and agenda of this executive branch.
+
+Funding and financial accounting aside this is a forced brain drain.
+
+But not saying the new brain trust is ducking up we need to obey in a way like never before.
+----------------------------------------------------------------------------------------------------
+ID: mdvp3ii # OF UPVOTES: 74.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'll just add that the use of servers by Big Balls in Belgium and Singapore keeps in near SIPRNET
+----------------------------------------------------------------------------------------------------
+ID: mdwz2ph # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I hope this is investigated indepth 🙏🏾
+----------------------------------------------------------------------------------------------------
+ID: me3k6j9 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Let me explain what DOGE is, what they are doing, and why inaction will lead to the destruction of this country.
+
+WHAT IS DOGE?
+
+The Department of Government Efficiency (DOGE) was created under the premise of reducing federal waste, streamlining operations, and enhancing national cybersecurity through centralized control over all government data and systems. Led by powerful corporate technocrats and intelligence insiders, DOGE was granted access to key federal agencies, including:
+	•	CISA (Cybersecurity & Infrastructure Security Agency) – the frontline of cyber defense against foreign and domestic cyber threats.
+	•	USAID, NASA, and the FAA – crucial infrastructure handling humanitarian aid, space research, and air traffic control.
+	•	The CDC, NIH, and FDA – institutions responsible for national health security and pandemic response.
+
+Congress was told this was about efficiency. But in reality, DOGE has become a weaponized intelligence arm operating outside the bounds of oversight, control, and accountability.
+
+WHAT DOGE IS REALLY DOING:
+	1.	SEIZING CONTROL OF FEDERAL SYSTEMS
+	•	DOGE now has “God mode” access to cybersecurity systems that were once decentralized, meaning a single entity controls how intelligence, security alerts, and classified information are processed.
+	•	CISA employees have reported mysterious data transfers, unauthorized privileged access escalations, and disappearing logs that prevent traceability.
+	•	DOGE’s AI-driven surveillance network monitors, flags, and censors government employees who question its authority.
+	2.	DISMANTLING NATIONAL CYBERSECURITY DEFENSES
+	•	In the past four weeks, DOGE has overseen massive layoffs at CISA, NSA, and even within the Pentagon’s cyber command.
+	•	The justification? “Budget cuts and redundancy.” The reality? Critical cybersecurity teams protecting against Russian and Chinese cyber operations have been gutted.
+	•	The United States is now more vulnerable to a cyberattack than ever before.
+	3.	COMPROMISING NATIONAL SECURITY FOR FOREIGN ADVERSARIES
+	•	DOGE is not just inefficient—it is compromised.
+	•	Evidence suggests high-ranking officials within DOGE have been funneling intelligence to Russia under the guise of “cooperation” on cybersecurity threats.
+	•	Our most sensitive government communications, classified cyberwarfare strategies, and critical intelligence reports are being accessed by hostile actors.
+	•	DOGE’s unchecked control means that by the time we detect a breach, it will be too late to stop it.
+	4.	PREPARING FOR A FULL-SCALE DIGITAL COUP
+	•	DOGE’s endgame is not just control over government efficiency—it is the destruction of national sovereignty.
+	•	Their next phase, the “Red Harvest Protocol”, will allow DOGE to manipulate government data, including:
+	•	Voting systems – altering election results to install officials loyal to DOGE’s mission.
+	•	Financial markets – triggering stock crashes to destabilize the economy.
+	•	Social media and news platforms – deploying AI-driven deepfakes to create mass disinformation.
+	•	Within six months, DOGE will have the power to fabricate political narratives, erase financial records, and control public perception—all without oversight.
+
+WHY CONGRESS MUST ACT NOW:
+
+If Congress does not immediately dismantle DOGE, the following will happen:
+	1.	The United States will lose its ability to defend against cyberwarfare.
+	•	With CISA’s defenses neutralized, foreign adversaries will disable critical infrastructure, hack military communications, and steal classified intelligence.
+	2.	The government will collapse from within.
+	•	DOGE’s consolidation of power means they can erase identities, manipulate government decisions, and silence opposition without resistance.
+	3.	Our enemies will assume control without firing a single bullet.
+	•	This is not an invasion with tanks and troops—it is digital subjugation. By the time the public realizes what has happened, we will already be under foreign control.
+
+IMMEDIATE ACTION REQUIRED
+	1.	SHUT DOWN DOGE’S ACCESS TO GOVERNMENT NETWORKS
+	•	All DOGE operations should be suspended immediately.
+	•	A full cybersecurity lockdown should be enforced to prevent further data breaches.
+	2.	LAUNCH A FEDERAL INVESTIGATION INTO DOGE LEADERSHIP
+	•	Identify individuals within DOGE who have ties to foreign adversaries, corporate interests, or intelligence agencies.
+	•	Establish a bipartisan task force to audit all activities conducted by DOGE.
+	3.	RESTORE CYBERSECURITY FUNDING AND PERSONNEL IMMEDIATELY
+	•	CISA, NSA, and military cyber divisions must be reinstated and given emergency funding to rebuild defenses.
+	•	The experts DOGE fired must be rehired to repair the damage done.
+	4.	DECLARE DOGE A NATIONAL SECURITY THREAT
+	•	The Department of Homeland Security must classify DOGE as a rogue intelligence agency operating against U.S. interests.
+	•	Executive emergency powers should be considered to prevent further infiltration.
+
+FINAL WARNING TO CONGRESS:
+
+If you do nothing—if you allow DOGE to continue its silent coup—you will be complicit in the fall of the United States of America.
+
+This is not hyperbole. This is not a conspiracy theory.
+
+This is a digital war. And we are losing.
+
+The clock is ticking.
+
+Will you act before it’s too late?
+
+Or will you watch as this nation falls?
+----------------------------------------------------------------------------------------------------
+ID: mdwnfhi # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 🍿
+----------------------------------------------------------------------------------------------------
+ID: mdwsejo # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good luck, it’s going to get nuts for cyber
+----------------------------------------------------------------------------------------------------
+ID: mdx7h3e # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Signal name doesn’t come up as a valid user
+----------------------------------------------------------------------------------------------------
+ID: me182t0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISA is extremely important. Commenting to help give this issue the attention it needs.
+----------------------------------------------------------------------------------------------------
+ID: mdwyemp # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for doing your important work, shining a light on this!
+----------------------------------------------------------------------------------------------------
+ID: mdwt8v3 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Has DOGE made any cuts to CISA or cybersecurity funds for other departments?
+----------------------------------------------------------------------------------------------------
+ID: mdwy4x6 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hurrah! Good luck!
+----------------------------------------------------------------------------------------------------
+ID: mdy6u27 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Engagement bump for visibility
+----------------------------------------------------------------------------------------------------
+ID: mdy7frl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for putting this in the spotlight Kevin
+----------------------------------------------------------------------------------------------------
+ID: me00xle # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doing true journalism. I can't wait to read what you find, even if I know it will be heartbreaking.
+
+!remindme 60 days
+----------------------------------------------------------------------------------------------------
+ID: me02dy6 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No connection, but thank you for your work on this
+----------------------------------------------------------------------------------------------------
+ID: me31bts # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Confront the ugly truth. Be honest. The media is constantly covering up for Trump and Muskrat. That cannot, absolutely cannot happen right now. Now is the time to be honest before your power is inevitably taken away. And it will be, as the Trump fascist regime and Oligarch cult led by Curtis Yarvin have been quickly doing. How many news sources have been bought and silenced now? How many have been banned from the White House? 
+
+Journalism used to be about exposing the truth. So expose it and do it quickly.
+----------------------------------------------------------------------------------------------------
+ID: mdwrym6 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Subscribed
+----------------------------------------------------------------------------------------------------
+ID: mdxcsr0 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good luck. The fourth estate is all we have left since congress can't find their spines and he won't adhere to the courts
+----------------------------------------------------------------------------------------------------
+ID: mdwwi9s # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Illegal firings*
+----------------------------------------------------------------------------------------------------
+ID: mdxdd21 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I really hope someone speaks up. CISA is important, the EI-ISAC programs are important.
+----------------------------------------------------------------------------------------------------
+ID: mdxtmyf # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The people at CISA who could investigate this were fired. [https://fox4kc.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/](https://fox4kc.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)
+----------------------------------------------------------------------------------------------------
+ID: mdwy020 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi Kevin,
+
+Have you thought about looking into the election results and how exactly musk stole this shit away from our country?
+
+Thanks.
+----------------------------------------------------------------------------------------------------
+ID: mdwtfsk # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As soon as Trump gets booted from office big balls, small pee pee is going to prison. These are illegal firings btw, as many other ppl have mentioned. Commenting for engagement.
+----------------------------------------------------------------------------------------------------
+ID: mdwzkvo # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: !remindme 1 month
+----------------------------------------------------------------------------------------------------
+ID: mdx2tk3 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT:  +1 for engagement 
+----------------------------------------------------------------------------------------------------
+ID: mdzbohs # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you Kevin for your service. Go get'em. The country needs a shit load more reporters like you!
+----------------------------------------------------------------------------------------------------
+ID: me99kyn # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am leaving a comment for engagement, as this needs to be at the forefront of all concerned to stay abreast of the outcome.
+----------------------------------------------------------------------------------------------------
+ID: mdwz0om # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Interested
+----------------------------------------------------------------------------------------------------
+ID: mdx0z5o # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Keeping track.
+----------------------------------------------------------------------------------------------------
+ID: mdx18es # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good luck! I hope I get to read your story on this
+----------------------------------------------------------------------------------------------------
+ID: mdx1jwd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Feel like Bart Scott
+----------------------------------------------------------------------------------------------------
+ID: mdxarmy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: !remindme 1 week
+----------------------------------------------------------------------------------------------------
+ID: mdxbokw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdxcyzx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Engagement
+----------------------------------------------------------------------------------------------------
+ID: mdxfy69 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is one thing that needs to be reported on. Just with the KEV alone and the backlog. These layoffs are bound to make this and other CISA initiatives that much worse. Not good. So keep this going and at the forefront!!!
+----------------------------------------------------------------------------------------------------
+ID: mdxjrjm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Glad to finally see major network wanting to look into this.
+----------------------------------------------------------------------------------------------------
+ID: mdxl7d8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Also commenting for posterity.
+----------------------------------------------------------------------------------------------------
+ID: mdxobua # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Woo!
+----------------------------------------------------------------------------------------------------
+ID: mdxqan6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for looking into this
+----------------------------------------------------------------------------------------------------
+ID: mdxwzyh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Commenting for the updates
+----------------------------------------------------------------------------------------------------
+ID: mdxyqqt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bump bump
+----------------------------------------------------------------------------------------------------
+ID: mdy0ood # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good deal
+----------------------------------------------------------------------------------------------------
+ID: mdy1rve # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Leaving comment for the algorithm.
+----------------------------------------------------------------------------------------------------
+ID: mdy2ub4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nice!
+----------------------------------------------------------------------------------------------------
+ID: mdy5kxa # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: yep
+----------------------------------------------------------------------------------------------------
+ID: mdzua5g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: remindme! 1 month
+----------------------------------------------------------------------------------------------------
+ID: mdzv131 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is important. If he doesn't already have it, Putin would love to have data on every taxpaying American.
+----------------------------------------------------------------------------------------------------
+ID: me160wi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can a mod verify this is legit? The user seems legit, like an account associated with the news station, but it would be nice if a mod could pin a comment verifying
+----------------------------------------------------------------------------------------------------
+ID: me18ty3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The search for sources on cybersecurity cuts is crucial, but it raises questions about the balance between press freedom and national security. Is it ethical to expose sensitive details for a story, or should security concerns take precedence?
+----------------------------------------------------------------------------------------------------
+ID: me1zfy3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Attacking CISA while combing through government data… Makes you wonder what the end goal is for Musk.
+----------------------------------------------------------------------------------------------------
+ID: me314bn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doesn't CISA also help with election security?
+----------------------------------------------------------------------------------------------------
+ID: me3cmzw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: me76izr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Go
+----------------------------------------------------------------------------------------------------
+ID: meaujx8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Jen Easterly certainly liked being more of a celebrity and doing red carpet events versus investigating Salt Typhoon attacks
+----------------------------------------------------------------------------------------------------
+ID: mdwugkc # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi Kevin. If you would like to address any of the issues I have raised in a recent thread on CISA in your upcoming article for NBC, that would be greatly appreciated. Cheers.
+
+[https://www.reddit.com/r/cybersecurity/comments/1i7mlic/has\_this\_sub\_ever\_addressed\_the\_allegation\_that/](https://www.reddit.com/r/cybersecurity/comments/1i7mlic/has_this_sub_ever_addressed_the_allegation_that/)
+----------------------------------------------------------------------------------------------------
+ID: mdwv1uv # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for doing what you do Kevin.
+----------------------------------------------------------------------------------------------------
+ID: mdx6n63 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you Kevin 
+----------------------------------------------------------------------------------------------------
+ID: mdxedia # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Go away legacy media.
+----------------------------------------------------------------------------------------------------
+ID: mdzh3ba # OF UPVOTES: -7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Everyone signed NDA’s, you’re asking those to break thier pledge.  The last administration seemed to be ok with leaks.  This administration, expect you will be caught and lose your career, be fined and may even do jail
+time.  Interesting that NBC didn’t have the same enthusiasm for Hunter Biden’s Laptop !!!
+----------------------------------------------------------------------------------------------------
+ID: mdx8p7j # OF UPVOTES: -9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have direct knowledge on the inner workings of Uranus, journo.
+----------------------------------------------------------------------------------------------------
+ID: mdx3ebo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdxfxro # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for reporting the truth.
+----------------------------------------------------------------------------------------------------
+ID: mdy3nve # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please see this and report on it.  
+
+https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/
+----------------------------------------------------------------------------------------------------
+ID: me3agfp # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nobody likes a snitch...
+----------------------------------------------------------------------------------------------------
+ID: mdws8nj # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: !remindme 1 month
+----------------------------------------------------------------------------------------------------
+ID: mdy3xqc # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: mdwph2f # OF UPVOTES: -13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 🧐
+----------------------------------------------------------------------------------------------------
+ID: me1qp5l # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doge must be affecting your bottom line you scum
+----------------------------------------------------------------------------------------------------
+ID: mdvvgg2 # OF UPVOTES: -173.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISA is just another government bureaucracy out of hundreds that have gone without an audit since their inception. Maybe, just maybe, folks could agree that it's prudent to audit yourselves occasionally. I know you security guys sell auditing services as an essential best practice.
+
+Granted that you security guys don't trust anyone, not even yourselves. That doesn't give you or any other  agency a blank check. 
+
+Do you know what happens when an empire is built on blank checks? It's called bankruptcy.
+----------------------------------------------------------------------------------------------------
+ID: mdvy29i # OF UPVOTES: -109.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This subreddit is infested with those federal UBI recipients. I'm sure you'll find some great sources for your propaganda piece.
+----------------------------------------------------------------------------------------------------
+ID: mdvrrgi # OF UPVOTES: -126.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nice try, fed boi!
+----------------------------------------------------------------------------------------------------
+ID: mdx735r # OF UPVOTES: -8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A/S/L ?
+----------------------------------------------------------------------------------------------------
+ID: mdwyjmp # OF UPVOTES: 118.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah that’s *the* sub for information and engagement with people affected by this.
+----------------------------------------------------------------------------------------------------
+ID: mdws0kj # OF UPVOTES: 169.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That sub is so depressing. I feel for all of the people affected
+----------------------------------------------------------------------------------------------------
+ID: mdzcr8a # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for the rec! We've been [posting there as well](https://www.reddit.com/r/fednews/comments/1iu8rsk/nbc_news_seeking_cisa_sources/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+----------------------------------------------------------------------------------------------------
+ID: mdwzjw5 # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Jesus. So many acronyms being thrown around. I feel for folks though. Tbh, these are the innocent ones. The leadership is where the funny money was probably transacting. Hope things work out in a better way not just for the individuals, but for America. 
+
+I know we can use some of those folks in the private sector. It would be nice if they can demand a nice pay check especially since the info sec industry has had such weak talent the last few years
+----------------------------------------------------------------------------------------------------
+ID: mdwpt26 # OF UPVOTES: 80.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdwtfhq # OF UPVOTES: 22.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes. Thank for shining light on this.
+----------------------------------------------------------------------------------------------------
+ID: mdx3bx4 # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 💯! Appreciate the attention on this! I will share with a few folks who might be willing to reach out.
+----------------------------------------------------------------------------------------------------
+ID: mdww2p2 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: +1
+----------------------------------------------------------------------------------------------------
+ID: mdxmqnn # OF UPVOTES: 22.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Absolutely, it's getting lost in the noise of the flood the zone fascist takeover. 
+
+CISA is also responsible for election integrity and I'm afraid that's one of the main reasons they are being targeted. 
+
+Thank you OP for reporting on this, and also thank you members of this sub for educating me more on CS
+----------------------------------------------------------------------------------------------------
+ID: mdxu2r0 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bump
+----------------------------------------------------------------------------------------------------
+ID: mdxnr9f # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: For vis
+----------------------------------------------------------------------------------------------------
+ID: mdxd9p8 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Same
+----------------------------------------------------------------------------------------------------
+ID: mdxkloz # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Same
+----------------------------------------------------------------------------------------------------
+ID: mdxt9e4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdy2z59 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nice
+----------------------------------------------------------------------------------------------------
+ID: mdy4883 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Aye aye
+----------------------------------------------------------------------------------------------------
+ID: mdxn9ia # OF UPVOTES: -13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wasn’t CISA started in 2018?
+
+They reported the 2020 election was fair.
+They reported the 2024 election was fair.
+
+Personally, I don’t believe at least one of those statements.
+
+Before that, the DHS did the cybersecurity. I fucking hate dump and musty ass but this right here might be a bit too much bureaucracy when they could just expand the cyber security in DHS. 
+
+Can anyone chime in on the significant changes to cybersecurity in the last 7 years?
+
+EDIT: lmfao instant downvote for a rational thought in the reddit echo chamber, of course. 
+----------------------------------------------------------------------------------------------------
+ID: mdwpnyy # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I will be messaging you in 1 month on [**2025-03-21 01:17:44 UTC**](http://www.wolframalpha.com/input/?i=2025-03-21%2001:17:44%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/cybersecurity/comments/1iuadbf/nbc_news_seeking_cisa_sources/mdwpk8p/?context=3)
+
+[**17 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fcybersecurity%2Fcomments%2F1iuadbf%2Fnbc_news_seeking_cisa_sources%2Fmdwpk8p%2F%5D%0A%0ARemindMe%21%202025-03-21%2001%3A17%3A44%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201iuadbf)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+----------------------------------------------------------------------------------------------------
+ID: mdzrs8a # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: !remindme 1 month
+----------------------------------------------------------------------------------------------------
+ID: mdx2ua9 # OF UPVOTES: 98.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don't need protection against Russia when you are actively trying to allow them to infiltrate.
+----------------------------------------------------------------------------------------------------
+ID: mdzrtu7 # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: All it took was a little scrutiny and the testimony logic falls apart.
+
+Noem: We want the CISA to go back to its original mission and not worry about election interference.
+
+CISA: "Election infrastructure \*IS\* critical infrastructure.
+
+Noem: They need to be smaller and more nimble.
+
+Me: Have you EVER tried to run down events in a security environment? Smaller means you are overwhelmed and unable to respond and have a much better chance of missing a major security incident.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+The government is being run by clowns who are dangerous beyond measure. Let that sink in: Team Trump thinks the CISA is wrong (and the FBI) about needing to protect our elections. That is a fucking foghorn alarm.
+----------------------------------------------------------------------------------------------------
+ID: mdx4pf1 # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not possible to upvote this enough
+----------------------------------------------------------------------------------------------------
+ID: mdzdval # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We had to drop all research into Russian a Chinese state actors without explanation.
+----------------------------------------------------------------------------------------------------
+ID: mdxevx6 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: And, if you recall... Trump actually created it during his first term. 
+
+Yeah, I forgot, too.
+----------------------------------------------------------------------------------------------------
+ID: mdxng38 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Everything they do is weird
+----------------------------------------------------------------------------------------------------
+ID: mdz6640 # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As a career cyber security professional and ex-federal employee, CISA is actually not that important. There's actually a lot of dislike for CISA, in both the private and public sector, because they don't really do a whole lot, they are too slow to do much of anything, they provide little incentive for industry to actually change, and there are other government agencies that handle parts of CISA's mission better than CISA ever could. I don't really want to argue against any funding or attention for cyber security (because we need all of it), but CISA can probably go. I've never met another industry professional with anything good to say about CISA.
+
+Also, for the sake of this thread - OP isn't going to find anyone actively working at CISA, that's also directly involved with this doge team, that's going to be willing to risk whatever chances at a career they may still have with the government.
+----------------------------------------------------------------------------------------------------
+ID: mdwrr1y # OF UPVOTES: 29.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Send them his way!
+----------------------------------------------------------------------------------------------------
+ID: mdx4v0h # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good news, no need to go into fedramp any more…. /s
+----------------------------------------------------------------------------------------------------
+ID: me131v2 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Isn’t it funny that Trump 1 created CISA?
+----------------------------------------------------------------------------------------------------
+ID: mdx30fx # OF UPVOTES: -20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdvvptg # OF UPVOTES: 40.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What? I know what SIPRNET is and who big balls is but unsure what this sentence is saying
+----------------------------------------------------------------------------------------------------
+ID: mdx9kak # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [
+Trump’s workforce blitz comes for CISA
+](https://www.politico.com/newsletters/weekly-cybersecurity/2025/02/18/trumps-workforce-blitz-comes-for-cisa-00204634)
+----------------------------------------------------------------------------------------------------
+ID: mdwu4t0 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m waiting to hear news. Have yet to hear anything. I think that’s why the reporter is here too lol
+----------------------------------------------------------------------------------------------------
+ID: mdxxnaa # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Here's a cybersecurity story for you. Elon launches a 240 satellite star link array on a private network and uses it to communicate with triplite products to send signals to voting machines. Trump says "don't worry we got the votes". Twice Elon's kid says something to the effect that Trump is not the president. Maybe Biden knew they were planning it and gave the evidence to NATO who is waiting for the right time to sanction Musk for foreign election interference. Fiction? Maybe.
+----------------------------------------------------------------------------------------------------
+ID: mdxoaci # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This non partisan non profit organization has been investigating and analyzing the election results and it's so alarming their findings, basically it's very unlikely that the election wasn't manipulated. For more details visit [Smart Elections US](http://smartelections.us)
+----------------------------------------------------------------------------------------------------
+ID: mdxnyw4 # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bump
+----------------------------------------------------------------------------------------------------
+ID: mdwzmge # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fingers crossed, but I don’t think crimes have consequences anymore. For certain people.
+----------------------------------------------------------------------------------------------------
+ID: me9a1xc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: (☞ﾟヮﾟ)☞ ☜(ﾟヮﾟ☜)
+----------------------------------------------------------------------------------------------------
+ID: mdzpvbz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: my man, i think you got it backwards. the current administration seems to be happy to leak out personal data what with melon and doge.
+----------------------------------------------------------------------------------------------------
+ID: me0uo9m # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can you tell the court where hunter bidens laptop touched you? Was it your no no place?
+----------------------------------------------------------------------------------------------------
+ID: mdw217x # OF UPVOTES: 58.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: non-cybersec people be like:
+----------------------------------------------------------------------------------------------------
+ID: mdvwpas # OF UPVOTES: 64.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Genuinely curious - what is your experience in the field of cybersecurity and what knowledge do you have of CISA and their work?
+----------------------------------------------------------------------------------------------------
+ID: mdwm815 # OF UPVOTES: 46.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You clearly know nothing about CISA. Go back to r/Conservative.
+----------------------------------------------------------------------------------------------------
+ID: mdvw0gk # OF UPVOTES: 58.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you seriously believe these agencies are never audited?
+
+The level of naive and gullible recently is mind-blowing.
+----------------------------------------------------------------------------------------------------
+ID: mdvy8ac # OF UPVOTES: 80.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you know what happens when a threat actor is permitted to circumvent controls put in place to protect sensitive assets and information?  There are an immense amount of audits that occur in the security space to help ensure that never happens because the consequences could be extremely dire. 
+
+You clearly have no idea what goes on in this space.
+
+Take your misinformation and propaganda elsewhere.
+----------------------------------------------------------------------------------------------------
+ID: mdvvtit # OF UPVOTES: 64.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What DOGE is doing isn't an audit, it's a breach.
+----------------------------------------------------------------------------------------------------
+ID: mdwplih # OF UPVOTES: 19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ok n00b
+----------------------------------------------------------------------------------------------------
+ID: mdwqdcb # OF UPVOTES: 21.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not sure you understand the difference between an audit and a "walking in on day one with zero understanding and just firing people without cause". Typically audits take a significant amount of time and firings/layoffs would come after. What is being done is extremely reckless.
+----------------------------------------------------------------------------------------------------
+ID: mdxk7nt # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Tell me you have no idea what the Office of the Inspector General does without telling me you have no idea.  
+
+https://www.oig.dhs.gov/taxonomy/term/2632
+
+https://www.dodig.mil/reports.html/Article/3250889/project-announcement-audit-of-dods-implementation-of-the-cybersecurity-informat/
+
+https://fedscoop.com/cisa-threat-information-sharing-dhs-oig-report/
+
+
+Who were some of the first people Trump fired when he took office?
+https://apnews.com/article/trump-inspectors-general-fired-congress-unlawful-4e8bc57e132c3f9a7f1c2a3754359993
+----------------------------------------------------------------------------------------------------
+ID: mdwod2z # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISA  goes through more audits than any other agency. Im not with these TDS champagne socialists pretending that they are helping the world by parrotting their own partisan bullshit, but where the fuck did you get your information from and why the fuck did you not verify your sources?
+----------------------------------------------------------------------------------------------------
+ID: mdwtift # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdyylyr # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The last front page post of cyber sec was about Russian hacking signal accounts. 
+
+And now "contact me via signal"
+----------------------------------------------------------------------------------------------------
+ID: mdxcr6i # OF UPVOTES: 47.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Seriously. How is this not going to send the country in to a depression?
+----------------------------------------------------------------------------------------------------
+ID: me2zuew # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fully agree. The constant, "it's over" comments has been taking a toll on people. I've been focusing on helping people. I'm thankful that my depression hasn't made a peep since. Too many federal workers are reaching "that point" and losing value in their lives. We need to be there for them until they can have a moment to breathe and think, even if it's just being a listening ear. All we have left is hope and each other. That's two things we can assist with for free.
+----------------------------------------------------------------------------------------------------
+ID: me5mfxq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Godspeed
+----------------------------------------------------------------------------------------------------
+ID: me3vwi3 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I feel for them. All of them know they could make 40-50% more in the private sector. They say it at every conference, but they \*don't\* because they want their work to mean something more than increasing shareholder value and have stable employment. Private sector implodes all the time. 
+
+If you ask folks at CISA they'll all readily admit they their role is that of an atomic cog in a massive machine, but that's enough for them because its making the world microscopically better at least. They're taking a measurable, serious hit just to do the right thing and work public sector. They don't deserve any of this.
+----------------------------------------------------------------------------------------------------
+ID: mdwqcte # OF UPVOTES: 40.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good call
+----------------------------------------------------------------------------------------------------
+ID: mdwqefh # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdz9eld # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: in
+----------------------------------------------------------------------------------------------------
+ID: mdxu6tf # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISA is a part of DHS
+----------------------------------------------------------------------------------------------------
+ID: mdxa0oo # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good bot
+----------------------------------------------------------------------------------------------------
+ID: mdyllbh # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The infiltration already happened. That’s old news.
+----------------------------------------------------------------------------------------------------
+ID: me000ga # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: “What we mean is, we don’t want anyone looking at election security.” Nothing to see here. Look away!
+----------------------------------------------------------------------------------------------------
+ID: me0skda # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Noems too busy killing puppies to ever have a rational thought
+----------------------------------------------------------------------------------------------------
+ID: mdxy8xn # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That was just the realignment and introduction as an autonomous agency directly under DHS rather than operating as a special program within DHS.
+
+The mission had been (and still is) going on for a decade or so before. It was just a naming and reorg. Within, not much changed when it became an agency but it has seen a massive amount of growth since.
+
+I wish more folks could know and understand what we do. We have entire organizations within that are outward facing, we have incident response teams that go out to any location (both public and private) upon request, we maintain CDM for the federal government, we perform on-site and remote vulnerability assessments, perform cyber hygeine activities, publish and maintain the KEV (Known Exploited Vulnerabilities), host Science and Technology division where post-docs create extremely high quality tools and conduct amazing RDT&E, and we have very close partnerships with the national laboratories who really lead the charge on cutting edge, highly practical, long-term supported capabilities that you can't just buy right off the shelf.
+
+I can't say enough about CISA. It's the only organization I've worked for where I've seen so many highly talented, technical, and ambitious folks leave for better offers in the private sector and then COME RIGHT BACK! That's the kind of culture you want and we are watching it die slowly, by attrition, because an egotistical, narcissistic snake oil salesman, incapable of a single original thought, and his paid-for sit-in president whose blind stupidity is second only to his absolute incompetence, illegally dismantle strategic areas of our government knowing full well the damage they are causing and that nobody will stop them. Anyone in a position to actually oppose them are just the same as those perpetuating all of this--they are the richest and when you become one of them, nothing else matters but more money and more power. To challenge that is to risk your place in that elite circle; to challenge that is to risk losing what is most important to you--your net worth.
+
+I know this is pessimistic but nobody from that group (regardless of party affiliation) will do what is right and stand up to it. It will come from those whose power and authority isn't derived from an aristocratic lineage or the amount of shares you have in any number of mega corporations. With those people, the corruption of wealth hasn't eroded any sense of integrity or morality. They will do it because they swore an oath and believed in something more than crass materialism and bloated wealth and those are concepts that are undeniably alien to those corporate shills. For them, money can be lost but they don't realize that their bankruptcy is in morality, not financial gain.
+----------------------------------------------------------------------------------------------------
+ID: mdxlwlq # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: And now he’s like FRAUD.
+----------------------------------------------------------------------------------------------------
+ID: mdzzltc # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You make some good points. I think of it like a fledgling NIST. Doing a pretty good job of setting basic security standards in a digestible way for industry. Also having a centralized entity increases effectiveness. 
+
+I guess it’s more about the signaling of priorities to the world. “Hey everyone, we don’t care about cyber security, look at us very publicly defund and strip the very entities we built to protect us”
+
+Also, it was starting to get legs!
+----------------------------------------------------------------------------------------------------
+ID: me0t37l # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah this is something my org is discussing internally as well as whether we should continue sharing data with the feds
+----------------------------------------------------------------------------------------------------
+ID: mdx6kbr # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It might be easier for you to go to cisa’s website and read about what they’ve done. Then come back and say why each one is not of value to the cybersecurity or critical infrastructure space.
+
+Let’s start with the 5 most recent ones.
+----------------------------------------------------------------------------------------------------
+ID: mdwm5h4 # OF UPVOTES: 17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's not English 
+----------------------------------------------------------------------------------------------------
+ID: mdwlypp # OF UPVOTES: 23.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah it’s confusing what he’s trying to say. Maybe that they are hosting sipr on foreign servers?
+----------------------------------------------------------------------------------------------------
+ID: mdwwywj # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://www.newsweek.com/doge-list-staff-revealed-2029965
+----------------------------------------------------------------------------------------------------
+ID: mdwx3nb # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: u/LowWhiff google Edward Coristine…
+----------------------------------------------------------------------------------------------------
+ID: mdxyfro # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [https://www.reddit.com/r/Whistleblowers/comments/1iuh20b/fbi\_director\_kash\_patel\_calls\_for\_offensive/](https://www.reddit.com/r/Whistleblowers/comments/1iuh20b/fbi_director_kash_patel_calls_for_offensive/)
+----------------------------------------------------------------------------------------------------
+ID: me0eek4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Never have
+----------------------------------------------------------------------------------------------------
+ID: mdw27ya # OF UPVOTES: 60.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That user has "I'm probably smarter than you." in their reddit profile bio
+
+its for sure a low IQ troll and someone who eats up the Trumpropaganda and knows absolutely nothing about cybersec
+----------------------------------------------------------------------------------------------------
+ID: mdwnxp0 # OF UPVOTES: 18.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This was LITERALLY a conversation that I had a couple days ago over a beer with another CISSP.
+----------------------------------------------------------------------------------------------------
+ID: mdzv6uc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your comment was removed due to breaking our civility rules. If you disagree with something that someone has said, attack the argument, never the person. 
+
+If you ever feel that someone is being uncivil towards you, report their comment and move on.
+----------------------------------------------------------------------------------------------------
+ID: mdy6dr3 # OF UPVOTES: 21.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The tariffs too. I think that would have caused a depression too quickly, before the other plans get put in place. 
+
+Oh also, trying to deport millions of people.
+
+And abandoning defense spending around the world.
+
+Even military industrial complex stocks are starting to drop.
+
+Consumer protections are gone.
+
+The White House has control over the SEC.
+
+It seems pretty obvious that things are going to get real bad. Sending the country into a depression is literally their goal.
+----------------------------------------------------------------------------------------------------
+ID: mdxeun4 # OF UPVOTES: 30.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No one who is doing any of this is at all concerned about widespread depression
+----------------------------------------------------------------------------------------------------
+ID: mdym6ab # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That is their intention
+----------------------------------------------------------------------------------------------------
+ID: mdztwq6 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That's the neat part. It is. 
+
+Then the rich people can buy all the housing and business and everything for pennies on the dollar.
+----------------------------------------------------------------------------------------------------
+ID: mdxn786 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I already struggle with MDD and this hostile takeover of fascism is really making it hard for me to get any positive momentum in my life. I'm hoping that I will still have insurance but it's looking pretty bleak. Reddit is so helpful sometimes and sometimes it makes things worse lol
+----------------------------------------------------------------------------------------------------
+ID: mdwrv72 # OF UPVOTES: 27.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: mdzx6st # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: grind
+----------------------------------------------------------------------------------------------------
+ID: mdy0czp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Is CISA the same unit as the cybersecurity unit that was in DHS prior to the formation of CISA in 2018?  
+----------------------------------------------------------------------------------------------------
+ID: mdy1bbg # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Alright so it appears the National Protection and Programs Directorate (NPPD) was the og cybersecurity before CISA circa 2018. 
+----------------------------------------------------------------------------------------------------
+ID: mdz27yg # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'll just leave this here: https://cyberintel.substack.com/p/doge-exposes-once-secret-government
+----------------------------------------------------------------------------------------------------
+ID: me0vb7a # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Couldn’t agree more, Russia and PRC got in a long time ago
+----------------------------------------------------------------------------------------------------
+ID: me5u1lq # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don’t forget her facelift, or whatever happened there. That took time.
+
+FYI I normally don’t make fun of people’s appearances but her boss opens that door regularly. So fuck them both.
+----------------------------------------------------------------------------------------------------
+ID: me0sg7j # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you. CISA has grown tremendously and it's awful watching trumps hackman begin gutting it
+----------------------------------------------------------------------------------------------------
+ID: me0g9i8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well, I don't know if we can compare it to NIST in this way, because NIST actually has created a lot of useful cyber security guidelines and standards, that everyone uses and generally agrees upon. I think NIST is probably an example of one of the many established organizations and efforts preventing CISA from ever achieving anything meaningful. Like, NIST has already built out the National Vulnerability Database, the standards for scoring vulnerabilities, guides for conducting risk assessments, the general NIST Cybersecurity Framework, various other security related frameworks, they report on trends, publish papers, and both the private and public sectors have already accepted NIST's work as standard practice - there isn't room for a second standard; there can be only one standard. 
+
+CISA's mission to "manage cyber and physical risk" is also overshadowed by the NSA, which has the dual mission of collecting foreign intelligence and securing critical federal infrastructure. CISA isn't as postured to actually report on the active threats we face as any of the other parts of the Intelligence Community - CISA might be a good place to disseminate intelligence on these actors, though it would also just be secondhand intelligence from other parts of the IC, that are more capable of coordinating and releasing said information to a much larger audience. These agencies also come up with all of the technical standards and implementations based on the field research they do and fund
+
+Without having much of a daily, active role in security, I don't know how CISA could really be relevant or grow into relevancy, as they have struggled to do.
+----------------------------------------------------------------------------------------------------
+ID: mdxh9g3 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Maybe that they are hosting sipr in foreign servers?
+
+This sentence doesn't make sense
+----------------------------------------------------------------------------------------------------
+ID: mdwrcug # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bingo
+----------------------------------------------------------------------------------------------------
+ID: mdxnppo # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Propublica has an ongoing article about Doge staff etc too
+----------------------------------------------------------------------------------------------------
+ID: me07nac # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [https://www.msn.com/en-us/news/politics/cowardice-gop-faces-backlash-after-report-suggests-death-threat-may-have-swayed-vote/ar-AA1zsuoq?ocid=winp2fptaskbar&cvid=b94f5c282a1649e4b63a679942be7f5e&ei=14](https://www.msn.com/en-us/news/politics/cowardice-gop-faces-backlash-after-report-suggests-death-threat-may-have-swayed-vote/ar-AA1zsuoq?ocid=winp2fptaskbar&cvid=b94f5c282a1649e4b63a679942be7f5e&ei=14)
+----------------------------------------------------------------------------------------------------
+ID: me2ilul # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The oligarchs just view a depression as a buying opportunity
+----------------------------------------------------------------------------------------------------
+ID: me243uz # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not just this country, and not just emotional depression, but a global recession and possibly a global economic depression is a distinct possibility.
+
+At the Munich Security Conference,  VP Vance lecturing global senior democratic leadership was met with audience responses range from incredulous snorts to shocked bursts of laughter to his naieve rhetoric.
+
+Trump openly sucking up to our very worst enemy is the stuff of nightmares, with Dogeboy ransacking Federal legal, Intel and CyberSecurity communities.
+----------------------------------------------------------------------------------------------------
+ID: mdxlfwl # OF UPVOTES: 23.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think the comment above was referring to economic depression, but yeah the administrations stated goal was trauma to the workforce so we will get a 2 for 1 deal D0GE style
+----------------------------------------------------------------------------------------------------
+ID: me0s2ul # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yup, exactly. Once people start going broke and their properties get foreclosed, rich fucks are gonna swoop in for the scraps
+----------------------------------------------------------------------------------------------------
+ID: mdwtyp7 # OF UPVOTES: 21.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ditto
+----------------------------------------------------------------------------------------------------
+ID: me0ruw8 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, CISA was also US Cert. It's an amalgamation of prior cybersec entities and has drastically improved and expanded upon its original capabilities over the years. Reducing CISA in any capacity severely impacts national security
+----------------------------------------------------------------------------------------------------
+ID: me0ssc8 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Trump also fired hundreds at NIST
+----------------------------------------------------------------------------------------------------
+ID: me7ak2d # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Right. Hence the words fledgling. NIST is my whole job and my favorite, especially RMF. I’m more talking about the public perception and real life gutting of cybersecurity agencies across the board.
+----------------------------------------------------------------------------------------------------
+ID: mdza9we # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cool contribution. Why don’t you tell me what he’s trying to say?
+----------------------------------------------------------------------------------------------------
+ID: mdx04w4 # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Tritto
+----------------------------------------------------------------------------------------------------
+ID: mdxlqu7 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dotti?
+----------------------------------------------------------------------------------------------------
+ID: mdzjjww # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have no idea but SIPR isn't a thing you host on a server
+----------------------------------------------------------------------------------------------------
+ID: mdx2dlp # OF UPVOTES: 19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Quatro?
+----------------------------------------------------------------------------------------------------
+ID: mdx2j66 # OF UPVOTES: 21.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cinco
+----------------------------------------------------------------------------------------------------
+ID: mdx4sf9 # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: New products from Cinco
+----------------------------------------------------------------------------------------------------
+ID: mdxd0ge # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: De Mayo
+----------------------------------------------------------------------------------------------------
+ID: mdx74s9 # OF UPVOTES: 18.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wacky waving arm inflatable tube man
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+POST ID: 1ccqum5 / POST TITLE: What are the emerging challenges and strategies in protecting Internet of Things (IoT) devices from cyber threats?
+====================================================================================================
+ Protecting IoT devices involves addressing challenges like diverse ecosystems, limited resources, and data privacy concerns. Strategies include implementing security by design, efficient patch management, and network segmentation. Additionally, collaborative defense efforts and continuous monitoring are essential for detecting and responding to evolving cyber threats in IoT ecosystems.  i would like take this ans but i have small caonfusion btn .
+
+POST COMMENTS:
+====================================================================================================
+ID: l17iq41 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The #1 emerging challenge I find is a three four problem
+
+  1.) Manufactures seem to think that everything needs to be \*smart\*, I am not sure if this is a consumer demand, or an effort to generate one, The amount of seemingly innocuous devices flooding the market all promising some better experience through app driven and internet connected features, is appalling. It is simply an unneeded risk, yet they abound.
+
+  2.) That above need leads to a massive influx of cheaply designed, and cheaply purchased components (How else do you sell a light bulb with a computer in it if the internals are anything short of rapid produced as cheaply as possible?) Since to focus in on feature not security, these systems are common in many devices and your smart light  bulb may contain the same components as your smart coffee maker. All boiling down to the fact you will never know how many components are shared, and when a vulnerability is found how many products it really affects.
+
+  3.) The control systems for these mean further compromise of higher level devices such as computers and mobile devices through an implied trust, "I just bought this, its maker's app must be safe" this present another more critical potential intrusion into networks that are just as insidious, and have more potential for damage than the devices themselves. Example: I purchased this sweet color changing light bulb for my bedroom, and installed their control app. It was so easy, I just gave it permissions to location (required to scan the network), access to Bluetooth (for initial config), camera (so I could scan the \*special\* QR codes on the card that came with it  for set instruction), and Mic (because this light bulb is cool, I can have two way conversations through it with someone in my bedroom!), and the all important \*cloud\* (Because I ***NEED*** to be able to adjust the lightning in my bedroom at home from anywhere) ...then they bring THAT device inside your perimeter and your BYOD policy just received a NEW threat not even the device itself... 
+
+   4.) all of this is being ingrained into our culture to the point of it being as common as air, this is happening many times more often that it is even suspected, much less known. This is the largest problem, you are fighting an enemy  you cannot see. 
+
+It has personally caused me to rethink my BYOD policy and access to business systems by ANY device I do not fully administrator and control, any BYOD, no guest WIFI, no anything. And the part about that that sucks is just having those device in the building STILL represent a threat!
+
+So what do you do about it? Expect the threats are there, no matter what you do and how well you do it, expect the threats are there.
+
+My $0.02
+----------------------------------------------------------------------------------------------------

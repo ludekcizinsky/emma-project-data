@@ -1,0 +1,39 @@
+POST ID: 1ivkgtl / POST TITLE: Help with AI in Threat detections systems
+====================================================================================================
+Hi everyone,
+
+I'm currently writing my bachelor's thesis on the use of AI in threat detection systems. I'd love to hear your insights or any relevant information on this topic.
+
+I'm not sure if this is the right place to ask, so if you have any suggestions for other communities where I could post, I'd really appreciate it.
+
+Also, would it be okay for me to share a questionnaire related to my research here?
+
+Thanks in advance for any advice and input!
+
+POST COMMENTS:
+====================================================================================================
+ID: me69jxj # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Most threat detection systems have used some form of ML/AI for the last decade or so, in things like pattern recognition. LLMs have been introduced to make sifting through mountains of data easier on analysts. 
+
+As for if GenAI somehow magically changed the battle space in the last year or two.....eh. It just added new attack surface vectors that require even more mitigation from a security standpoint, e.g. MITRE'S ATLAS framework and similar. 
+
+Beyond adding far more risk to companies that broadly and aggressive add "AI to all the things," it's not really new, nor has it completely changed how threat detection works (which is often still reliant on fingerprinting, heuristics, and even REGEX rather than "intelligent" threat detection)
+
+  
+Simply put, there's no "intelligence" in AI currently, and it doesn't think.
+----------------------------------------------------------------------------------------------------
+ID: me68a0b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Following.
+----------------------------------------------------------------------------------------------------
+ID: me6t6co # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Lemme tl;dr this for you: "AI" (re: LLMs and GenAI) have not meaningfully changed anything in threat detection, because it cannot do anything better presently than older, proven, and cheaper technologies can.
+----------------------------------------------------------------------------------------------------
+ID: me6ajys # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for answering. 😊
+----------------------------------------------------------------------------------------------------
+ID: me6yk59 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: me6cbk8 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Machine Learning is also more precise than the random shit LLMs regurgitates. There is no place for "maybe" in cybersecurity.
+----------------------------------------------------------------------------------------------------

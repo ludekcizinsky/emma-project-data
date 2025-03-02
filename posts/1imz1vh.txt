@@ -1,0 +1,6 @@
+POST ID: 1imz1vh / POST TITLE: Research Project
+====================================================================================================
+I am doing a research project on extracting forensic data from IoT devices. I just wanted to see if anyone would have suggestions on where to start looking for information? Books or articles? Anything really! Thank you in advance!
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,23 @@
+POST ID: 16hyciw / POST TITLE: Where to find targets for a demonstration in my thesis? M
+====================================================================================================
+Hi everyone, 
+I'm a newbie here ^^ 
+I'm in telecommunication engineering now but i'm a freshman in the cybersecurity field (up to now, i love it !)
+But i'm facing some struggles. I need to write a thesis for finishing my studies and i want to perform a VAPT on a system (preferably a web server or so) by exploiting just one or at most two vulnerabilities just for the sake of proof of concept (POC) 
+
+I've already started to write the book, explaining the basic concepts of cybersec, the current status of cybersecurity in organisations and businesses (their needs, the limits they are facing, classical solutions and then the solution i want to propose for businesses in my country) and then perform a VAPT. 
+
+So, what would you recommend me to do? Where can i get that from? I know about VulnHub but i kinda want to know if there are recommendations or so... 
+The deadline is in the end of this month and i'm really worried about not finishing it in time.
+
+Thank you for your time, and i'm sorry for the long text and my broken english. 
+Regards !
+
+POST COMMENTS:
+====================================================================================================
+ID: k0j7bqv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I bought a cheap wired switch and a box of old Raspberry Pi As for $30 on ebay for my demo needs.
+----------------------------------------------------------------------------------------------------
+ID: k0u32pe # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try using DVWA for web vulnerability testing
+----------------------------------------------------------------------------------------------------

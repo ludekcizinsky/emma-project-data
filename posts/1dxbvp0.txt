@@ -1,0 +1,29 @@
+POST ID: 1dxbvp0 / POST TITLE: Comp Sci Student wanting to work as penetration tester. 
+====================================================================================================
+Hi Ethical Hacking community! 
+
+I am an undergrad comp sci student in Canada. I have experience with 2 internships. One a junior software developer and the other as a research assistant / junior software developer. 
+
+What is the remote job market like for an OSCP holder in the USA? 
+
+Is it common to work remotely in the USA from Canada as a penetration tester ?  
+
+Would I start as a junior penetration tester ? 
+
+What is the pay grade for a junior penetration tester in the US? 
+
+Is the job market good for OSCP in Canada ? 
+
+What is the pay range for a junior penetration tester in Canada realistically?
+
+POST COMMENTS:
+====================================================================================================
+ID: lc1hy1n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.codelivly.com/so-you-want-to-be-a-hacker/
+----------------------------------------------------------------------------------------------------
+ID: lc40fl8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For professionals in the field, what are some primary motives why threat actors hack?
+----------------------------------------------------------------------------------------------------
+ID: lc19cc1 # OF UPVOTES: -2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Google is your friend.
+----------------------------------------------------------------------------------------------------

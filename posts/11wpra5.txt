@@ -1,0 +1,51 @@
+POST ID: 11wpra5 / POST TITLE: Is there a way to see wifi password that you are connected to?
+====================================================================================================
+I just want to see the password to my wifi is there a way to see it using terminal.
+
+POST COMMENTS:
+====================================================================================================
+ID: jcz674s # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it is easy on windows. Not sure on kali
+----------------------------------------------------------------------------------------------------
+ID: jd336re # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1) cd /etc/NetworkManager/system-connections/
+
+2) sudo cat <connection>
+----------------------------------------------------------------------------------------------------
+ID: jd017p5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: On Windows command line: netsh wlan show profile "wifi name" key=clear
+
+If you type: "netsh wlan show profiles" you will see all networks you have previously connected to.
+----------------------------------------------------------------------------------------------------
+ID: jcz9ilz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you are using KDE desktop environment then easily by just clicking the wifi or ethernet icon -> Configure/Options/Settings symbol -> Wifi security
+----------------------------------------------------------------------------------------------------
+ID: jd6uall # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Okay straight to the point. But what if I don't have the password just access to the computer. Trying to get wifi at my work since barely any signal
+----------------------------------------------------------------------------------------------------
+ID: jd8t15p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is it possible to erase that information from windows machines? From a opsec perspective this may be vulnerable information if the machine gets compromised
+----------------------------------------------------------------------------------------------------
+ID: jd729q1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you mean that you want to crack the wifi password? Did not understand the question.
+----------------------------------------------------------------------------------------------------
+ID: jd81vs0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When I did the command ask for my computer password but what if I don't know it I mean, the sudo command. I am trying the crack my jobs Wifi password I don't know their password to the computer either.
+----------------------------------------------------------------------------------------------------
+ID: jd8qjb9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ohh.. maybe this then: Open System Settings. Under Network, click on Connections. Click on the WiFi connection name and go to the WiFi security tab. Click on the small eye icon to find out the saved password.
+
+Someone else has mentioned it before..don't you have access to the GUI?
+
+If you have nmcli installed you can try:
+
+1) nmcli -g <NAME> connection show
+2) choose the name.of.your.wifi
+3) nmcli -s -g 802-11-wireless-security.psk connection show <NAME>
+----------------------------------------------------------------------------------------------------
+ID: jd933dr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I do but I like using command line. And it's not my computer. It's my jobs computer. We don't get access to the wifi so I'm trying to get access myself.
+----------------------------------------------------------------------------------------------------
+ID: jd93kpb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh okay
+----------------------------------------------------------------------------------------------------

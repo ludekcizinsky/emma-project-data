@@ -1,0 +1,36 @@
+POST ID: 14dkajp / POST TITLE: "Hacking" car key signal - is it that easy and how is it done?
+====================================================================================================
+Hi, first of all I am a beginner in this thread, but the more I read the more I worry how literally everything could be hacked. My car, not brand new, but has a feature that allow me to open it via a button in the door without actually pressing anything on the car key. That means that the key is always in "stand-by" and transmits some kind of signal that the car wants in order to open itself (and to start the engine). Therefore, it could be very easy for someone close enough to me (having the key) to detect that signal and to represent it artificially in order to unlock the car and so on.. 
+
+My question - this should be possible, but is it that easy? And, if yes, how is this exactly done? And should I turn off (if I can) this option? Let's start a discussion. Best Regards
+
+POST COMMENTS:
+====================================================================================================
+ID: joqqcsy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >Therefore, it could be very easy for someone close enough to me (having the key) to detect that signal and to represent it artificially in order to unlock the car and so on..
+
+"Close enough" as in, to accurately clone your key and not someone else's nearby on accident, they would need to have your keys in their hand in order to copy the signal.  You can test this out yourself: Have a family member stand at the door to your car pressing the door handle button to unlock the car while you slowly walk to your car from a good starting distance.  You need to be fairly close for it to work.
+
+Depending on your car, you may just have an option in the control panel accessible via a touch display in the center console, or on your steering wheel, to just turn off one button unlocking.
+
+On my Kia I just navigate through my in-dash options to turn it off.
+
+Note: The chances of something like this happening to you are so incredibly low.  You could take precautions like a faraday cage for your key fob, but unless you have a physical key as well, that means you'll be taking it out of the case every time you need to unlock or start your car.  Just keep your keys in your pocket when you're out and about, and don't use valet services, and you'll be fine.
+----------------------------------------------------------------------------------------------------
+ID: joqh64r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is the context of needing to know this?
+----------------------------------------------------------------------------------------------------
+ID: joqhiz3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: worrying if my car is vulnerable for stealing and if yes, trying to do my best to prevent it
+----------------------------------------------------------------------------------------------------
+ID: joqit9g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As far as rule 2 goes for the subreddit, I won't go into detail concerning the potential methods available to bypass the security features for your car. However, if you are genuinely curious on how the security between a key fab and car works, I'd encourage you to look into the encryption/decryption methods used. It's pretty cool stuff.
+----------------------------------------------------------------------------------------------------
+ID: joqljno # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: We use a Faraday cage key fob to protect against this. 
+
+There was an interesting BBC Click episode about this.
+----------------------------------------------------------------------------------------------------
+ID: joqk5hh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok, thank you!
+----------------------------------------------------------------------------------------------------

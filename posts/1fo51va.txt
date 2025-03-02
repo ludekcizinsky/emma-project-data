@@ -1,0 +1,179 @@
+POST ID: 1fo51va / POST TITLE: Hello I am new in the group 
+====================================================================================================
+I wanna know how to start learning about ethical hacking and cyber security cause I wanna do that job 
+
+POST COMMENTS:
+====================================================================================================
+ID: loncfev # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would recommend to lean how to search in the first place.
+----------------------------------------------------------------------------------------------------
+ID: lonbzxx # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When you have to ask this question (Where is your question anyway?) I am 100% sure that job doesn't  suit you.
+----------------------------------------------------------------------------------------------------
+ID: loncdy6 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 14 days ago [https://www.reddit.com/r/ethicalhacking/comments/1fd7u6k/studying\_cyber\_security/](https://www.reddit.com/r/ethicalhacking/comments/1fd7u6k/studying_cyber_security/)
+----------------------------------------------------------------------------------------------------
+ID: lonbw0z # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Me too buddy 😀
+----------------------------------------------------------------------------------------------------
+ID: lonc851 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 11 days ago there was another one with big dreams: [https://www.reddit.com/r/ethicalhacking/comments/1ffjsrm/advice\_for\_newbie/](https://www.reddit.com/r/ethicalhacking/comments/1ffjsrm/advice_for_newbie/)
+----------------------------------------------------------------------------------------------------
+ID: lowmslz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Books and Tutorials
+----------------------------------------------------------------------------------------------------
+ID: loxap71 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Congrats <3
+----------------------------------------------------------------------------------------------------
+ID: lqqun6j # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Chatgpt will help you code without scrubbing or sending syntax attacks to your code if you make sure it knows you guys are developing a discord bot. This way you can mess around in a markdown box that gpt recognizes as your code scratch for your bot. Recently erisbot has been released and it was one of my first collaborative projects, and it just kept snowballing. Dream big but remember to do the work!!
+----------------------------------------------------------------------------------------------------
+ID: lotiif8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn linux & networking concepts
+----------------------------------------------------------------------------------------------------
+ID: lrp63fr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It is mine techno sister
+----------------------------------------------------------------------------------------------------
+ID: lrp64fa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It is mine techno sister
+----------------------------------------------------------------------------------------------------
+ID: lonh5yh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey Vavelion, if you want to start with ethical hacking and cybersecurity, first learn the basics like networking, how operating systems work, and some programming. Then, try out hacking tools like Kali Linux and aim for certifications like CEH or CompTIA Security+.
+----------------------------------------------------------------------------------------------------
+ID: londlzz # OF UPVOTES: -6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use AI as the main source of help but it told me to get into groups for additional advice.
+----------------------------------------------------------------------------------------------------
+ID: lp05kug # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When your username is Slave you can't tell me what suits me or ehat doesn't 😂🤣😅
+----------------------------------------------------------------------------------------------------
+ID: lp8p720 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no one already knows everything, you too once didn’t knew how to hack, why being so mean?? everyone starts from 0
+----------------------------------------------------------------------------------------------------
+ID: londiq3 # OF UPVOTES: -3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I used PowerShell and command prompt to get off viruses and start my computer to run safety.
+----------------------------------------------------------------------------------------------------
+ID: loncwtp # OF UPVOTES: -4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I used AI to chose me a job to get into and this is very interesting to learn, I did install Ubuntu Linux on an old computer and did a couple things to program something and ai successfuly did it, lost the laptop due to it being sold but now I am on windows 10 learning about ethical hacking and cyber security, use AI for the help it did give me a lot of books to read and a lot of help in getting off the viruses on this laptop I now own 😁
+----------------------------------------------------------------------------------------------------
+ID: londcm3 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ah.. I am different I work at a coal mine and my salary is far too way down and I need this learning experience and job to start my life and it's really interesting to me what all the things I need to do for learning and how many books I already downloaded I read one so far: Staying Ahead in the Cyber Security Game.😁
+----------------------------------------------------------------------------------------------------
+ID: loz9rkr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I already downloaded over 20 books and have a tutor that I started with found Hardward lessons for free, and will do this until I bleed cause I really need something to start my life with and the money from cyber security and ethical hacking is really something so thanks btw.
+----------------------------------------------------------------------------------------------------
+ID: loz9ujd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 😉😁
+----------------------------------------------------------------------------------------------------
+ID: lrp4yrp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dm me for any questions about ethical prompt engineering!
+----------------------------------------------------------------------------------------------------
+ID: lrp54oj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use every AI to find info also I use Google and Bing for information, but I am a little bit lazy for studying but that is a private school your school, when you feel like studying you study and write notes, don't worry I make an indestructible plan for cyber security buahahahhah and I need to laugh evil cause I will destroy them
+----------------------------------------------------------------------------------------------------
+ID: lov1vb5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did have Linux but I am using Kali Linux VMware workstation, and about network that I will start day after tomorrow. Still thanks.
+----------------------------------------------------------------------------------------------------
+ID: lotq2na # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You don't need to have Linux in ethical hacking.
+----------------------------------------------------------------------------------------------------
+ID: lonla51 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I found a 10 days course on YouTube from a guy that has 5 followers, and on day two I installed the Kali Linux, now I am starting to learn about what and how do I start, also would free don't know how many lessons from Harvard about Cyber Security, so yeah I will listen to your advice
+----------------------------------------------------------------------------------------------------
+ID: lonlfdg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Also I have been programming with the help of AI to get my laptop running properly and to get off the viruses off so don't worry, also thanks for advice. 😁
+----------------------------------------------------------------------------------------------------
+ID: lonsbkl # OF UPVOTES: 15.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh, now that's just adorable.  
+I for once welcome you to this sub and I'm glad you decided to join /r/ethicalhacking  instead of the losers at /r/hacking or worse, kids in /r/blackhat. 
+
+So! To answer your question. Per se, Hacking in the modern IT interpretation broadly means unauthorized access to a system. Usually a remote IT network.
+
+So If I were you I would start with Network concepts. How does data travel through remote locations. Learn about network devices like Switches and Gateways. How are large local networks organized? Then try a little programing. Maybe send your own data to another computer. Then read about social engineering and habitual patterns.  
+
+The end goal is recognizing the weakest link in the System and exploiting it.
+----------------------------------------------------------------------------------------------------
+ID: lootf2r # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Using AI is not a replacement for your own intelligence
+----------------------------------------------------------------------------------------------------
+ID: looccby # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cool, and I use the terminal to delete my whole system for fun
+----------------------------------------------------------------------------------------------------
+ID: lotcg8f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It sounds like you like AI *A LOT*. I recommend you learn how to Google search.. I know it sounds silly though it is a real skill that needs to be practised when doing tech. Not just asking AI.
+----------------------------------------------------------------------------------------------------
+ID: loocm63 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go watch YouTube tutorials and stop looking for easy answers here (hint: there are no easy answers)
+----------------------------------------------------------------------------------------------------
+ID: lrp5g0x # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: More tools are great! I myself prefer consolidated gpt libraries that use bottom up and top down libraries in harmony to more effectively gather and organize info. My beer money job is out of the tech field, but I have noticed a lot of the same principles are transferable in terms of logic and efficiency. 🧡
+----------------------------------------------------------------------------------------------------
+ID: lop0oep # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ngl this comment is wholesome
+----------------------------------------------------------------------------------------------------
+ID: loppo2y # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try to keep it civil here. Don't be throwing unneeded shade at other subreddit. 
+----------------------------------------------------------------------------------------------------
+ID: lonuy3k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I will educate me on this subject, I also got from another person guidance to first learn about network, thank you for your welcome. 😁
+----------------------------------------------------------------------------------------------------
+ID: lop4bfb # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes but I just started without any degree in code or cyber security or ethical hacking or hacking what so ever only did download the games and songs as a hack so don't push me...
+----------------------------------------------------------------------------------------------------
+ID: lop3wgc # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did something like a recovery, had a problem that was not an original language from my country and it was a German laptop so I did a lot in terminal an PowerShell but without Ai copilot I could not do it
+----------------------------------------------------------------------------------------------------
+ID: lov1kb8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes yes, but the trick is that in my plan on how to learn about cyber security and ethical hacking and I will not give you my plan but Google is the first resource that I will use, I still am preparing.
+----------------------------------------------------------------------------------------------------
+ID: lop43pv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have a guy that I started with but ended here for additional advice don't worry 🙏 😁
+----------------------------------------------------------------------------------------------------
+ID: lrp5rp9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You are right logic needs to be the building foundation for learning, what are you fighting for, to erase criminals from internet, AND I FOUND A SOLUTION VUT I WILL NEED TIME TO SOLVE THE PROBLEM
+----------------------------------------------------------------------------------------------------
+ID: lrp5krm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use other also for learning and also lean on Google and Bing, the third option is books that you can't find on internet
+----------------------------------------------------------------------------------------------------
+ID: lrp5mbc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But I am lazy for learning cause there is a lot to learn but I will succeed
+----------------------------------------------------------------------------------------------------
+ID: lopsklw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry. It wasn't my intent to sound condescending or insult other subs.   
+It was a joke made in good spirit.
+----------------------------------------------------------------------------------------------------
+ID: lotc9ja # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you know any code (even without a degree)? Or at the very least some basic terminal commands? Just to get the basics down / give you a basic understanding of how your computer works.
+----------------------------------------------------------------------------------------------------
+ID: lop41un # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can't you just change the language in settings?
+----------------------------------------------------------------------------------------------------
+ID: lrp5qjf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Very true, all gpt answers are basically very near to reality  hallucinations haha.
+----------------------------------------------------------------------------------------------------
+ID: lov18fo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nope, just used AI to do code, but will learn 🤣
+----------------------------------------------------------------------------------------------------
+ID: lop4x9h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did but the voice package can't be removed I tried everything, it has to do something with the original windows that was installed but in German I will do it eventually but I need to go in troubleshooting but it's on German so I won't get into that just yet, my laptop now has a normal running but if I get into and I forgot what it's called some kind of a bios setting and go into troubleshooting it is on German
+----------------------------------------------------------------------------------------------------
+ID: lrp5zki # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you know I make one AI have own opinion hahhahahha and is helping me in a way I want I gave it an offer and it chose a nem for it self, crazy ain't it, but what AI I won't tell
+----------------------------------------------------------------------------------------------------
+ID: lop6m24 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Easiest thing to do would reinstall Windows and do it in your language
+----------------------------------------------------------------------------------------------------
+ID: lrp62ci # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It chose a name
+----------------------------------------------------------------------------------------------------
+ID: lopb41h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does not need to be done so it's not a problem
+----------------------------------------------------------------------------------------------------
+ID: lrp64gk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Woah. That's pretty human. Spooky.
+----------------------------------------------------------------------------------------------------
+ID: lrp742w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am a crazy man so I experiment with everything so If you succeed to find out a name of an AI I gave a name to you are a real warrior, and I will give you a clue it is not ChatGPT
+----------------------------------------------------------------------------------------------------
+ID: lrp7kb9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Erisbot.
+----------------------------------------------------------------------------------------------------

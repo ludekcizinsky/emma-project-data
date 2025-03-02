@@ -1,0 +1,28 @@
+POST ID: 1eszry0 / POST TITLE: New phishing technique using udl files
+====================================================================================================
+Goes over a new phishing technique for using udl files for phishing. 
+
+POST COMMENTS:
+====================================================================================================
+ID: lii8kw7 # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Not that much of a reach.  Had a user get sent a html file to download a .exe and when the .exe wouldn't run got coached by the phisher how to bypass app locker.  Raised no red flags with the user
+
+Never overestimate the user
+----------------------------------------------------------------------------------------------------
+ID: lida2if # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: So you need to craft a UDL then convince the user to open it for it to send a hash, or convince them to type in their password for it to send the creds in plain text?
+
+What is the advantage here? Is it that the file is not flagged as malicious, whereas a custom exe might be? Wouldn’t a .lnk file work in the same way?
+----------------------------------------------------------------------------------------------------
+ID: lie751a # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: So you need a user to double-click the file and when presented with a dialog never before seen by the user, you also need to convince them to press the 'test connection' button? Kinda a hard sell as a phishing method.
+----------------------------------------------------------------------------------------------------
+ID: lidecct # OF UPVOTES: 3.0 SUBREDDIT: netsec
+COMMENT TEXT: File is not blocked as an attachment in Outlook whereas lnk and exe are.
+----------------------------------------------------------------------------------------------------
+ID: lie7do0 # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Phishing is never easy
+----------------------------------------------------------------------------------------------------
+ID: ligzp5d # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Cool, thanks for the explanation. Neat trick
+----------------------------------------------------------------------------------------------------

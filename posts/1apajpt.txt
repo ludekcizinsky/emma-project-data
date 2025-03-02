@@ -1,0 +1,20 @@
+POST ID: 1apajpt / POST TITLE: Code injection and reverse shell using a server
+====================================================================================================
+I'm rewriting my post because I didn't explain me very well (I'm not native english speaker, so... bear with me please). Recently I've been studying about certain ways to inject code in a process, however I did't manage to make it work in my own setup and network (I managed to do it between two virtual machines but not between my physical PC and laptop).
+I made a basic script with CPP (which I'm not very comfortable with, I have more experience with Python) that basically injects a payload generated with msfvenom, in order to get a reverse shell.
+So, the question is, can I use some cloud solution to make my payload more robust? The idea is to be able to get the reverse shell in that server because I can use the public IP instead of my home's private IP (which basically reduces the scope of my attack to targets thar are in my network, and not in ANY network).
+The second is that I'm getting quite tired of disabling my Kaspersky everytime I compile my program because it (obviously) detects it as a trojan (because it is a trojan, actually). In Python I know how to obfuscate code using bade64 encoding. I suppose there should be a similar way to do it in CPP but I cannot achieve it. My compiler requires a base64.h header which I don't have and as I said before I'm pretty a beginner with C in general. But as people says, one learns in the way, right? So, if any one knows how to deal with this, I'll appreciate it. Thanks.
+
+Note. As always, everything is only for learning purposes.
+
+POST COMMENTS:
+====================================================================================================
+ID: kq72qbt # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah just spin up a cloud vm and use that as your c2 server. Sektor7 has malware development classes that get into obfuscation
+----------------------------------------------------------------------------------------------------
+ID: kuxcig4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Avoid using base64 and common compression methods like upx as this will set off most avs.
+----------------------------------------------------------------------------------------------------
+ID: kq5ihgi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Maybe run a vm on a server and use it remotely?
+----------------------------------------------------------------------------------------------------

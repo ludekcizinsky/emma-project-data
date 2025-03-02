@@ -1,0 +1,15 @@
+POST ID: 1itfqnu / POST TITLE: Security Engineer - Strengthening Python skills
+====================================================================================================
+This question is asked a lot here and the consensus has been to build projects. However, I want a streamlined approach to gaining a strong footing in Python for security engineering. I know people recommend Automate the boring stuff or Python crash course. Do you recommend going through that book completely? Or what are some projects that would quickly and easily cover the most of what I need to know to be able to put Python on my resume and sound like I know what I'm saying for security engineering.
+
+  
+For additional context, I'm pretty okay in PowerShell and have used it to solve one or two security use cases. For example, I've used invoke web request to interact with the APIs for a sandbox to automate some investigative flows and data enrichment. However, I rely heavily on basic programming concepts.. conditional statements, functions (occasionally...), loops, variables, interacting with csv files etc..
+
+  
+We don't have SOAR in our environment and don't have to do any log parsing. However, as I'm looking to enter a mid level role or more technical role, i get the sense from my research on here that string manipulation and other data structure may be helpful....
+
+  
+Any thoughts?
+
+POST COMMENTS:
+====================================================================================================

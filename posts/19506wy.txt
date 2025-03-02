@@ -1,0 +1,12 @@
+POST ID: 19506wy / POST TITLE: Flipper Zero or WiFi Pineapple?
+====================================================================================================
+I currently have a wifi pineapple nano and am looking to get either the pineapple Mark VII or a flipper zero with a wifi card. Any thoughts on which one would be better? Currently I just mess around with hacking tools and don’t use them professionally though I may end up doing so in the future. Any thoughts, comments, or suggestions are welcome.
+
+POST COMMENTS:
+====================================================================================================
+ID: khjnaub # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have both, a zero and a pineapple nano, both have their uses which are different. i advice looking up the capabilities of both before picking.
+----------------------------------------------------------------------------------------------------
+ID: khlk60z # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve been looking into both and from what I’ve read it seems like the flipper can do a lot wider range of attacks but I feel like the pineapple would be better in a professional pen testing application
+----------------------------------------------------------------------------------------------------

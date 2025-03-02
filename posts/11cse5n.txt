@@ -1,0 +1,28 @@
+POST ID: 11cse5n / POST TITLE: Help
+====================================================================================================
+ 
+
+Could you help me on this statement?
+
+During a Red-Team exercise we have captured, through a MiTM, the attached traffic. We are analyzing whether it would be viable to recover a valid password. Can you help us?
+
+I have the file that comes with the exercise but it won't let me upload it, but in that file.pgapn is to be removed
+
+ 
+
+&#x200B;
+
+https://preview.redd.it/jfa0n2objlka1.png?width=523&format=png&auto=webp&s=8faf23c806d32e798afe4ea7a240ab9406d66b01
+
+POST COMMENTS:
+====================================================================================================
+ID: ja6eia9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What help are you looking for...?
+
+They want you to look at the packet capture to analyze it for traces of a valid password.
+
+It's a wireshark packet dump.
+----------------------------------------------------------------------------------------------------
+ID: ja6pysc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please, I tried it in several ways and I don't get any other password apart from anonymous: c
+----------------------------------------------------------------------------------------------------

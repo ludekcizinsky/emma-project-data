@@ -1,0 +1,11 @@
+POST ID: 17bsqzn / POST TITLE: how do I start?
+====================================================================================================
+Hi, I am 16yo and I would like to become ethnical hacker but I am lost where should I start. I am studying networking plus programming. I know this is good start but I would like to know what should I learn alongside with this because I know this is for long time run. If you know some tips I will be happy if you help me. thanks :)
+
+POST COMMENTS:
+====================================================================================================
+ID: k5mz4m1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: From my personal experience the first thing I did was to learn Linux then moved to other tech and finally to the sec field.  (Linux + Networking + Scripting + AWS or Cloud) then Security 
+
+I hope this help
+----------------------------------------------------------------------------------------------------

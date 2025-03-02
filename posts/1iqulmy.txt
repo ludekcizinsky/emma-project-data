@@ -1,0 +1,18 @@
+POST ID: 1iqulmy / POST TITLE: EU Solutions
+====================================================================================================
+Since the big players on the security market (Cloudflare, Akamai, Fortinet, F5, etc.) are all US originated, do you think the EU should invest more in it’s “own” products with everything that is going on in the world?
+
+
+Most big EU companies and even governments leverage these technologies. Even the hyperscalers (AWS, Azure, etc.) are used to host their entire infrastructure.
+
+
+As for EU solutions there isn’t that much choice and are rarely on the scale of the ones mentioned above. 
+
+Customer’s questions regarding data privacy and protection are greater than ever and I think this will only increase with how politics are evolving.
+
+This is not meant to be a political discussion.
+Just curious what everyone’s stance is on this.
+
+
+POST COMMENTS:
+====================================================================================================

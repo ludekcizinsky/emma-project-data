@@ -1,0 +1,124 @@
+POST ID: 1f75nrl / POST TITLE: How often do you use the WiFi Pineapple? Can i just use the flipper zero?
+====================================================================================================
+Im eyeing the WiFi Pineapple, 
+I have a flipper zero on the way with the WiFi mod and game mod.
+
+Is the pineapple good? 
+Im wanting to help find faults in networks. 
+
+Or, is there just a board i can get for the flipper zero?
+
+POST COMMENTS:
+====================================================================================================
+ID: ll58pwu # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can tell you that I have no fewer than 3 good friends who pentest for a living and, to a person, each laments the purchase of their Flipper, by their company, for use in the endeavor.
+
+They were all like "I really wish we'd spent the money on something more useful ... this thing is just a toy."
+----------------------------------------------------------------------------------------------------
+ID: ll4zezs # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you don't already understand what it's for and how to use it recommend not getting one.
+Same with the flipper. You will use it once or twice and put it aside.
+----------------------------------------------------------------------------------------------------
+ID: ll7wyr2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if you want something cheap to experiment with, look into cardputer
+----------------------------------------------------------------------------------------------------
+ID: ll5qfl6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have a pineapple and it is good but I don't use it often. I have used it 0 times in the last year. I use my pwnagotchi more. I know the pineapple is marketed as a hacking tool and it can be used for that out of the box it isn't that great for it. I set up an evil portal and was able to capture some passwords. I have also been able to capture handshakes. A lot of the functionality seems to be on the enterprise, or at least where most of their focus is now.
+----------------------------------------------------------------------------------------------------
+ID: llgo20o # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Flipper is more of a toy than a hacking device. It has specific use case in hardware hacking. But otherwise it’s very much not used by professionals for red teaming or offensive hacking.
+----------------------------------------------------------------------------------------------------
+ID: ll563cb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: m95tnuo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use the pineapple for 5Ghz and Evil Portal. Flipper is 2.4ghz and very basic Evil Portal
+----------------------------------------------------------------------------------------------------
+ID: ll597ap # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok, so would something like the HackRF be better?
+----------------------------------------------------------------------------------------------------
+ID: ll4zt2v # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I really like the F0, how often do you use the pineapple or equivalent?
+----------------------------------------------------------------------------------------------------
+ID: ll7y4bf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve seen that, I like it. Have you used it?
+----------------------------------------------------------------------------------------------------
+ID: ll5rsss # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m a White Hat, I’m not steeling anything. 
+But wanting to better secure things
+----------------------------------------------------------------------------------------------------
+ID: ll5skjl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m eyeing this one instead:
+
+https://www.awokdynamics.com/product/dual-touch-v2/50?cp=true&sa=true&sbp=false&q=false
+----------------------------------------------------------------------------------------------------
+ID: llgoast # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is the “not toy” version of Flipper Zero? 
+The HackRF? 
+
+Thanks
+----------------------------------------------------------------------------------------------------
+ID: ll563dr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ll59vpx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's the use case?
+----------------------------------------------------------------------------------------------------
+ID: ll8qzhx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i have one. i like it. it’s a bit more tinkering required sometimes depending on the firmware you load up on it but it works and most of the firmware is pretty neat. 
+
+i’m a systems engineer but want to get into cyber security eventually, so i find these little gadgets fascinating.
+----------------------------------------------------------------------------------------------------
+ID: ll65vhb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, I understand that. I did it as a learning exercise. What I am saying is the Pineapple doesn't seem to useful to an individual from my experience. It seems that Hak5 changed their focus with the latest edition and wanted to be more for the enterprise and more for a defensive stance. 
+
+As a white hat I don't think a pineapple would be useful to you. There are other tools that are cheaper which can give you the same data. Like the SSIDs around, channels they are on etc.
+----------------------------------------------------------------------------------------------------
+ID: llgoq4s # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It all depends on what you’re aiming for, I have several sdr devices and they don’t get as much use as a few other pieces of kit. Each gadget has a select case use tho. I use my pineapple for WiFi assessments, evil portal, and even when I’m harvesting credentials for an engagement.
+----------------------------------------------------------------------------------------------------
+ID: ll5afmk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Finding weak points on a network and analyzing data/signals
+----------------------------------------------------------------------------------------------------
+ID: ll5amjc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Analysis data
+----------------------------------------------------------------------------------------------------
+ID: ll65vj9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: ll6wvu3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you. What would you recommend that would be a good learning tool? 
+Is the HackRF good?
+----------------------------------------------------------------------------------------------------
+ID: llgozau # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you ever use it to test the security of a website?
+----------------------------------------------------------------------------------------------------
+ID: llgpqlv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What other SDR do you use?
+----------------------------------------------------------------------------------------------------
+ID: ll7iwqs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: llgp5nv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why would you? You can use Kali and burp or zap. There is no reason to use anything outside of those.
+----------------------------------------------------------------------------------------------------
+ID: llgx0ef # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What are you trying to do? Lots of resources out there.
+----------------------------------------------------------------------------------------------------
+ID: ll7iwsz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: llgphz6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: llgpi3k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

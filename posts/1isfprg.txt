@@ -1,0 +1,8 @@
+POST ID: 1isfprg / POST TITLE: Rapid7 Event Sources
+====================================================================================================
+Some of my Rapid7 event sources are giving me the inactivity notice after I moved them to a new data collector. I have deleted them from the old data collector and only kept 1 in the new data collector. Does anyone know why it is inactive after I moved to the new data collector?
+
+PS: it is working just fine before I moved it.
+
+POST COMMENTS:
+====================================================================================================

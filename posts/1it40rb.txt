@@ -1,0 +1,12 @@
+POST ID: 1it40rb / POST TITLE: Can i get a job as SOC L2?
+====================================================================================================
+I am a customer success in a company that provides SOAR and i want to  switch jobs as a SOC l2 now my job may sound like non tech but i create playbooks and use cases, i have knowledge of use cases and also i have knowledge of software deployment on virtual machines.
+
+I have knowledge of linux, python,Postman rest api and have experience with SIEM tools such as qradar.
+
+So my question is can i get a job as a SOC l2 if i switch careers. My designation in my company is Software engineer.
+
+Also i do not have any certification only knowledge.
+
+POST COMMENTS:
+====================================================================================================

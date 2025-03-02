@@ -1,0 +1,17 @@
+POST ID: 1fgzcm3 / POST TITLE: Question
+====================================================================================================
+So after performing an nmap scan and finding the open ports what is the thought process for what is vulnerable on that ip address. I understand if something is running on port 80 it has a web server and if has a ftp port open you can try connecting to it. But I’ve done a bunch of those beginner labs on HTB and each time I need to go on the walkthrough or look on a YouTube video to even have an idea on what needs to be done after mapping the network.
+
+POST COMMENTS:
+====================================================================================================
+ID: ln6bvm0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try enumeration!
+----------------------------------------------------------------------------------------------------
+ID: ln8jzxh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You refer to your notes about what you’ve learned in the past. Here is a great site to start building your notes out. The navigation bar on the left has port numbers and protocols if you scroll down. For example FTP: https://book.hacktricks.xyz/network-services-pentesting/pentesting-ftp
+----------------------------------------------------------------------------------------------------
+ID: ln8myrv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Remember that your goal is to find a service running on the box. 
+  To be successful you need to find an exploit for a particular service and gain access. 
+    Enumeration, directory brute force etc will be helpfull.
+----------------------------------------------------------------------------------------------------

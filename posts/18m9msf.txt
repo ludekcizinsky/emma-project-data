@@ -1,0 +1,12 @@
+POST ID: 18m9msf / POST TITLE: Learning Reverse Shells
+====================================================================================================
+Hi, I’m learning how to code my own malware. As a result, I’m practicing using reverse shells in C++. I found a few examples, but I’m having a compiling issue. 
+
+I keep getting an error that reads ‘argument of type “char *” is incompatible with parameter of type “LPWSTR” ‘ This occurs when I use CreateProcess(Null, “cmd.exe”, Null, Null, True, 0, Null, Null, Null, &si, &pi); within the my code. I copied the code from GitHub. I also followed a similar script from YouTube. Each time I receive this error. 
+
+I’m using Visual Studio Code if that helps. I’ve tried compiling within VSC and within the command prompt. 
+
+Thanks.
+
+POST COMMENTS:
+====================================================================================================

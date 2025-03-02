@@ -1,0 +1,13 @@
+POST ID: 1inmirx / POST TITLE: Potential Issue in Messaging App with Underscores, Backslashes, and JSON-like Strings
+====================================================================================================
+Hey everyone,
+
+I came across a behavior in a messaging app where it filters double underscores (__) to a single underscore (_). Interestingly, if I send //_, it gets transformed into //.
+
+I’m curious if this could introduce any potential security vulnerabilities, such as parsing issues, unintended behavior in commands, or bypassing certain filters. Has anyone seen something similar before, or does anyone have ideas on how this might be exploited?
+
+Looking forward to your thoughts! Thanks in advance.
+
+
+POST COMMENTS:
+====================================================================================================

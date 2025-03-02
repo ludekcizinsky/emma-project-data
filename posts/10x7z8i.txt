@@ -1,0 +1,41 @@
+POST ID: 10x7z8i / POST TITLE: What you can do after you cracked a wifi and you have the password?
+====================================================================================================
+Ok so i was a couple days ago at my friend's house making fun and playing around.I do know some stuff about computers and he always ask me when he don t understand pc things.But this time he asked me how safe he is if a hacker has his wifi password and what can the bad guy do to him(steal other passwords,make other problems) but i did not know how to answer.So if you have any info to help him you are welcome to contribute.
+
+POST COMMENTS:
+====================================================================================================
+ID: j7rtks3 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: # If a hacker gains access to your friend's Wi-Fi network, they can potentially cause a number of problems. 
+
+
+### Steal sensitive information: 
+If your friend uses their Wi-Fi network to access sensitive information such as online banking or credit card accounts, a hacker could potentially intercept this information and steal it.
+  
+
+### Conduct illegal activities:
+A hacker could use your friend's Wi-Fi network to carry out illegal activities such as downloading copyrighted material or launching attacks on other computers.
+  
+
+### Spread malware:
+The hacker could use your friend's Wi-Fi network to spread malware to other devices connected to the network, or to other networks.
+  
+ 
+### Use up bandwidth:
+The hacker could use up a significant amount of bandwidth, slowing down the network for your friend and other users.
+----------------------------------------------------------------------------------------------------
+ID: j7qsvo3 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Lmao 24hrs violating the rules
+----------------------------------------------------------------------------------------------------
+ID: j7xy5d0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: this is nothing related to Ethical Hacking.
+----------------------------------------------------------------------------------------------------
+ID: j7voj8m # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bruh you ask the sketchiest questions. 
+
+You’re not smart enough to be hacking altogether. Just give it up. 
+
+Ever heard of Google?
+----------------------------------------------------------------------------------------------------
+ID: j8r0s3b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If they're outside the range of the wifi,  they can't do anything with it.
+----------------------------------------------------------------------------------------------------

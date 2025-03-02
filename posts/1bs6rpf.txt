@@ -1,0 +1,20 @@
+POST ID: 1bs6rpf / POST TITLE: Best tool for DNS analysis in information gathering?
+====================================================================================================
+Hi , there are many tools in kali Linux and on GitHub for DNS analysis can any experienced person comment me the best tool available or recommend something , cuz I don't want to check every tool to find...
+
+Thx
+
+POST COMMENTS:
+====================================================================================================
+ID: kyg4rlo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well definitely Wireshark for capturing the traffic, analyzing the packets.
+----------------------------------------------------------------------------------------------------
+ID: kyg4xc2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For my purposes, it's enough for me. I can monitor DNS specifically, and from there understand exactly what's going on. If I have any questions, the internet is my friend.
+----------------------------------------------------------------------------------------------------
+ID: kygcebp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: okay..thx
+----------------------------------------------------------------------------------------------------
+ID: kyhv4xi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: And of course NMAP. That's always step 1 for me. I'll run a scan with Nmap while I start to capture traffic with Wireshark.
+----------------------------------------------------------------------------------------------------

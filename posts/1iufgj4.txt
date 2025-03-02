@@ -1,0 +1,14 @@
+POST ID: 1iufgj4 / POST TITLE: 2023-2024 Report on State of SOC?
+====================================================================================================
+I tried to find a report from 2023-2024 today covering general statistics on security operations centers globally. Specifically, alert volume, MTTD, MTTR, dwell time, etc. My goal is to show how SOCs are strained with high alert volume, staff shortages, etc. I can only seem to find reports covering the Threat Landscape, APTs, AI. Hot takes.
+
+Any recommendations out there? 
+
+POST COMMENTS:
+====================================================================================================
+ID: mdxaqm5 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not really a report on SOCs "Globally", but Splunk's State of Security reports probably have what you're looking for.
+----------------------------------------------------------------------------------------------------
+ID: mdxuu2m # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks, I'll check out it
+----------------------------------------------------------------------------------------------------

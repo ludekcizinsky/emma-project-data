@@ -1,0 +1,6 @@
+POST ID: 1i7erdt / POST TITLE: 86:71:F8 MAC Prefix
+====================================================================================================
+86:71:F8:2C:C7:BD is not a mac address with manufacturer info. Spoof, or possible router making a combination AC mesh thing? (idk wtf i’m talking about but maybe this is normal with Hewlett-Packard access points??)
+
+POST COMMENTS:
+====================================================================================================

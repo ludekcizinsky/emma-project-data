@@ -1,0 +1,48 @@
+POST ID: 132c1t2 / POST TITLE: Wtf wrong with apktool
+====================================================================================================
+Apktool 2.6 not supported - need apktool 2.7,, I can't  remove apktool 2.6 cause I don't have it ,, but l when I type apktool it show v 2.6 but in  /usr//local/bin/ I have both apktool & apktool.jar which is v2. 7 😒
+
+POST COMMENTS:
+====================================================================================================
+ID: ji47wq7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please post the output of `command -v apktool`. Please post the output of `echo $PATH`.
+
+Use `hash -r` to clear Bash's program cache. Bash should find the updated program in `/usr/local/bin`.
+
+You could always use the full program name to invoke the program: `/usr/local/bin/apktool <opts>`.
+
+-----
+
+If `apktool` has a bunch of files and needs a `CLASSPATH`, then here's how to do it. Copy the Apktools folder to somewhere `/usr/local` or `/opt/apktool`. Then setup a wrapper script to call it properly. Below, pretend `fop` is `apktool`. (`fop` is a java program used to build DocBooks. It has several jars, and it needs its `CLASSPATH` set).
+
+```
+$ command -v fop
+/usr/local/bin/fop
+
+$ cat /usr/local/bin/fop
+#!/usr/bin/env bash
+
+# Set JAVA_HOME if not set
+if [[ -z "$JAVA_HOME" ]]; then
+   JAVA_HOME=$(readlink -f $(command -v java) | sed "s|/bin/java$||")
+   export JAVA_HOME
+fi
+
+# Set CLASSPATH for fop
+CLASSPATH=/usr/local/bin/fop-2.8:/usr/local/bin/fop-2.8/lib
+export CLASSPATH
+
+# This calls the real fop, and passes all arguments to it
+/usr/local/bin/fop-2.8/fop/fop $*
+```
+
+With the `/usr/local/bin/fop` script in place, I can just call `fop` and everything works as expected.
+
+-----
+
+Related, I used Apktool about 12 or 15 years ago. I seem to recall it was abandoned, and you need to use another tool nowadays. But my knowledge is  really dated. Maybe someone else has current knowledge of the state of affairs.
+----------------------------------------------------------------------------------------------------
+ID: ji496kf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I try to create backdoor apk using fatrat  & this problem really bothering me , with 2.7 I get Error: apktool execution failed
+Any way that for you time man xD
+----------------------------------------------------------------------------------------------------

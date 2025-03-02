@@ -1,0 +1,24 @@
+POST ID: 1bpuulc / POST TITLE: Comptia
+====================================================================================================
+Are there any highly accepted certs instead of sec+ and net+ that are “ good for life”.
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kwy4nuv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Linux+ and Project+ still are, I think. Mine haven't been revoked yet anyway, but my A+, Net+ and Sec+ got switched to the CE thing, and I refuse to pay them money every 2 years to maintain what are essentially worthless certs so those got revoked.
+----------------------------------------------------------------------------------------------------
+ID: kyg53r9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Absolutely. A+ will get you the help desk job. Security+, network+, server+ and cloud+ are all valuable in IT, not just cybersecurity. Not sure what you mean by good for life though, like not having to retest? I don't think that's an option with the CompTIA certs, could be mistaken.
+----------------------------------------------------------------------------------------------------
+ID: kwy9adz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But no other widely recognized certs around the same level?
+----------------------------------------------------------------------------------------------------
+ID: kwyaptr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Here you go
+
+[https://help.comptia.org/hc/en-us/articles/13923899954196-Which-CompTIA-Certifications-Must-Be-Renewed](https://help.comptia.org/hc/en-us/articles/13923899954196-Which-CompTIA-Certifications-Must-Be-Renewed)
+----------------------------------------------------------------------------------------------------
+ID: kwyat76 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+POST ID: 1cfg1w6 / POST TITLE: How would you deal with this?
+====================================================================================================
+Let me give you a hypothetical,you were poking around a piece of software trying to bypass the licensing, but in doing so you found a critical vulnerability that exposed thousands of users, names and addresses. What would you do?
+
+POST COMMENTS:
+====================================================================================================
+ID: l1p4ycv # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Let the company know....? You can also email them and ask if they have a bug bounty, if not report it to them anyway.
+----------------------------------------------------------------------------------------------------
+ID: l1qy8n0 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [CVD](https://en.m.wikipedia.org/wiki/Coordinated_vulnerability_disclosure) - However, I would also feel obligated to report my discovery to my local authority data protection service (UK here, so that'd be the Information Commissioners Office).
+----------------------------------------------------------------------------------------------------
+ID: l1pgqkw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Disclose to them the vulnerability.
+
+You don't have to say WHY you found that.
+----------------------------------------------------------------------------------------------------
+ID: l1qyqqp # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I concur that disclosure is the only solution, my question is more how would you disclose rather than should you
+----------------------------------------------------------------------------------------------------
+ID: l1pbq0k # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: By responsibly disclosing it to the developer or company? What sort of question is this and what were you expecting as an answer?
+----------------------------------------------------------------------------------------------------
+ID: l1q35ep # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: l1q3d4f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: l1rbzvu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bug bounty?
+----------------------------------------------------------------------------------------------------
+ID: l1sx8ay # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would get a lawyer involved.  Different countries have different policies and laws, and it seems possible you could be accused of something.  Disclosing the bug to the company through a third-party with your interests in mind will be safer.
+----------------------------------------------------------------------------------------------------
+ID: l1qywdf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That crossed my mind too.
+----------------------------------------------------------------------------------------------------
+ID: l1qyul8 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I won’t be revealing any information pertinent to the software nor vulnerabilities, in an attempt to protect users until such a time as a patch is released.
+----------------------------------------------------------------------------------------------------
+ID: l1qyvh3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No
+----------------------------------------------------------------------------------------------------

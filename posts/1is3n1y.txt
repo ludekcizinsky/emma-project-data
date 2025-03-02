@@ -1,0 +1,10 @@
+POST ID: 1is3n1y / POST TITLE: How are injectors made?
+====================================================================================================
+I know that this group may not be the must appropriate to ask this question, but I would like to start a bit on reverse engineering, and what a better way (in my opinion) than starting with something that has always been there since I was a child, Roblox injectors. As far as I know, the way these injectosr works is that it somehow put a virus (or some remote shell) on the application to execute scripts, like if it was a terminal. 
+
+I would like to ask to this group, if anybody has any references or groups in reddit that I could check to analyze in depth how they are made or how to understand its logic.
+
+I am just getting into cybersecurity so dont take any word from this post as the absolutely truth, if someone has any corrections to give me or if the vocabulary for any of these topics is wrong, please let me know, I will totally appreaciate it. Big thanks!
+
+POST COMMENTS:
+====================================================================================================

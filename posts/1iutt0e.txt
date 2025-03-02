@@ -1,0 +1,29 @@
+POST ID: 1iutt0e / POST TITLE: Specific Type of Alert
+====================================================================================================
+We get alerts of 3rd party off shore contractors accessing files in M365(which they are supposed to access), however, due to their location, conditional access, and Azure replication/Datacenters, they flag.
+
+The obvious easy out here is to whitelist everything under the sun.
+
+However, due to the fact they are 3rd party contractors, is there a better way to manage risk, see the trees through the forest as far as legitimate alerts vs scrutinizing every alert?
+
+We are using Microsoft Defender and SaasAlerts in tandem.
+
+POST COMMENTS:
+====================================================================================================
+ID: me0ypy7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You can update the alert rule to exclude those users from being flagged.
+
+The rules generally use Boolean logic, so IF, AND, OR statements.
+
+You could just add up the alert fires and its any of these users, don't alert.
+
+Or tune the alert from within the Defender Incidents dashboard, using the same logic.
+----------------------------------------------------------------------------------------------------
+ID: me170h2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The challenge is, we are of the ilk that the 3rd party users are the biggest risk.
+----------------------------------------------------------------------------------------------------
+ID: me2f5av # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is very true, but if it's a common alert and often flags, then it's probably a safe bet it's expected activity.
+
+As with everything, you get know what's expected and what's not.
+----------------------------------------------------------------------------------------------------

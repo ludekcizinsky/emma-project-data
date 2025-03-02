@@ -1,0 +1,16 @@
+POST ID: 1h9q9g9 / POST TITLE: Should I pentest up-to-date OS?
+====================================================================================================
+Hey there. This is probably for more advanced users that can find new exploits, but I have 2 computers (one is laptop) with windows 10 and windows 11. I wanted to learn ethical hacking and pentesting. However it seems like most common ways to reverse shell etc. in the same network is not possible. Was going to try turning on some ports on windows to make it vulnerable but i dont know which might be vulnerable at all for up-to-date OS.
+
+So probably its best to install some vulnerable OS, however is it actually good? Shouldnt I test windows 10/11 as probably thats what most PCs are using, except linux and windows servers. 
+
+Would be great to know a feature to check other ports even if not open
+
+POST COMMENTS:
+====================================================================================================
+ID: m131b9m # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No you should start on sites like tryhackme, vulnhub, hackthebox academy, overthewire, etc.
+----------------------------------------------------------------------------------------------------
+ID: m15ng61 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Focus on web resources first, tryhackme hack the box ECT, and after a while you can start to look at metasploit
+----------------------------------------------------------------------------------------------------

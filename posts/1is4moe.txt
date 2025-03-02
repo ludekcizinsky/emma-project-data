@@ -1,0 +1,6 @@
+POST ID: 1is4moe / POST TITLE: How do I generate pcaps that triggers DNS rule containing a PCRE?
+====================================================================================================
+I have been creating PCAPs for http based rules, but how do I create PCAPs that triggers the DNS rules. Are there any tools to generate these PCAPs easily?
+
+POST COMMENTS:
+====================================================================================================

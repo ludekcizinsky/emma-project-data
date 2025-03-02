@@ -1,0 +1,8 @@
+POST ID: 1iu5f9a / POST TITLE: Experience with Cymulate or other red team tools
+====================================================================================================
+Curious to hear feedback from anyone using cymulate or other red team toolsets in their environment.  Specifically concerned that a tool like this may crash production servers.
+
+Thanks!
+
+POST COMMENTS:
+====================================================================================================

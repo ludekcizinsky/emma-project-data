@@ -1,0 +1,9 @@
+POST ID: 147oqnp / POST TITLE: Cant sniff using bettercap
+====================================================================================================
+Im using bettercap v2.23 inside kali and im trying to sniff my other vm (that uses windows 10 and in the same network) https traffic using hstshijack caplet, but it won't work for me. Im watching the zsecurity course in udemy and it seems to work for him just fine. any advices?
+
+POST COMMENTS:
+====================================================================================================
+ID: jp7ynq7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does it work on http (arp.spoof)?
+----------------------------------------------------------------------------------------------------

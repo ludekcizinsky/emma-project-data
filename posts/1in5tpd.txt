@@ -1,0 +1,16 @@
+POST ID: 1in5tpd / POST TITLE: Deepfake Simulation for Security Awareness Program
+====================================================================================================
+Hello folks,
+
+I’m currently in charge of our organization’s security awareness program and, as you may guess, deepfakes are all the rage now, and we want to work this subject from as many angles as possible.
+
+Would love to know a few things from those of you who have tried this at your organization: what kind of simulations you ran, the software you used for the simulations, the results you had, what actions you took and lessons learned.
+
+Our CEO is a quite public figure in the space and would be easy (I’m assuming) to do a deepfake video of his face and voice. Would like to create one, maybe even run a phishing simulation attached to it, something that really creates impact and gets people talking.
+
+Any firsthand information you have on this subject will be interesting for me to collect some ideas I can apply.
+
+Thank you!
+
+POST COMMENTS:
+====================================================================================================

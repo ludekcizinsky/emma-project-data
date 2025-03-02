@@ -1,0 +1,31 @@
+POST ID: 1cxlcqb / POST TITLE: hydra to hack service logins, both success and failure to be specified in condition string
+====================================================================================================
+http-post-form module of hydra, is it possible to specify in the third value of parameter both the success string as well as failure string?
+It is about module parameter, the string following second colon. If possible how to deliminate S= from F= field?
+
+POST COMMENTS:
+====================================================================================================
+ID: l54uj79 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try using burpsuite to capture a successful login and copy the syntax then do the same for an incorrect password and copy that syntax too. Web applications are very particular about the syntax used so it absolutely must match. I suggest trying the attack against known credentials for testing purposes you should get a 200 code among the 403s.
+----------------------------------------------------------------------------------------------------
+ID: l55h5br # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No, that is not possible. You either specify the success string or the failure string.
+
+Hydra derives success if the response does not contain given failure pattern.
+
+Hydra derives failure if the response does not contain given succes pattern.
+----------------------------------------------------------------------------------------------------
+ID: l54yood # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for hint. I did the same using analysis of login page source and client-server dialog in browser developer tools. Hence the syntax is known less or more. Question is bit more specific than that.
+
+You mean the pattern passed in CLI to hydra must match whole original request, not only its substring (headers optionally)?
+----------------------------------------------------------------------------------------------------
+ID: l54z63m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think I remember from a video it has to be the full request exactly as captured otherwise it won't like it...
+----------------------------------------------------------------------------------------------------
+ID: l5501b4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well, thanks, I got it. Headers are optional components of search pattern hence hydra sets focus onto request body - headers only if these specified in pattern;, true?
+However if to come to original Q. Do you think there is no sense to tell the hydra patterns for both login failure and success?
+
+I didn’t get the optional pattern component regarding request results code - in hydra manual “2=“. Do you know how would be one real example?
+----------------------------------------------------------------------------------------------------

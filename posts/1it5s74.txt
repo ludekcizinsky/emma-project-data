@@ -1,0 +1,21 @@
+POST ID: 1it5s74 / POST TITLE: MSSP Needs a Centralized Log Management & Threat Detection Solution – Recommendations?
+====================================================================================================
+Hello Reddit!!!
+
+I work for an MSSP, and we currently use:
+
+* RMM & Security: NinjaRMM, SentinelOne Complete + Vigilance or Huntress + Defender
+* Identity & SSO: All clients use Entra ID for authentication and SSO
+* Firewall & Network: Palo Alto as our firewall, mainly Cisco for networking devices
+* Backup & Storage: Veeam for backups, Wasabi for storage
+* Password Management: We resell Bitwarden
+* Vulnerability Scanning: Nessus for network discovery, SentinelOne for endpoints (but we don’t have a dedicated product for this yet)
+* Productivity: Office 365 Business Premium, but we also use other Microsoft packages like E3 (we are a Microsoft partner)
+
+I'm looking for a solution that can aggregate logs from all the vendors we use (SentinelOne, Huntress, Palo Alto, Entra ID, Veeam, etc.) and also ingest network device logs (mostly Cisco).  
+I’d like to define alerting rules, ideally with threat hunting capabilities to detect suspicious activity or indicators of compromise.
+
+Is there a tool that can achieve this?
+
+POST COMMENTS:
+====================================================================================================

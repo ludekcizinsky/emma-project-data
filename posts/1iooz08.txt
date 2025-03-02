@@ -1,0 +1,14 @@
+POST ID: 1iooz08 / POST TITLE: Sensitive info to vendors?
+====================================================================================================
+I work in an org that handled sensitive data and likes to keep our info private. 
+
+When our network and server teams need vendor support to troubleshoot an issue they often ask permission to generate support bundles to send to vendors (usually Cisco). 
+
+They ask the cyber team to review and sanitize these bundles for approval to send to the vendor.  They're usually hundreds of files including config and log data.  Some of the filetypes we can't even open or they're encrypted. They might have memory dumps, ip address, usernames, hashed passwords, etc.  
+
+There's usually pressure for us to approve these quickly because there's some kind of outage.  
+
+How do you handle these types of requests?
+
+POST COMMENTS:
+====================================================================================================

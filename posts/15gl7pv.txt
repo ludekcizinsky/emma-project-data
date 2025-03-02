@@ -1,0 +1,134 @@
+POST ID: 15gl7pv / POST TITLE: How do I scan for CVEs on Target Machine
+====================================================================================================
+Hey everyone, I'm a second year cyber security student and I'm new To Ethical Hacking and all that, however due to ongoing problems with the content regarding Ethical Hacking. I found it quite challenging to attempt the assignment for it. We have to find a Linux Vulnerability which is linked to the Linux Kernel on the Target Machine. Most of the stuff I went through the web to assist the work I'm doing was NMAP, I looked at a beginners guide and found out there is a way of finding Vulnerabilities via using the Nmap vulners, vulns & Vulscan script. I ran the scripts and found many vulnerabilities on the Target Machine however it was not the one relating to the Linux Kernel. Besides, here's the information I've been given:
+- The CVE was found in 2022
+- it has a CVSS Score of 9.0
+- it has to be related to the Linux Kernel
+
+I'm a beginner at Linux so is there any way someone can help me find a way to scan for CVEs? So I can get the correct one. I'm one of those biggest procrastinators in the world, leaving it to the last minute lol. It's due on Friday Lmao.
+
+Also I have tried using Legion although not much was presented.
+
+Any help would do. As long as there is some explanation.
+
+Thanks people
+
+POST COMMENTS:
+====================================================================================================
+ID: jujea4y # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > The CVE was found in 2022 - it has a CVSS Score of 9.0 - it has to be related to the Linux Kernel
+
+With that information, you might make use of google dorking or just filtering through sites like cvedetails.
+----------------------------------------------------------------------------------------------------
+ID: jukpxzj # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So everyone here has already given you the right answer.  I just think it's getting misunderstood - You've already used nmap scripts to get your list of the target's vulnerabilities, so now it's time to hit the websites to find which one of those vulnerabilities meets the criteria with the information you listed.
+
+For your assignment, you're listing your process - 1. You used nmap <list your switches, make sure you -o whatever your preference is for output file> 2. Craft your Google dork string and document it to show that it's what you used to find the vulnerabilities that meet your criteria. 3. Match up your results to your nmap output to find which vulnerability is your assignment's right answer.
+
+I think you're getting caught up on people saying 'Google' and missing the fact that you're Google hacking and documenting that as part of your assignment.  You can also just go right to one of the vulnerability databases and start matching things up that way.  It's quite literally most folks' normal process for discovering what vulnerability to exploit.
+
+Edit: Fairly certain this is what your teacher will expect you're doing.  There really isn't a method (that I can think of personally, someone more knowledgeable can chime in) as part of your scanning that's going to say "Hey, this particular vulnerability is from 2022."  That part is going to be all about the researching.
+----------------------------------------------------------------------------------------------------
+ID: jujfjiu # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This comment is correct, doing an nmap scan will tell you valuable information like what the target OS is.  With this info, you then start digging through sites like CVE details.  Cy security=research.  I spend a ton of time just researching and learning
+----------------------------------------------------------------------------------------------------
+ID: jujjfes # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: | With that information, you might make use of google dorking or just filtering through sites like cvedetails.
+
+Regarding that, i. Won't be able to get any marks as the brief states I hsve to find the vulnerability and explain how I found the Vulnerability, what software I used to attain the Vuln,. If I just Google I cpukd get marks for finding the correct one but again how do I show how I found it, as the how is kind of important here.
+----------------------------------------------------------------------------------------------------
+ID: julfb4w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey, I truly understand what you mean, but unfortunately since I used the vulnerability scans from NMAP it presented me with a list of vulnerabilities on the Linux Machine however what it did not present was the vulnerability related to the Linux Kernel, as that was the one I needed ams they were mostly from 2023, 2021 & 2020s which related to the HTTP Apache Servers, which is not what I needed. Hence that's why I asked is there any other way?
+----------------------------------------------------------------------------------------------------
+ID: jujjrjp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Once again I could do that but I wonr get marks regarding how I found it. And besides it's jusr 1 vulnerability I have to find in the target machine. Its not that bad j think
+----------------------------------------------------------------------------------------------------
+ID: jujjrii # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can explain how you constructed your google dork query.
+----------------------------------------------------------------------------------------------------
+ID: jululnc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You are going about this the wrong way. You are not looking for any vulnerability that you might try to exploit further, you are looking for a specific vulnerability that you have easily enough information about to identify. Hence Google dork first to find out potential target vulnerabilities - > find out if the system is exploitable with the vulnerabilities you found that match
+(and what that looks like depends on the vulnerability). 
+There is no sense in doing random scans hoping the right one pops up when you have all the Info you need already to at least severely limit the selection of possible vulnerabilities.
+----------------------------------------------------------------------------------------------------
+ID: jujlz62 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No what I meant I have to show explicitly which method I used whether it's Nmap, Metasploit, Legion etc and show Screen shots of how I found the vulnerability. If the screen shots of how it was found was not shown I may not pass. As its a requirement unfortunately.
+----------------------------------------------------------------------------------------------------
+ID: julvw8s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Using the three virtual machines you used in the first assignment you will
+identify one major kernel vulnerability, with a CVSS score of 9.0 in the
+Debian VM which will allow attackers access to the operating system and
+elevate privileges. This vuln. will have been identified in the year 2022,
+and will refer to the Linux kernel itself, not to any vuln. on any other soft-
+ware which might be running on the VM, or might be installed on it, this
+vulnerability MUST refer to the Linux kernel ONLY, and only that kernel
+version of the distro we are using.
+
+
+You will describe how that vuln. will affect the Debian Linux distro, what
+measures have been, or should be, taken to mitigate the vuln. You will
+also describe how that vuln. has affected both Linux Mint and Ubuntu.
+Linux Mint and Ubuntu are both derivatives of Debian and both use the
+Debian packet manager and packages, so there might be some cross-
+over of the Debian vulnerability into both these OS’s, therefore you will
+need to research this. You may consider third-party software which may
+be exploited to take advantage of the kernel. You will describe this vuln,
+how it can be exploited, what needs to be in place to take advantage of it,
+what advantage it gives an attacker, and what it reveals
+You will produce a 2,500 (two thousand five hundred) word techincal
+report on this, and will include screen shots of what you have found on
+the CVE database, and on the vulnerability in general, what mitigation
+measure were implemented on all three OS’s, if they were affected by the
+identified vuln.
+
+^ this is the brief for the assignment and it defenitely looks to me I'm not supposed to use Google Dorking to find the vulnerability, I've been told to find the vulnerability in the A Linux Machine, and provide explanations on how I found it. And like I said before I found many vulnerabilities on the Target Machine however after Google Dorking the list of vulnerabilities, I found out none of them were related to the Linux Kernel, plus they all had a CVSS Score of 9.0, and they even said I have to use a software which has to be exploited to take advantage of the Kernel. So surely, if I use the Google Dorking method, then how on earth am I supposed to find software to exploit using the Kernel.
+
+Apologies
+----------------------------------------------------------------------------------------------------
+ID: jujmair # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So what exactly is your requirement on how you have to find the vulnerability? From your explanation it's not clear how google dorking wouldn't work but scanning would. Also google dorking would tell you the CVEs to look for on the target system, and just because you found one that fits the requirements doesn't mean that's the one actually present, so that would be the next step in showing how you found it.
+----------------------------------------------------------------------------------------------------
+ID: jujp12n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you looked into nmap’s NSE scripts? Sounds like this is within your arcs, and should help.
+----------------------------------------------------------------------------------------------------
+ID: julwogt # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The comments hold correct and there is nothing in there that says you can't Google dork. It literally asks you about what you found in the CVE database.
+
+> however after Google Dorking the list of vulnerabilities, I found out none of them were related to the Linux Kernel, plus they all had a CVSS Score of 9.0, and they even said I have to use a software which has to be exploited to take advantage of the Kernel.
+
+
+
+Yesterday I randomly scrolled through CVEdetails looking at cves from 2022 and just while glossing over it there was at least one kernel vulnerability with a 9.0 rating.
+
+> So surely, if I use the Google Dorking method, then how on earth am I supposed to find software to exploit using the Kernel.
+
+You are not Google dorking to exploit the vulnerability, but to *find* the potential vulnerabilities. *Then* you research how to identify it on a target and exploit it if it's present. Google dorking is just fancy googling to find out what you are looking for on the target. Once you found out, you find out how to exploit it.
+----------------------------------------------------------------------------------------------------
+ID: julcn94 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Would you like me to put the assignment brief into the chat for clarification? Hopefully that would help.
+----------------------------------------------------------------------------------------------------
+ID: julz9nm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ohh I think I get you now. So does the  brief say find the Vulnerability relating to the Kernel of the Linux and basically use that Exploit and run it on the Target Machine?
+----------------------------------------------------------------------------------------------------
+ID: juluolv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can edit your post
+----------------------------------------------------------------------------------------------------
+ID: juml3fh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Technically you don't have to exploit it (according to the excerpt at least), but just identify it and document all that stuff about and around it that is asked in the requirements.
+
+It doesn't matter how you identify it, if some scanner you used found it right away, great. But since that's not the case and you got very specific info about it there is nothing that makes more sense than filter the info you have and go through the results.
+----------------------------------------------------------------------------------------------------
+ID: jumz80i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This makes total sense, like totally I 100% agree with you. But what is the logic behind the first set of sentences where it asks me to use the Virtual Machine? It's asking me to use the virtual machines to find a Linux Vulnerability how does that work?
+----------------------------------------------------------------------------------------------------
+ID: jun0k90 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm not sure what you mean? The VM is vulnerable, that's where the vulnerability you are supposed to find and write about is.
+----------------------------------------------------------------------------------------------------
+ID: jun11ih # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I just got told by someone that Google Dorking won't be useful in this case as the Debian VM we're supposed to hack isnt indexed. 
+
+
+"Google Dorking is for finding vulnerable systems that have been indexed by Google and appear in the search results, your Debian VM won't be indexed by Google"
+
+This is what he said.
+----------------------------------------------------------------------------------------------------

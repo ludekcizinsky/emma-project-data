@@ -1,0 +1,18 @@
+POST ID: 1isbuvz / POST TITLE: Is there a security benefit of doing KRBTGT resets regularly
+====================================================================================================
+Hi,
+
+
+
+I want to reset the KRBTGT account password in AD environment. My question is : Is there a security benefit of doing KRBTGT resets regularly?
+
+What are Microsoft Recommendations on KRBTGT Reset?
+
+
+
+
+
+thanks,
+
+POST COMMENTS:
+====================================================================================================

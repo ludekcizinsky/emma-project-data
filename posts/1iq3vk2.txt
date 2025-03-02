@@ -1,0 +1,12 @@
+POST ID: 1iq3vk2 / POST TITLE: Getting back into the game…
+====================================================================================================
+A couple of years ago, I invested a lot of time and money into trying to break into cybersecurity. I completed the ISC2 Certified in Cybersecurity, got stuck into TryHackMe, and networked with loads of people on LinkedIn. But then life happened, and all of that fell by the wayside.
+
+Now, career wise, I’m in a hands-on role that sits somewhere between a systems administrator and data governance position. I work with various partners, so I still have some technical exposure, but it’s not really cybersecurity, although I do have exposure to SIEMs etc.
+
+I’m at a point where I want to get back into it, but I’m not sure how. Do I just start again? Pick up where I left off? Is there anything you’d recommend for someone in my position?
+
+Would love to hear from anyone who’s been in a similar situation or has advice on how to get back in the game.
+
+POST COMMENTS:
+====================================================================================================

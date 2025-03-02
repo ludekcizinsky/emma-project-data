@@ -1,0 +1,42 @@
+POST ID: 1dv1nuj / POST TITLE: Found a Security Exploit in Popular Software – Seeking Advice on Anonymous Reporting and Potential Rewards
+====================================================================================================
+Hi everyone,
+
+I recently discovered a significant security exploit in a well-known software application. I'm keen to report this issue to the company's security team
+
+However, I prefer to remain anonymous during this process. I have a few questions and would appreciate any advice or insights from those who have experience in this area:
+
+1. **How can I report this exploit to the company's security team anonymously?** Are there specific tools or methods recommended for maintaining anonymity while ensuring the report is taken seriously?
+
+
+
+1. **What steps should I take to ensure the report is credible and detailed enough for the security team to act on it?** Any tips on how to structure the report or what information to include would be very helpful.
+
+
+
+1. **Is it common for companies to offer rewards or cash prizes for discovering and reporting security vulnerabilities?** and what are the typical procedures for claiming such rewards? i mean to say that will i get any cash reward in return of that or what are the typical procedures for claiming such rewards?
+
+will be grateful in advance for your help and guidance!
+
+POST COMMENTS:
+====================================================================================================
+ID: lbkjjwu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do they have a bug bounty program?
+----------------------------------------------------------------------------------------------------
+ID: lkw4lse # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lbkkf68 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah they do! But I'm not sure about their reward things though
+----------------------------------------------------------------------------------------------------
+ID: lkw4ltt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lbklubj # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You'll have to work your way through that system. If you message them anonymously, it'll just be seen as blackmail.
+----------------------------------------------------------------------------------------------------
+ID: lc6bpgf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: True that . Then he could get prosecuted and so on.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+POST ID: 1e9npt8 / POST TITLE: Task 5.1 There is a flag labeled 5.1 that outputs a hash when you input in your GTID. Try to find the page and recover the flag Example: tr95843fkdspugr8euyre0gfd 
+====================================================================================================
+How to solve this Task in Wireshark captured file(mitm_fall2023)?
+
+POST COMMENTS:
+====================================================================================================

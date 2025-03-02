@@ -1,0 +1,41 @@
+POST ID: 1bs3qid / POST TITLE: Ethical hacking or cybersecurity 
+====================================================================================================
+Which one should I learn first?
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kxd931u # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical hacking *is* cybersecurity, or some would put it that it's a discipline inside of cybersecurity.
+
+It's like asking if you should learn to drive 4-door sedans or cars.
+
+Your question is probably more if you should learn penetration testing or defensive security (red vs blue teaming).  That's all up to you.  We all could argue for or against starting either one, but ultimately it comes down to which one you prefer or have a better grasp of.
+----------------------------------------------------------------------------------------------------
+ID: kxdryqj # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends where you wanna go but just learn the basics first, so get very comfortable with Linux, GitHub, basics of networking. Core principles and of cybersecurity like Availability, integrity and confidentiality.  
+Build your own labs and setup vms and small networks at home and just play around and learn by doing. 
+
+Hands on experience is the most important thing. And then just go with what interests you the most and dive a little bit deeper in that category. 
+
+Cybersecurity is such a broad spectrum it’s easy to get overwhelmed when starting out.  So just try to stay above water and start somewhere :)
+----------------------------------------------------------------------------------------------------
+ID: kxl7i27 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This. There are defensive and offensive specialists in cybersecurity. Ethical hacking is a subset of offensive cyber
+----------------------------------------------------------------------------------------------------
+ID: kxn0p78 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you recommend book learning/studying courses or like youtube and forums to learn?
+----------------------------------------------------------------------------------------------------
+ID: ky2f7ce # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: All of the above. Use whatever is most comfortable to you, adjust your learning plan to what suits you best. Personally I found that a mix of courses and youtube helped me build confidence with the basics, then I deepened my knowledge with forums when I was ready to start some projects. Consistency is key, stick at it and be patient. Youtube will try to tell you that you can do anything in 30 days, slow and steady wins the race.   
+
+
+As long as you build a solid foundation of core knowledge (just like the user above mentioned), it really is your choice on the methods you pick. Make sure your sources are credible.
+----------------------------------------------------------------------------------------------------
+ID: lhv77sa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you tell me what a "forum" is???
+I have seen many people say it.
+----------------------------------------------------------------------------------------------------
+ID: m6woggt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Forums are like messaging boards, like stack exchange or stack overflow
+----------------------------------------------------------------------------------------------------

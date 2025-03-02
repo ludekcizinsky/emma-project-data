@@ -1,0 +1,7 @@
+POST ID: 1irjdrx / POST TITLE: Compare hash of database users
+====================================================================================================
+How compare hash Value of user password in database ?
+Idea is - say standard password for the system is "pwdddd@1" idea is to find out how many users have same password hash 
+
+POST COMMENTS:
+====================================================================================================

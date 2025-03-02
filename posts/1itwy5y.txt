@@ -1,0 +1,54 @@
+POST ID: 1itwy5y / POST TITLE: OWASP Top 10: #2 Cryptographic Failures – How’s Everyone Handling This?
+====================================================================================================
+So OWASP Top 10 has **#2 as Cryptographic Failures** (used to be called Sensitive Data Exposure), and honestly, this is one of those things that feels like it’s only getting worse.
+
+With AI assistants like Google Workspace AI and Microsoft Copilot built right into work tools, data exposure has never been easier (in a bad way lol). People can just accidentally (or lazily) share sensitive stuff without even realizing it.
+
+These Assistants are summarising docs, emails, attachments when they need not be summarised. The LLM now knows what proposal was accepted and what was not!
+
+Do you think DLP tools are keeping up?
+
+**I want to understand how are security teams dealing with this now?**
+
+Are orgs actually putting in stricter policies for AI usage? Or is it just vibes?
+
+Is auto-redaction (like scrubbing PII before AI processing) actually catching on? 
+
+POST COMMENTS:
+====================================================================================================
+ID: mdsi6e0 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Is it reasonable to trust data processing agreements?  For example, Google or Microsoft already have your sensitive data if you use their cloud service. In both cases, using their LLM, they tell you your data is not used to train.
+----------------------------------------------------------------------------------------------------
+ID: mdsgh5z # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You raise some interesting points.
+
+As a security professional, I'm concerned that Microsoft et al. would roll out such 'features' into long-established and embedded products.
+
+And I'm concerned as a platform provider about how much users find them useful without understanding the risks.
+
+I mean, the data leaks started happening soon after these LLM models began gaining traction.
+
+And so far, the only solution I've seen, at least in organisations i work with, is "the user is responsible". We know how that plays out.
+
+I can see a large problem coming, and potentially a sizable shift away from the big giants, to self hosted AI, which can be much better tweaked controlled (at least we know where the data is), at least in the short term.
+----------------------------------------------------------------------------------------------------
+ID: mdw6h8j # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Terrible nomenclature. Cryptographic failure makes it sound like encryption failures are causing data leakage…
+----------------------------------------------------------------------------------------------------
+ID: mdsozjg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Run the models locally.  Your get better results because you can train the model on your data
+----------------------------------------------------------------------------------------------------
+ID: me02h2o # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wald offers PrivateGPT solution with an inbuilt DLP suited for Gen AI usecase. Traditional DLPs do not work with Gen AI. They simply block access to AI tools. We have a free trial do check us out.
+----------------------------------------------------------------------------------------------------
+ID: mdsqmd1 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Assuming you are talking about a business with a contract then yes it’s reasonable to trust. 
+
+We’re a GCP shop and have had enough conversations with our reps to have a reasonable level of assurance. 
+----------------------------------------------------------------------------------------------------
+ID: mdx3vv3 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Lol right, I read the title and then the post and had a thought that isn't what I would think a "cryptographic failure" is. I was also thinking wtf, are people implementing their own cryptography, and doing it so often that it's OWASP #2.
+----------------------------------------------------------------------------------------------------
+ID: mdsyd7t # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, that's what I mean.  My point is, a lot of this trust has to be contractual and so one of my philosophies is to make it STUPID EASY for employees to use an AI at work.  Promote it, make it simple, in front of them, etc.  You do that with the provider you contractually trust and it improves the probability of funnelling their AI use into your trusted channels.
+----------------------------------------------------------------------------------------------------

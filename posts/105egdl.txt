@@ -1,0 +1,150 @@
+POST ID: 105egdl / POST TITLE: Resources for Beginners (Maybe get this pinned?)
+====================================================================================================
+# Resources for Beginners
+
+This thread is specifically tailored for new users that need some ideas of where to get well made and *mostly* free material. When I first posted this list of resources, this subreddit was saturated with newcomers asking silly questions that they could have the answer to if they would either A.) Read the error prompts in their terminal or B.) Used Google. This is a place for all of us to come together and learn about Cybersecurity and Ethical Hacking and while everybody is welcome and questions are highly encouraged - it got a little out of hand. Call me crazy but I do not think you should be running Kali and trying to get John the Ripper running if you don't even know how to make a new directory via the terminal. Trust me, I jumped head first into Kali when I first started as well but I quickly learned that I needed to lay my foundation before trying to dive into the cool L337 HaKr man stuff. You wouldn't put a roof on the top of a house before laying the foundation and building the frame, would you? If you answered 'yes' to that then I don't ever want you building my home. 
+
+If you are just starting out and have no idea about any of this stuff, go ahead and peruse this list to get started laying your foundation.
+
+## Websites
+
+***https://notes.siira.io/*** - This is Linux Journey. If you don't know anything about Linux and the command line then start here. Seriously, start here.
+
+***TryHackMe.com*** - this website is great and teaches a lot of those fundamentals that 
+you need. There’s a free tier but I suggest paying 10 bucks a month if 
+you can because it’s well worth it for the extra courses that you can 
+get.
+
+ ***www.cybersecq.com:*** Was recommended by a fellow redditor
+
+***HackTheBox*** - this is more intermediate. They’re vulnerable boxes that you can 
+practice on. Basically CTF’s (Capture The Flag) they also have an 
+academy site that’s like THM but I think tryhackme is still a better 
+bang for your buck academy wise.
+
+***ITPro.Tv*** - This website has a bunch of courses for everything. Linux, Windows, MacOS, networking, hardware, etc. Literally everything.
+
+***Youtube.com*** - You may think that this isn't as good as the other websites but I swear that there are some really good tutorials on youtube. I'll go into some people to watch below.
+
+## Teachers
+
+***The Cyber Mentor***
+
+This guy is amazing. He has a YouTube channel (search ‘the cyber mentor’) 
+and has tons of good videos. He has a free 15 hour ethical hacking 
+course right on his channel that’s got great information. That’s a 
+portion of a paid course that he has on his website. Go to [www.TCM-security.com](http://www.TCM-security.com) and there is an Academy tab somewhere near the top. The full course 
+called Practical Ethical Hacking is like 30 bucks I think? Completely 
+worth it. I highly suggest checking out the free 15 hour or so video on 
+YouTube and if you like that - get that PEH course. 30 bucks is nothing 
+in this space and you get it forever. He’s also got other courses on 
+there that are well worth it.
+
+***Professor Messer***
+
+He's a good guy to watch to learn about networking and all the CompTIA 
+exams. You don't have to get certified but it will help you greatly when it comes to finding a job. Just search him on YouTube and you’ll find him. I can’t stress 
+how important it is to get a good foundation on networking before 
+jumping into the hacking part. I messed up when I first started because 
+it is boring to learn. It’s just dry. Learning about TCP/IP protocols, 
+the OSI Model, etc. at face value it’s boring as fuck. But when you 
+realize that you **need** this information to be a good pen tester (or just working in IT) it 
+helps. Hell, I’m still working on getting better with networking myself.
+
+***HackerSploit***
+
+This guy is one of the best on YouTube. He is extremely detailed and I don't think you're going to find someone that is much better than him in my opinion.
+
+***John Hammond***
+
+He is up there with Hackersploit and The Cyber Mentor. He's got tutorials but he also has a lot of in depth videos about malware and a lot of different cybersecurity related topics.
+
+***Mental Outlaw***
+
+Good youtuber to check out to learn about security news as well as Linux topics.
+
+***David Bombal***
+
+Great information as well as very good interviews with cybersecurity and IT professionals.
+
+***Network Chuck***
+
+The most mainstream youtuber of this whole list, but he still know's what he is talking about for the most part. His videos are a great starting point if you don't know who any of the other people in this list. Some people may find him a bit too overzealous and annoying but the information he provides is pretty solid. 
+
+
+## One Off Tutorials
+
+- https://m.youtube.com/watch?v=wvKwk1wcXvM&feature=youtu.be | Evading Detection: Beginners guide to Obfuscation 
+
+## Podcasts
+
+- Darknet Diaries
+- The Cyberwire
+- Hacking Humans
+- Down the Security Rabbithole
+- Defensive Security Podcast
+- Malicious Life
+- Defensive Security Podcast
+- Hackable?
+- Brakeing Down Security
+
+
+## News/Articles/Blogs
+
+- Bleeping Computer | www.bleepingcomputer.com
+- Dark Reading | www.darkreading.com
+- The Hacker News | www.thehackernews.com
+- Cyberscoop | www.cyberscoop.com
+- Project Zero | www.googleprojectzero.blogspot.com
+- The Hackers Arsenal Tools Portal | www.toolswatch.org 
+- Krebs on Security | www.krebsonsecurity.com
+- Troy Hunt | www.troyhunt.com
+- Windows Incident Response | www.windowsir.blogspot.com 
+- DFIR & Threat Hunting | www.findingbad.blogspot.com 
+- The Hackers Arsenal Tools Portal | www.toolswatch.org
+  
+
+# Conclusion
+
+This is just a very short list compared to the amount of resources that are on the internet. If you are ever in doubt, use Google. These subs are here so that we can all talk and learn together. They are very welcoming to beginners like myself but it is kind of annoying when they get filled with tons of posts asking questions like "How to install Linux" or "How do I install an application". If you really want to get into this space and eventually make a career out of it you really have to learn how to do research for yourself. If you encounter a problem and the first thing you do is throw your hands up and run to Reddit in hopes that somebody else will answer your question - you're not going to make it in this space. You're just not. That's not me being a dick, it's just the truth. Honestly, you have to grind and be a "go getter" for a lack of better words. This is not an easy art form by any means but **it is possible**. You just can't give up. Hopefully this helps someone.
+
+POST COMMENTS:
+====================================================================================================
+ID: j3ahvl0 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Found David Bombal's channel when doing Ansible stuff, and wow I love his interviews. I can see what you mean by the mainstreamness, but he's definitely a good starting point
+----------------------------------------------------------------------------------------------------
+ID: jax6g94 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for this, and i love that last part, don’t give up. Nothing can stand in the way of determination
+----------------------------------------------------------------------------------------------------
+ID: je31zw7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you!
+----------------------------------------------------------------------------------------------------
+ID: jfal1os # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: also [www.cybersecq.com](https://www.cybersecq.com) is a practice questions engine to help validate your knoweledge.
+----------------------------------------------------------------------------------------------------
+ID: jcmizib # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you thank you thank you
+----------------------------------------------------------------------------------------------------
+ID: jh3ngcv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate the effort to create a resource for folks learning the ropes. Two of the developers behind Powershell Empire recently ran a conference talk introducing some methods of obfuscation. https://youtu.be/wvKwk1wcXvM
+
+It’s a bit beyond `mkdir` but since it’ll benefit multiple viewings no harm in watching as a beginner.
+----------------------------------------------------------------------------------------------------
+ID: jlbu18j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can I start this as an absolute beginner, ex-helpdesk guy, who's also trying to learn powershell and python scripting at the same time? Or do I need some prior tech knowledge?
+----------------------------------------------------------------------------------------------------
+ID: joex0if # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Exactly what I was looking for! Thank you!
+----------------------------------------------------------------------------------------------------
+ID: jsroesy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks 🍻
+----------------------------------------------------------------------------------------------------
+ID: j3al1a5 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: His interviews are great. The ones with Occupy The Web are great. Yeah, I don’t mind his videos. Him and Network Chuck are where I started and they’re the reason I found all the other guys that I watch now.
+----------------------------------------------------------------------------------------------------
+ID: j3b8uow # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: David Bombal has just released a video on how to become a master hacker. That's a good resource.
+----------------------------------------------------------------------------------------------------
+ID: jcmnjnc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No problem! Just trying to do what I can to help out the community.
+----------------------------------------------------------------------------------------------------

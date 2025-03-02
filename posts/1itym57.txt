@@ -1,0 +1,12 @@
+POST ID: 1itym57 / POST TITLE: SecurityX (CASP+) Exam prep
+====================================================================================================
+PocketPrep for SecurityX (CASP+) ?
+
+Hello All,
+
+
+
+I have been doing a CBTNuggets course to prepare me for SecurityX (formally CASP+). I have been doing 90 question quizzes using PocketPrep and am doing really great. I took a simulated Exam for CASP on Kaplan Learn and only got a 60. Is PocketPrep not giving me good metrics or is Kaplan known to be very hard? Any insight is great, pocket prep has gotten me through other exams so I’m curious what everyone thinks in regards to SecurityX.
+
+POST COMMENTS:
+====================================================================================================

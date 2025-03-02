@@ -1,0 +1,51 @@
+POST ID: 1dl6zau / POST TITLE: Starting in this world 
+====================================================================================================
+Hey, I'm new in the cybersecurity (in the commercial ethical way) and recently I discovered a rce in a server of a regional ISP, I haven't done any pdf of the report cuz well idk how to. And how should I go with them ? What to say?( Social anxiety), what if they don't pay ? Idk I just want some help.
+Thank you any answers :3 
+
+POST COMMENTS:
+====================================================================================================
+ID: l9msrzz # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do they have a responsible disclosure program?  Do they offer bug bounties? 
+
+That's how you would get paid.  If they don't,  you can find a security or technical contact and let them know your findings. Beware though,  if they aren't explicitly looking for people to find bugs for them,  this can be considered a hostile action.  They do not owe you anything.  
+
+Do not look for exploits where you don't have permission,  and expect to be looked at kindly or paid for your findings.
+----------------------------------------------------------------------------------------------------
+ID: l9nqnvk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That depends. What were you doing which lead to you discovering the vulnerability?
+----------------------------------------------------------------------------------------------------
+ID: l9nzob6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Shodan search and then PoC without payload exec
+----------------------------------------------------------------------------------------------------
+ID: l9nzsug # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So you were actively looking for vulnerabilities on this ISP at the time?
+----------------------------------------------------------------------------------------------------
+ID: l9nzyt8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: We can say that I have a script that looks for vulns from ip obtained from shodan.
+----------------------------------------------------------------------------------------------------
+ID: l9o0i01 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Fine, you were actively looking for vulnerabilities in a range of IPs without explicit permission?
+----------------------------------------------------------------------------------------------------
+ID: l9o0p66 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yup, well, as I said it's my first time trying to do this legally :v I've never done this legally. So I wanna now.
+----------------------------------------------------------------------------------------------------
+ID: l9o1mi3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Step 1. Stop hacking immediately.
+Step 2. Keep your head down and your mouth shut about what you've done so far. 
+Step 3. Pray to god you didn't leave enough evidence that they catch you. 
+Step 4. Stop hinting at the fact you used to do this kind of thing ILLEGALLY on Reddit. 
+Step 5. Educate yourself on how to do this kind of thing legally.
+
+It is vitally important that you DO NOT touch another network which doesn't belong to you until you understand exactly what you're doing. You should NEVER do so without one of two things:
+- A countersigned contract with an agreed scope of IPs/URLs and date range to conduct a formal penetration test.
+- A bug bounty program covering the IPs/URLs your assessing.
+
+You messed up. What you did was illegal. Any questions?
+----------------------------------------------------------------------------------------------------
+ID: l9o3lqk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the useful info :3
+----------------------------------------------------------------------------------------------------
+ID: l9o3spx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Casual response with a smiley face makes me think you don't understand just how badly you nearly fucked up here...
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+POST ID: 1aq8i4t / POST TITLE: Microsoft surface pro for hacking?
+====================================================================================================
+I know this question has probably been asked before. I’m just looking for an answer based off someone’s experience with the surface pro. I know someone trying to get rid of their surface and would like to know if it’s even worth trying to hack on. All tools and os would be loaded from a usb. I don’t know exactly which model the surface is but it’s a couple years old. (Was bought in store)
+
+POST COMMENTS:
+====================================================================================================
+ID: kqczy1j # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If it can run windows, it can run Linux, too. I have once seen a surface and I liked the hardware much. Only downside was windows and the price at this time.
+----------------------------------------------------------------------------------------------------

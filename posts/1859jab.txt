@@ -1,0 +1,24 @@
+POST ID: 1859jab / POST TITLE: Learning Sites
+====================================================================================================
+Need some guidance in terms of where should I start for ethical hacking, it's so many material or references that it becomes overwhelming. Where would be the best place or good ethical hacking educators . e.g EC-Council, INE
+
+POST COMMENTS:
+====================================================================================================
+ID: kb0f3z2 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I woould suggest starting somewhere that is relatively cheap, highly practical, and with a great community behind it so you can ask all the (inevitable) questions that will arise.
+
+\- [Hack The Box Academy](https://academy.hackthebox.com/) is a great platform which ticks all the boxes above. It has various other services, such as CTFs, Challenges, Labs, etc., which you can play around with when you feel comfortable enough (or even right away if you like challenges!). Regarding CTFs, it also has the [Starting Point](https://help.hackthebox.com/en/articles/6007919-introduction-to-starting-point) which is a great **introduction to start hacking machines** (don't feel that you need to understand 100% every little detail from every box in tier 1 and 2)! Note that **a separate subscription is needed for each service**, i.e., one for the Academy and one for CTFs. If you are a student, the prices are ridiculously low though for the quality of their content (relatively to other resources)!
+
+\- [Try Hack Me](https://tryhackme.com/) is a similar platform with a lot of **Learning Paths** (similar to HTB's Academy) to choose from: from 'Complete Beginner' and 'Pre-Security' to \`Jr Pentester\` and \`Red Teaming\`. Its **subscription includes both the paths and the machines** (again if you are a student the price is very low).
+
+I have mostly devoted my time mostly into those 2, but I am sure many more are out there. I started with THM's learning paths (completed 7 of them) as well as solved some boxes (almost always ended up reading one or more walkthroughs), and I am now studying for the HTB's [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) which requires to complete the [Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester).   
+
+
+Both platforms are great, and have active Discord communities in case you have questions, so you can't really go wrong by choosing either!
+----------------------------------------------------------------------------------------------------
+ID: kb1cdii # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is hackersploits good? I'm sure there is no simulation tho, I'm on their blue team tutorial playlist
+----------------------------------------------------------------------------------------------------
+ID: kb17gkl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks. I will check out some of there resources when I am done with this semester.
+----------------------------------------------------------------------------------------------------

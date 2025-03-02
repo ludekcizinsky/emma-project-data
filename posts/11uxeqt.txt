@@ -1,0 +1,11 @@
+POST ID: 11uxeqt / POST TITLE: Hi there! I'm interested in pursuing a career in red teaming, and I've noticed that there's a lot of theoretical education available on the topic, but I'm having trouble finding practical, hands-on training opportunities. Am I overlooking something?
+====================================================================================================
+I was thinking about a potential solution: pairing up an aspiring pentester with an experienced professional to collaboratively conduct a physical pentest on a company's premises. What are your thoughts on this?
+
+POST COMMENTS:
+====================================================================================================
+ID: jcqsrn4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn pentesting first if you havent already, you need to be able to pentest before you red team.
+
+The physical side of it is less common than the hacking side by a long shot. (Idk there could be specialised physical testing companies but ive never seen them)
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+POST ID: 1in2glg / POST TITLE: Which master degree thesis should I choose for cybersecurity? AI vs. Hardware Security
+====================================================================================================
+I need to decide on a cybersecurity master's thesis and I'm stuck between two topics:
+
+* **AI** for IDS/Firewall Replacement – Using supervised AI (including OpenAI CLIP) to replace traditional IDS/firewalls. Pros: I can work remotely, manage my time freely, and AI is a hot topic with strong career prospects.
+* **Hardware Security** (Fault Injection, Side-Channel, Memory Dumping on IoT Devices) – I've always been deeply interested in this field, but it's niche. Downsides: I'd have to move, pay rent, and it might be less useful for my career.
+
+[View Poll](https://www.reddit.com/poll/1in2glg)
+
+POST COMMENTS:
+====================================================================================================

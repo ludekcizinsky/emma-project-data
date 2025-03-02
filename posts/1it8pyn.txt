@@ -1,0 +1,6 @@
+POST ID: 1it8pyn / POST TITLE: I did an nmap scan while opening a two VM in my system, one being kioptrix and other kali but when I did netdiscover in kali I didnt get my kioprtrix ip
+====================================================================================================
+I was learning and seeing things about nmap and more deeper into it, but when It came to practical I didnt get ip of kioptrix, I wanted it to find some open ports in it, would anyone explain what happened
+
+POST COMMENTS:
+====================================================================================================

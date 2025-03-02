@@ -1,0 +1,152 @@
+POST ID: 1ivx7j9 / POST TITLE: Cyber insurance for businesses
+====================================================================================================
+Is it worth getting and what policy from whom would you recommend buying?
+
+
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: me9cedq # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You should check in with a cyber insurance broker, such as Marsh, to help you. This is their whole purpose in life.
+----------------------------------------------------------------------------------------------------
+ID: me9d0bt # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It can be worth it, it really depends on what your current posture is. If you are doing a shit job, your rates will be so high it’s not worth even looking. 
+
+You could ask your present broker if they do a lot of cyber policies. But there are specialty brokers that better understand the market and will get you a policy that fits you better.
+----------------------------------------------------------------------------------------------------
+ID: me9s0bx # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I work in Incident response. YES get the insurance. Also, make sure to ask security professionals to look in your environment for basic weaknesses. 
+
+I’ve seen so many times people wake up to their environment encrypted. Because of simple open 3389, not patched environment and bad FW.. let me know if you need help with that
+----------------------------------------------------------------------------------------------------
+ID: me9jxf6 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You really need to look at the specifics, like what´s your current security posture and attack surface, what´s the worst case scenario versus your ability to self-insure, what's the regulatory aspect looking like, do you have in/house legal counsel etc.
+
+If you don´t have certain measures in place you might not be able to obtain insurance at all.
+
+Once you´ve done some initial assessments, you can then start figuring out what amount of coverage you'd need and what specific provisions are required. At that point you´ll want to get specialist consultancy if you don't have in-house insurance specialists with experience on the cyber side, or at a minimum multiple quotes to compare.
+----------------------------------------------------------------------------------------------------
+ID: mea574q # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It isn’t a yes/no answer. It depends on what the cost to you is if an incident occurs. And you need to look at the cost-benefit analysis. On top of that, the money spend on insurance premiums could alternatively be spend on additional cybersecurity labor and tools. So there’s a lot of depends. On the premium side of things, your cost can depend on your company’s industry, your security posture, your practices, your risk tolerance, etc.
+
+There is a cross over where it might not make sense. I’ve worked a place where the premium was so high that they decided to self insured.
+----------------------------------------------------------------------------------------------------
+ID: me9gs54 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Many business insurance policies cover cyber incidents. It’s your choice if you want coverage or not. You would have to check different issuers to see what they cover and for how much.
+----------------------------------------------------------------------------------------------------
+ID: me9th28 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As someone who works for a very large insurance company that writes cyber insurance policies - yes, it’s worth getting. I’d work with your MSP on finding the right one. 
+
+Cyber breaches can be business killers and without the proper insurance, it pretty much guarantees it. I can give reccs but I’d be slightly biased. My recc would be Cowbell.
+
+Edit: Slightly biased recc.
+----------------------------------------------------------------------------------------------------
+ID: meagrli # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, get cyber insurance but make sure you read your policy. Then have all your security folks read it. And your lawyers. And your security folks again. And then your lawyers and your security folks in the same room. If you're not doing what the insurance company is requiring you to do, the policy is basically worthless. It's not a big ole warm blanket you can just pay for and forget. I have no doubt you already know this but I figured I'd go ahead and say it out loud.
+----------------------------------------------------------------------------------------------------
+ID: meamdbv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cyber Ins and a solid IR policy are important. Marsh and Beazley are the big players, but as someone else mentioned on this thread be prepared to answer questions about your current cyber policies. The questionnaires will dig into permission policies and heavily into identity policies. 83% of all breaches involve valid credentials.
+----------------------------------------------------------------------------------------------------
+ID: meay7yp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’d say it is worth it but something to keep in mind is that an insurance provider will ask a bunch of questions about your network, backups, etc and may have requirements you will need to complete before they offer you coverage. If they find your back up procedures to not be up to par, or you are using hardware/software from a vendor they don’t approve of, they may deny you coverage until you satisfy their concerns.
+----------------------------------------------------------------------------------------------------
+ID: meaz6us # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It depends on the risks you’ve identified and assessed, which ones have leadership decided should be transferred to insurance?
+
+You should at the very least have some quantitative and qualitative understanding of the risks you’ve identified and are choosing to transfer rather than treating or accepting. 
+
+To understand whether the insurance (transfer) is worth it, you can do a quick and dirty cost/benefit ratio
+
+Edit: typos
+----------------------------------------------------------------------------------------------------
+ID: meb6hxz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi /u/Electronic_Driver4841, 
+
+It depends on the premium, your current security posture and financial situation. In most cases insurerers demand a security baseline of your digital environment, I.e is multifactor authentication in place for all account, do you have endpoint detection in place, how does the external internet facing systems look like.
+
+The insurer will ask you to fill in a questionnaire about your security posture. Furthermore there are some exclusions rules for paying out like - for example the breached email account did not have MFA enabled during the time of attack.
+
+Points to look at:
+- coverage in hours for incident response experts
+- coverage of direct and indirect damage
+- requirements up front
+- insurance premium
+
+Also let a security company assess your security, to identify blindspots and get a good overview of your digital environment.
+
+If you need some further guidance, just ping me a DM, I am here to help.
+----------------------------------------------------------------------------------------------------
+ID: me9w85h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I used to work for Coalition, so I’m biased, but they’re amazing and they provide a bunch of free services. I think you can buy direct now, but you may still have to go through a broker (they can help you find one too). 
+
+They really get it… worth checking them out for sure.
+----------------------------------------------------------------------------------------------------
+ID: me9eja2 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Second Marsh. Although be prepared to respond to questions about your cyber program.
+----------------------------------------------------------------------------------------------------
+ID: me9iz75 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Does the price depend a lot on how much work I’ve done?
+
+Do I buy it through broker or can my MSP refer me?
+----------------------------------------------------------------------------------------------------
+ID: meb22jz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: …also, if OP’s company is doing a shit job it’s likely that any claims they file will be denied.
+----------------------------------------------------------------------------------------------------
+ID: me9k7zp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks! So it is basically a lot of work to ensure I get a good policy
+----------------------------------------------------------------------------------------------------
+ID: mealdjp # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: +1 for Cowbell. Think they also bundle in an MDR service with their insurance too. Not 100% sure on that part though.
+----------------------------------------------------------------------------------------------------
+ID: mea1el9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are they who bought Binary Edge, the scanner? Do they provide internal scans as a free service?
+----------------------------------------------------------------------------------------------------
+ID: mebffim # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do they normally sell via MSPs?
+
+What if my MAP suggest on solution instead of the free stuff coalition offers?
+----------------------------------------------------------------------------------------------------
+ID: me9j2l0 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks! Should this be done in collaboration with my MSP?
+----------------------------------------------------------------------------------------------------
+ID: me9jxan # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah the amount of security controls and tools in place can impact your premium. 
+
+If you are working through an MSP you should definitely be talking to them about this. But your MSP is likely not a licensed insurance agent so their ability to make recommendations may be limited.
+----------------------------------------------------------------------------------------------------
+ID: meb68av # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The premium depends on a number of factors, but in the main, it'll be company revenue, the security controls, and the industry the company operates in. 
+
+The larger the company, the more important security controls become for underwriters to evaluate the risk and change the terms.
+----------------------------------------------------------------------------------------------------
+ID: mea2ond # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes! And I’m not sure about internal scans. They’re super proactive about reaching out if they see anything weird with their insureds. 
+
+The philosophy is that if they can invest a little to help you avoid a breach, it’s worth it!
+----------------------------------------------------------------------------------------------------
+ID: me9ptjq # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you're asking this, then yes.
+----------------------------------------------------------------------------------------------------
+ID: meawlzu # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, your MSP will be a key part of answering the underwriter's questions.  In fact, your MSP may also offer cyber insurance through a nationwide insurer.
+----------------------------------------------------------------------------------------------------
+ID: me9k0vy # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What role does my MSP have in getting cyber insurance?
+----------------------------------------------------------------------------------------------------
+ID: me9lo35 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Your MSP should have a very good idea of what insurers are looking for. They likely have seen the insurance risk rating surveys from their other customers which will help them stay current on want the insured are looking for. 
+
+Also your MSP is your cyber security advisor who should be helping you construct a good security program. If you are not required to adopt any specific security framework, they should be helping you align with something like CIS as a guide on what good security practices will protect your business. 
+
+The MSPs I have worked at have all done reviews at least quarterly including a review of the customer’s current security posture and any upcoming changes that they should consider.
+
+In general if you are doing a bad job with your security, there is no point in applying for cyber insurance as your rates will be very high. The good brokers won’t even shop for you unless you at least meet some minimum standards as to not waste their time. Again, your MSP should be able to tell you in general what you should at least start with.
+----------------------------------------------------------------------------------------------------
+ID: me9lwc8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do they (MSPs) typically recommend insurance policies as well?
+----------------------------------------------------------------------------------------------------
+ID: me9m6gh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In many states, only a licensed insurance agent can recommend insurance or specific policies. Your MSP may either know if a good broker or may be able to ask another customer for a recommendation.
+----------------------------------------------------------------------------------------------------

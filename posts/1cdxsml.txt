@@ -1,0 +1,13 @@
+POST ID: 1cdxsml / POST TITLE: Beginner 
+====================================================================================================
+Hello 
+I wish to get into cyber security, however my knowledge is limited and have no experience. I’ve been teaching myself with the cs50 videos and trying to play around with python. I’m also learning from “HTB” or Hack the box as well. If there’s any advice on how to make a career path or a way to get my feet wet is greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: l1f2qlh # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go to a traditional college!
+----------------------------------------------------------------------------------------------------
+ID: l1i4vlc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Youtube
+----------------------------------------------------------------------------------------------------

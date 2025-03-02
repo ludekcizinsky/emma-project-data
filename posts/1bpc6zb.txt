@@ -1,0 +1,34 @@
+POST ID: 1bpc6zb / POST TITLE: Career Path
+====================================================================================================
+Hello all,
+
+This is my first post so I’m learning how to operate Reddit. I’m reaching out to you all because I have discovered an extreme interest in making cybersecurity my new career path. Specifically Pen testing. What are some suggestions you can give me to begin to gain experience and or entry level employment. I’m currently using professor Messer to obtain my Security+ cert and I have been accepted back into college for another bachelor’s degree, this time in Cybersecurity and Information Assurance. My current employment has nothing to do with the field and is only covering about $500 a week. Any suggestions, and or thoughts on expediting the employment process. Anyway, thank you for time! 
+
+POST COMMENTS:
+====================================================================================================
+ID: kx088gs # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learning the basics has already been mentioned in terms of general knowledge of networking and protocols, web technologies etc. Portswigger academy is brilliant for actual Web app pentesting methodology but can seem very full on. Try reading the Web application hackers handbook for a more eased in approach (this book has now been replaced by the academy). For infrastructure and Web mixed hands on pentesting knowledge check out OSCP for a very practical approach but would suggest using platforms like try hack me and hack the box to gain some confidence.
+----------------------------------------------------------------------------------------------------
+ID: kwxlxza # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: #1 Learn basics of network.
+#2 Learn TCP/IP
+#3 Learn basics Linux.
+https://youtube.com/playlist?list=PLMM6TS8ASgASYJxthYQIo7xuoUlZ2gYbz&feature=shared
+ 
+#4 Learn security fundamentals.
+#5 Learn web application penetration testing.
+
+After all try TryHackMe, Portswigger for practice.
+----------------------------------------------------------------------------------------------------
+ID: kx0c997 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you and I will into them.
+----------------------------------------------------------------------------------------------------
+ID: kwy72nv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you very much.
+----------------------------------------------------------------------------------------------------
+ID: kx0ezah # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any questions feel free to message. I am a pentester with 5 years experience.
+----------------------------------------------------------------------------------------------------
+ID: kx2hear # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much. One thing I can say is the willingness of this community to help others in pursuing their goals is amazing. I tip my hat to you in appreciation.
+----------------------------------------------------------------------------------------------------

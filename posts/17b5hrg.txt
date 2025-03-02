@@ -1,0 +1,18 @@
+POST ID: 17b5hrg / POST TITLE: netcat question
+====================================================================================================
+im trying to create a reverse shell in a LOCAL NETWORK from my kali VM to my windows OS (my main) but im not sure were to input the commands
+should it be cmd or powershell? 
+
+As far as i know for a Mac OS you just need to open a terminal. Im not quite sure though about windows, is it cmd or powershell?
+
+POST COMMENTS:
+====================================================================================================
+ID: k5h9oc7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: also i suppose the windows computer needs to have downloaded netcat as well for nc command to work in cmd right?
+----------------------------------------------------------------------------------------------------
+ID: k5hhdi3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This may help you: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+----------------------------------------------------------------------------------------------------
+ID: k5ijuh1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Download nc for Powershell and input all commands in Powershell
+----------------------------------------------------------------------------------------------------

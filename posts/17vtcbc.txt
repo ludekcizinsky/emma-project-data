@@ -1,0 +1,9 @@
+POST ID: 17vtcbc / POST TITLE: How to start for eJPT, what are the valued platforms and ways for it, and what's the correct path for it?
+====================================================================================================
+Please help, I am a beginner in Pen Testing, knowing basics of networking, Cybersecurity field and Pen Testing.
+
+POST COMMENTS:
+====================================================================================================
+ID: k9f1f62 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: EJPT is straightforward enough - there’s plenty of literature and instruction on these basic skills out there.
+----------------------------------------------------------------------------------------------------

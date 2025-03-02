@@ -1,0 +1,18 @@
+POST ID: 1fclmw9 / POST TITLE: How EDR works: the (Anti-)EDR Compendium
+====================================================================================================
+https://blog.
+
+POST COMMENTS:
+====================================================================================================
+ID: lm9ahk0 # OF UPVOTES: 8.0 SUBREDDIT: netsec
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: lm9ncbl # OF UPVOTES: 5.0 SUBREDDIT: netsec
+COMMENT TEXT: https://blog.deeb.ch/posts/how-edr-works/
+----------------------------------------------------------------------------------------------------
+ID: lmlza5i # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Very thorough, great read! Bookmarking to come back to this and study. 🙌
+----------------------------------------------------------------------------------------------------
+ID: lmadmqi # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Same on desktop
+----------------------------------------------------------------------------------------------------

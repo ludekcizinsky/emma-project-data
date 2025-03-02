@@ -1,0 +1,9 @@
+POST ID: 11f6s4e / POST TITLE: Securing and Pentesting LoRaWAN
+====================================================================================================
+Hi, before I start I need to point the fact that I am new to Networking but I have mid level experience on Kali tools  
+We are currently developing a project based on LoRaWAN. There are 2 devices and a hub. Devices communicate with hub (star topology) and hub uploads data to firebase. (Only hub has access to Internet, others use radio signals)  
+I am currently trying to secure this network from MitM attacks and establish a encrypted data transfer. I used AES to encrypt data but I don't know how I can encrypt the connection.  
+Any advises? Do I need to add additional servers to accomplish this? Which tools can be helpful? And most importantly, how can I pentest this? (ARP Poisoning/ IP spoofing maybe?)
+
+POST COMMENTS:
+====================================================================================================

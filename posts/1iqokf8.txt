@@ -1,0 +1,8 @@
+POST ID: 1iqokf8 / POST TITLE: Security flaw exposed billions of YouTube email addresses
+====================================================================================================
+>There were no truly private accounts on YouTube until recently. Security researchers demonstrated that any email behind an account could be pulled from Google using a relatively simple exploit. Google has patched the flaw and awarded researchers a $10,633 bounty.
+
+Source: [https://cybernews.com/security/youtube-flaw-exposed-billions-of-emails/](https://cybernews.com/security/youtube-flaw-exposed-billions-of-emails/)
+
+POST COMMENTS:
+====================================================================================================

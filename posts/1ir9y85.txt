@@ -1,0 +1,17 @@
+POST ID: 1ir9y85 / POST TITLE: Announcing the Incident response program pack 1.5
+====================================================================================================
+This [release ](https://www.sectemplates.com/2025/02/announcing-the-incident-response-program-pack-v15.html)is to provide you with everything you need to establish a functioning security incident response program at your company. 
+
+In this pack, we cover
+
+* **Definitions**: This [document](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_definitions_and_severity_levels.md) introduces sample terminology and roles during an incident, the various stakeholders who may need to be involved in supporting an incident, and sample incident severity rankings.
+* **Preparation Checklist**: This [checklist](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_preparation_checklist.md) provides every step required to research, pilot, test, and roll out a functioning incident response program.
+* **Runbook**: This [runbook](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_runbook.md) outlines the process a security team can use to ensure the right steps are followed during an incident, in a consistent manner.
+* **Process workflow**: We provide a [diagram](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_process.png) outlining the steps to follow during an incident.
+* **Document Templates**: Usable [templates](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Security_incident_working_document_template.md) for tracking an incident and performing postmortems after one has concluded.
+* **Metrics**: Starting [metrics](https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_metrics.md) to measure an incident response program.
+
+**Announcement**: [https://www.sectemplates.com/2025/02/announcing-the-incident-response-program-pack-v15.html](https://www.sectemplates.com/2025/02/announcing-the-incident-response-program-pack-v15.html)
+
+POST COMMENTS:
+====================================================================================================

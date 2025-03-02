@@ -1,0 +1,22 @@
+POST ID: 1hikz49 / POST TITLE: Is my laptop good enough for hacking?
+====================================================================================================
+I got an old HP Probook 4340s laptop. Can I start my hacking journey with this? I really wanna learn hacking. (Core i3, 8 gigs of ram and 500 GB storage)
+
+POST COMMENTS:
+====================================================================================================
+ID: m2zm3fh # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This question is wrong. Most hackers hack out of pendrive with kali installed on it - hardware is not important.
+----------------------------------------------------------------------------------------------------
+ID: m2zs58c # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As long as you focus on learning and don't try to spam containers or vms .. you good to go .. maybe try to learn a lil hardware and basic software... It will make everything easy on the long run .. ( hack the box academy has a pretty good amount of ppl recommending it ...)
+----------------------------------------------------------------------------------------------------
+ID: m35m1w3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 
+ 7009366513
+----------------------------------------------------------------------------------------------------
+ID: m3x8462 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Mmm
+----------------------------------------------------------------------------------------------------
+ID: m6874dj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Its too much for linux machine bro
+----------------------------------------------------------------------------------------------------

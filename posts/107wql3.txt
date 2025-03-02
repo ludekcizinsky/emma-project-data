@@ -1,0 +1,75 @@
+POST ID: 107wql3 / POST TITLE: responder not capturing??
+====================================================================================================
+running responder for hackthebox. responder says its listening but not displaying anything? anyone got any ideas??
+
+POST COMMENTS:
+====================================================================================================
+ID: j3qbnna # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Add more details. What is your setup? Have you changed the .conf file? Are you using ntlmrelayx as well? 
+
+This is a guess game without details.
+----------------------------------------------------------------------------------------------------
+ID: j3tamj9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The box is called responder it is in starting point htb.
+
+I somehow picked up one request for my xbox. Which was the only thing.
+
+I changed the responder.conf to http off. I tried it with http off, https off, dns off, and all of them on as well.
+
+It's literally not pulling any information. I've never used responder before ive mainly stuck to nmap and metasploit as well as burpsuite. 
+
+I'm not sure is your asking if I tried it on my windows active directory? But assuming you are no I haven't I only have linux on this computer. I have a mint and kali.
+
+Should I try to run my xbox to see if I pulls the request??
+----------------------------------------------------------------------------------------------------
+ID: j459vug # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry for the late response.
+
+Have you found a vulnerability on the box? Like sqli?
+Or lfi?
+
+If you can exploit one you can get a hash.
+
+Let HTTP on if this is for the initial foothold.
+----------------------------------------------------------------------------------------------------
+ID: j3rnkqb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm on kali. It's up to date. 
+
+I am doing hack the box so I changed the .conf to what was necessary to complete their machine. 
+
+I'm using openvpn from hackthebox. I have noticed that my ip address isn't changing to the one from the openvpn. 
+
+When I run Wireshark I am only receiving packages from wlan0 eth0 and any, but none for tun0.
+
+No I'm not using ntlmrelayx. I wasnt told that I needed it. 
+
+I was throwing an error for port 53 so I stopped that. Started then threw and error for about 20 ports and stopped apache.
+
+ I have tried it with my ufw enabled and disabled. 
+
+I have my dns set to 8.8.8.8 and and the dnsstublistener to no in my /etc/systemd/resolve.conf.
+
+I am using a dell from 2013. I got from a friend. However, I've had a lot of problems with the i915 drivers. 
+ 
+I say that because trying to fix that alone has taught me a significant amount about how my system itself functions. I haven't felt as clueless about kali as have at this point until yesterday since I first started🤣.
+
+Idk what else I could tell you that would help as I am still learning. But will tell you whatever I can if that's not enough. Thanks for your time though, I genuinely appreciate it.
+----------------------------------------------------------------------------------------------------
+ID: j3tartg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No I also didn't run runfinger. I'll try that as well.
+----------------------------------------------------------------------------------------------------
+ID: j3rtxkq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok .. are you sure this is the way? Which box is it? 
+
+-Have you tricker a request someway?
+
+-Initial access to windows box? AD? 
+
+-Have you run the runfinger tool to identify other hosts with smb disable?
+
+-Have you edited reaponder.conf file?
+
+-Added the hostname of the box to /etc/hosts?
+
+-restart openvpn?
+----------------------------------------------------------------------------------------------------

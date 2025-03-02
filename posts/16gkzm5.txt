@@ -1,0 +1,13 @@
+POST ID: 16gkzm5 / POST TITLE: Experience In Cyber Security
+====================================================================================================
+Ethical hacking 
+Hello good people. Very new here,  been learning and learning but I don't know where I can get a connection to test what I have learnt. Learning with no experience is nothing, any links would be absolutely appreciated. Thanks.
+
+POST COMMENTS:
+====================================================================================================
+ID: k09qo0z # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Vulnhub has intentionally vulnerable VMs for pentesting. Also, TryHackMe has KOTH. I'm fairly novice myself but those two methods  have been my preference.
+----------------------------------------------------------------------------------------------------
+ID: k0d6z5j # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Adding hackthebox, overthewire, under the wire, proving grounds, picoctf
+----------------------------------------------------------------------------------------------------

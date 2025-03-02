@@ -1,0 +1,21 @@
+POST ID: 1dygxis / POST TITLE: IOT vulnerability
+====================================================================================================
+Hello everybody! I am a college student conducting scientific research on the vulnerability of smart devices.
+
+Also English isn't my first language so bear with me.
+
+For my research I need a practical test, so I would like any suggestions on what to try and how to perform this test, something simple, i have an alexa and one of those remotely accessible cameras available for this experiment. If i could acess some data provided by them would be perfect, I'm also open to recommendations for articles that any of you may have read about vulnerabilities in these devices.
+
+Thank you for reading and for any advice provided.
+
+POST COMMENTS:
+====================================================================================================
+ID: lc8l34c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are a few articles on Google regarding security breaches on smart home camera systems, maybe start there?
+----------------------------------------------------------------------------------------------------
+ID: lca5ux5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the answer, yes I read some articles about it, but I'm still looking for ways to do it, something simple, would there be any material or tool to recommend?
+----------------------------------------------------------------------------------------------------
+ID: lcawwcm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are several pieces of hardware and softwares available commercially yes
+----------------------------------------------------------------------------------------------------

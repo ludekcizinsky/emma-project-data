@@ -1,0 +1,27 @@
+POST ID: 17230px / POST TITLE: Suggest WPA2 a wordlist
+====================================================================================================
+Hi,  
+I am trying to crack WPA2 passwords [https://mab.to/t/r7WqkaeW0m5/eu1](https://mab.to/t/r7WqkaeW0m5/eu1) from handshake files with hashcat.   
+
+
+Tried every possible wordlist I found (starting with rockyou), but nothing was able to get password. For unknown reason [gpuhash.me](https://gpuhash.me) was able to get these passwords within 50 seconds. What wordlist do they use? What wordlists do you use?  
+
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: k3u6sv0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use Probable Wordlists + Rules. https://github.com/berzerk0/Probable-Wordlists
+----------------------------------------------------------------------------------------------------
+ID: k3uuxjf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: depending on random wordlists, to blindly crack a random wifi network, is futile
+
+research the router brand, the isp it likely uses, etc, many isp now have defaults that are not gonna get cracked in our lifetime
+----------------------------------------------------------------------------------------------------
+ID: k3v06vc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn about rulesets
+----------------------------------------------------------------------------------------------------
+ID: k6knymk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Could always cook up rockyou2021 if you got a day to burn 🤣
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+POST ID: 17zznnu / POST TITLE: Ethical Hacking Projects Ideas
+====================================================================================================
+Hello, 21 year old senior college student here looking for project ideas for my Ethical Hacking class that don’t require a lot of time since the deadline is in January. I am not experienced in hacking and this will be my first independent project. 
+Thank you in advance
+
+POST COMMENTS:
+====================================================================================================
+ID: ka2peey # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Uhh any guidelines for the project? A great project world be to build an AD environment and then exploit the default configurations. Add in ADCS if you have time.
+----------------------------------------------------------------------------------------------------

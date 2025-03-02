@@ -1,0 +1,36 @@
+POST ID: 1abqi86 / POST TITLE: Which course/training module should I go for further learning?
+====================================================================================================
+hello experts, looking for your expert opinion. I'm working in IT support currently. Thinking of moving to cybersec field.  
+I've almost completed TCM security's Practical Ethical Hacking course. Now which course/website/training module should I follow?  
+Please suggest me the way according to your experience.  Thank you all for your valuable time for helping me in advance.  
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kjq9aj7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yea getting a subscription for a month for TCM and going through as many courses as possible is a good start. Then tryhackme has some good paths to go through
+----------------------------------------------------------------------------------------------------
+ID: kjp95nt # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Webapps: portswigger academy
+Tryhackme: pentesting paths 
+Certs: work towards OSCP, TJ null has a list of machines you can practice on various platforms.
+----------------------------------------------------------------------------------------------------
+ID: kjrt4xf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: sure, i'll look at it. thank you for the suggestion. much appreciated.
+----------------------------------------------------------------------------------------------------
+ID: kjpbfeo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thank you so much for the information. much appreciated.
+----------------------------------------------------------------------------------------------------
+ID: kjpdygn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve heard the PNPT is also a great exam and a good idea of what a pentest is really like as far as testing/reporting and debrief you should take it if you’ve already taken the class.
+----------------------------------------------------------------------------------------------------
+ID: kjq1gce # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: for that I've to go through their rest 4 courses also. I've taken only practical ethical hacking. I'll surely look at it according to your suggestion. Thank you so much for helping and sharing the information.   
+if you don't mind, can I follow you and knock you for some advice in future??
+----------------------------------------------------------------------------------------------------
+ID: kjqtkay # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think the practical ethical hacking class is the only one needed for the PNPT. At least when it first came out that’s how I remember it being. Yeah absolutely
+----------------------------------------------------------------------------------------------------
+ID: kjrsu7d # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thank you. I've seen the curriculum. It says all the courses are prerequisite. so need to finish them.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+POST ID: 10ctqgj / POST TITLE: What can I do with an iCloud email address?
+====================================================================================================
+My buddy and I are doing a project of trying to identify as much info as possible about an individual just by having an iCloud email address.
+
+*Disclaimer: this is in a learning environment and all of this is fake on purpose. Our professor is the iCloud account owner.
+
+We are somewhat new to this and besides from doing OSINT, is there anything else we can do for passive recon? We have Kali installed if there’s tools there that can help.
+
+Thanks for any tips!
+
+POST COMMENTS:
+====================================================================================================
+ID: j4jee7v # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well, I assume it is their main account. Apple does create throwaways through SSO and iCloud+. 
+
+You could start with > haveibeenpwned.com and see if the account has been used  with any breaches. 
+
+As for tools you could also use MOSINT which can  run several other tools such as SocialScan.
+----------------------------------------------------------------------------------------------------
+ID: j4ldp26 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Awesome, thanks for the reply. We can definitely check these things out. Still somewhat newer to navigating through Kali and using a lot of the tools in there, but this helps narrow it down a little more. Appreciate it!
+----------------------------------------------------------------------------------------------------

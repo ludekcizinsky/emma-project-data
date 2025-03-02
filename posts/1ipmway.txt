@@ -1,0 +1,14 @@
+POST ID: 1ipmway / POST TITLE: MSSP/SOC recommendations?
+====================================================================================================
+Hi folks. I just took over cybersecurity for a large org. In turning over rocks, I've discovered that our current outsourced Security Operations Center team has been... underperforming. 
+
+As such, I'm out looking for a new vendor to take over these duties (primarily Tier 1, 24x7, triage/file cases and escalate - based on our tooling and theirs)
+
+Anyone have any recommendations on who would be worth evaluating? 
+
+Appreciate any insights. 
+
+Edit: this is for a US based company that works on a global stage. Currently rebuilding the security stack, and team, but will end up with Datadog m, at least in the short term to at least get some visibility. 
+
+POST COMMENTS:
+====================================================================================================

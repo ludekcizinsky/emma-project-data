@@ -1,0 +1,6 @@
+POST ID: 1iod2i9 / POST TITLE: Storing JWT in local storage
+====================================================================================================
+So I'm trying to build an SPA and would like to hear your opinions on this. Considering that I'll make an effort to configure CSP and the frontend takes care of XSS, is storing auth jwt in local storage more secure than using cookies? Or are there are any other, better options that I'm not aware of?
+
+POST COMMENTS:
+====================================================================================================

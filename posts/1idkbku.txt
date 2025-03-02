@@ -1,0 +1,52 @@
+POST ID: 1idkbku / POST TITLE: Is flipper zero worth it?
+====================================================================================================
+Is the flipper zero worth it for learning more about ethical hacking regarding it's price?
+
+POST COMMENTS:
+====================================================================================================
+ID: m9zpt2u # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no.
+
+you are not learning thing with it, you practice with it.
+it is like asking "with a hammer, will i learn to forge ?" or "with a car, will i ilearn to drive ?". In both case, the answer is  "no, it is just a tool, not a courses". Same for FlipperZero.
+
+FZ use to send/receive comunication via multiple protocols. you can use it randomly to test stuff, like switch on/off your TV or trying to copy and reply old badges emission, which may teach you thing like "i didn't know this stuff/thing was using this protocol in that way" but it is still better to have, at least, minimum networking knowledge to be able to learn properly things from FlipperZero.
+
+But the tool itself is worth it otherwise.
+especialy with an ESP32 module or any wifi card which is not restricted.
+you also have a lot of documentation and Github repository to implement easily new options on your Flipper without doing too much manipulation.
+
+To Conclude :
+yes, it is worth it, but no, not for "learning thing" but more for "discoverying thing".
+----------------------------------------------------------------------------------------------------
+ID: m9znyef # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would say that is not for learning from scratch. I mean you need a bit of knowledge.
+----------------------------------------------------------------------------------------------------
+ID: mcvarok # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No, just buy a basic notebook with a compatible antenna with monitor mode
+----------------------------------------------------------------------------------------------------
+ID: ma0vwxg # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no its a tool that can be used for some minor penetration testing but is overall a gimmick.
+----------------------------------------------------------------------------------------------------
+ID: ma6jbtp # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No
+----------------------------------------------------------------------------------------------------
+ID: m9zsk00 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hmm, I understood.
+Thanks for the detailed answer. I have one more question, will these type of things still be relevant after 5-10 years?
+----------------------------------------------------------------------------------------------------
+ID: m9zo7rp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not learning from scratch, but trying out pentesting by myself after having the theoretical knowledge
+----------------------------------------------------------------------------------------------------
+ID: ma1etz4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hi i have opted for cyber security but my college is teaching none so i decided to learn myself but i dont know where to start can you please suggest me some courses this is just like learning from scratch....
+----------------------------------------------------------------------------------------------------
+ID: m9zujwm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i am not able to watch the futur, but from what i guess is yes, it will still be relevant in futur years, as i don't think that standard protocol for IoT and thing like that. As it will probably not suddendly disapear. And even if it drasticly change, the FlipperZero can be use to be compatible with other hardware, so it will never be a waste.
+
+
+but again, i am not a medium, i can not predict futur. This is just guessing, and to me, probabilities that IoT radicaly change (in therm of frequencies used, low level protocols, etc...) seem low to me.
+----------------------------------------------------------------------------------------------------
+ID: m9zxxa0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yep
+----------------------------------------------------------------------------------------------------

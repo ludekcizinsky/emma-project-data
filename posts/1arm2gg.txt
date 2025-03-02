@@ -1,0 +1,14 @@
+POST ID: 1arm2gg / POST TITLE: Can you ELI5 what happened?
+====================================================================================================
+A week ago my uni's website crashed and then threw out a big-ass list of at first glance meaningless numbers. Well after looking more closely it turned out that those were the login credentials of the whole staff and students. It looked something like this XXXXXXXXXX<<>>YYYYYYYY, followed by a line of randomized characters under (where X is user and Y is password). What could have happened to cause this? I'm using a throwaway since the whole situation is swept under the rug and some of the staff regularly use reddit.
+
+POST COMMENTS:
+====================================================================================================
+ID: kqkglc7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sounds like ransomware and they refused to pay so the criminals posted the credentials. That’s the only thing that makes sense to me
+----------------------------------------------------------------------------------------------------
+ID: kqo1k9o # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >What could have happened to cause this?
+
+An employee clicked onto the wrong link in a phishing mail.
+----------------------------------------------------------------------------------------------------

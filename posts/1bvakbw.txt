@@ -1,0 +1,12 @@
+POST ID: 1bvakbw / POST TITLE: Thumb drives
+====================================================================================================
+Hey guys I have two thumbs drives 32 GB each just sitting around that I got for 3d printing which I didn't need three I just need one. What would you suggest I put on them, a live kali, some tools/programs, make one into a "rubber ducky" if possible. What would you suggest? If you have an everyday carry thumb drive what's on yours? 
+
+POST COMMENTS:
+====================================================================================================
+ID: kxygdw2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i have an everyday carry thumb drive and its literally just for data storage. no kali/parrot/redhat/whatever/etc. basically only there if i need it. and even then its only carried when i have my laptop on me.
+----------------------------------------------------------------------------------------------------
+ID: kyg5e3r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Always good to have an extra thumb drive on hand, just save it for later.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+POST ID: 17v79ib / POST TITLE: Courses for Teenagers
+====================================================================================================
+Hi all,
+
+Teenager here wishing to become expert at ethical hacking.
+
+No prior knowledge, so starting from scratch.
+
+Any recommendations? (Free and paid?)  
+
+
+Thanks.
+
+POST COMMENTS:
+====================================================================================================
+ID: k99i4fh # OF UPVOTES: 13.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sign up for Tryhackme. Best I’ve seen for beginners and most of the content is free.
+----------------------------------------------------------------------------------------------------
+ID: k9apl72 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TryHackMe and HackTheBox. Some pretty neat tutorials there for beginners. I would suggest also watching reputable YouTube channels, such as LinusTechTips, to help with understanding and remembering. Happy hacking
+----------------------------------------------------------------------------------------------------
+ID: k9afl57 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: when you say no prior knowledge, what kind are we talking about, computer illiterate kind of no prior knowledge, or you have a basic understanding of computers and can use them? since your here im going to assume its the second, if thats the case start by watching youtube videos on the net+ (pronounced net plus or network plus), security + certification (professor messer is like the go-to dude for teaching the certification stuff online free). the actual certification is like $400 so i wouldn't worry about trying to get it but just getting the knowledge. don't just jump in head first into a course without knowing something before hand. plus you will save some money on courses in general. once you feel confident you know a bit more, i'd personally stuff from cloud guru, back when they were linux academy they had some great stuff and used them a lot while deployed with the military. another option that is frequently mentioned is udemy, i have personally never used them but i have heard great things about them. BUT a quick note, nothing (except the youtube stuff) is free, because nothing worthwhile is free. see if a parent will pay for a subscription or see if your school or school district has potential programs that would pay for it.
+----------------------------------------------------------------------------------------------------
+ID: k9kacqm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you really want to make progress for a legit career check out TCM PJNPT or INE eJPT. These programs aren't too expensive but have good reputations and will give you great education for the field. HTB is a great place and TryHackMe is good as well for free training but neither will get you a job like the first things I recommended to you.
+----------------------------------------------------------------------------------------------------
+ID: k9qv7vb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi! I'm a recently comptia certified security analyst. Would definitely recommend like previous suggestions, hackthebox, tryhackme for starting out. Another good one for when you get a little experience is hackthissite. Thats more of something thats more for on the development side. Plus learn how code works a little too, you'll have a much easier time trust me
+----------------------------------------------------------------------------------------------------
+ID: k9edwot # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Uk?
+----------------------------------------------------------------------------------------------------
+ID: k9ectk0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your recommendation, will take a look!
+----------------------------------------------------------------------------------------------------
+ID: k9ed2oy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your recommendations, will take a look!
+----------------------------------------------------------------------------------------------------
+ID: k9ecqgy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your detailed advice, and yes it is the second question you have asked.
+----------------------------------------------------------------------------------------------------
+ID: k9o4f44 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your recommendations! Will check them out!
+----------------------------------------------------------------------------------------------------
+ID: k9qzwl7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your advice! I will take a look at the suggestions you have kindly provided.
+----------------------------------------------------------------------------------------------------

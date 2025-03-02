@@ -1,0 +1,13 @@
+POST ID: 156oxa9 / POST TITLE: hacking and cyber
+====================================================================================================
+can someone help me in learning ethical hacking and cyber security as carrer path...
+
+POST COMMENTS:
+====================================================================================================
+ID: jt0s65x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1. Work on your research skills, they're extremely valuable in cybersecurity roles.
+2. Read the pinned post in the subreddit, because it answers your question: https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested\_in\_joining\_the\_ethical\_hacking/
+----------------------------------------------------------------------------------------------------
+ID: jt8348z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go to TryHackMe.com, great platform for beginners.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+POST ID: 1bzw30b / POST TITLE: Where to learn ethical hacking?
+====================================================================================================
+Hello everyone!   
+
+Recently I had a course about security informatics at my university  and I really got interested in the domain, especially the networking and  ethical hacking.   
+
+I want to ask, what are the best resource to learn ethical hacking.  Also from what I researched you can get a certificate for CCNA and  CyberOps from Cisco ( to work in an SOC) and I was wandering if the are  any certificate for ethical hacking from a trusted source.   
+
+I would love to work in SOC, but tbh I don't know what career path I  should take is CCNA and CyberOps enough or should I also study ethical  hacking?   
+
+POST COMMENTS:
+====================================================================================================
+ID: kysdzp1 # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Rule Number 5
+----------------------------------------------------------------------------------------------------
+ID: kyua5b7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Damn we are stepping with the wrong foot before even starting... Use google , that's the first thing to learn on your long ahead journey.
+----------------------------------------------------------------------------------------------------
+ID: kz3y6n1 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You need to get your A+ certification to break into the field.
+----------------------------------------------------------------------------------------------------
+ID: kyt4kpq # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To expand on that, there's a very easy to see stickied post in the subreddit for this exact thing: [https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested\_in\_joining\_the\_ethical\_hacking/](https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested_in_joining_the_ethical_hacking/)
+----------------------------------------------------------------------------------------------------

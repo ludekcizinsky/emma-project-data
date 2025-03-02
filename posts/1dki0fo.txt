@@ -1,0 +1,47 @@
+POST ID: 1dki0fo / POST TITLE: Sys Requirements For Beginner level Ethical Hacking.
+====================================================================================================
+Hello everyone, I just enrolled into a Ethical hacking course, I dont believe my potato pc can rin stuffs needed for this course,So thinking of buying a new one.Can y'all suggest me the Minimum/Decent specifications to look out for in laptop?
+
+POST COMMENTS:
+====================================================================================================
+ID: l9i1nxr # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hard disk space: 20 GB minimum, but 50 GB or more is recommended for storing large datasets
+
+RAM: 2 GB minimum for i386 and AMD64 architectures, but 4 GB is recommended
+
+Processor: Intel Core i3 or AMD E1 minimum, but a 32 or 64-bit CPU with at least 2 GHz of speed is recommended
+----------------------------------------------------------------------------------------------------
+ID: l9igleh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As you mentioned that you already have a PC, I suggested utilizing cloud computing services such as AWS, Azure, Google Cloud, etc.
+
+**Minimum Required Configuration:**
+
+- **Processor**: Intel Core i5 or AMD Ryzen 5
+- **RAM**: 8GB DDR4
+- **Storage**: 256GB SSD
+- **Graphics**: Integrated graphics
+
+### Good Configuration:
+
+- **Processor**: Intel Core i7 or AMD Ryzen 7
+- **RAM**: 16GB DDR4
+- **Storage**: 512GB SSD or 1TB HDD/SSD
+- **Graphics**: Dedicated GPU (e.g., NVIDIA GTX 1650)
+----------------------------------------------------------------------------------------------------
+ID: l9i1kzx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: use cloud computing 
+
+don’t buy 
+
+you will running multiple VMs so it requires ram least 16gb
+
+for password cracking   Gpu
+ 
+and storage least 500 of 1 tb ssd 
+go for nvme ssd 
+
+that’s it.
+and don’t go for mac book
+
+it might you cost more
+----------------------------------------------------------------------------------------------------

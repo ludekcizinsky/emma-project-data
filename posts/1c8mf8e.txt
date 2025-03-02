@@ -1,0 +1,11 @@
+POST ID: 1c8mf8e / POST TITLE: Bug Bounties other than web app
+====================================================================================================
+Bug bounties other than web
+
+Hey I am interested in big bounty but don’t want to go into the web app pentesting side of it cause I feel there’s more competition and its not my cup of tea. I love digging deep in files using linux command line basically forensics. I know basic C, Python and can learn any other language if needed as its just understanding the syntax, I know networking stuff.
+Just wanted to know which areas would suit me I just want to get started and please mention some sites where I could hunt and get responses.
+Any input will be appreciated.
+Thank you 💖
+
+POST COMMENTS:
+====================================================================================================

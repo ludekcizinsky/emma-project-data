@@ -1,0 +1,30 @@
+POST ID: 1596k47 / POST TITLE: Need help in termux
+====================================================================================================
+So i wantwd to download wireshark for wifi cracking on samsung via termux i followed the tutorial step by step but in the end in VNC server i put the command wireshark-gtk and it said command not found sorry for my bad English if you can help id be very appreciated
+
+POST COMMENTS:
+====================================================================================================
+ID: jtf2zgk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Never used termux, but what about just running wireshark? I'd imagine wireshark-gtk is the package name (vs wireshark-qt) for installation, but you'd start it with just wireshark.
+----------------------------------------------------------------------------------------------------
+ID: jthnbcy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: fearless rich slave wistful dinosaurs whistle workable chief deranged sheet
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+----------------------------------------------------------------------------------------------------
+ID: jtg9q6q # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any idea where can i install if from?
+----------------------------------------------------------------------------------------------------
+ID: jthq5fs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can i getva tutorial on how to do that plus my phone isnt rooted
+----------------------------------------------------------------------------------------------------
+ID: jtgaxsv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I thought you already installed it?
+
+    pkg install x11-repo
+
+    apt install wireshark-gtk
+----------------------------------------------------------------------------------------------------
+ID: jtgyph8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes but i dont know how to access the wireshark without vnc server
+----------------------------------------------------------------------------------------------------

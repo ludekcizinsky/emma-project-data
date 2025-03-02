@@ -1,0 +1,9 @@
+POST ID: 1gvqd6s / POST TITLE: Azure CloudQuarry: Searching for secrets in Public VM Images
+====================================================================================================
+A research attempting to find forgotten secrets by scanning inside 15K public Azure Images that can be used to deploy Virtual Machines.
+
+POST COMMENTS:
+====================================================================================================
+ID: ly6t5hg # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: in search for seeds
+----------------------------------------------------------------------------------------------------

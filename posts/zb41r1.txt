@@ -1,0 +1,43 @@
+POST ID: zb41r1 / POST TITLE: IP Address Doesn't Match Domain Name
+====================================================================================================
+Hi All,
+
+I'm just a student who does cyber security and I was wondering how to find an IP address of a website. I understand the usage of whois and all but the website that I'm testing has a firewall and it also hosts other websites too. The IP associated with the domain name doesn't match and would like some help / guidance to figure this out. Greatly appreciated... 
+
+Ace
+
+POST COMMENTS:
+====================================================================================================
+ID: iyp7l5r # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah sometimes it doesn't match due to reverse proxies or stuff like that. Why does it matter so much just out of curiosity.
+----------------------------------------------------------------------------------------------------
+ID: iypuwa8 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: iyv9kk0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you certain it's not just Apache vhosts with multiple sites hosted on the same IP and them just using the server name to serve the correct site? This is pretty common on shared hosting. 
+
+
+Otherwise, if the destination server behind the reverse proxy is Apache try adding a /server-status to the url, if they have mod-info it may tell you the real IP. 
+
+Are there signups or anything that triggers email? If they're not using SES or something similar the email headers can sometimes give away the real IP.
+
+You can also check headers like content-location or via header. If it's a load balancer you can look for the set-cookie header which they generally use for creating sticky sessions.
+----------------------------------------------------------------------------------------------------
+ID: iysuu3g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Me, I love Shodan. It's really good at pegging not only the IP, but also all the open ports. 
+
+https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+----------------------------------------------------------------------------------------------------
+ID: iyp8u9h # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Doing some testing for friends website. Need the right address for when writing the report and sending it to his technical team.
+----------------------------------------------------------------------------------------------------
+ID: iyrqoe2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, basically the IP produces a different website and says it has been changed.
+----------------------------------------------------------------------------------------------------
+ID: iyrru7x # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: iyrstk2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think the IP does host too, I believe that there is a firewall put in place, and there is a redirection to the main website. Going to have to check the cURL method once again. Thanks for the help 🙌🏾
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+POST ID: 1imeuyi / POST TITLE: Breaching The Perimeter: Using AI to Compromise 23 Healthcare Organizations
+====================================================================================================
+Agentic AI allows organizations to automate traditional human-driven security workflows. This blog post explores how LLMs can be used to automate web application security testing, covers software vendor supply chain trust, and the importance of combining data sources to discover vulnerabilities.
+
+[https://www.specular.ai/blog/breaching-the-perimeter-using-ai-to-compromise-23-healthcare-organizations](https://www.specular.ai/blog/breaching-the-perimeter-using-ai-to-compromise-23-healthcare-organizations)
+
+POST COMMENTS:
+====================================================================================================

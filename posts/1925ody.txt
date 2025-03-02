@@ -1,0 +1,30 @@
+POST ID: 1925ody / POST TITLE: Linux and Hacking
+====================================================================================================
+How good does your knowledge of Linux has to be for purpose of Hacking?
+
+POST COMMENTS:
+====================================================================================================
+ID: kh0rc46 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends what you’re trying to hack.
+----------------------------------------------------------------------------------------------------
+ID: kh0b42j # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's just scripting and bash you need to learn the only thing you kind of need to learn about Linux is the permission system and file system of Linux.
+----------------------------------------------------------------------------------------------------
+ID: kh0x7pw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No good question. You will need much more knowledge than just about the os.
+----------------------------------------------------------------------------------------------------
+ID: kh5k7vq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In Linux Learn regular expressions and awk,cut,shred like commands which helps you more than any tools
+----------------------------------------------------------------------------------------------------
+ID: kh0sisa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Web Hacking
+----------------------------------------------------------------------------------------------------
+ID: kh2ixw0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You forget the package manager, the firewall, the network tools, users, groups. It's all terribly easy though.
+----------------------------------------------------------------------------------------------------
+ID: kh0uank # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Very little. Knowing where sensitive files are will help. Also if you get command execution you will need to know bash to take it further. I recommend you do portswigger labs and OWASP juice shop they are both free.
+----------------------------------------------------------------------------------------------------
+ID: kh0zsbj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------

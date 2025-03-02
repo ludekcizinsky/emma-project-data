@@ -1,0 +1,21 @@
+POST ID: 12rune0 / POST TITLE: Pathway to Ethica Hacker
+====================================================================================================
+Hi Guys,
+
+I want to make a carreer into Ethical Hacking I really like the concept and I'm working my way up to become one. 
+Im currently learning for my CompTIA certs(A+, Network+ , Linux+ and Security+). 
+I also have a subscription on TryHackMe and i just started the Jr Pentest Pathway. I also have a Udemy course for Ethical Hacking. 
+I'm a bit overwhelmed with everything you can learn and need to know, I understand that it's hard work, lots of learning and practise 
+but im motivated and willing to keep pushing. 
+Do you guys have some tips on how I should approach this path? Because I dont have any experience I like to get some experience. 
+Is THM a good place to get this experience?
+
+POST COMMENTS:
+====================================================================================================
+ID: jgx55vw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme penetration testing paths are a great place to start. Take detailed and organized notes on what you learn. 
+Next step I recommend is thecybermentor practical ethical hacking class. It goes over basic network testing and Active Directory attacks. Optionally you can also take the PNPT. Then apply for jobs while you work on preparing for the OSCP. Try to get work to pay for it if possible and read r/OSCP If you can pass OSCP you should be able to land a job pentesting if you have good verbal/writing skills.
+----------------------------------------------------------------------------------------------------
+ID: jgzihif # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your reply. I’m going to keep learning with THM. I’m going to look into thecybermentor haven’t heard that one yet. But first I’m going to focus primarily on the Comptia certs. Thnx for the advice!
+----------------------------------------------------------------------------------------------------

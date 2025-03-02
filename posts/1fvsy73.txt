@@ -1,0 +1,36 @@
+POST ID: 1fvsy73 / POST TITLE: Does obfuscating and using np killer have to be like these?
+====================================================================================================
+Does every modded app maker with pure intention for his/her users have to contain the following detection when obfuscating and making a modded app?
+
+So there's this modded app that I tried to scan through Virus Total and the result is this:
+
+Link: https://www.virustotal.com/gui/file/1f43db7e5c26f753fee5e4528edd80f5b62cd00de8e8d7062d8cc05bd8634d3
+
+and as per hatching tria.ge here it is:
+https://tria.ge/241003-mpwhaazgrc
+
+As per the modded app maker his explanation comes with these statement:
+
+“Due to recent Google Play Store policy changes, some apps have altered their export and import codes, which has led to signature verification issues. When I modified it, I had to disable the signature killing(np sign), and as a result, it shows that there is a Trojan in that app.”
+
+“When I kill the signature verification with a np  kill sign , it definitely shows that there is a Trojan virus in it, not in all apps, but only in some.”
+
+Could he be somehow lying? As per Tria.ge? I don't know much about the website and how NP killer tool and obfuscation work it it has to be with the following detection. I just tried and it says the file for having CYBERGATE, PONY, SALITY, XWORM, XMRIG, STEALC, MODILOADER, METASPLOIT, OCTO, RHADAMANTHYS, DARKCOMET, WARZONERAT, CERBER, NANOCORE, ANDRAMAX, RAMNIT, etc. hope someone could clarify.
+
+POST COMMENTS:
+====================================================================================================
+ID: lq9n8kx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: lq9n9hp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: lqkizmo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Comentae
+----------------------------------------------------------------------------------------------------
+ID: lq9pu4p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do u mean the modded app is safe to use and the detection are false positives?
+----------------------------------------------------------------------------------------------------
+ID: lrfmrvn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Also yes
+----------------------------------------------------------------------------------------------------

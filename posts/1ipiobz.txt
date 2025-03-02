@@ -1,0 +1,6 @@
+POST ID: 1ipiobz / POST TITLE: Question about session persistence
+====================================================================================================
+If someone steals your session, do they still have access to it even after you log off from that session? Someone asked me this in relation to a blog article and I couldn't answer her. Thanks in advance for your help!
+
+POST COMMENTS:
+====================================================================================================

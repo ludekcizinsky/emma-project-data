@@ -1,0 +1,7 @@
+POST ID: 1irg4zp / POST TITLE: Open Source PAM Solution
+====================================================================================================
+Hello, I am trying to implement PAM for quite small company (less than 100 people, up to 20 prod servers). I've found [https://www.jumpserver.com/](https://www.jumpserver.com/) but Chinese affiliation kinda freaks me out ... do you have any vetted solution for Open Source (or reasonably priced) PAM solution?   
+Thanks a lot!
+
+POST COMMENTS:
+====================================================================================================

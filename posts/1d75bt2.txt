@@ -1,0 +1,51 @@
+POST ID: 1d75bt2 / POST TITLE: programming for ethical hacking
+====================================================================================================
+hi! as a guy who just started ethical hacking what are the basics that  i need to learn in  a programming language besides functions,variables,loops etc ... can you help me out guys please. 
+
+POST COMMENTS:
+====================================================================================================
+ID: l6xyuop # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Function calls, obfuscation, relevant libraries to your job goal. As someone aspiring to reach pen-testing, I focused in on Python, specifically threading, Sockets, web-scraping, and packet dissection and manipulation. Full disclaimer if your going for pen-testing. It’s what anyone pushing into cyber sets as a goal. You’ll want to build the fundamentals in a larger scale, I started as a technician, am working as a network administrator now with a focus on cybersecurity. And will be moving up towards a security analyst before finally moving towards red team. You’ve gotta see the big picture before you’ll understand the full scope of what you are doing and the footprints it leaves behind.
+----------------------------------------------------------------------------------------------------
+ID: l6wx23t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You don't really need to know how to program. It's important to know how to read some code and maybe script a little, but full on software dev isn't really required. The best languages to get familiar with will be bash, powershell, and python.
+----------------------------------------------------------------------------------------------------
+ID: l6zq2h7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You gotta know your code ins I been doing this so long bro but my learning was limited to age appropriate shi yk yk... You have to know how to do new lines in a matrix or printed comments and your string, values, integers, commands, and you gotta leave good comments for yourself to get right back on track with whatever you just coded last day or whatever
+----------------------------------------------------------------------------------------------------
+ID: l6xtnfh # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Visit a course.
+----------------------------------------------------------------------------------------------------
+ID: l6xd807 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: l80v7fw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey I need some help with my email I’ll pay. If anyone can do this for me please message me.
+----------------------------------------------------------------------------------------------------
+ID: l6zqaqb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I heard to learn bootstrap c c++ and Python
+----------------------------------------------------------------------------------------------------
+ID: l6zq6s9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I know you literally know this bro but yeah that's what you gotta Know the rest is on YouTube big bro
+----------------------------------------------------------------------------------------------------
+ID: l6xua7v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: does this apply for a pen tester ?
+----------------------------------------------------------------------------------------------------
+ID: l6xmhz6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's what I said. You don't need to be a full on software dev though.
+----------------------------------------------------------------------------------------------------
+ID: l6zrs8f # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: C and c++ are good for maldev, but not pentesting.
+----------------------------------------------------------------------------------------------------
+ID: l6zqgje # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cmon guys you're good if you can make something happen with C and you're an Ethical Hacker. It's your oyster learn whatever will make you more lethal over the phone
+----------------------------------------------------------------------------------------------------
+ID: l71pl74 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: alright thanks man apreciate your help !!!!
+----------------------------------------------------------------------------------------------------
+ID: l75kdiq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you. I'm not that experienced.
+----------------------------------------------------------------------------------------------------
+ID: l75kkil # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For sure bro that was a question I would have a good response to.
+----------------------------------------------------------------------------------------------------

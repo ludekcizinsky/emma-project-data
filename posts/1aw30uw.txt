@@ -1,0 +1,18 @@
+POST ID: 1aw30uw / POST TITLE: Looking for a partner (or partners to form a group) to start bug hunting / do CTFs together.
+====================================================================================================
+Hello, everyone.
+
+I'm writing this with the intention of finding a partner (or a few to form a small group) who has been participating in CTFs for some time and has intermediate experience and would like to start bug hunting and do CTFs together to enhance our skills. I find myself in such a position, and I feel that the journey has been quite solitary. So it would be good to continue alongside someone who also wants to share knowledge, resources, talks, passion for libre software (I only use libre software, except for this moment to comment on this). Building a path based on mutual aid, where we are open to giving and receiving help, without judging or discriminating against anyone, always with empathy. So, if you feel the same way, you already have moderate experience and would like to progress and start bug hunting, do CTFs as a team, and learn more but together, I would be grateful if you let me know.
+
+Note 1: If you're wondering about my experience, I've been doing CTFs (mostly web and reversing) every single day for a year now. I haven't done CTFs in duos or groups, only individual ones. And I've been writing terminal-based programs (Go, Python and C) for six years.
+
+Note 2: I'm not on Twitter, Discord, or any other social media platform. We could look for an open-source/libre alternative to communicate. :)
+
+POST COMMENTS:
+====================================================================================================
+ID: krhnojd # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You sound like someone interesting, I don't have that much experience yet so I hope you find a good team. Be careful, the only thing I learned is that there is a lot of ego and toxicity, although ego is certainly important for the field.
+----------------------------------------------------------------------------------------------------
+ID: kri9u06 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you. I like your humility. If you're a quick learner, know how to research, and are aiming to do bug hunting, my DM is also open.
+----------------------------------------------------------------------------------------------------

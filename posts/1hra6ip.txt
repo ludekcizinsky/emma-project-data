@@ -1,0 +1,33 @@
+POST ID: 1hra6ip / POST TITLE: Spill it is Java Spring Boot really more secure than Node JS Express or Nest JS or Gin Go backend 
+====================================================================================================
+I want to know from the fellow Ethical Hacking community. 
+
+If a backend is made by 3 people with no prior experience, both had done some tutorial and made some REST APIs for 6 months.
+
+ Assume they all knew JS, Go and Java simultaneously.
+
+Now will the Java Spring Boot backend be really more secure? 
+
+Consider them regular College Fresher. No fancy IQ.
+
+POST COMMENTS:
+====================================================================================================
+ID: m5c96dx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It not about framework. It is about developer. 
+
+In the past, yeah, if you chose php, there were tons of hidden hacking ways. 
+
+But not now with modern frameworks, most of my code review bugs cause by developers not framework. Yeah Java spring boot make hard to read the code with one does not coding java like me. But doesnt make Springboot more or less secure.
+----------------------------------------------------------------------------------------------------
+ID: md3kxdz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on the developer. But spring boot is server side and it's usually a bit more secure
+----------------------------------------------------------------------------------------------------
+ID: m5789gj # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Above my pay grade
+----------------------------------------------------------------------------------------------------
+ID: m578h00 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What do you mean? I don't get it.
+----------------------------------------------------------------------------------------------------
+ID: m57g43r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I know nothing about it
+----------------------------------------------------------------------------------------------------

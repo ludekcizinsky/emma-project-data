@@ -1,0 +1,18 @@
+POST ID: 15heqry / POST TITLE: What are some good, cheap certifications ($100 or less - $200) that people actually know about, that you can get lots of jobs with?
+====================================================================================================
+I've gained quite a lot of knowledge and I'm thinking about getting certified. As I've said, I want a cheap certification ($100 or less - $200) that most people in the ethical hacking community actually know about and know exists, and that you can get a lot of jobs with?
+
+POST COMMENTS:
+====================================================================================================
+ID: juo5ire # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Certs are good,  but if you want to impress a prospective employer build out homelab and demonstrate your skills.  Be prepared to answer questions.
+----------------------------------------------------------------------------------------------------
+ID: jupfdjv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Certs are nice, but certs won't get you jobs anymore. That used to be the case, but in the current job market, it just doesn't work like that anymore. And that's the case not only for ethical hacking/cybersecurity but for all of IT.
+----------------------------------------------------------------------------------------------------
+ID: jvhcfih # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: jxxp5dy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks, I'll check it out later.
+----------------------------------------------------------------------------------------------------

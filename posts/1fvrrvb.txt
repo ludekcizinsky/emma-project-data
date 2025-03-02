@@ -1,0 +1,15 @@
+POST ID: 1fvrrvb / POST TITLE: Do You Think Bug Bounty Hunting Will Still Be Relevant in 10 Years?
+====================================================================================================
+With the rapid development of AI and automated security testing tools, do you think the role of bug bounty hunters will change or fade away in the next decade? Would love to hear everyone's thoughts!
+
+POST COMMENTS:
+====================================================================================================
+ID: lqa4df6 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As long as hackers exist, bug bounties will too. There’ll be less low hanging fruit but new kinds of exploits to find with different companies
+----------------------------------------------------------------------------------------------------
+ID: lqbdi9e # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think it skyrockets over the next few years with the introduction of AI code gen
+----------------------------------------------------------------------------------------------------
+ID: lq9gg3g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: At the current rate it will become irrelevant in 5 years
+----------------------------------------------------------------------------------------------------

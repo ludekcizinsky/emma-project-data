@@ -1,0 +1,9 @@
+POST ID: 10bgki0 / POST TITLE: How to use crunch
+====================================================================================================
+I’m trying to find out a password generator that can create every possible password with numbers in it as well
+
+POST COMMENTS:
+====================================================================================================
+ID: j4b4p55 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Look at the hashcat manual and check out the flags for a, mask, and increment.
+----------------------------------------------------------------------------------------------------

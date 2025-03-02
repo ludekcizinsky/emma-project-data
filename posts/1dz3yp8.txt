@@ -1,0 +1,14 @@
+POST ID: 1dz3yp8 / POST TITLE: Sharing My SQL Injection Vulnerability Scanner
+====================================================================================================
+Hey everyone,
+
+I hope this is useful to some of you. I wanted to share a project that has been really helpful in several of my pentests. It's called **SQLiHunter** - a SQL Injection (SQLi) vulnerability scanner written in Python.
+
+You can check it out on GitHub: [SQLiHunter](https://github.com/vnzgnn/SQLiHunter)
+
+Feel free to use it for your research and pentesting purposes. Contributions and feedback are welcome!
+
+Cheers!
+
+POST COMMENTS:
+====================================================================================================

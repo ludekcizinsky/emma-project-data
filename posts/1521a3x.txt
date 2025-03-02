@@ -1,0 +1,30 @@
+POST ID: 1521a3x / POST TITLE: Pentesting no more: Why it's time to move from Pentesting to Ethical Hacking
+====================================================================================================
+Hey everyone,
+
+Sharing an article that [André Baptista](https://twitter.com/0xacb) recently wrote. [It's here](https://blog.ethiack.com/blog/pentesting-no-more-why-its-time-to-move-from-pentesting-to-ethical-hacking).
+
+What are your thoughts?
+
+POST COMMENTS:
+====================================================================================================
+ID: jsdmofx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Article is just a sales pitch. 
+Maybe pentesting does need a new name now since theres so many "automated" pentests
+----------------------------------------------------------------------------------------------------
+ID: jsfz5j6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not even a really good sales pitch.  Most large Companies invite ethical hacking.  Pen-testing has its place.  Networks change everyday.  Pen-testing checks to make sure the doors are closed and locked.  Internal and external validations are needed to ensure compliance but is not an every day event.
+----------------------------------------------------------------------------------------------------
+ID: jsyaicy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: what's the difference? i'm curious the difference between this, bug bounty, and ethical hacking. are they all in the same niche? who's naming these and why are they mushing them together
+----------------------------------------------------------------------------------------------------
+ID: jsyakok # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT:  what's the difference between this and ethical hacking?
+----------------------------------------------------------------------------------------------------
+ID: jsynm9l # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hacking is hacking. Bug bounties are still hacking, but you get paid a bounty for the bugs you find. Ethical hacking still hacking, but not illegally.
+They are doing pentesting which is professional hacking that business hire people to do, but company is labelling their manual pentesting as "ethical hacking".
+----------------------------------------------------------------------------------------------------
+ID: jsyc6vo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You having a bad day?
+----------------------------------------------------------------------------------------------------

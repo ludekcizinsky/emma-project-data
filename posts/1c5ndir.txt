@@ -1,0 +1,18 @@
+POST ID: 1c5ndir / POST TITLE: In which order should I learn tryhackme learn paths?
+====================================================================================================
+Hello, i am newbie in ethical hacking, huge amount of sources recommended me to start from tryhackme learn paths, but  there are so many of them. In which order should I learn them?
+
+POST COMMENTS:
+====================================================================================================
+ID: kzvcbsi # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Introduction to cysec> presecurity> complete begginer > web fundamentals > comptia(optional) /security engineer(optional but I would do it)> jr pentest/ soc1 > offensive pentesting (it's mostly isolated practice labs) > red team / cyberdefense /soc2 > DevOps 
+
+
+I think I forgot none. The `/` means `or` depending on what you want you can do one, the other or all. The `>` mostly separates them for what are in my opinion difficulty / complexity jumps.
+----------------------------------------------------------------------------------------------------
+ID: kzvcg0q # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tanks a lot
+----------------------------------------------------------------------------------------------------
+ID: l29z6w5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: are these room all free?
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+POST ID: 1insxjr / POST TITLE: Which are the most boring cyberSec branches and which the more interesting ones?
+====================================================================================================
+I've watched a couple of introductory videos on cybersec careers like this:
+
+[https://www.youtube.com/watch?v=eRvv-WidX-o&ab\_channel=MyDFIR](https://www.youtube.com/watch?v=eRvv-WidX-o&ab_channel=MyDFIR)
+
+and to me, governance and user education(awarness?) seem the most boring. In the first case you become a kind of burocrat and in the second case you need to have a ton patience in explaining the same basic concepts to non technical people again, and again, and again.
+
+The most exciting ones might be playing in red team in simulations(it's more interesting to try to break in then to defend a system imho),
+
+forensic(I find analyzing interesting too)
+
+and
+
+threat intelligence.
+
+What's your opinion about this?
+
+POST COMMENTS:
+====================================================================================================

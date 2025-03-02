@@ -1,0 +1,188 @@
+POST ID: 1ius03n / POST TITLE: KnowB4 Alternative
+====================================================================================================
+So I've only used KnowB4. It works just fine. I saw a post on here about Hoxhunt and thought wow that's neat. Well after meeting with them, the cost seems to high. I think it's worth it for overall safety but..... It eats up budget. What have you found, or is KnowB4 the best?
+
+POST COMMENTS:
+====================================================================================================
+ID: mdzvxbp # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've been using both and I've stuck with KnowBe4. Hoxhunt looks way cleaner and it's more modern but KnowBe4 just have so much more features. Also the pricing for Hoxhunt is very disadvantegous for them, it's just very pricey.
+----------------------------------------------------------------------------------------------------
+ID: me1ujmw # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://scientologymoneyproject.com/2022/11/01/scientologist-stu-sjouwerman-and-his-chief-hacking-officer-kevin-mitnick-sell-knowbe4-for-4-6-billion/
+----------------------------------------------------------------------------------------------------
+ID: me0nvkc # OF UPVOTES: 37.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Microsoft attack simulator comes with the E5 licence. 
+Has the added bonus that you don't need to fuck around permitting IPs or domains, it just drops the email straight in your inbox.
+----------------------------------------------------------------------------------------------------
+ID: mdzx720 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've used Knowbe4 for their phishing awareness training. It's pretty complete and updated, and works fine.
+
+The technology is not very sophisticated and could be replicated by an in-house development team led by a knowledgeable security specialist. At the core, it's a platform to send e-mail, some continually improved e-mail templates, some nifty phishing domains to send from, a web bug system, and telemetry reporting. I wouldn't consider paying a lot more than Knowbe4 charges for that service, unless someone could explain a value proposition to me.
+----------------------------------------------------------------------------------------------------
+ID: me22p4u # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Huntress Curricula is simple and effective.
+----------------------------------------------------------------------------------------------------
+ID: mdzyumn # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There is a Seattle startup called PhishCloud founded by an ex red-team lead / ethical hacker worth checking out.  They do much more than training but worth the introduction.
+----------------------------------------------------------------------------------------------------
+ID: me18zie # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We are looking at using Microsoft Threatsim.  It’s included in our e5 bundle and does training and phishing.   It will do the job and it’s “free” (well….included).
+----------------------------------------------------------------------------------------------------
+ID: me0t3k5 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: BullPhish ID is pretty robust and has more useful features.
+----------------------------------------------------------------------------------------------------
+ID: me211hf # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Curricula by huntress is amazing
+----------------------------------------------------------------------------------------------------
+ID: me3wimk # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check out adaptive, they are a "modern" KnowBe4 in my opinon.
+----------------------------------------------------------------------------------------------------
+ID: me1hl6q # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Microsoft attack simulator works pretty well for us.
+----------------------------------------------------------------------------------------------------
+ID: me3njx3 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I like KnowBe4, but man, the “smart groups” stuff is just annoying to set up and tie to trainings. They have the new “AIDA” for training stuff, which I was quoted at about $7k a year for under 1k users and while it gets rid of the need for smart groups, it literally just assigns the same two training modules to everyone who fails, so it is overpriced to all hell.
+
+When the contract is getting close to being up, I am going to probably just go back to Microsoft’s offering since it is already licensed, and I find it annoying that even though we have the highest package you can get, they are already putting in add ons that are stupid expensive. Also, we bough the higher package for the “Global Blacklist”, which doesn’t even work because they can only send 500 items to a list, even if you have Entra P2 licensing, which gets you up to 15k per list. I literally had a ticket open with them for over a year ago, and they pointed me to their community forums so that others can vote on my idea to fix a product that I paid for.
+----------------------------------------------------------------------------------------------------
+ID: me44umx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cofense crying in the corner after selling out to Russian oligarchs, whoops.
+----------------------------------------------------------------------------------------------------
+ID: me0jafb # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Been using KnowBe4 mostly for years now. Tried some others, but nothing ever came to the level of what we wanted as KnowBe4. It's all a bit pricey regardless.
+----------------------------------------------------------------------------------------------------
+ID: me0wpcx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Beauceron is an excellent cybersecurity awareness training platform. Canadian company, small and agile, great support.
+----------------------------------------------------------------------------------------------------
+ID: me09497 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In the past, I have used PhishingBox for phishing simulations. There were decent templates, sending domains, and good customizability options. It also had some training assignment options, but I ran with teachable moment landing pages. It did the job and was relatively inexpensive for a phishing simulation solution.
+
+I am now using Proofpoint Security Awareness, which is outstanding, but costs would be in the KnowB4 realm.
+----------------------------------------------------------------------------------------------------
+ID: me0fo3u # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We use knowbe4 and i like it a lot. Very intuitive and easy to use. I demoed Wizer a few months ago and that also looked pretty legit. If you’re looking to move away from knowbe4, wizer may be a good option
+----------------------------------------------------------------------------------------------------
+ID: me0yo2h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are you open to working with an MSSP on this at all? I’ve only ever used KnowBe4 in the past as well and it did seem quite basic as mentioned above.
+----------------------------------------------------------------------------------------------------
+ID: me1csn3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looking over this company now as they do not sell your data and it's 100% free no matter how many users. Looking at how it stays profitable with this model but it's worth a look.
+[Phishr](https://www.phishr.com/)
+----------------------------------------------------------------------------------------------------
+ID: me1gs40 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you intend to keep managing your security awareness training program? KnowB4 is great but it’s self-managed, meaning someone who is in scope for the training is also managing the training, creating a blind spot, as you aren’t getting truly tested if you know what’s coming ahead of time.
+
+I like Hook Security for a fully-managed solution. And I’ve heard PhishFirewall is good, but haven’t worked with them directly.
+
+We can also do a managed KnowB4, where an MSSP handles your KnowB4 campaigns.
+----------------------------------------------------------------------------------------------------
+ID: me1yhcn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I migrated from KnowBe4 to PhishingTackle a few years ago, and the training is better, the templates are equally as good. To top it off, it’s a fraction of KnowBe4’s offering and is more feature rich, and it’s a managed service. Can’t speak highly of this enough.
+----------------------------------------------------------------------------------------------------
+ID: me238tk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not a bad option, but there are better ones on the market such as Mimecast or BullPhish ID.
+----------------------------------------------------------------------------------------------------
+ID: me2izfp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you have an E5 just use Microsoft’s platform; done and done.
+----------------------------------------------------------------------------------------------------
+ID: me2mg2r # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What are you using them for? 
+
+Know that whatever they offer you, you can usually drop them by like 75% - those guys are damn crooks. Knowbe4 is tough to truly bargain with… maybe 40%.
+----------------------------------------------------------------------------------------------------
+ID: me3avg8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We've been using Beauceron Security for a few years and absolutely love the platform. It's pretty comprehensive, from simulations, training, policy acknowledgement, automated phishing response and managing your communications.
+
+PM me if you're interested.
+----------------------------------------------------------------------------------------------------
+ID: me3j2n1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dumped knowb4.  Used MS attack simulator for a while, it's basic and can get the job done. Currently using NINJIO which has some of the best training videos I've seen, and is a step up from MS, and users like the training better than knowb4.
+----------------------------------------------------------------------------------------------------
+ID: me3jocd # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check out CyberCoach. They have a refreshing alternative.
+----------------------------------------------------------------------------------------------------
+ID: me3y4n2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think Huntress has an offering too, the training modules that come with it seemed pretty good.
+----------------------------------------------------------------------------------------------------
+ID: me3ybtl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: GoldPhish is good. Very simple and straightforward
+----------------------------------------------------------------------------------------------------
+ID: me5h8sq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We use KB4 at my job. I really like but the smart group setup is very manual but it wasn't to bad. We have each department set up and based training off what the department does also did the same for phishing campaigns. So far so good.
+----------------------------------------------------------------------------------------------------
+ID: me5jyfj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ninjio
+----------------------------------------------------------------------------------------------------
+ID: me60csw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We use wizer. It is affordable and does what we need it to.
+----------------------------------------------------------------------------------------------------
+ID: me6799q # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There are 56 security awareness training vendors, and even more products from bigger companies.  I shared a Google Sheet here:  [https://docs.google.com/spreadsheets/d/1BYyVJC2O4mRFk4QvOtRl9rDwryn4-4AieodBaS6EOP4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BYyVJC2O4mRFk4QvOtRl9rDwryn4-4AieodBaS6EOP4/edit?usp=sharing)
+----------------------------------------------------------------------------------------------------
+ID: me6npad # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 0.8%-4% of your users are responsible for like 80%-90% of your incidents. Interestingly the research done in this area closely maps with the proportion of employees who cause lost-time-incidents on, for instance, factory floors.
+
+Having that said, what are you trying to achieve with your awareness training program? Or rather, what are you hoping it is achieving for you?
+
+Also, why look for an alternative if KnowB4 is functioning fine and affordable? What is it not delivering on?
+----------------------------------------------------------------------------------------------------
+ID: me9ep96 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Right-hand.ai has a strong product that focuses on the human risk factor combining more data points than just email usage
+----------------------------------------------------------------------------------------------------
+ID: me9psbk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Knowb4 = Scientology
+----------------------------------------------------------------------------------------------------
+ID: meaz9ya # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: KnowBe4 has Inside Man so I say that always wins.
+----------------------------------------------------------------------------------------------------
+ID: meb2xab # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Proofpoint Security Awareness Training PSAT
+----------------------------------------------------------------------------------------------------
+ID: me214my # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You don’t like scientologogista calling you on sunday? 
+----------------------------------------------------------------------------------------------------
+ID: me1tbjw # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We used Knowbe4 too until we recently switched to Mimecast. So far, so good.
+----------------------------------------------------------------------------------------------------
+ID: me0iood # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You'll need to tell us more about what features you use (phishing simulation, report phishing button, training, LMS, etc.) before anyone can give you an answer that suits your needs.
+----------------------------------------------------------------------------------------------------
+ID: me0vf89 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Following. Thank you for asking about this OP.
+----------------------------------------------------------------------------------------------------
+ID: me7a99x # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Mind providing a ball park cost?  We’ve been with KB4 the last 7 years. I’ve been able to negotiate aggressive terms at each renewal but the system just feels stale. That said it’s going to be hard to justify a 2-3x cost increase if that’s the case.
+----------------------------------------------------------------------------------------------------
+ID: me2lpgi # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Stu is still CEO and they employ lots of Scientologist cult members at their Clearwater HQ.
+----------------------------------------------------------------------------------------------------
+ID: me6ks5g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This
+----------------------------------------------------------------------------------------------------
+ID: me5qw6b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: +1 to this, api based for the simulation delivery, reasonable pricing and the training content is actually good and they way it’s done, learners cannot complete the courses without having paid attention as it’s pretty interactive.
+----------------------------------------------------------------------------------------------------
+ID: me1bd6n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Keep us updated n how this goes.
+----------------------------------------------------------------------------------------------------
+ID: me20czj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I was hoping someone would mention this product.  I am shopping it.  Only problem I see is that Kasaya owns it.
+----------------------------------------------------------------------------------------------------
+ID: me2x0sw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I also use BullPhish ID, which has some cool simulations.
+----------------------------------------------------------------------------------------------------
+ID: me5h78m # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I use this as well. What I like about it that I do not have to modify my SPF record nor allow a bunch of domains or ip addresses for the Attack Simulator to work. Other third-party vendors is a requirement so there’s always a calculated risks if these vendors were to be compromised the bad actors can send malicious emails using these allowed domains and ip addresses.
+----------------------------------------------------------------------------------------------------
+ID: me3avn9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cybersecurity) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: meb8k79 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We are in the same boat. Love the KB4 platform itself (diamond subscription) but the content is stale and some of it I cringe at when we mandate annual training. Hoxhunt is top of our list to review.
+----------------------------------------------------------------------------------------------------
+ID: me4ffeb # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You lost me at the K word
+----------------------------------------------------------------------------------------------------

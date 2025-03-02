@@ -1,0 +1,19 @@
+POST ID: 1imydk8 / POST TITLE: Security concerns with Apple Intelligence
+====================================================================================================
+Hi,
+
+We have iOS devices all throughout our company. Apple has recently released Apple Intelligence which is turned on by default on iOS 18.3. 
+
+I was hoping to get some feedback on the privacy/security implications for this feature. I understand that Apple has stated that the ML is done on the device end and personal data is not stored on their servers. However, there is also chatGPT with Siri integration which they state you have to explicitly opt out of sharing data with openAI at some point (which is unclear). 
+
+The second matter is that Apple Intelligence as it stands now has the potential to highlight and promote phishing emails. Since it doesn't have the understanding of context in emails, it seems to prioritize any emails that sound urgent, which is most phishing emails (https://discussions.apple.com/thread/255960029?sortBy=rank). 
+
+This combined with the email summary feature means that users that are not tech-savvy run the risk of opening these phishing emails more often. 
+
+Hoping to get some feedback on any more security risks that may not be talked about. 
+
+  
+Thanks
+
+POST COMMENTS:
+====================================================================================================

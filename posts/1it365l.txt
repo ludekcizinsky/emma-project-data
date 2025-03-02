@@ -1,0 +1,6 @@
+POST ID: 1it365l / POST TITLE: A Signal Update Fends Off a Phishing Technique Used in Russian Espionage
+====================================================================================================
+Google warns that hackers tied to Russia are tricking Ukrainian soldiers with fake QR codes for Signal group invites that let spies steal their messages. Signal has pushed out new safeguards.
+
+POST COMMENTS:
+====================================================================================================

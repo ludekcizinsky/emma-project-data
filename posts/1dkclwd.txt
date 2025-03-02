@@ -1,0 +1,25 @@
+POST ID: 1dkclwd / POST TITLE: Kali linux with vírus 
+====================================================================================================
+I try to download the kali linux to learn but the opera gx and the anti virus both windows native and the other one block the download it's some problem with the site kalilinux or its realy a attack?
+
+POST COMMENTS:
+====================================================================================================
+ID: l9h1jks # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take a look at the official documentation at Kali.org:
+
+https://www.kali.org/faq/#i-downloaded-kali-linux-and-my-antivirus-says-it-is-a-malware
+----------------------------------------------------------------------------------------------------
+ID: l9iu9rz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Think this through, you are downloading a penetration OS, something that has exploits built into it. Of course it's going to flag as a virus. Make an exception for it and try re-downloading
+----------------------------------------------------------------------------------------------------
+ID: l9gye1f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: First, I would download Kali only from the official website and check the SHA256sum. Then you should be safe.
+
+Kali linux contains many scripts and programs for pentesting that will raise alarm bells in antivirus software. So warnings might be no real issue.
+----------------------------------------------------------------------------------------------------
+ID: l9h4wk9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks i gonna see tomorrow morning this part
+----------------------------------------------------------------------------------------------------
+ID: l9jrhk7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Chrome did the same thing to me last week....
+----------------------------------------------------------------------------------------------------

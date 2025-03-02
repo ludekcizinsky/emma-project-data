@@ -1,0 +1,23 @@
+POST ID: 1iume5d / POST TITLE: task help
+====================================================================================================
+We have a backup of home directory in file with some information regarding user activities are recorded.
+
+Please find and identify where the user has been connecting to.
+
+Specify flag ctf{} with IPv4 decimal dotted address as a flag.
+
+Provided hints: 1) You will need to bruteforce ;). That is the only option
+
+2)You can speed up by writing correct regular expressions!
+
+Tried for 3 hours to crack this, no luck :(  
+the file is in: [https://www.swisstransfer.com/d/747be52d-5d40-43f9-ad7e-c56e4dc9bc58](https://www.swisstransfer.com/d/747be52d-5d40-43f9-ad7e-c56e4dc9bc58)
+
+POST COMMENTS:
+====================================================================================================
+ID: mdzundf # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nice try North Korea. First you try getting hired to our companies, next you try outsourcing your hacking to reddit disguised as games.
+----------------------------------------------------------------------------------------------------
+ID: mdzz3kt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bruh, it's just a CTF game.
+----------------------------------------------------------------------------------------------------

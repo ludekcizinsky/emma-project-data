@@ -1,0 +1,34 @@
+POST ID: 12yhkwz / POST TITLE: I have done with CEH Cert, what should I do next?
+====================================================================================================
+I am thinking of CPENT it covers all the latest technologies that I have not worked on and I would definitely want to get my hands on them, also OSCP is what I compared it with OSCP, it is an industry known but does not cover the tech stack of CPENT I found it outdated. 
+
+What do you think what should I look after, I have a job and I want to upgrade my knowledge also looking for career advancement which one should I consider?
+
+POST COMMENTS:
+====================================================================================================
+ID: jhnfe3m # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Htb academy with the CPTS certification, newer certification but has lots of up to date information and tools as well as being very hands on.
+----------------------------------------------------------------------------------------------------
+ID: jho10h9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How is it relevant to ethical hacking ?
+----------------------------------------------------------------------------------------------------
+ID: jhq5a2m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What do you want to do?  InfoSec management or stay on technical track?  If you want to keep on techin' for now -- I'd go for OSCP.  Take your time and focus. Go find and review all the tips and resources from those who were once in your shoes. It's much more difficult than CEH.
+----------------------------------------------------------------------------------------------------
+ID: jhq8eq7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TCM Security's Practical Ethical Hacking course is fantastic, and about $30 USD.
+
+Edit - I highly recommend doing the TCM course before OSCP so you can trim down some of the learning curve and spend more time hitting the labs.
+----------------------------------------------------------------------------------------------------
+ID: jjluqvg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m in EC Council University for the CEH as well now best of luck to you the only thing I don’t like the labs and stuff seem a little outdated like Cain and Abel was working fine in the lab, but on my home network is useless.
+----------------------------------------------------------------------------------------------------
+ID: jhs8lwq # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I already have CEH, looking to get in depth with pentesting with up-to date knowledge and dont wanna feel outdated.
+----------------------------------------------------------------------------------------------------
+ID: jkbzlsj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How was your experience? if you compare with rest if you have any idea about other certs.
+----------------------------------------------------------------------------------------------------
+ID: jhu990l # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TCM courses are infinitely more relevant and hands on than CEH
+----------------------------------------------------------------------------------------------------

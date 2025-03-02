@@ -1,0 +1,36 @@
+POST ID: 1gp7yxx / POST TITLE: Discovered smb is unencrypted in our environment and have a couple of questions in trying to strengthen it
+====================================================================================================
+Hello,
+
+I am not sure if this is the correct subreddit for this or if this is allowed in here, if not please remove. Also, I am an aspiring ethical hacker, current InfoSec/SecOps team member, former SysAdmin for the same company. So I currently wear a SystemsAdmin/SecOps hybrid hat for my current InfoSec team (just some background).
+  
+  I recently discovered in my work environment that we are using smb2 and do not have smb3 enabled on any of our file servers. Also things like EncryptData flag are off (which from my research even if this were set to True it wouldn't matter aka no effect since smb2 doesn't have encryption). Our head of security has tasked me to look in to a plan to slowly and carefully implement smb3 in our environment.
+  
+  I did some initial research and talking to myself with Copilot to understand any concepts that I had questions about. I figured I'd try to sniff the traffic on a file server to view unencrypted smb traffic being generated. I've dug into the different opcodes for smb2 and I get a bunch of results for all array of opcodes:  
+  0x00 SMB2/NegotiateProtocol  
+  0x01 SMB2/SessionSetup  
+  0x02 SMB2/SessionLogoff  
+  0x03 SMB2/TreeConnect  
+  0x04 SMB2/TreeDisconnect  
+  0x05 SMB2/Create  
+  0x06 SMB2/Close  
+  0x07 SMB2/Flush  
+  0x08 SMB2/Read  
+  0x09 SMB2/Write  
+  etc etc.  
+  
+  However I don't really see what I'm expecting. I see things like file name, file path, domain, user name, pre-auth NTLM hash, and all of the other things in the smb2 header and hex view but nothing crazy that I expected. No plain text passwords (I guess that's because smb2 passes authentication via NTLM and Kerberos so it doesn't pass plaintext creds in the packet). But I didn't see any crazy plaintext info that I thought I would or maybe I don't know what I'm looking for. The goal I'm trying to achieve is to present to the different stakeholders (app teams, server teams, etc) the current risks and why we need to begin testing smb3 on all apps and infrastructure.
+  
+  Could someone please help guide me in the right direction or ask me some questions that would hit a light bulb of mine? Would really appreciate all white hatting/systems related assistance anyone can provide.
+
+Thank you.
+
+POST COMMENTS:
+====================================================================================================
+ID: m5iws8m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting
+----------------------------------------------------------------------------------------------------
+ID: mbpw7oo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to show them the risks I recommend using this tool called slinger to highlight all the things that can be captured via smb
+https://github.com/ghost-ng/slinger
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+POST ID: 1axpivf / POST TITLE: What is your advice to me?
+====================================================================================================
+I'm full stack developer and i want to learn cyber security and hacker what's the instruction what i follow to learn that ?
+
+POST COMMENTS:
+====================================================================================================
+ID: krpl3io # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If taking courses is an option, you could look into that. You could also look into certification pathways, like from CompTIA (Net+ > Sec+ > PenTest+/CySA+). You don’t have to get the certs, but they could help outline the order of the content you’ll need to learn. With your background, you could look into application security. 
+
+If you’re familiar with VM’s and Linux, VulnHub offers community-sourced VM’s that are designed to be exploitable, so you could create a NAT network VM in VirtualBox to practice. This would consist of at least your VM and the VulnHub VM on the network, so you can scan or exploit it however you want.
+
+Get ready for the gatekeeping. A lot of cybersecurity “professionals” that you’ll find in these threads don’t take kindly to questions and insist that you need to have extensive Linux and network/system engineering experience before you can even think about security. While it would obviously help, this simply isn’t true. Just stay interested, do your research, try things, and learn.
+----------------------------------------------------------------------------------------------------
+ID: krqfylx # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start on tryhackme and see if you like it. Beginner lesson are free. TCM academy and hackthebox academy are also great. Portswigger academy for webapps.
+----------------------------------------------------------------------------------------------------
+ID: kstwdg1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm also a cyber security student and I'm finding students interested in cyber security and ethical hacking, if you are interested you can contact me, my contact number is : +919040303048
+----------------------------------------------------------------------------------------------------
+ID: krplmj3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Fine, thank you
+
+But is this difficult?
+----------------------------------------------------------------------------------------------------
+ID: krra2ia # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok، thank you 🌹
+----------------------------------------------------------------------------------------------------
+ID: krpm3nv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It is very difficult but so is software development, in different ways. It will take a lot of time.
+----------------------------------------------------------------------------------------------------
+ID: krpmeun # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well how long do I need to learn?
+----------------------------------------------------------------------------------------------------
+ID: krpo70z # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s no set amount of time, everyone is different. Depends on the level of experience with OS’s, networking, and security that you already have.
+----------------------------------------------------------------------------------------------------
+ID: kw1stn0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 3 years, 6 hours a day, for basics.
+----------------------------------------------------------------------------------------------------
+ID: krpox0w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok , thank you
+----------------------------------------------------------------------------------------------------

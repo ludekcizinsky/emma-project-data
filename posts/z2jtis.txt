@@ -1,0 +1,51 @@
+POST ID: z2jtis / POST TITLE: burp suite failed to connect localhost
+====================================================================================================
+I've made a localhost vulnerable website on a kali machine, using foxyproxy inorder to connect with the burpsuit on my host machine.
+
+I can browse the internet and burpsuit work just fine until i try to connect the localhost for my vulnerable website.
+
+Once i try it, i get a webpage message says burpsuite failed to connect localhost.
+
+1. I tried change the network connection to bridged and not nat, doesnt work.
+  2. I tried to go on firefox about:config and enable network proxy hijacking local to true, doesnt work.
+  3. I checked so many times that the configurations are correct,  they are.
+
+I use a docker in order to load the vulnerable website. Is the docker the reason for it ?
+
+POST COMMENTS:
+====================================================================================================
+ID: ixi970w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You should make sure that you can access the website in your browser in the first place (e.g. http://localhost:80). If you can access it, the next step would be to go to the Proxy tab in Burp Suite and click the Open Browser button, which opens a pre-configured Chromium that proxies all its traffic via Burp.
+----------------------------------------------------------------------------------------------------
+ID: ixi9qbv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I found the problem.
+My stupid ass brain thought it was possible to use burp on the host and use burp's proxy for the local host of the machine...
+----------------------------------------------------------------------------------------------------
+ID: ixiacis # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Happens to the best of us sometimes, nice work figuring it out!
+----------------------------------------------------------------------------------------------------
+ID: j5u09nu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am trying to do the same, but I have not yet understood why it is not possible, can you explain?
+----------------------------------------------------------------------------------------------------
+ID: j5v6mcy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have dev server (vitejs) on localhost:3000, and I needed to mock some requests coming from the browser to this local server. burp was sending requests to the external web normally, but when I tried to intercept requests to localhost - it returning me a page with an error saying that it was unable to connect to my local server (although it was working properly, I could use it in a separate browser without a proxy configured on burp).   
+
+
+So after a few hours of agonizing, I just took https://httptoolkit.com - and it's just work as expected
+----------------------------------------------------------------------------------------------------
+ID: jrtqdkq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your connections coming through Burpsuite aren't seen by the local application server as coming from localhost. Most likely you have your local server configured to only listen to connections coming from localhost. You need to allow it to respond to external connections too.
+
+For example, perhaps in your `package.json` you  have something that looks like:
+
+    "scripts": {
+      ...
+      "start": "pnpx nx serve your-app --configuration=development"
+
+Change this to:
+
+
+    "scripts": {
+      ...
+      "start": "pnpx nx serve your-app --configuration=development --host"
+----------------------------------------------------------------------------------------------------

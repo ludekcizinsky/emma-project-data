@@ -1,0 +1,133 @@
+POST ID: 1g08j1o / POST TITLE: where do i start
+====================================================================================================
+ok so i’m really interested in making a career out of ethical hacking. problem is i don’t know where to start, and everywhere i look for tips they always say something following the lines of “you have to have some knowledge of computers” and i have no knowledge of anything, but everyone starts somewhere right? so where do i start? thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: lr6ykk5 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CompTIA ITF+
+----------------------------------------------------------------------------------------------------
+ID: lr70jvi # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hacking requires a very strong understanding of the fundamentals. Start with A+, Network+, Security+. After that I'd recommend Hack The Box Academy. HTB blows everything else out of the water. They have modules on Linux/Windows basics that you'll need to know, and then take their CPTS path. Another good choice would be TryHackMe, it's a bit more beginner friendly over HTB, but HTB content is still vastly superior to anything out there. TCM-Sec is another good beginner resource for hacking which I'd say is between THM and HTB. After this you'll be well on your way to having a good pentesting career. I would say at this point you'd be at a beginner hacker level. After that you can start diving deeper into things like scripting (Bash/PowerShell/Python.) After that you can move on to exploit development with C/C++/C#/Rust/Go/etc.
+----------------------------------------------------------------------------------------------------
+ID: lrb16a5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.professormesser.com
+
+If that material is too complex at your level, I’d recommend you start off with learning about hardware. 
+
+What are all of the components that make up the inside of a computer? How do they interact? What are the different features of different types of those components? What does RAM stand for? What about SSD? What do those things mean?
+
+Your question is sort of like “how do I design an engine?”  And the answer is that first you have to know exactly how an engine works. What can you tweak? What can’t you tweak?
+
+Start unpacking the magic
+----------------------------------------------------------------------------------------------------
+ID: lrd551b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hackthebox!!
+----------------------------------------------------------------------------------------------------
+ID: lrdqefo # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Everyone is giving paragraphs of "you need a cert" but not actually giving any advice on how to get started which is frustrating given you've stated that you "have no knowledge of anything".
+
+My advice is to familiarize yourself with the Linux command line, basic networking principles like IP addresses and how they work, protocols, & ports, and if you may, basic computer introduction. Worry about everything else later. I'd be happy to provide resources if necessary.
+----------------------------------------------------------------------------------------------------
+ID: lrjj0d3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dont ever ask on reddit, 99.99.99% of "hackers" on reddit will just tell you either "your question is too basic (deletes it)" or "The point of "hacking" is to learn by yourself", this heppens bc the people who learned "hacking" think they are above us for sitting in one chair rotting for 56 hours trying to research how to do something
+----------------------------------------------------------------------------------------------------
+ID: lr8jzim # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I pesonally started coding, Java was my first language, followd by HTML and CSS. What got me into hacking though was friends that did it, and honestly being a teenage boy, we coded fake Hotmail and Yahoo login pages, back when MSN Messenger and Yahoo Chat were a thing lol and would send them to girls and basically ransom them for their accounts back, but yes, everyone starts somewhere
+----------------------------------------------------------------------------------------------------
+ID: lrgmzd6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go to comptia and check out the roadmap to becoming a cybersec analyst. Youll start with the itf+. Either that or get a job and just go to college.
+----------------------------------------------------------------------------------------------------
+ID: lrisxyv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's the best way to learn Linux commands line?
+----------------------------------------------------------------------------------------------------
+ID: lrgj6k8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dress up like Neo from the Matrix, walk into a bank, pull out your Lenovo IdeaPad and start clicking away.
+
+After a few moments call on a walkie talkie, "I'm in."
+
+You'll be quickly confronted by security personnel, one of them might have some Cybersecurity experience and you can ask them for some good recommendations on where to start.
+----------------------------------------------------------------------------------------------------
+ID: lr961wz # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: IT Pro TV has YouTube content free covering a lot of the material.
+----------------------------------------------------------------------------------------------------
+ID: lr7ae1z # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok, so to start basically just learn everything i can about A+ network+ and security+?
+----------------------------------------------------------------------------------------------------
+ID: lr7lm8x # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What do you mean when you say A+?
+----------------------------------------------------------------------------------------------------
+ID: lrf9gu5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thank you so much!!!
+----------------------------------------------------------------------------------------------------
+ID: lrmvlv9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please share those with me too I'm starting in this
+----------------------------------------------------------------------------------------------------
+ID: lrh3i87 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Would love to talk to u about the resources that are beginner friendly and almost idiot proof lol
+----------------------------------------------------------------------------------------------------
+ID: lrmw2g8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is so accurate!!!
+----------------------------------------------------------------------------------------------------
+ID: lrev6gz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: do u remember how long it takes for you to be able to actually hack something such as that email thing?
+----------------------------------------------------------------------------------------------------
+ID: lrlh56q # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I remember being on tech support with a couple of network engineers because I was having problems getting logged into our router at the office.  When we finally got the problem resolved, I actually said out loud "I'm in" and couldn't believe that that had just come out of my mouth.  I was kicking myself for the rest of the day.
+----------------------------------------------------------------------------------------------------
+ID: lr7iae6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes.  Those are certifications, and the knowledge needed to pass them are the building blocks of everything leading up to being able to start understanding basically *anything* in the infosec world.  If you don't understand how a PC makes it way out to the internet logically, then trying to learn something like network discovery is basically reading a foreign language.
+
+A+ cert gets you the basic computer skills that build the foundation for knowing the ins and outs of PC hardware and software (and a touch of networking information).
+
+Net+ cert builds further on how networks work: The OSI layers, hardware, IP addressing, and how everything connects from the internet down to each individual host.
+
+Sec+ is your foundational security certification where you'll show that you understand cryptography, system/network hardening, methods of attack, compliance/regulations and current standards, etc.
+
+Getting all three is a good start to being able to learn anything in EH, but there's more to it than that that you won't learn prepping for a certification: Research skills, troubleshooting, and general thinking out of the box.  Being able to properly research and find solutions for things that may not be obvious are absolutely necessary for getting into this field.
+----------------------------------------------------------------------------------------------------
+ID: lr96m0o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CompTIA A + certification
+----------------------------------------------------------------------------------------------------
+ID: lrf9xsl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Of course!
+----------------------------------------------------------------------------------------------------
+ID: lrmzf71 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure
+----------------------------------------------------------------------------------------------------
+ID: lrh9lp6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure. Why?
+----------------------------------------------------------------------------------------------------
+ID: lrewiig # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: depends really, they would ask to see a picture of me, and I would send them the "picture" but it was the fake login page i created, and id tell them they needed to log in to whatever account it was, and it would email me their username and password when they did, little bit of coding, mostly social engineering
+----------------------------------------------------------------------------------------------------
+ID: lr7nvus # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok, thanks. where do i find this information, like i’m sure i just can’t do you tube, so what programs would you recommend?
+----------------------------------------------------------------------------------------------------
+ID: lr7q87u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you define basic computer skills? Because I’m thinking on things like I believe are pretty much basic like what the hardware does and its components. As well things like boot a os or even just clean your disks.
+----------------------------------------------------------------------------------------------------
+ID: ls0aikp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just trying to find a roadmap to make sure I’m learning the proper basics
+----------------------------------------------------------------------------------------------------
+ID: lr81vsd # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: These are things that are obvious to the average user.  The basics would be basics of what is under the hood.  Basic networking, basic programming,  etc.
+----------------------------------------------------------------------------------------------------
+ID: lrbwt1t # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basics in this case would be something like how you may know that a PC consists of a motherboard, cpu, memory, storage, and peripheral cards, but do you know *how* memory talks to the cpu, or what RAM even consists of at it's most logical level?  So basic may not be the *best* word to describe that level of knowledge, but in the grand scheme of trying to get into cybersecurity at even an entry level, those ideas/concepts are as basic as they get.
+----------------------------------------------------------------------------------------------------
+ID: ls0bies # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's good
+----------------------------------------------------------------------------------------------------
+ID: lr9o45a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basic programming? But each language has its own basic standards. Won’t be better learn programming logic?
+----------------------------------------------------------------------------------------------------
+ID: lrcw5v0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So, I think it would be “basic informatics knowledge” maybe?
+----------------------------------------------------------------------------------------------------
+ID: ls0bwtd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you have any recommendations for beginners?
+----------------------------------------------------------------------------------------------------
+ID: ls5byku # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: RTFM
+----------------------------------------------------------------------------------------------------

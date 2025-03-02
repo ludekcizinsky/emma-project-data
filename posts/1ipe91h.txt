@@ -1,0 +1,25 @@
+POST ID: 1ipe91h / POST TITLE: Need Advice: SIEM & Monitoring for an Isolated, End-of-Support Network
+====================================================================================================
+Hey everyone,
+
+I’m caught between management and IT on a tricky issue. We have an isolated network that is EOS (End-of-Support), meaning any changes could cause downtime—which I will escalate to management for risk acceptance—but at the end of the day, the responsibility still falls on me.
+
+However, management is pushing for monitoring due to regulatory and compliance requirements. Right now, we have no data sources or defined use cases—just a mandate to "implement monitoring."
+
+I'm thinking of starting with agentless monitoring to minimize risk, but I’d love some input on:
+
+Best SIEM for this type of setup (preferably something lightweight and non-intrusive).
+
+Alternative approaches to monitoring without jeopardizing system stability.
+
+Lessons learned if you’ve dealt with a similar situation.
+
+
+Any insights would be greatly appreciated!
+
+
+_____ 
+Regulatory requirements mandate activating monitoring on critical information assets and privileged user accounts.I’ve added these details after my original post for better clarity
+
+POST COMMENTS:
+====================================================================================================

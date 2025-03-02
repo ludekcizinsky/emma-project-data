@@ -1,0 +1,16 @@
+POST ID: 1incil8 / POST TITLE: Would you say your org is reasonably 'secure' if you draw up a list of critical engineering(prod servers, db), business, compliance etc requirements and go through them one by one and find they have satisfactory controls?
+====================================================================================================
+I have to present to eng and product leadership the state of our security, and am struggling to come up with the definition of our 'universe' that we have to keep 'secure'.
+
+So I figured, 
+
+* Draw up a list of our most important components both eng and non eng for our business
+* Less prioritize, for now, less important env's like test or non internet facing components 
+* Ensure the monitoring and controls around them are adequate
+
+If we define the above as the universe we are responsible for, we can come up with a rough number of where we are. This obviously excludes physical security, personal laptops, etc.
+
+ANY feedback is welcome, thanks!
+
+POST COMMENTS:
+====================================================================================================

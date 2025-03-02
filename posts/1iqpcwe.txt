@@ -1,0 +1,26 @@
+POST ID: 1iqpcwe / POST TITLE: Hiding Shellcode in Image Files with Python and C/C++ -> Now Even Stealthier Without WinAPIs
+====================================================================================================
+Hi everyone! I just released a major update to my GitHub project on hiding shellcode in image files.  
+Previously, the code relied on WinAPIs to fetch the payload from the resource sections. In this new update, I’ve implemented custom functions to manually parse the PEB/PE headers, completely bypassing the need for WinAPIs. 🎉
+
+This makes the code significantly stealthier, taking evasion to a whole new level. 🔥
+
+Check it out here:  
+🔗 GitHub Repository:  
+👉 [https://github.com/WafflesExploits/hide-payload-in-images](https://github.com/WafflesExploits/hide-payload-in-images)  
+🔗 Full Guide Explaining the Code:  
+👉 [https://wafflesexploits.github.io/posts/Hide\_a\_Payload\_in\_Plain\_Sight\_Embedding\_Shellcode\_in\_a\_Image\_file/](https://wafflesexploits.github.io/posts/Hide_a_Payload_in_Plain_Sight_Embedding_Shellcode_in_a_Image_file/)  
+📚 Updated Table of Contents:  
+1️⃣ Hide a Payload in an Image File by Appending Data at the End  
+2️⃣ Extract the Payload from an Image File on Disk Using C/C++  
+3️⃣ Store the Image File in the Resources Section (.rsrc) of a Binary File  
+4️⃣ Extract the Payload from the Image File in the Resources Section (.rsrc)  
+5️⃣ NEW: Extract the Payload from the Image File in the Resources Section (.rsrc) via PEB Parsing - No WinAPIs Needed!
+
+I hope this update inspires fresh ideas or provides valuable insights for your projects.  
+As always, I welcome any thoughts, feedback, or suggestions for improvement. Let me know in the comments!
+
+Happy hacking! 😀
+
+POST COMMENTS:
+====================================================================================================

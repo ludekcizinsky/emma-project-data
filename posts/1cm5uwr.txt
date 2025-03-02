@@ -1,0 +1,21 @@
+POST ID: 1cm5uwr / POST TITLE: Am I on the right path?
+====================================================================================================
+So I am a newbie to the world of ethical hacking and cybersecurity. I am a first year student and this is the path I'm following. 
+I am learning from portswigger labs web security academy for the pentest skills, and for networking skills I have opted a course for cisco certified network associate certification course on udemy by david bombal.
+I have good enough experience on linux like ububtu, and recently shifted to kali coz..... its kali.
+
+And a little background about my tech skills.
+I have good knowledge about web development with frameworks like django and flask. And in dbms I know and have used mysql.
+
+So just would like to know if I'm on right path if I wanna become a good ethical hacker/cybersecurity person. 
+
+
+Am I on the right path?
+
+Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: l2y6mxn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have a Coursera Plus subscription ($60/m) and I’m able to access Microsoft’s Cybersecurity course and IBM’s Cybersecurity Analyst courses for “free” since I have a paid sub. I mention this to say you might want you see if you could get more bang for your buck by doing a “one stop shop” subscription like I’m doing that would let you access thousands of top certifications. 😊
+----------------------------------------------------------------------------------------------------

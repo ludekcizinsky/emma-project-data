@@ -1,0 +1,13 @@
+POST ID: 1cle86j / POST TITLE: NEED HELP WITH SQLMAP
+====================================================================================================
+Am still new in this ethical hacking thing and am facing troubles in finding the right tamper script 
+So like 
+Is there a way  I can know which tamper script to use during an SQL injection using 
+SQL map
+
+
+POST COMMENTS:
+====================================================================================================
+ID: l4hfv65 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is no way to know the right tamper only if you already know everything about the target otherwise just pay attention to the sqlmap logs during the attack.
+----------------------------------------------------------------------------------------------------

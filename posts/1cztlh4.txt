@@ -1,0 +1,49 @@
+POST ID: 1cztlh4 / POST TITLE: Any Help....
+====================================================================================================
+Hey everyone,
+
+&#x200B;
+
+A few weeks ago, I got my EJPT certification from INE, but now I'm unsure about what to do next. I'm thinking between going for OSCP or switching into bug bounty hunting.
+
+&#x200B;
+
+I'm really into hacking, pentesting, reverse engineering, and malware dev. But there's a big problem—I'm from Somalia. Here, certifications like EJPT don't mean much, and there are hardly any pentesting jobs, since most people and companies don't know much about hacking. Remote work is also tough because of legal issues. so spending time/money to road which currently closed it seems bit not good idea. 
+
+So, I'm thinking of switching to bug bounty hunting for a while. Two reasons: I want to break free from the 9-5 grind and work from anywhere, and I want to pursue my passion for hacking, even if pentesting isn't an option right now. Plus, if I do well in bug bounty hunting, it could lead me go back to my dream of learning reverse engineering and malware dev while i work remotely as bug bounty.
+
+&#x200B;
+
+Here are my questions:
+
+Given all this, do you think I should focus on bug bounty hunting as a career and specialize in web app hacking?
+
+How long do you think it'll take me to learn the basics of bug bounty hunting, like the OWASP Top 10, and start hacking?
+
+And do you have any good resources to recommend? I've heard PortSwigger is good.
+
+POST COMMENTS:
+====================================================================================================
+ID: l5ljlhe # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think bug bounty hunting is a good path for you given your current geographical constraints. Regardless whether is pentesting or bug bounty hunting, you still satisfy your passion as both are types of hacking. There is a bright future in bug bounty hunting. You can work from different places and the only minimum required is an internet connection and your willingness and determination to find bugs.
+
+  
+Since this is web app hacking, I suggest you focus on basic web technologies first such as html, php, and javascript. Then study OWASP. PortSwigger is a good start as you mentioned. The amount of time needed to learn the basics depends on your experience on how quickly you can learn things. Try also going to CTF platforms like hack the box or try hack me and hack vulnerable web apps there.
+
+  
+I won't try to learn web app hacking, reverse engineering, and malware development at the same time as those are different areas and you will only end up with a burn out. Try to focus on bug bounty hunting first. If you find that its not what you want, then try to switch to different area.
+----------------------------------------------------------------------------------------------------
+ID: l5qqyfa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please be aware it is extremely difficult to make a living wage via bug bounty. Based on your other posts it looks like you need to learn the basics first. You shouldn’t expect to find your first paid bug for 6-24 months depending on the effort you put in
+----------------------------------------------------------------------------------------------------
+ID: l80uy21 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey I need some help with my email I’ll pay for the help of course.
+----------------------------------------------------------------------------------------------------
+ID: l5ln6mv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i very much apperciate your advice Thanks. i will go with bug bounty and try my best to succeed on put it to work. also I've found out that htb has bug bounty career (sadly entirely not for beginners ) so i will try when i am little bit advanced.
+
+Thanks again.
+----------------------------------------------------------------------------------------------------
+ID: l5ltq0g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Welcome
+----------------------------------------------------------------------------------------------------

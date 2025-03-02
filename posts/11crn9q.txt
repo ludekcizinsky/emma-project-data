@@ -1,0 +1,18 @@
+POST ID: 11crn9q / POST TITLE: A little bit of guidance, please?
+====================================================================================================
+So I have started my cyber security undergraduate certification program in June of 2022. I have booted and used Linux for the first time in September. I instantly fell in love with the idea of becoming an ethical hacker after I started tinkering with Kali-Linux, but at the same time I have been doing my best to learn administrative tasks and python at the same time. I understand there is s ton to learn to become a ethical hacker. My question is… Do I cut down, or cut out the hacking practice right now so I can learn more python while I study for the basic certs (A+,net+,sec+) or should I just strictly focus on the basics and start where I left off?
+
+POST COMMENTS:
+====================================================================================================
+ID: ja528my # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: well some where in the middle u are going to study programming it is a must
+so start withbit then you will have to start some networking u can take network + and a bit of ccna ( u can finah the course if you are going to choose network as stusy field)
+then u can start with CEH.
+at thia point you can try bug bounty you will have to practice in portswigger
+
+after you have done some bug bounty you can finsh OSCP
+ now you can choose your field ( pentester or red teamer).
+----------------------------------------------------------------------------------------------------
+ID: ja67vr4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok, got it! I love burp suite and will do more work in OSCP, just actually started a net+ prep class (part of my program) and work on some bug bounty’s right along with more programming. I have actually been using pycharm edu to get a better understanding. Oh, I thought one would have to go through penetration testing before Red Team. Red Team is definitely my end goal! I greatly appreciate your advice!!!!!
+----------------------------------------------------------------------------------------------------

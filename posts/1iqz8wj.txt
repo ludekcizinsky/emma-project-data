@@ -1,0 +1,8 @@
+POST ID: 1iqz8wj / POST TITLE: Microsoft AZ-500
+====================================================================================================
+I'm currently revising for my AZ-500 through Azure Labs, Measure Up Mock tests and Microsoft Learn Content.
+
+If anyone has completed this, has this opened you up to further career opportunities if able to put the Azure Knowledge to practice?
+
+POST COMMENTS:
+====================================================================================================

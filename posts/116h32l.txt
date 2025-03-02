@@ -1,0 +1,15 @@
+POST ID: 116h32l / POST TITLE: Was doing some exploratory homework in wireshark and noticed some stuff that wasn’t covered but made me curious.
+====================================================================================================
+Morning folks,
+
+So I was doing some basic exploratory homework for one of my classes where we open a session in wireshark, did some commands in windows poweshell, and then filtered and observed specific packets. 
+
+I had first used wireshark a few months ago for a different class and didn’t use it much. This time I’m using it on a completely different wireless network and noticed tons of lines highlight black(with red text) or highlight red. These highlights werent observed on the other network I used and weren’t involved at all in the home work. Why are they different? Is that traffic flagged as suspicious?
+
+POST COMMENTS:
+====================================================================================================
+ID: j9ie73d # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The Wireshark [packet colorization](https://www.wireshark.org/docs/wsug_html_chunked/ChCustColorizationSection.html) page says that black background with red text means "bad TCP". To sum it up, referencing [this](https://superuser.com/questions/100009/interpret-wireshark-captures#:~:text=TCP%20checksum%20%2F%20Bad%20TCP%20is,the%20problems%20of%20your%20network.) superuser post, it's to do with something called "checksum offloading" on your interface, which is to do with packets being transmitted in a funny way.
+
+The red background has 3 different meanings, so I'll let you refer to the first link for information :)
+----------------------------------------------------------------------------------------------------

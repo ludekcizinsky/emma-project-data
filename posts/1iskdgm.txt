@@ -1,0 +1,10 @@
+POST ID: 1iskdgm / POST TITLE: GRC Platform - Alternative Routes
+====================================================================================================
+Have any of you crazy people done anything interesting for programme management and general GRC in the Microsoft Power Platform (model-driven apps for example)?
+
+Looking at Drata and Auditboard.
+
+
+
+POST COMMENTS:
+====================================================================================================

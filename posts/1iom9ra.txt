@@ -1,0 +1,21 @@
+POST ID: 1iom9ra / POST TITLE: What do you say to someone who's convinced a password manager is bad for them?
+====================================================================================================
+Let's call him Bob.
+
+Bob likes using his personal "password system" and it does generate traditionally strong passwords that are unique for every site.
+
+Now Bob knows that password managers are out there, but doesn't like them because:
+
+1. Many are paid
+2. They require a tool and that tool isn't going to be where he is all the time
+3. 2FA is stronger anyway
+4. Centralizing passwords with a 3rd party is a risk.
+
+And that's basically it. Bob wants to be able to log in to his accounts from any computer anywhere any time and the password manager is a delay or block to doing that. If he's at his parent's house and needs to check his mail; blocked. Print a ticket at the hotel business center; blocked. At work where he can't use the manager; blocked.
+
+Bob understands the security advantage, but doesn't see that it's worth it when his passwords are "good enough".
+
+What would you say to someone in this situation?
+
+POST COMMENTS:
+====================================================================================================

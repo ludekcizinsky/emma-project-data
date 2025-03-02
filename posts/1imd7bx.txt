@@ -1,0 +1,12 @@
+POST ID: 1imd7bx / POST TITLE: So many people here are not actually cybersecurity professionals
+====================================================================================================
+Is there a sub for actual cybersecurity professionals? 
+
+There are a lot of casuals (for lack of a better term) here who are misinformed and don't understand the first thing about cybersecurity, or maybe even computers in general... Have become very frustrated with that. I'm sure this will get downvoted into oblivion, but I just needed to vent and seek some advice.
+
+For example -- just tried explaining to someone how the Brave browser adding Javascript injection could be a security vulnerability (and is therefore relevant to this sub), but got downvoted massively for that comment. I don't care, because at the end of the day it's Reddit and who gives a shit, but trying to explain simple things to people who are not informed is exhausting, would like to find a space where we are all more or less on the same page. 
+
+Any recommendations? Better, more serious subs?
+
+POST COMMENTS:
+====================================================================================================

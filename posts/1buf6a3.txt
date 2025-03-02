@@ -1,0 +1,44 @@
+POST ID: 1buf6a3 / POST TITLE: Accidentally promoted
+====================================================================================================
+I have become the default IT guy at my company and I'm not really big into ethical hacking I just know how to work on computers. I know our cyber security is garbage and I would like to fill the role better as far as showing that we have vulnerabilities and whatnot. What are some good sources to learn everything I need to know for at least every level for now and where I can grow from here. Also any recommendations from hak5 and the like besides the wifi pineapple and a flipper zero? Thank you in advance, this has always interested me and I would love to move this direction for a career. 
+
+POST COMMENTS:
+====================================================================================================
+ID: kxt29lx # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >Also any recommendations from hak5 and the like besides the wifi pineapple and a flipper zero?
+
+If you're starting from a place where you don't have a security or network background, please don't spend any money on tools like a pineapple or a flipper.  You're more than likely liable to cause more harm than good.
+
+If you've "become the default IT guy" at your company, then chances are that you're at a small-ish business, and need to treat it that way.  You're not looking to hack the gibson or defend government secrets, so immediately jumping to "I need to buy hak5 gear" will just show your boss that you're probably in over your head.  If you can't fully explain to the money people what it does, why you need it, then don't bother with it.  A flipper is (sorry to folks who love it, but my infosec team has three and we all agree) a fun (mostly) mayhem causing toy that loses its luster after a few weeks.  A pineapple really isn't going to do much for you in terms of defending your network and patching vulnerabilities, unless your goal is to trick employees to logging into your fake captive portal.
+
+So here's my advice: Start small and don't try diving in the deep end of gadgets.  Patch your servers and software, turn off unnecessary ports and services, take inventory of your network hardware and update firmware where needed, and then start creating a map of your attack surface to build off of that.  If your work has the resources, have them pay for some certifications like Net+ & Sec+ to get you started to build your knowledge base.  If your network has decent hardware with logging, build a SIEM, start seeing where your connections are going and what's coming in.  Follow some infosec blogs and security briefings so you can stay up to date as to what the new attacks out there are and see what could possibly affect your network/systems.  Finally, because I've seen people fuck this up so many damn times when instead of working more on the defensive side of things they think it's time to install kali and poke things: don't pentest your production environment unless you know what you're doing and NEVER without full consent and a properly structured objective and scope.  Your live system/network is \*not\* the place to cut your teeth on.
+
+As far as ways to grow and learn, besides studying for certification courses (Net+, Sec+, CySA+, SSCP), I personally loved HackTheBox and TryHackMe.  They're the perfect balance of gamified learning.
+----------------------------------------------------------------------------------------------------
+ID: kxsy0pp # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pentester here. From all the classes I’ve taken TCM academy network pentest class will probably be the most useful for a beginner. Internal networks are usually terribly configured and you can go from no creds to DA in a few hours or less. Tryhackme has tons of free material also and is gamified so it’s fun. If you’re interested in WiFi stuff you just need a cheap adapter that supports monitor mode and packet injection.
+----------------------------------------------------------------------------------------------------
+ID: kxxix3w # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agree with all other posts. Depends on how much of an IT guy you are. In the real world configurations are king. So you could utilize tools like ansible, acas, scap, etc for configurations scans to get your feet wet and get an idea what's going on in your domain.
+----------------------------------------------------------------------------------------------------
+ID: kxu19sq # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your input I'll use those resources, also I was looking for ideas on what I may need as I have literally a garbage work laptop that has like 8gb ram so kind of looking for an IT starter edc. And the exact reasons you said is why I excluded the pineapple and flipper. The flipper seems like it would get me in more trouble than anything else and the pineapple is overkill for a legitimate entry level tests I'm trying to do to show we have vulnerabilities, I just kinda needed the push in the right direction to get actual data I can show them to be like "security bad, be better". You have been very helpful thank you so much
+----------------------------------------------------------------------------------------------------
+ID: kxxj0w2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What branch?
+----------------------------------------------------------------------------------------------------
+ID: kxxlxti # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ?
+----------------------------------------------------------------------------------------------------
+ID: kxxs56z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Disabled vet, which branch?
+----------------------------------------------------------------------------------------------------
+ID: kxxwoyj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh lol USAF survival guy
+----------------------------------------------------------------------------------------------------
+ID: kxy3r6c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice, Army ATC disabled vet here
+----------------------------------------------------------------------------------------------------
+ID: ky0c89j # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice! We are many
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+POST ID: 18rckrg / POST TITLE: Cyber Security and AI
+====================================================================================================
+Hey everyone, I was thinking about Ethical Hacking as a profession, but I wonder how quickly will AI be used for this field and how necessary will people be if AI can hack or program better than you can?
+
+Cheers!
+
+POST COMMENTS:
+====================================================================================================
+ID: kf0kacs # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There's always going to be a human element involved in cybersec. AI isn't going to take anything over. AI isn't some smart consciousness, it generates text based on data given to it and made to sound human when it provides feedback. That's it. Machine Learning would be better for pentesting because ML focuses on a certain task and does it better and better over time. Even still, you will need a human to control it and tell it what to do. I don't really ever see AI/ML taking over this space in place of people.
+----------------------------------------------------------------------------------------------------

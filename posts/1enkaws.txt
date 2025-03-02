@@ -1,0 +1,38 @@
+POST ID: 1enkaws / POST TITLE: Best free/open source VM for malware analysis
+====================================================================================================
+So I come from a IT background with a degree in cyber security. The issue is, I know how to use different tools on kali and very savy with the terminal to get into something but I was never on the other side of the tools.
+
+I recieved an email this morning that states they caught me watching p***, now I know it's spam and they would of found my name and email from a data dump but it has a pdf attachment which might contain malware.
+
+Im very curious to find out what's on that pdf and I want to open it on a vm that is locked down just incase there is any malware.
+
+Therefore, I reach out to you. What is the best most secure free/opensource vm built for malware analysis or do I just use Oracle vm with a virtual disk and go from there? Or is there a different way to tackle this issue and future issues.
+
+Side note, ill be sending the email to a temp email then I'll open it from there.
+
+POST COMMENTS:
+====================================================================================================
+ID: lhq86qz # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I saw an old post about this.
+
+https://www.reddit.com/r/Malware/s/zRw8a9QOMC
+
+In theory I believe you can just install any normal VM and lock it down (ie. don’t attach a network adapter, don’t enable shared folder, etc..)
+----------------------------------------------------------------------------------------------------
+ID: lh8cg3v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can use any.run its free for community’s. Its In the Cloud so no worry to get infected.
+----------------------------------------------------------------------------------------------------
+ID: li7an7f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: li7csvb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check out flare vm
+----------------------------------------------------------------------------------------------------
+ID: lha3ynl # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The issue with any.run is that you can only run it for 60 seconds at a tine which isn't enough time to analyse anything. Therefore, you need to pay for the premium which allows you 660 seconds
+----------------------------------------------------------------------------------------------------
+ID: li7an8c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

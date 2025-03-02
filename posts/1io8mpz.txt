@@ -1,0 +1,16 @@
+POST ID: 1io8mpz / POST TITLE: Why is paid search engine poisoning still a thing?
+====================================================================================================
+Being lazy today, I had typed shopmyexchange in my URL bar thinking it would add the .com ; Instead it did a search. The very first result, which I did not pay close attention to, took me to a cloudflare prove I'm human page and then to a stie that looked like the Exchange. My password manager did not fill in my password and I got a notice that something does not look right, that I should check the site. (that was the error).
+
+Anyway, someone with a phishing website had paid to have the top spot for this search on Bing. You can see the misspellings that I've pointed out with the red arrows. The 'shopmyex*charge*' phishing site was a live copy for the real shopmyexchange site, thus I suspect that they would have logged me into the real site and kept a copy of my login information had I provided it.  
+
+[Screen shot of search placement](https://i.ibb.co/xqBdRP10/2025-02-12-19-37-26.jpg)
+
+This incident highlights and reminds me of a critical gap in search engine security controls, particularly with Bing's paid advertising system. Despite years of known search engine poisoning attacks, major platforms continue to allow threat actors to purchase ads impersonating high-value military and financial domains with minimal verification. As professionals, we train users to watch for this, but like I almost did tonight, people mess up. I get the general impression, ¯\\\_(ツ)\_/¯ what are we to do?
+
+To me, the fact that a blatant typosquat of a U.S. military exchange platform can successfully bid for top ad placement raises serious questions about the depth of Bing's advertiser verification process and their commitment to protecting users. While browser security features and password managers provide some defense, the fundamental issue remains: *why are search engines not implementing stricter domain verification for paid ads, especially for URLs that are near-clones of critical domains?*  
+
+
+
+POST COMMENTS:
+====================================================================================================

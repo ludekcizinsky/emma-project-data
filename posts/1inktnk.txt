@@ -1,0 +1,12 @@
+POST ID: 1inktnk / POST TITLE: Best way to learn KQL? Struggling (SC-200)
+====================================================================================================
+I'm studying for SC-200 and I'm trying to learn KQL, and it's frustrating the hell out of me.
+
+I'm using the Kusto Detective Agency and the Microsoft Learn docs for Kusto and it just doesn't make a whole lot of sense.
+
+I can read the queries and understand what it's doing, however I just can't seem to create a query to answer a question without any tips or help.
+
+Could someone who was in a similar situation to me, please explain how you learned KQL?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,20 @@
+POST ID: 10ua3gl / POST TITLE: yozza any ideas
+====================================================================================================
+hey guys im quite new to all this but i really enjoy it im about a week into ethical hacking and ive only got basic knowledge down im not to sure what to move onto next, im also looking for people like me who wanna go on this journey and learn together.
+
+POST COMMENTS:
+====================================================================================================
+ID: j7bqydx # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start with the Pre-Security pathway.
+
+https://tryhackme.com/paths
+----------------------------------------------------------------------------------------------------
+ID: j7x2ogm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would be interested in joing your journey I have a mission i must complete
+----------------------------------------------------------------------------------------------------
+ID: j7czwsm # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: One of the best ways to learn for beginners ^
+----------------------------------------------------------------------------------------------------
+ID: j7tek3u # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Best advice 🫂
+----------------------------------------------------------------------------------------------------

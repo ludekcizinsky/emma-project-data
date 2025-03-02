@@ -1,0 +1,33 @@
+POST ID: 15a1b2y / POST TITLE: Should I learn ethical hacking?
+====================================================================================================
+I'm kinda interested in it, have the free time but trying to do so many things LOL. Lots of hobbies. 
+
+I did programmer boot camp so I understand techy stuff decently.
+
+What are the benefits? Is it fun? 
+
+Yes i know movies really exaggerate it. 
+
+What is learning curve?
+
+THX r/ethicalhacking
+
+POST COMMENTS:
+====================================================================================================
+ID: jtibus5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Once in, never out.
+----------------------------------------------------------------------------------------------------
+ID: jtkk6oq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's never too late to start something new. You should explore it check it out see the YouTube where creators have roadmap on ethical hacking understand it join community in discord, reddit. Open your wings and fly to explore this new thing it might interest you not like movies but everything in it. Goodluck on your first journey in learning about ethical hacking even as a hobbie:)
+----------------------------------------------------------------------------------------------------
+ID: jtlz3nj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's fun but it's hard work, If you're just now starting out I would look at a security+ class just to get your feet wet.
+
+I would start with simple stuff like attacking a virtual machine and learn how to crack a password
+----------------------------------------------------------------------------------------------------
+ID: jtilnuh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thats true i want to but i can’t this shit is real dark trust me i have seen it
+----------------------------------------------------------------------------------------------------
+ID: jtilr9d # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT:  never out life
+----------------------------------------------------------------------------------------------------

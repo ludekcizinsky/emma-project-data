@@ -1,0 +1,15 @@
+POST ID: 1awo98j / POST TITLE: What College Degree is Best?
+====================================================================================================
+I'm currently in high school graduating a year early (so this year) and I plan on taking a gap year for personal reasons and to actually learn programming. I know I want to be an ethical hacker but I'm not sure what kind of degree is the best for this field. I worry Computer Science is too broad and Cybersecurity is too limited if things don't work out for me in the future. Anyone have any advice for me?
+
+POST COMMENTS:
+====================================================================================================
+ID: krikud4 # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: most colleges have a "computer science" degree with a minor or major in cyber security.
+----------------------------------------------------------------------------------------------------
+ID: krjfmgx # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1000% a computer science degree. All of the best people I've met in this field have comp science/SWE backgrounds. Strong coding knowledge will take you far.
+----------------------------------------------------------------------------------------------------
+ID: kzvlvxp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Don't do biology, unless you know you're going to med/vet/dent school, or a PhD. A basic biology degree is completely useless unless you get a nepotism job.
+----------------------------------------------------------------------------------------------------

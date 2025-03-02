@@ -1,0 +1,9 @@
+POST ID: z5a2t5 / POST TITLE: Python Reverse Shell help
+====================================================================================================
+ Would a self-coded executable reverse shell written in python evaded windows defender? If not , they how to make it evade windows defender? This is for ethical purpose only. Please help.
+
+POST COMMENTS:
+====================================================================================================
+ID: j9i7kro # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The test ones I've written have, depends on how your computers security is setup
+----------------------------------------------------------------------------------------------------

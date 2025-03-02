@@ -1,0 +1,48 @@
+POST ID: 1c1os6j / POST TITLE: Need road map for Cyber security 
+====================================================================================================
+Hi guys,
+
+I am working as a L2 network security engineer having experience in Cisco network devices and all major firewall vendors (FGT, PA,ASA). I want to learn more about cyber security. Having mid level knowledge in network and firewall device I'm not sure what to do next to become a cyber security expert. If helps me thay would be very much appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: kz4rekx # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cybersecurity is very broad. Are you interested in anything specifically? Tryhackme is a great way to get started and most beginner paths are fun and free.
+----------------------------------------------------------------------------------------------------
+ID: kz7vvio # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Roadmap.sh
+----------------------------------------------------------------------------------------------------
+ID: kz9aojh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I studied Accounting and I'm a writer currently. I'm interested in cybersecurity but unsure of where to start. Any valuable guide will be appreciated.
+----------------------------------------------------------------------------------------------------
+ID: kz4rnvg # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to stick to Cisco stuff they have a free class ive heard of but haven’t taken: https://www.cisco.com/c/m/en_emear/campaigns/security/cybersecurity-essentials.html
+----------------------------------------------------------------------------------------------------
+ID: kz4s77q # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sirch, thanks for the reply.
+
+That's my problem i don't know what to do next, since I have fundamental knowledge in the firewall I'm considering learning more about network security.
+----------------------------------------------------------------------------------------------------
+ID: kz9my8g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kz9e8mq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I used to be an accountant, too.  If you're starting from zero, you want to get a good foundation in networking.  
+
+ Comptia Network Plus is good for beginners and vendor agnostic.  The CCNA is Cisco specific, but more hands-on.   
+
+Bc I had no Computer Science background, I went for both of those.  I'm working on ccna now but I have been working as a web/cloud developer for a while.  
+
+I had someone paying for my certs, so I'm very happy with the path I took, but a lot of people will say both are redundant/unnecessary.  I see their point, but there's a lot of foundational stuff you need to really understand and that takes time.   
+
+Make an honest assessment of your knowledge.  If starting from zero as a non-cs person, networking is basically a "must".   I'd prob start with Comptia A+, then Net+ after.
+----------------------------------------------------------------------------------------------------
+ID: kz4vmdn # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I’d start with network security since you already know that realm. security+ is good cert to start with if you don’t have them already. TCM academy has a good network pentest course that teaches you how to exploit internal networks and AD which is my favorite type of penetration testing personally.
+----------------------------------------------------------------------------------------------------
+ID: kz9vrkz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I learned about tryhackme long after I started so I’m not 100% sure but there’s a ton of beginner lessons. More information can’t hurt it can only help. You’ll need to do research on the side no matter how you learn.
+----------------------------------------------------------------------------------------------------
+ID: kzkrn45 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The more info the better. Just don't kill yourself with it all , make sure you understand what you're reading.
+----------------------------------------------------------------------------------------------------

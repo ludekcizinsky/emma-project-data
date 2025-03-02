@@ -1,0 +1,20 @@
+POST ID: 1iusqk7 / POST TITLE: Providing pen test reports to clients
+====================================================================================================
+What does everyone provide when a prospective client requests your pen test report. The raw report from the pen testers? An executive summary listing how many highs, mediums, lows? Or a scaled back version of the report from the pen testers. I've done all three at this point depending on the client and wondering if some people have one standard. 
+
+POST COMMENTS:
+====================================================================================================
+ID: me06q52 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ideally, nothing. I take advantage of a SOC 2 Type 2 as much as possible. The auditor will see the full report, traceability to tracked work to remediate vulnerabilities, and the deployment of those changes and be able to comment on that as part of their control testing. But that's still not good enough for some customers, so it's something between the executive summary and the scaled-back version of the report. That depends on what the vendor offers with the least amount of negotiation but something that at least captures the name of the vendor and/or tester(s), the dates of testing, the scope of the engagement, a summary of findings (ideally only the count, but one pentest vendor included summaries each issue by default), and a verifiable electronic signature. The new practice is to get this kind of letter or summary as part of the pentest engagement to handle the couple of customers who don't accept the SOC 2 Type 2.
+----------------------------------------------------------------------------------------------------
+ID: me0a2ih # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: With prospective clients, I’d recommend starting with an executive summary or a letter of attestation rather than sharing the full report. There’s no one-size-fits-all approach. For example, it depends on your relationship with the client. For an early-stage company selling to an enterprise, pushing back is much harder than it would be for a 500-employee company selling to a 200-employee company.
+
+This letter of attestation should show the name of the pentest company, the period when the pentest was performed, the certification of the pentester, a confirmation that all findings were addressed (if that is the case), scope, and high level methodology used. Additionally, it can also contain the number of findings for each risk category.
+----------------------------------------------------------------------------------------------------
+ID: me28yzj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: we dont provide them anything. no internal documents.
+We ask that they accept our ISO 27001 and HITRUST in lieu of these.
+
+We will tell them when the last test was etc.
+----------------------------------------------------------------------------------------------------

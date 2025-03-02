@@ -1,0 +1,14 @@
+POST ID: 1irs3a9 / POST TITLE: SS7 attack help request
+====================================================================================================
+We recently discovered that the incidents we've been experiencing for some time are due to a SS7 attack, not 'hacking' as initially suspected. Over the past few days, we've obtained evidence that another person's phone calls are being rerouted to us, further confirming the SS7 attack.
+
+It seems that everyone involved in the investigation knows less about SS7 attacks than we do, and most importantly, how to stop them. AT&T is running in circles and can't even provide a contact to someone who knows about this. An external expert charges $3000 per hour with a minimum of 10 hours, which is not feasible for us.
+
+What do other people do when they experience this? Every minute that passes, phone calls are rerouted, and malicious activity continues. They could potentially try to spin it as if we were involved, which we're clearly not.
+
+What can a small business owner or private person do to get help and make this stop?
+
+Thanks for any help and hints.
+
+POST COMMENTS:
+====================================================================================================

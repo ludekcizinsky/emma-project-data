@@ -1,0 +1,6 @@
+POST ID: 1iss85c / POST TITLE: Whitelisted IPs Doing Vulnerability Exploit?
+====================================================================================================
+I know some verdict can't be trusted and we should have other resources to check for the IP reputation. But why AlienVault whitelisted some cloud IP like Amazon, Google Cloud etc. while it is used to do opportunistic vulnerability exploit to our environment? It is very frequent that we receive these scanning but luckily our webservers are all patched up and protected. I just feel very annoying that we are tasked to block these IPs until God knows when it stops.
+
+POST COMMENTS:
+====================================================================================================

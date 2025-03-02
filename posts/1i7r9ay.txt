@@ -1,0 +1,38 @@
+POST ID: 1i7r9ay / POST TITLE: Role of cryptography in protecting personal data
+====================================================================================================
+I'm a software engineer who loves explaining things without Jargons so that I can save your time and my followers :)
+Expecting feedback from yall
+
+POST COMMENTS:
+====================================================================================================
+ID: m8nfu1y # OF UPVOTES: 10.0 SUBREDDIT: netsec
+COMMENT TEXT: > Cryptography is the practice of protecting information from unauthorized access. 
+
+This is a big issue I have with this article, however well-intentioned. That's far from all cryptography is about. If I were pressed for an answer, I'd say that cryptography is the science of secrets and trust. 
+
+One of the main topics of cryptography is not about confidentiality but about authentication and integrity (is that information from who I think it is, unmodified). That aspect of things is, in many ways, even more important than confidentiality since you can't build confidential communications without being sure that you're talking to the right person. And that is somewhat reflected in your article as you start with certificates for that exact reason: if you accept a bad certificate you may establish a very strongly encrypted connection to your attacker, defeating the purpose.
+
+Further in the article you write the words "signing" without explaining what it's about, and I guess drawing the parallel between symmetric/asymmetric encryption and MAC/signature would be interesting, but none of that is discussed.
+
+Mention of salting is fine but I frankly think there are more important topics to talk about, like how to actually use these concepts. As a software developer if you ever use explicit salting you're doing it wrong because you should be using algorithms dedicated to password hashing (such as argon2, scrypt or bcrypt in that order of preference) that integrate salting and more.
+
+In fact that's another gripe with the article, it's that there's no mention of even one algorithm actually implementing the concepts you talk about (that's exagerating, there's exactly one algorithm mentioned: AES-256, but no mention of mode or anything so nothing practical).
+
+And in line with the fact that the article has no practical purpose, it's also not tackling any of the issues that we see in real (bad) code. In fact it covers everything software developers think is enough but really isn't:
+
+* use of primitives with no consideration for the specifics of their context of use (mode, IV…) which leads to broken encryption
+* no care for data integrity (no in the encryption mode through an AEAD, not outside of it through discussion of MACs and signatures) which leads to broken protocols
+* no discussion of the difference between encoding and encryption (although damn we need more people to be aware of the difference)
+* no consideration of the specifics of password storage
+
+It's not that the article is bad for not talking about all that, I know that you can't cover everything, but I also fail to see what value this article provides to its audience, or what its audience is. Since we're keeping things without any practical example (even just mention of algorithms) most of what we have is technical jargon interacting with other technical jargon. That's going to be too detached from pratical use for programmers that need to know more about cryptography, and even if they do learn from it they'll learn incomplete stuff and code 1990 style applications with broken crypto because there's not even a hint that there might be more to it. And if the article isn't targeting developpers but regular people that know nothing of cryptography… I don't know, I would have a hard time recommending it as an introduction to cryptography as I don't think it provides a good idea of what cryptography is about, but I just don't see it being recommended for anything other than that either as it's too basic.
+
+So, I'm not a fan.
+
+(And that's even without mentioning the awesome stuff that's possible with things like zero-knowledge proofs and such… I don't think everyone should be a cryptographer, but I do think it would be awesome if people got a better sense of what cryptography can provide. For example maybe we wouldn't have had people accept without questions all the tracing apps during COVID-19 that sent your identity to massive centralized databases if people realized that it's perfectly possible to have the same tracability completely anonymously using cryptography, even if they didn't know exactly how to do it. But that's clearly wishful thinking.)
+----------------------------------------------------------------------------------------------------
+ID: m8r5qq0 # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: just to say this is very good advice
+
+coincidentally, I was speaking with someone yesterday who pointed me to a paper connecting privacy and cryptography in the title. My first reaction was - meh, of course there's a connection, but then not really. Whoever wrote it does not quite understand either. And, confirmed, it was all about security of storage. The fact it's personal data ends up being immaterial.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+POST ID: 1in1lcr / POST TITLE: Story time: the GRC apprentice and the villainous board (and some onion high-availability goodness too)
+====================================================================================================
+
+Hi everyone!
+
+
+We're back and once again... Two articles! Don't get used to it, it's pretty exceptional given our current 9 to 7 workload...
+
+
+
+Story time's back on the menu!
+
+
+- Once again Crabmeat tells us about their experience. Our walk down memory lane takes us way back when they were only dabbling in the dark arts but still had to contend with an archetypical board of greedy, villainous stakeholders... Today's story is: [Crabmeat, defending GRC from the muggles!](http://msec2nnqtbwh5c5yxpiswzwnqperok5k33udj7t6wmqcleu3ifj34sqd.onion/posts/grc/story_time_defending_governance_from_the_muggles/)
+- and a repost that isn't GRC, but OPSEC and privacy oriented. Initially published on the excellent [Nihilist's blog](http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/opsec/high_availability/index.html) for a bounty. It covers a risk analysis for uptime-based deanonymization attacks on onion services, documents an attack workflow for an adversary having access to the internet backbone at DSLAM level as well as the power grid at a city block level of granularity as well as how to prevent it.
+
+
+
+This blog is hosted on tor because tor protects anonymity and benign traffic like this blogpost helps people with more concerns for their safety hide better. And we like it that way. 
+
+
+
+As usual, here's the intro and the [link](http://msec2nnqtbwh5c5yxpiswzwnqperok5k33udj7t6wmqcleu3ifj34sqd.onion/posts/opsec/high_availability/)
+
+
+# High Availability and anonymity
+
+The concept of high availability is omnipresent in centralized services. One expects their ISP to provide internet access, their email provider to give them 100% uptime whenever they want to send an email and so on.
+
+
+High-availability, the ability to provide high-uptime infrastructure, also has far-reaching implications for OPSEC practitioners.
+
+
+When an adversary wants to collect information such as physical location behind a hidden service, depending on their power they will use downtime as an indicator in order to progressively narrow the pool of potential service location until they can act decisively against the remaining suspects.
+
+
+Anonymity IS a requirement for deniability Being able to plausibly deny being the operator of, or a downstream service supplier to a hidden service is a significant boon to personal protection.
+
+
+If you want to get in touch you can DM us or contact us on [SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FiZJOs1BYKxD2nEndBtacHlBP-bNKv3gywICYPZZjXXE%3D%40chatnedvznvcnsovrm3e6jrgt6pkpai5i3rgslrrxlnv352ardboebid.onion%2FtT5R0tQWBzJPAkjvH-wai4PnpfTor89R%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA_7oNMJAjBrt210CSc2LEIZJh5BFizPx7JUYFCmj8p1k%253D)
+
+
+POST COMMENTS:
+====================================================================================================

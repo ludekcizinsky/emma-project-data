@@ -1,0 +1,21 @@
+POST ID: 12u0w5c / POST TITLE: is there an msfvenom payload for linux
+====================================================================================================
+is there?
+
+POST COMMENTS:
+====================================================================================================
+ID: jh59bqy # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just generate a Linux binary, and then package it as a deb yourself.
+
+Deb is not equivalent to an exe. If you don't know that, you probably shouldn't be using metasploit.
+----------------------------------------------------------------------------------------------------
+ID: jh50fhi # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: that generates .deb files
+----------------------------------------------------------------------------------------------------
+ID: jh583as # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is your goal? Why does it need to be a .deb file?
+What did you read in de man or --help?
+----------------------------------------------------------------------------------------------------
+ID: jh60i3h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yah a bunch. Which one you should use depends on the context of the attack.
+----------------------------------------------------------------------------------------------------

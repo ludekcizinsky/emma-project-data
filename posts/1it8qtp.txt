@@ -1,0 +1,10 @@
+POST ID: 1it8qtp / POST TITLE: What is the importance of mathematics and statistics in infosec?
+====================================================================================================
+While browsing some job openings on LinkedIn, I noticed a vacancy from Microsoft for a Security Operator Engineer, and among the higher education requirements were Mathematics, Statistics, or Computer Science. I didn’t quite understand how that fits in. How is it used?
+
+For roles such as security engineer, malware analyst, and cryptography analyst, is a degree in statistics really important?
+
+Are there other areas of infosec in which knowledge of statistics is a strong asset?
+
+POST COMMENTS:
+====================================================================================================

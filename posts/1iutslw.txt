@@ -1,0 +1,37 @@
+POST ID: 1iutslw / POST TITLE: Top cybersecurity stories for the week of 02-17-25 to 02-21-25
+====================================================================================================
+Host Rich Stroffolino will be chatting with our guest, **TC Niedzialkowski, former CISO** about some of the biggest stories in cybersecurity this past week. You are invited to watch and participate in the live discussion. We go to air at 12:30pm PT/3:30pm ET. Just go to YouTube Live here [https://youtube.com/live/Zb2Oe9WaAKY](https://youtube.com/live/Zb2Oe9WaAKY) or you can [subscribe to the Cyber Security Headlines podcast](https://cisoseries.com/subscribe-podcast/) and get it into your feed.
+
+Here are the stories we plan to cover:
+
+**Chinese hackers breach more U.S. telecoms via unpatched Cisco routers**  
+According to Recorded Future’s Insikt Group, hackers from China’s Salt Typhoon group continue to target telecoms worldwide and have breached more U.S. telecommunications providers via unpatched Cisco IOS XE network devices. In this campaign they are exploiting a privilege escalation vulnerability and a Web UI command injection vulnerability. This has already resulted in network breaches at multiple telecommunications providers, in the U.S. South Africa, Italy and Thailand. The vulnerabilities have CVE numbers, viewable in the show notes. This is not the same exploit as was reported a month ago, which involved end-of-life Cisco routers and a different Chinese threat group, Volt Typhoon. CVE-2023-20198 and CVE-2023-20273  
+([BleepingComputer](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-more-us-telecoms-via-unpatched-cisco-routers/))
+
+**Chase to block Zelle payments to sellers on social media**  
+JPMorgan Chase Bank (Chase) says that, starting March 23, it will begin delaying, declining, or blocking Zelle payments to social media contacts. Zelle is a popular digital payment network that integrates with mobile apps of many U.S. banks. Chase updated its user policy, saying Zelle should not be used to buy goods from retailers or merchants, “including on or through social media or social media marketplaces or messaging apps.” Nearly 50% of all Zelle or wire transfer scams reported by Chase customers between June and December 2024 originated on social media. Chase’s policy change also comes on the heels of a lawsuit brought by the U.S. Consumer Financial Protection Bureau (CFPB) against Zelle’s operator and three of its owner banks (Bank of America, JPMorgan Chase, and Wells Fargo) in December, for rushing the service to market without adequate consumer safeguards.  
+([Bleeping Computer](https://www.bleepingcomputer.com/news/security/chase-will-soon-block-zelle-payments-to-sellers-on-social-media/))
+
+**South Korea removes Deepseek from app stores**  
+South Korea’s Personal Information Protection Commission announced that the DeepSeek app has been pulled from the Apple App Store and Google Play as of Saturday night. The move follows several South Korean government agencies banning employees from downloading the chatbot as well as numerous reports highlighting security and privacy weaknesses with DeepSeek’s platform. Taiwan and Australia have also banned DeepSeek from all government devices. South Korea’s data protection watchdog said the AI model will become available when “improvements and remedies” are made to ensure it complies with the country’s personal data protection laws. Despite the suspension of new downloads, people who already have DeepSeek on their phones will be able to continue using it or they can access it via DeepSeek’s website.  
+([BBC](https://www.bbc.com/news/articles/clyzym0vn8go))
+
+**US newspaper publisher uses linguistic gymnastics to avoid saying its outage was due to ransomware**  
+US newspaper publisher Lee Enterprises experienced a cyberattack that encrypted critical applications and exfiltrated files, telling the Securities and Exchange Commission (SEC) that “threat actors unlawfully accessed the company’s network, encrypted critical applications, and exfiltrated certain files” The attack disrupted product distribution, billing, and other operations, with full recovery expected to take weeks. There isn’t evidence of compromised sensitive data yet, but the breach is likely to impact the company’s financials, and cybersecurity insurance is expected to help cover costs.  
+([The Register](https://www.theregister.com/2025/02/18/us_newspaper_publisher_exercises_linguistic/))
+
+**Minerals company loses $500,000 to BEC scam**  
+NioCorp Developments, a company that operates a minerals project in southeast Nebraska focusing on the production of niobium, scandium, and titanium, has alerted regulators to a break-in that occurred on February 14. Threat actors allegedly “broke into its information systems, including portions of its email systems," and misdirected a half-million dollars intended to be sent to a vendor. The company is taking steps to remediate the incident and to search for any additional damage.  
+([The Register](https://www.theregister.com/2025/02/20/niocorp_bec_scam/))
+
+**Healthcare outfit that served military personnel settles allegations it faked infosec compliance for $11M**  
+Health Net Federal Services (HNFS) is an organization that provides healthcare services to military personnel. Along with its parent company Centene Corporation, it will pay just over $11 million to settle claims that HNFS “falsely certified compliance with certain infosec requirements in a contract with the Department of Defense a decade ago.” Neither organization will be admitting guilt or liability."  
+([The Register](https://www.theregister.com/2025/02/19/decadeold_healthcare_security_snafu_settled/))
+
+**Palo Alto firewalls under attack as miscreants chain flaws for root access**  
+According to The Register, “a flaw patched last week by Palo Alto Networks is now under active attack and, when chained with two older vulnerabilities, allows attackers to gain root access to affected systems.” This is in relation to a 6.9-rated privilege escalation vulnerability in its  PAN-OS software that gives access to to the management web interface to anyone with administrator account. This would allow actions on the firewall operating system with root privileges. The company patched this issue in November 2024, but a dark web intelligence services vendor, the Searchlight Cyber’s Assetnote team, found a separate authentication bypass. Palo Alto fixed that problem last week and rated it as a highest urgency patch.  
+The bottom line: those scripts could “negatively impact integrity and confidentiality of PAN-OS.”  
+([The Register](https://www.theregister.com/2025/02/19/palo_alto_firewall_attack/))
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,37 @@
+POST ID: 11idvr5 / POST TITLE: Is the social engineering spearphishing attack in Kali Linux outdated?
+====================================================================================================
+Following the given tutorial as a total newbie to ethical hacking i was attempting to practice the various attacks in the social engineering toolkit. 
+ https://null-byte.wonderhowto.com/how-to/hack-like-pro-spear-phish-with-social-engineering-toolkit-set-backtrack-0148571/
+
+Summarising the process as a whole i chose the spearphishing attack vectors -> create fileformat payload -> Microsoft word rtf ms087-10
+But I've received the following error:
+
+[!] Unable to deliver email. Printing exceptions message below, this is most likely due to an illegal attachment. If using GMAIL they inspect PDFs and is most likely getting caught.                                                  
+Press {return} to view error message.
+(552, b'5.7.0 This message was blocked because its content presents a potential\n5.7.0 security issue. Please visit\n5.7.0  https://support.google.com/mail/?p=BlockedMessage to review our\n5.7.0 message content and attachment content guidelines. h6-20020a17726462csi7274840902plf.561 - gsmtp')
+a bytes-like object is required, not 'str'
+
+I chose word because it was mentioned in a few sources that it harder to detect. What should I do so that I can attach a (malicious) file to the email (and not let Gmail block this attempt)and send it correspondingly. 
+
+Is there any useful method i can try.
+
+POST COMMENTS:
+====================================================================================================
+ID: jay1pfx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I wouldn't say the whole tutorial is outdated but most likely gmail updated their stuff to recognize this stuff.
+----------------------------------------------------------------------------------------------------
+ID: jb3m7te # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: some resources/apps on kali are for educational purposes only if you want to be a ethical hacker dont expect tools like click and go, that does not works that way.
+----------------------------------------------------------------------------------------------------
+ID: lun8lrt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thanks for this post
+----------------------------------------------------------------------------------------------------
+ID: jb5rhge # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ahh okay. Thanks for taking the time to reply :) Would you know of any round abouts to implement this attack?
+----------------------------------------------------------------------------------------------------
+ID: jb5sned # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the valuable insights! :D Will definitely keep that advice in mind!
+----------------------------------------------------------------------------------------------------
+ID: jb6jndw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: at the top of my head i don't sorry. im not super familiar with that tool kit (or at all tbh)
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+POST ID: 193r7va / POST TITLE: Beginner
+====================================================================================================
+Is it mandatory to master Python or any language  learn ethical hacking ? What are the advantages and disadvantagess ???
+
+POST COMMENTS:
+====================================================================================================
+ID: khcbbp2 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Write your own scripts and make your life easier.
+----------------------------------------------------------------------------------------------------
+ID: khinkxp # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Its not mandatory to lear. But in real life full have few advantages. 1. Upperhand while applying for jobs. 2. Life becomes easier working in cybersecurity when u can code too.  3. Ull be that guy who wont completely rely on tools but also your own customisation since you can code.
+----------------------------------------------------------------------------------------------------
+ID: khinq68 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if you want to this could be handy.
+
+https://codered.eccouncil.org/learning-path/Programming-for-Ethical-Hackers?logged=true
+----------------------------------------------------------------------------------------------------

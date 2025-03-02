@@ -1,0 +1,12 @@
+POST ID: 18zytz7 / POST TITLE: How to get into it
+====================================================================================================
+Hello. I really want to get into ethical hacking and make this a job. How do I do that? I know nothing about hacking. I am 20 and in college so are their any classes I should take? Am I too late to get into it?
+
+POST COMMENTS:
+====================================================================================================
+ID: kgla33t # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve been a pentester for 5 years and if I started from scratch this is what I’d do. Start with Tryhackme and see if you like it. TCM academy has some great classes as well, then take the PNPT that’s what a pentesting job is like. I’ve heard eJPT is also a decent basic cert but haven’t taken that one. Next do portswigger academy to get better at webapps. Next start studying for the OSCP and when you pass that you’ve got a good shot at landing a junior pentest role. Start a github and a digital notebook and document everything!!! You can point to your code/walkthroughs in your interview as part of your experience. (Don’t document walkthroughs for OSCP exam machines or active Hackthebox machines as those can’t be shared)
+----------------------------------------------------------------------------------------------------
+ID: kglgate # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would also explore other areas of cyber security you might be interested in along with learning about cloud and AI.
+----------------------------------------------------------------------------------------------------

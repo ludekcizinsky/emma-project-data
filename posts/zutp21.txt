@@ -1,0 +1,73 @@
+POST ID: zutp21 / POST TITLE: Beginner to Ethical Hacking/Cybersecurity
+====================================================================================================
+Hello everyone, I'm new to the Cybersecurity world and I'm open to suggestions, my preferred path is Ethical hacking and I'm currently taking the Google it support from Coursera because lots people are recommending it for beginners, what course should i take after this? i find python for everybody by university Michigan, Google python for automation interesting.
+ I was wondering if  Coursera is the best platform for beginners to learn Ethical hacking, are there any YouTube channels that are good with holding a beginner's hand ?
+What inspired me was Mr robot tv show 🤣😂, i just love the way manipulates computers to his liking and i want to be able to hack like him.
+
+By the way I'm a graduate of civil engineering and i don't know how tough it will be.
+Are Certifications such as CompTIA A+, Security+ etc really necessary because i just want the knowledge to make my life easier in some tasks and have some fun 😁.
+Please feel free to  comment your thoughts, advice and suggestions, Thank you.
+I'm sorry if my presentation is poor I'm not really good with arranging texts 😅.
+
+POST COMMENTS:
+====================================================================================================
+ID: j1n6ffh # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Like the others have said, a solid understanding of basic networking and computer terminology and concepts is essential. This can be done through certifications or through general studying (which if you love the subject this should come easy and out of curiosity more than anything). If I could start out again I would really recommend to note down everything you learn and discover as you’ll end up coming back over so many concepts.  I would really recommend portswigger academy (free) to learn all the basics (have to start somewhere) and then move on to CTFs. I’d start with try hack me as this very much holds your hand and then move on to hack the box and picoCTF to practise what you learnt in the portswigger academy. 
+
+This should give you enough knowledge and foundation for you to start building your own path and discover what areas you’d like to dwell further in. I’d also recommend to start a blog/website where you document your journey so you have some proof and evidence of your knowledge which employers can use to help gain an understanding of your knowledge later down the line. 
+
+Other important things to learn are concepts like the NIST CSF, some programming languages and keep current with all things like. Try read as much news as you can as you’ll learn more concepts, theory, methodologies, and know what current threats are current in the CS world. Plus some of it is proper interesting and you’ll be astonished how much cyber crime their is.
+
+This is all IMO and by no means is a set path to learn hacking, however, being in the cyber security industry now and trying to break into the ethical hacking career this is how I’ve been going about it. 
+Wish you all the best.
+----------------------------------------------------------------------------------------------------
+ID: j1lnvu7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So judging by the Google IT Support, and questions about the A+ and Sec+, I'm going to assume IT knowledge level right now is nil?
+
+If so, cybersecurity/ethical hacking is your endgame.  Right now, you need to learn the ins and outs of the computer: Operating System(s) and Networking.  It helps to understand the underlying system of what you'll be manipulating before you go manipulating it, otherwise you're just poking at software that you have no idea what it's doing.  Learning hacking/cybersecurity before learning about what makes those things possible is like saying you want to become a mechanic who solely works on Mercedes Benzes before you've even learned how an engine works.
+
+If you're looking to do it properly, my suggestion would be: A+ (if you know jack shit about computers & OSes), Net+ (if you have no idea what TCP/IP stands for, or the different between a switch and a router), and Sec+, (Everything up to this point is to get foundational understanding of those subjects) then either Pentest+ or the OSCP.  YouTube channels are ok, but in my opinion, usually inadequate as the content is geared towards creators doing it for the thumbs up/subs.
+
+Otherwise, the stuck thread in this sub has all the information you'll need and is still very relevant.
+
+&#x200B;
+
+>What inspired me was Mr robot tv show 🤣😂, i just love the way manipulates computers to his liking and i want to be able to hack like him.
+
+Yeah, it prompted a *lot* of people to start thinking that hacking was something to just jump into, and judging by /r/KaliLinux sometimes, it birthed a generation's worth.  Just remember, that was a TV show.  While a lot of the techniques used were accurate, it was dramatized.  The average person (especially solo) isn't going to be pulling off crap like that, and unless you're a savant or have decades of experience, no one's hacking like Elliot did in the show.  Also, none of what was portrayed in the show would be considered ethical to anyone in the industry, most (all?) of it was illegal.
+----------------------------------------------------------------------------------------------------
+ID: j1nf8ox # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much guys i really Appreciate this info, you guys are the best
+----------------------------------------------------------------------------------------------------
+ID: j1o13e0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme and tcm academy practical ethical hacking are two of the best starting resources I’ve seen. Net+ and Sec+ are good starting certs.
+----------------------------------------------------------------------------------------------------
+ID: j1qoksq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Lots of good starting info here, thx ppl
+
+I don't know where I want to end up, EH would be a nice fantasy, but I really want to just end up somewhere in the programming/development world somehow for a nice fulfilling career change.
+
+Who knows, by the time I'm done, things may be far more secure then they are now.
+----------------------------------------------------------------------------------------------------
+ID: j1m850v # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much for this.
+
+Answering your first question: to be honest i usually assume i don't know Alot about IT even though I'm familiar with using windows and some minor things like installing softwares and games and watching YouTube tutorials for anything that goes wrong in my system.
+
+Those certs you mentioned do they have like courses or something, where i can watch videos and gain some knowledge , I'm not really interested in getting these certs because,
+1. It's too damn expensive for me.
+2. If you fail the exam you have to pay for it again ( i heard from people).
+----------------------------------------------------------------------------------------------------
+ID: j1quef9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you i will check them out
+----------------------------------------------------------------------------------------------------
+ID: j1mbfje # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If that's all it takes to deter you, it sounds like this isn't for you
+----------------------------------------------------------------------------------------------------
+ID: j1n9tc9 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Gotta agree with this 110% - Almost sounds like the glorification of ‘hacking’ is really what you’re interested in, which nothing wrong with that, it’s exactly what Mr Robot did, made it sexy and exciting when in reality, it’s very much not.  If that’s the case though, pick any set of ethical hacking videos on UDemy and go with that. You’ll have an extremely limited set of knowledge and you’ll only know how to do what the video taught you. Hell, get Night Team 4 or any of the other ‘realistic’ hacking games on Steam and get that itch scratched, or do gamified hacking and subscribe to HackTheBox.com. 
+
+If you’re looking for a career change and want to get into EH and not just dick around, then what I mentioned is the way you need to go. No one hires someone who says they can do pen-testing based off of “I watched some videos and can do some Python”. They want proof you aren’t all talk, and much like other specialized careers, certifications show competency.  You could always start a GitHub and create some projects that you can showcase, but again without a wider knowledge base, you’re not going to be creating any penetration tools that someone else hasn’t already made, and better.
+
+Edit: and yes, all of those certs have courses you can sign up for on various websites, like uDemy, and books you can buy.  Also, I really hate to be a Debbie downer because in my opinion EH is really about sharing knowledge, but if all you have is how to work Windows and install software, you’ve got a LONG way to go to do anything that remotely resembles proper hacking unless you just download some script kiddie tools and get yourself in trouble.
+----------------------------------------------------------------------------------------------------

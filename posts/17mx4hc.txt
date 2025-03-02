@@ -1,0 +1,21 @@
+POST ID: 17mx4hc / POST TITLE: Should i go for Conmptia A+ Certification
+====================================================================================================
+I am now at my first year of engineering and i want to start learning about cybersecurity, so i decided to first understand computer fundamentals so somebody told me about Comptia A+ cert ,So my question is ,  is it necessary to pay for this certification or just understand the topics in it and move further.
+Will the company recruiter demands this cert in resume. Help me to clear this doubt.
+
+POST COMMENTS:
+====================================================================================================
+ID: k7uovxp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is it worth it? I can't say. Will some jobs require it? Yes.
+----------------------------------------------------------------------------------------------------
+ID: k7w9fg5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wait "first year of engineering" in college? Or as a Job? 
+
+I highly doubt you will find an A+ required for a Infosec Job. A+ is required for some Helpdesk positions.
+----------------------------------------------------------------------------------------------------
+ID: kv3rkd4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks brother.
+----------------------------------------------------------------------------------------------------
+ID: kv3rj3y # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am a computer science student in first year.
+----------------------------------------------------------------------------------------------------

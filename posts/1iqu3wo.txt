@@ -1,0 +1,10 @@
+POST ID: 1iqu3wo / POST TITLE: Kali as a daily driver?
+====================================================================================================
+Practitioners of cybersecurity, what’s your typical reaction/response to discovering boxes on your network with “kali” as the computer name? 
+
+Starting to see this, thanks to Crowdstrike calling it out recently. Only seen it a couple/three times.
+
+This is a University btw, also has some cybersecurity programs. Student network.
+
+POST COMMENTS:
+====================================================================================================

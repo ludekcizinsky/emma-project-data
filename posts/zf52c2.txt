@@ -1,0 +1,43 @@
+POST ID: zf52c2 / POST TITLE: Question, why am I getting phishing mails from my own domain ?
+====================================================================================================
+As title says, I have my own domain that sending me mails and have been since years , can be from emails even admin@domain , noreply@domain postmaster@domain even though these emails doesn’t exist! I changed the passwords numerous times for every email and admin, for cpanel ! I even changed my cpanel host completely and I still receive that
+
+POST COMMENTS:
+====================================================================================================
+ID: izahu8a # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sounds like DMARC: 
+Run command to check your policy
+
+dig . @ _dmarc.<your domain>
+
+https://www.agari.com/blog/pros-cons-dmarc-reject-vs-quarantine
+----------------------------------------------------------------------------------------------------
+ID: izcn4yo # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is likely spoofed email.  Look into implementing SPF, DKIM and dmarc.
+----------------------------------------------------------------------------------------------------
+ID: izav0ij # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A sender of an email can set whatever they want as the "from" address.  DMARC and SPF can help spam filters decide that these are not legitimate, if the domain *and* the receiving mailserver are configured correctly.
+----------------------------------------------------------------------------------------------------
+ID: izb5jxg # OF UPVOTES: -5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I haven't started my indepth ethical hacking courses yet but my guess, being based off of very basic security+ logic would be that there is an internal threat but I could be completely wrong.
+----------------------------------------------------------------------------------------------------
+ID: j31oymb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As others have said SPF, DKIM, and DMARC are good to implement but only help if you have a service in front of your exchange server (email gateway or spam filter). 
+
+If you can't read the header on your own, run it through MXtoolbox and see where it is coming from, then lock it down.
+----------------------------------------------------------------------------------------------------
+ID: j5x6wo1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Some great advice here but I wanted to add that you should make sure you don't have your domain whitelisted anywhere. This will bypass filters for SPF fails.
+----------------------------------------------------------------------------------------------------
+ID: izak4g5 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I will try that… honestly I don’t know anything about it but I will search
+----------------------------------------------------------------------------------------------------
+ID: izd1h74 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >I could be completely wrong.
+
+Incorrect unfortunately, and an ethical hacking course is going to expect you to already know this kind of attack.  It's typically going to be covered in your basic end-user Security Awareness training and it's like chapter one Security+ (and even Net+) exam knowledge.
+
+The more likely, and logical, culprit given that they're coming from addresses that don't exist, is e-mail spoofing, which is an extremely common phishing tactic.  Common because it's ridiculously easy to do, and it works way too often on those who don't see the red flags (typos, a sense of urgency, asking for a password reset, etc).
+
+An attacker who's already gained a foothold in your network, to the point where they're able to freely create e-mail addresses, isn't going to waste that level of control on e-mailing you with your own domain address... because then you've been tipped off to being compromised.
+----------------------------------------------------------------------------------------------------

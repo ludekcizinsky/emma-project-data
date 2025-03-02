@@ -1,0 +1,19 @@
+POST ID: 11nxd14 / POST TITLE: Python or Ruby?
+====================================================================================================
+Hi! Script kiddie here! I'm exploring the metasploit framework and found out that all modules created with ruby. I learned python before and created basic tools like a port scanner, but right now i'm a bit confused, so what do you think? What is the better programing language for ethical hacking?
+
+POST COMMENTS:
+====================================================================================================
+ID: jbrmo2e # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The answer to this question, is “yes”. Pick a language that you feel comfortable with, that you want to learn, and go with it.  A lot of people jump on the “Python!!” bandwagon. Now don’t get me wrong, it’s excellent; however many who do this automatically write off every other language because they just follow a hype.  This is why I suggest to just pick a language that you feel works for you.
+
+Head to exploitDB. You will find exploits in many languages, from Java, Ruby, Python, Bash, Perl, PHP… every system is different, and situation unique.  It is up to you to adapt.  Hope my rambling helped. If not, ignore and move on :)
+----------------------------------------------------------------------------------------------------
+ID: jee7of3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have to say that **python** usually have only one solution for any typical case, while **ruby** is more flexible.
+
+And I think that ruby syntax is more pretty and structured.
+----------------------------------------------------------------------------------------------------
+ID: jbs1uyy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks! Actually this is the answer i hoped for! I know python, java and php, becouse of dev projects but yeah you're right. Every system and situation is uniqe. :D
+----------------------------------------------------------------------------------------------------

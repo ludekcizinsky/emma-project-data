@@ -1,0 +1,41 @@
+POST ID: 103zscr / POST TITLE: payload doesn't work. it shows (its for older version on android)
+====================================================================================================
+Hi I am newbie in ethicalhacking(just start learning). I recently learned how to generate payload with metasploit (msfvenom). But when I installed it on android device it show this app is for older version and it doesn't work.(not even open). So I want to know why it is showing this. Is the metasploit framework I installed is old version or what else.
+Please help me to come out from that issue.
+
+POST COMMENTS:
+====================================================================================================
+ID: j33bfm7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: j31yg4t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did not understand. Have you installed the app on a mobile device (physical) or an emulator?  The warning comes from the app or the android system?
+----------------------------------------------------------------------------------------------------
+ID: kgak2q7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: payload doesn't work. it shows (its for older version on android) how to fix it
+----------------------------------------------------------------------------------------------------
+ID: j3augy1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi can you recommend any YouTube video about this because I don't have knowledge about this.I am newbie
+----------------------------------------------------------------------------------------------------
+ID: j31z40x # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Installed on device physically. Warning comes from android
+----------------------------------------------------------------------------------------------------
+ID: j3208us # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So, the app you have installed does not support the version of android that it is installed on the device.
+
+You need to downgrade your android version. You can decompile the app and check the manifest file to find out which version your app supports.
+----------------------------------------------------------------------------------------------------
+ID: j32at7v # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: We can't generate Payload which runs on latest android version?
+----------------------------------------------------------------------------------------------------
+ID: j32cx5f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have not watched this but it might be useful:
+
+https://m.youtube.com/watch?v=ZA5ifMrWQ-E#menu
+----------------------------------------------------------------------------------------------------
+ID: j36u0x2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Okay will watch and try
+----------------------------------------------------------------------------------------------------
+ID: kcny5gz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Y found a solution ?
+----------------------------------------------------------------------------------------------------

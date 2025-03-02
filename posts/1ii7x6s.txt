@@ -1,0 +1,82 @@
+POST ID: 1ii7x6s / POST TITLE: Can I do ethical hacking in Ubuntu
+====================================================================================================
+I’m a beginner, should I need Kali Linux or similar Os or can I practice this in ubuntu
+
+POST COMMENTS:
+====================================================================================================
+ID: mb39f08 # OF UPVOTES: 16.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: why wouldn’t you be able to? 
+
+I don’t wish to be mean at all, but this question seems to stem for a deep lack of understanding of underlying concepts. perhaps take this year and learn Windows, Linux, Networking, WebApps, etc.
+----------------------------------------------------------------------------------------------------
+ID: mb3bi4b # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mbbmsou # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: John Hammond uses Ubuntu
+----------------------------------------------------------------------------------------------------
+ID: mbch40n # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you can do it with any Linux distribution. Kali is made with Debian
+----------------------------------------------------------------------------------------------------
+ID: mc2zl2t # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can work with any distro to do hacking, it's more about learning the system you're working with and understanding your target system's ins and outs. Then you need to learn and understand the tools you're working with. Kali has become a standard because it comes pre-loaded with so many tools. The others require hunting down the tools you want to use, downloading them, and then working with them. Ubuntu is a great system, and many professionals use it or Arch (Black arch is also an option if you want something pre-loaded with tools.) 
+
+That said, you can do ethical hacking from windows, or even a mac if you're feeling froggy. It just depends on the sort of interface and experience you're looking for
+----------------------------------------------------------------------------------------------------
+ID: mb493uk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Of course. Any Linux distro.
+----------------------------------------------------------------------------------------------------
+ID: mb4n67a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Literally any OS will do.
+----------------------------------------------------------------------------------------------------
+ID: mb50yty # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes, any linux distro is ok to use
+----------------------------------------------------------------------------------------------------
+ID: mb86q4z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have shifted to ubuntu but there is some problem my laptop is hp victus 15, how to increase speed of my fans as my laptop some times heat up?In windows I had omen gaming hub which can be used to increase speed from auto to max but app doesn't support linux So what should I do?
+----------------------------------------------------------------------------------------------------
+ID: mb9void # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think ippsec does this
+----------------------------------------------------------------------------------------------------
+ID: mbupudt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: DragonOS is a good ubuntu distro I use sometimes
+----------------------------------------------------------------------------------------------------
+ID: mclfpu0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am also beginner learning it from my elder brother he told me to to don kali linux
+----------------------------------------------------------------------------------------------------
+ID: md3kiiy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Kali is just ubuntu but tools pre-installed.
+----------------------------------------------------------------------------------------------------
+ID: md9t1b7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [https://voidforums.net/index.php](https://voidforums.net/index.php)
+----------------------------------------------------------------------------------------------------
+ID: mb399bw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: U can cuz u can install same tools on it. Also ubuntu is debian based and kali is also debian based.
+----------------------------------------------------------------------------------------------------
+ID: mb3bk29 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ok..will do
+----------------------------------------------------------------------------------------------------
+ID: mb6tfah # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This right here.  Walk before running.
+----------------------------------------------------------------------------------------------------
+ID: mc2zt1w # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TryHackMe actually works off of their own custom ubuntu distro, that might be a good place to start so you can gain some bearings
+----------------------------------------------------------------------------------------------------
+ID: mc9gouv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ParrotOS?
+----------------------------------------------------------------------------------------------------
+ID: mb8fwqu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use virtual machines
+----------------------------------------------------------------------------------------------------
+ID: mb3hzuh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Good
+----------------------------------------------------------------------------------------------------
+ID: mb7vebd # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Running before moonwalking
+----------------------------------------------------------------------------------------------------
+ID: mc9qo5k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Parrot works too. Parrot is also based off of debian just like ubuntu, kali, and arch. So it'll feel similar to using those three. Again, you just download whatever tools you want to use if they're not pre-loaded.
+----------------------------------------------------------------------------------------------------
+ID: md2mrm5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You mean shift ubuntu in virtual machine?
+----------------------------------------------------------------------------------------------------

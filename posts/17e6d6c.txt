@@ -1,0 +1,17 @@
+POST ID: 17e6d6c / POST TITLE: Is it possible to embed an agent in the KMS activator to run it during system activation?
+====================================================================================================
+Hello, I'm new to the community, so I understand that this question might raise suspicion among some, but let me explain. 
+
+I'm working on a thesis project for my university to create an agent that can infiltrate a Windows system and detect vulnerabilities. The problem I'm facing is that I need this agent to generate real-time vulnerability reports while it's infiltrating the system. I've already managed to run  to run a prototype of my agent within a test system I set up with a PC and a switch for routers, but I need a method of infiltration. I was thinking that embedding the agent in an activator like KMS would serve to simulate the most common threat that a Windows user faces, infiltration through system activation via KMS or similar methods. But I don't have much information about this or if there are better ways to achieve the same result. Does anyone know if this is possible?
+
+As a disclaimer, this agent's sole purpose is to manage information to generate a report that helps a network administrator know where to concentrate their efforts in closing ports or patching scripts to strengthen their system. I do not have any malicious intent for its use.
+
+Thank you in advance for your comments!!
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: k636xjm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your best bet is to social engineer the deployment.
+----------------------------------------------------------------------------------------------------

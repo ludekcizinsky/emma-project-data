@@ -1,0 +1,21 @@
+POST ID: 14vw7qh / POST TITLE: Villain Reverse Shell - Data Exfil
+====================================================================================================
+This is my first post for a while now but I have been playing around with Villain by t3l3machus.
+
+I'm about to display my super noob credentials by asking the question what can I or should I do once I have established the reverse shell?
+
+My main goal is to try and exfil data from the compromised host but I can't quite figure out how to do that. I have been playing around in the interactive shell (which is a Powershell shell) but don't really know what I need to do. Any help would be appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: jrgkkqm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: At this point, learn more about the tool, the operating systems you are using, and where user-created files or sensitive configurations may be found.
+
+Down the road, gear exfiltration towards your strategic goals: how can you demonstrate the ability to steal data from your paying customer? Always keep engagement constraints at the forefront of your operations.
+----------------------------------------------------------------------------------------------------
+ID: m6gwl2w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey how can i use it over internet if my target is over  the internet
+----------------------------------------------------------------------------------------------------
+ID: k0u3fne # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can try picking out the hashes of the system and learn more about it's user, intercept data and you can use keyloggers
+----------------------------------------------------------------------------------------------------

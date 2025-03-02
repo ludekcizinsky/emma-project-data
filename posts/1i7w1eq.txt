@@ -1,0 +1,26 @@
+POST ID: 1i7w1eq / POST TITLE: A company I did business with has all of their clients names and email searchable from google and they don't care
+====================================================================================================
+So I did business with a company a while back and there was an application process where I had to submit personal information. Business went well no issues. 
+
+Now on an unrelated note I have been spending my time getting websites to remove any reference to me or my personal information. If I search my personal email, the number one search result is my email next to my full name on this companies website. I don't know what other information can be accessed this way but because it was for a loan application they have my social security number and a lot of other personal information somewhere in their database.
+
+I told them about this and they basically said they can't do anything about it.
+
+They seem to store client names and email that can be accessed via URL from their website(which is proudly hosted by WordPress). By stripping my info from the url and googling that a bunch of other people's names and emails show up in search results.
+
+What would you do in this situation? I probably cant really dig any deeper legally, but how can I convince them that they need to secure their website?
+
+POST COMMENTS:
+====================================================================================================
+ID: m8qtayt # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Gpdr request
+----------------------------------------------------------------------------------------------------
+ID: m8yhxy8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: People really don't understand the value of information. it may be hard to believe but people where i live casually go around throwing passwords of their e-com stores accounts to get someone to help them with it. i was so mortified when i first saw it. when asked most just said it's okay since they know the person and have two-factor-authentication on but this was still just not how it's supposed to work fr.
+----------------------------------------------------------------------------------------------------
+ID: m8oiis7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Report it to the IC3 maybe, I’m really not 100% sure though. Ima talk to someone about it tomorrow
+----------------------------------------------------------------------------------------------------
+ID: m8twx49 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: GDPR request (DSAR)
+----------------------------------------------------------------------------------------------------

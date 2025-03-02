@@ -1,0 +1,16 @@
+POST ID: 1itsow2 / POST TITLE: Solution Opinion needed
+====================================================================================================
+Hello, I am a Cybersecurity Pre sales solution architect having 2 years of experience with a service company. I recently got involved in a proposal for SD-WAN migration from VeloCloud to Fortinet in 10 months. 
+
+From an environment and volumetrics perspective the company they have 402 remote sites and same site acting as DC and HQ and is a Hub Site. They are using Zscaler for Internet breakout and RA VPN. 
+
+For the migration(10 months) part of security configuration I have factored in 1 L4 security architect for assessment and pilot phase and 2L3 Associate Consultant and 1 L2 Ops Analyst for documentation and basic configurations. 
+
+The issue here is that customer is not sharing any more details about the security configurations on top of their VeloCloud SD-WAN so I have to prepare a solution using assumptions. 
+
+My Assumption here is that there should be around 4 DC UTM firewalls and rest around 400 software firewalls.
+
+Kindly suggest if the sizing is fine or if you need any more information to answer please let me know I’ll share. 
+
+POST COMMENTS:
+====================================================================================================

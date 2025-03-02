@@ -1,0 +1,16 @@
+POST ID: 1736e53 / POST TITLE: XSS, Is it possible to gain a shell to the victim's Android device?
+====================================================================================================
+I have been studying XSS attacks for over a month now and I am fascinated by how it all works and even wrote an article on it
+
+[https://noderguy.blogspot.com/2023/10/xss-cross-site-scripting-one-of-most.html](https://noderguy.blogspot.com/2023/10/xss-cross-site-scripting-one-of-most.html)
+
+But a question was in my mind can an XSS attack lead to the compromise of the target device instead of just making a server-side request? I know it needs to escape the sandbox but can it do so using the buffer overflow vulnerability with CVE id = CVE-2023-4863?
+
+POST COMMENTS:
+====================================================================================================
+ID: k41o718 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any device that will execute code from a vulnerability can do this. It doesn't matter if it's XSS or Android or whatever.
+----------------------------------------------------------------------------------------------------
+ID: k43zjwh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But Android requires Dalvik architecture based payloads
+----------------------------------------------------------------------------------------------------

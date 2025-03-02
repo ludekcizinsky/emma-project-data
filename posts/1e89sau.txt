@@ -1,0 +1,19 @@
+POST ID: 1e89sau / POST TITLE: Which certificate path to do?
+====================================================================================================
+I have been searching about what certificate to pursue. But which ones should I start with?  
+1- HTB CPTS, planing to do THM - Jr Penetration Tester for beginner knowledge.
+
+2- eJPT&eCPPT
+
+3- TCM-Security PJPT & PNPT
+
+I plan to take OSCP but after finishing another easier cert plus some work experience
+
+POST COMMENTS:
+====================================================================================================
+ID: le5r4j2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: THM Jr. PT then 3 then back to 1 then OSCP
+----------------------------------------------------------------------------------------------------
+ID: lf0cncg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take a look at the ISC2 site they were giving away the Cybersecurity cert
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+POST ID: 1ipui9j / POST TITLE: LLM(AI) Model for simulating and/or analyzing a cyberattack, threath detection?
+====================================================================================================
+Hi,
+
+does anyone know a good LLM(AI) Model to simulate a cyber attack on a resource to analyze the attack and make improvements? 
+
+This kind of AI Pentesting.
+
+* Or for example, I send a list of CVEs to the model, and the model uses this data to suggest practical improvements that can be made to eliminate these CVEs. 
+* Or for example the model describes a possible cyberattack on a resource with such CVEs can be realized.
+
+I would be grateful for any thoughts and hints on this topic.
+
+
+
+The only thing I found was this model from NVidia.
+
+[https://catalog.ngc.nvidia.com/orgs/nvidia/containers/morpheus-pb24h2](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/morpheus-pb24h2)
+
+
+
+And on huggingface
+
+[https://huggingface.co/dattaraj/security-attacks-MITRE](https://huggingface.co/dattaraj/security-attacks-MITRE)
+
+[https://huggingface.co/ZySec-AI/SecurityLLM](https://huggingface.co/ZySec-AI/SecurityLLM)
+
+[https://huggingface.co/tensorblock/SecurityLLM-GGUF](https://huggingface.co/tensorblock/SecurityLLM-GGUF)
+
+[https://huggingface.co/JHH11/Llama3-8B-Security](https://huggingface.co/JHH11/Llama3-8B-Security)
+
+[https://huggingface.co/QuantFactory/SecurityLLM-GGUF](https://huggingface.co/QuantFactory/SecurityLLM-GGUF)
+
+
+
+Has anyone used them has practical experience? Share your opinions.
+
+How fast are they?
+
+
+
+Thanks!  
+
+
+POST COMMENTS:
+====================================================================================================

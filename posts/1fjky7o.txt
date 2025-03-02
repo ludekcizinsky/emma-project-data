@@ -1,0 +1,20 @@
+POST ID: 1fjky7o / POST TITLE: Onboard wlan0 not going into Monitor Mode
+====================================================================================================
+i have a **Raspberry Pi 3 Model B** with Parrot Security OS Installed over it. when i'm trying to run airmon-ng in it without any kind of USB WiFi Adaptor the **Onboard wlan0 WiFi**/Bluetooth Card (**2.4 GHz 802.11n**) is not getting into Monitor Mode.
+
+is there any way i can install any kind of drivers or tool to put it in **monitor mode??**
+
+POST COMMENTS:
+====================================================================================================
+ID: lnp456t # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The hardware has to support it, and it probably doesn't.
+----------------------------------------------------------------------------------------------------
+ID: lnsr9lb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your network  card is not compatible with monitor mode
+----------------------------------------------------------------------------------------------------
+ID: lo7f7z9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Which os you use in this system?
+----------------------------------------------------------------------------------------------------
+ID: lo8tvfu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: look up how monitor mode works, and what chipsets support it. spoiler alert, raspberry pi's onboard wifi adapter doesn't support monitor mode.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+POST ID: 1dkuyq6 / POST TITLE: Is CEH is good?
+====================================================================================================
+I saw a course on simplilearn cyber security master's program. They are giving CEH and compTIA security + preparation and exam voucher with 4 other projects and live session. And it's of huge amount. I already know the basis of cyber security and done Google cybersecurity course. 
+
+Should I go for it? Is CEH and compTIalQ security + worth it when thinking in terms of getting a job or paid internship from those two?
+
+POST COMMENTS:
+====================================================================================================
+ID: l9lhfu0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If it’s free, take it. If you have a government job lined up to apply for, take it (most government jobs require this — make sure before you do it). Otherwise, it’s a waste of time and money.  CEH is a fucking scam.
+----------------------------------------------------------------------------------------------------
+ID: lc321sm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I know personally the CEH is what a lot of companies look for if you are going the red team route!
+----------------------------------------------------------------------------------------------------
+ID: lc325tc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CompTIA security + is a great foundational way to learn cybersecurity. Definitely helped me with a holistic view.
+----------------------------------------------------------------------------------------------------
+ID: lc0z6b5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Most cyber security certs are a fucking scam. High renewal fees, insane CPD requirements...its mental.
+
+I suspect a huge number of certs lapsed over the pandemic because CPD wasn't possible and a lot of folks won't bother requalifying.
+
+Certs are only really useful for government / corporate work...who are the worst payers in this space.
+
+SME is where the money is. Particularly in helping get over the line for cyber security insurance...and its easy work because insurers haven't the first Scooby doo about cyber security it seems. Most of them seem to build their policies on the back of a YouTube top 10 video.
+
+For example. One insurer I worked with on behalf of a client had a been in their bonnet over MFA...gotta have that MFA everywhere bro...I duly complied except for on a network switch that was unmanaged. Therefore you can't login to it and MFA is fundamentally impossible.
+
+Insurer: Have you enabled MFA on that switch?
+Me: No. Its unmanaged.
+Insurer: It doesnt matter if its managed or not, it needs MFA.
+Me: No you dont understand. You can't manage that switch.
+Insurer: Please enable MFA in that switch for complete compliance. The underwriter won't accept devices with no MFA.
+Me: *facepalming like fuck* No seriously, its impossible. It is an unmanaged switch. That means it has no login or management features. It is impossible to deploy MFA there.
+Insurers: Sorry we dont make the rules, you need to find a way.
+
+Seriously, I wanted to punch someone.
+
+Its not an isolated incident either. I've had all manner of cretins insisting on similarly impossible shit.
+
+The industry is fucked right now.
+----------------------------------------------------------------------------------------------------
+ID: lfrrlo8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, if you want to learn for free, you can learn CEH and CompTIA Security+ from YouTube tutorials. There are too many videos that can enhance your job prospects and make you more competitive for paid internships in cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: l9xwbd5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's a 70k rupees course.
+I do want a government job but in 5 years and not exactly now.
+----------------------------------------------------------------------------------------------------
+ID: lc3ad6x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What if I have skills of CEH rather than having a cert of CEH? Would that hamper my selection in getting a job? I heard many professional cyber security specialists and many people on reddit saying that the whole EC-Council is not worth a penny (and they take a lot of penny)
+----------------------------------------------------------------------------------------------------
+ID: lc4qbx2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I honestly think it depends on the employer. I know where I work they do look for those certs. But others just look for the skills. With the CEH it’s a good way to prove you have the skills to a new employer. There are also other tools like HackTheBox or TryHackMe where you can learn, apply your skills and earn badges/credentials to prove your skill level. API University as well
+----------------------------------------------------------------------------------------------------
+ID: lc8c24n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That sounds great. I will check them out. Thanks.
+----------------------------------------------------------------------------------------------------

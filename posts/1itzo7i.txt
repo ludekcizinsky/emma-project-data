@@ -1,0 +1,14 @@
+POST ID: 1itzo7i / POST TITLE: I Found a Way to Get Every Student’s .edu Email at My College - What Should I Do?
+====================================================================================================
+I recently discovered a way to access the .edu email addresses of every student at my college, both current and past.
+
+Tens, maybe even hundreds of thousands of emails. There’s no other personal info attached, just the email addresses.
+
+I haven’t used the method, just realized it exists.
+
+I’m not sure if this is a security issue, a common thing at colleges, or if I should report it.
+
+Note: The way is NOT through the global address book, anyone, even if they're not a student can get all the emails.
+
+POST COMMENTS:
+====================================================================================================

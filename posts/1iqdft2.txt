@@ -1,0 +1,15 @@
+POST ID: 1iqdft2 / POST TITLE: OpenCanary and OpenCanary-Correlator
+====================================================================================================
+So I’ve been attempting to install and run opencanary and correlator honeypot on VMs; Ubuntu 24.04 & 22.04 LTS to absolutely no avail. I’ve also tried on my kali linux VM and while I was able to get OpenCanary running, I am completely unable to get the correlator running due to differing python dependencies (I’ve tried via pip, docker and git clone) I’ve also tried to run a python2.7 virtualenv specifically for OpenCanary-Correlator, still no luck. 
+
+
+I’m looking to switch over to Raspberry Pi 4, hoping for better results since it is python based. 
+
+Is anyone successfully running OpenCanary AND Correlator (specifically for email/SMS alerts) on Raspberry Pi 4?? How is it working for you? And any suggestions pre build ?
+
+I am using the free version of OpenCanary as well
+
+**I did also post this in NetSec***
+
+POST COMMENTS:
+====================================================================================================

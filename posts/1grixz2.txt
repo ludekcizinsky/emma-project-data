@@ -1,0 +1,9 @@
+POST ID: 1grixz2 / POST TITLE: PAN-SA-2024-0015 Critical Security Bulletin: Ensure Access to Management Interface is Secured
+====================================================================================================
+https://security.paloaltonetworks.com/PAN-SA-2024-0015
+
+POST COMMENTS:
+====================================================================================================
+ID: lxdx3iv # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Don't let the internet raw dog my management plane. Thanks for the tip.
+----------------------------------------------------------------------------------------------------

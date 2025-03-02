@@ -1,0 +1,69 @@
+POST ID: 1355h8d / POST TITLE: Is it possible to get the location history of a mobile phone?
+====================================================================================================
+So if you wanted to know a cell phones location at a certain time in the past would it even be possible to do this?  I'm am not asking an illegal question I'm just wondering if this is possible for a skilled civilian to do
+
+POST COMMENTS:
+====================================================================================================
+ID: jij3b7s # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > if you wanted to know a cell phones location at a certain time in the past would it even be possible to do this?
+
+It depends on the phone and its configuration. For Android phones with Location History turned on, the answer is Yes. See _Google Maps Timeline_, https://support.google.com/maps/answer/6258979?sjid=1809513513341048758-NA.
+
+An Android phone may have other location aware apps. They are not hard to build. See _Build location-aware apps_, https://developer.android.com/training/location/.
+
+Apps using location data can request fine or coarse grained location information. See `ACCESS_FINE_LOCATION` and `ACCESS_COARSE_LOCATION` at _Request location permissions_, https://developer.android.com/training/location/permissions.
+
+I'm not up to date on what iOS does. Maybe someone else can comment about it.
+
+And of course, law enforcement can obtain location information from cell towers with a warrant.
+
+I have a cell phone for work and 2FA. I rarely take my cell phone with me when I leave the house. They are little tracking beacons. I have no desire to let Google know that much about me.
+----------------------------------------------------------------------------------------------------
+ID: jii1g1r # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes
+----------------------------------------------------------------------------------------------------
+ID: jiimyh0 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Elaborate on your question as atm it violates rule 2.
+----------------------------------------------------------------------------------------------------
+ID: jimxscs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cellphone company do collect which tower you phone connects to then keep it for a period of time. I remember some years ago reading about a company selling those information to pi and such. There also says broker who could have this information for you... https://www.eff.org/deeplinks/2022/08/inside-fog-data-science-secretive-company-selling-mass-surveillance-local-police
+
+Haven't nor do I intend to do anything like that but I'm pretty sure if you know the right people and have the money it's possible.
+----------------------------------------------------------------------------------------------------
+ID: jin0359 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I assume if you go on the Darkside / TOR you might find people who sells this information, but again I have never look into it, only read about it though some IT article.
+----------------------------------------------------------------------------------------------------
+ID: jiotgvi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can I know how to do it with Apple. Not sure with other brands.
+----------------------------------------------------------------------------------------------------
+ID: jikceow # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you foe the reply
+----------------------------------------------------------------------------------------------------
+ID: jij2d5d # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > Elaborate on your question as atm it violates rule 2.
+
+To play devil's advocate... He or she may wish to examine his cell phone to determine how much personal information could be lost to an attacker.
+----------------------------------------------------------------------------------------------------
+ID: jijui0d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry just read it, so basically I wanted to know if my location history could be tracked by someone else like a civilian who shouldn't be could track your past location and current location
+----------------------------------------------------------------------------------------------------
+ID: jimy3v0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting,  that's a crazy story those pi's always seem to have conection of some sort weather it's the cell phone company government worker lawyers something like that.  He's not a pi but he's a lawyer better call Saul lol
+----------------------------------------------------------------------------------------------------
+ID: jimy8kf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How do these guys find a data broker it's not like they just Google data broker.  Do have an idea?
+----------------------------------------------------------------------------------------------------
+ID: jin0nj1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It was a good read thanks.  Interesting to learn a bit about how this stuff works in general
+----------------------------------------------------------------------------------------------------
+ID: jlh4x7j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you explain v
+----------------------------------------------------------------------------------------------------
+ID: jikc67r # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > if my location history could be tracked by someone else like a civilian
+
+In this use case, I think you are much more likely to be surveilled using a GPS tracker or an Apple air tag. I doubt those surveilling you will break into your phone to recover logs.
+----------------------------------------------------------------------------------------------------
+ID: jikd1ar # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hmmm but a gps tracker you would have to take a risk of someone finding something physical and also  you may not always have the item the gps is hidden in on you.  But people always have there phone on them I honestly feel like if someone wanted to track someone they would do it through mobile phone.   I could be wrong.  Without getting into too much detail explaining to a new computer person not an expert how are would someone do this and could it be prevented?
+----------------------------------------------------------------------------------------------------

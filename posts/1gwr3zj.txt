@@ -1,0 +1,29 @@
+POST ID: 1gwr3zj / POST TITLE: Keywords in searchsploit 
+====================================================================================================
+How do you develope an understanding of the keywords to use when using searchsploit? 
+
+I’m practicing nmap scans and vulnerability testing with searchsploit but how should I know which keywords to use in searchsploit once I know which ports are open?
+
+POST COMMENTS:
+====================================================================================================
+ID: lyg8aqy # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When using searchsploit, I base my keywords on:
+
+Service Name & Version: From your Nmap scan (apache 2.4.49).
+
+CVE or Vulnerability Names: If Nmap or another tool mentions a specific vulnerability.
+
+Port-Specific Services: Common services on specific ports (ftp, ssh, http).
+
+If unsure, start broad (apache), then refine based on the results or the exact version. Practice will help you get better at picking effective keywords!
+----------------------------------------------------------------------------------------------------
+ID: m348esq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice
+----------------------------------------------------------------------------------------------------
+ID: lyjhxxu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So if I take my nmap scan, search and find one of the CVEs… how can I search for that CVE in msrconsole? Just keyword guessing?
+----------------------------------------------------------------------------------------------------
+ID: lynqnep # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if your CVE is CVE-2021-41773, run:  
+search cve:CVE-2021-41773
+----------------------------------------------------------------------------------------------------

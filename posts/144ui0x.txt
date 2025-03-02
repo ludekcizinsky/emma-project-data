@@ -1,0 +1,22 @@
+POST ID: 144ui0x / POST TITLE: Best place to find community?
+====================================================================================================
+I've been studying cyber-security for a couple years from networking, linux (Parrot OS mostly), breaking into (permissioned) severs and pivoting around networks, doing priv-esc, and a little OSINT. I can somewhat read but not really write Python code. I have my Security+ cert. I'm also decently familiar with internet protocols like TLS, SYN handshakes, SSL certificates, symmetrical/asymmetrical encryption, TAILS, how to use the terminal etc...
+
+All I'm asking is does anyone know any good communities for a person of my skill-level or ideally with a little better expertise. Just a group to meet new people in the same field, to chat and chill, learn from and maybe teach some... To keep me motivated and thinking of new directions to pursue, and people to team up with. I haven't put much time into networking that way so any good pointers would be great.
+
+Have fun hacking out there!
+
+POST COMMENTS:
+====================================================================================================
+ID: jnhn6yg # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try root-me.org. it's a website full of challenges and with an active community from beginners to experts
+----------------------------------------------------------------------------------------------------
+ID: jnilksu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Find local(ish) meetings and start attending them. 2600, ISSA, Defcon Groups, B-Sides etc.
+----------------------------------------------------------------------------------------------------
+ID: jnjo0ea # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: On discord Heath Adams (The cyber mentor)  has a great community. https://discord.com/invite/tcm
+----------------------------------------------------------------------------------------------------
+ID: joi75db # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I had the same question, I'll use the resources provided here thanks y'all! 🫶🏽
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+POST ID: 1gwoxbp / POST TITLE: Traditional Ethical Hacking vs Cloud Ethical Hacking
+====================================================================================================
+I am currently working as a security engineer in an almost completely cloud company. I want to learn offensive security on the side as I’d like to spend at least a portion of my career doing that after a couple years of preventative security.
+
+Is it worth it to try to learn cloud-native OffSec practices? I know it’s much different, and harder, but I believe it will be an in-demand skill in the future. In the long run I would rather be working with public infrastructure and government than private sector too.
+
+What’s the market for cloud-based offensive security specialists and is there an increasing trend for them?
+
+POST COMMENTS:
+====================================================================================================
+ID: lyrfemw # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cloud offensive security is definitely in demand in the private sector. I believe it is rising but I have no hard facts to base that off of just my consulting company asking more of us to get certified in cloud testing.
+----------------------------------------------------------------------------------------------------
+ID: lys2tbx # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have heard the same. I don’t have anything to support it it I do know it does require some additional skills and knowledge.
+----------------------------------------------------------------------------------------------------
+ID: md3l8dt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Google does provide free material for cloud security and certificate
+----------------------------------------------------------------------------------------------------

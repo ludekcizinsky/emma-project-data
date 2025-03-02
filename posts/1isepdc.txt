@@ -1,0 +1,21 @@
+POST ID: 1isepdc / POST TITLE: Is CISSP still worth it?
+====================================================================================================
+Hey,
+
+I've been working in cybersecurity for five years, primarily on the sales engineering side. At some point, I'd like to pivot into the industry, maybe as a Director of Cybersecurity or something similar.
+
+At the same time, I feel like I have some gaps, especially in areas like cloud, Kubernetis, Python, and so on. My background is very strong in network security, (expiered CCNP, expired NSE7)
+
+Would the CISSP be worth it for me, or would I be better off focusing on Kubernetes, AWS, and related technologies?
+
+I also see that CISSP has a strong community, which could be helpful for landing my next role.
+
+Appreciate any insights!
+
+  
+E: Thanks for all the responses, I will go for CISSP and try to get the check in the resume. I will update my expierence and progress if it was all worth it or not afterwards :) 
+
+After the CISSP I will go down the AWS route and get more knowledge there, I am hopeful that I can finish CISSP within 4-8 weeks. 
+
+POST COMMENTS:
+====================================================================================================

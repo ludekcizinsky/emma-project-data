@@ -1,0 +1,42 @@
+POST ID: 1g0nlln / POST TITLE: Courses
+====================================================================================================
+Hello im 17 and currently in my senior year of highschool and im not sure where to start, i want to take a course since this is something ive always been interested in and want to pursue a career in but i dont know what course is good. Please give any recommendations for good courses that arent too time consuming as im still in school. Thank uu!
+
+POST COMMENTS:
+====================================================================================================
+ID: lra2wp0 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on your level of knowledge but I recomend courses for comptias  A+, Net+, and Sec+. 
+----------------------------------------------------------------------------------------------------
+ID: lrapbcd # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is a fun platform to learn/practice on and is free for a lot of beginner lessons. If you’re looking for certs those CompTIA ones the other comment mentioned are a good start
+----------------------------------------------------------------------------------------------------
+ID: lroy7rr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: actually you are me.. Im at final year or my high school as well. Checkout youtubers like networkchuck,davidbombal,cyber mentor for learning concepts and to get a hands on experience.. basically, start from networking and learn languages like c,python. and then advance to learning kali linux and its tools... You'll get an idea as you watch those mentioned youtubers. Good luck
+----------------------------------------------------------------------------------------------------
+ID: ly7p6e7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please find this course, Thanks 
+
+||
+||
+|[https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course](https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course)|
+----------------------------------------------------------------------------------------------------
+ID: ly7p91m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hello, Please find this CEH course, Thanks.
+
+||
+||
+|[https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course](https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course)|
+----------------------------------------------------------------------------------------------------
+ID: ly7p9is # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hello, Please find this CEH course, Thanks.
+
+||
+||
+|[https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course](https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course)|
+----------------------------------------------------------------------------------------------------
+ID: lsnvy2z # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you!
+----------------------------------------------------------------------------------------------------
+ID: mcircd3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dude, I've been searching this subreddit just so I could learn a little and make sure my families security cams are safe from being looked through. Thank you so much for a starting base!
+----------------------------------------------------------------------------------------------------

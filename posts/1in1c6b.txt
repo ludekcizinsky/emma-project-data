@@ -1,0 +1,22 @@
+POST ID: 1in1c6b / POST TITLE: Cloud Security Certification Just Got More Interesting
+====================================================================================================
+Wiz just launched their new certification program taking the data-driven approach to addressing industry needs.
+
+‣ 57% of companies now operate in multi-cloud environments, demanding broader expertise
+
+‣ Nearly 50% of organizations have exposed databases or storage buckets
+
+‣ The certification program starts with Cloud Fundamentals as a prerequisite for specialized paths
+
+What I find most compelling is how this addresses the growing skills gap in cloud security while providing a clear pathway for professional development.
+
+The multi-cloud reality means we need more certified professionals who understand complex security landscapes. This program seems perfectly timed to meet that need.
+
+What certifications do you think are most valuable for cloud security professionals today?
+
+Source: https://www.wiz.io/wiz-certified
+
+If you’re into topics like this, I share similar insights weekly in my newsletter for cybersecurity leaders (https://mandos.io/newsletter)
+
+POST COMMENTS:
+====================================================================================================

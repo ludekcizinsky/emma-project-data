@@ -1,0 +1,19 @@
+POST ID: 1hcbgg4 / POST TITLE: I just discovered that some CPEs from a major ISP in my country hello inbound traffic on IPv6 by default
+====================================================================================================
+Today we're doing some testing I just found out that CPEs from the biggest ISP in my country seem to allow inbounds IPv6 traffic by default without user intervention.
+
+I don't think most users can be trusted with their own network security I think by default traffic should be dropped unless explicitly allowed, am I right to think like that what should I do should I make this public?
+
+I tested this with 15 people by now.
+
+POST COMMENTS:
+====================================================================================================
+ID: m1nompi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think you're right, nobody would expect their IPv6 to be publicly reachable. You should probably try to contact your ISP before going public.
+----------------------------------------------------------------------------------------------------
+ID: m3rnnnc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am a complete beginner and don't have any basic knowledge of Kali. I installed an application 'hacker x' from playstore to learn ethical hacking and i practiced and reached upto ip sweeping module in the app. After performing an ipsweep only i came to know that it is not legal to perform ip sweeping in public network. Did i actually done something illegal? Please help me.
+----------------------------------------------------------------------------------------------------
+ID: m4phtd0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yikes
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+POST ID: 1ipe0gv / POST TITLE: Securonix sucks!!
+====================================================================================================
+Am I the only one who finds that Securonix documentation suck?
+Their training academy videos are outdated.
+
+
+I'm new to SIEM and I find that Splunk is amazing to use. They have good documentation and a great online community. But for securonix there's nothing.
+
+Is there any solution/path to learn Securonix?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,44 @@
+POST ID: 12gjbfw / POST TITLE: Tools to scan for vulnerabilities
+====================================================================================================
+Here are 6 tools that can help you scan for vulnerabilities automatically. Whether it's your own website or you're performing pentesting where you're allowed to use scanners, these tools can come in handy. 
+
+1. Burp Scanner
+2. NMAP
+3. Nessus
+4. OpenVAS
+5. Metasploit
+6. OWASP ZAP
+
+If you are using other scanners leave a comment please. (Although manual scanning is always recommended).
+
+POST COMMENTS:
+====================================================================================================
+ID: jfla4o5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey, I have just started with TCM's course and got my hands on Nmap, Nessus, Metasploit, Burpsuite and it was quite easy to find vulnerabilities. Is it that easy too in real life?
+----------------------------------------------------------------------------------------------------
+ID: jtcvu7d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It is possible to do a vulnerability scan on computer systems, networks, and applications using one of the many available scanning tools. These technologies assist guarantee that an evaluation is carried out in its entirety and automate the process of finding possible security flaws. The following are some widely used tools for vulnerability scanning:
+
+* **Nessus**: Nessus is a vulnerability scanner that is extensively used and offers complete vulnerability assessment and penetration testing capabilities. Nessus is also known as "Nessie." It is able to search networks, systems, and online applications for vulnerabilities and misconfigurations that are already known to exist.
+* **OpenVAS**: OpenVAS is an open-source vulnerability scanner that provides scanning capabilities for online applications and networks. OpenVAS, which stands for Open Vulnerability Assessment System, is also known as OpenVAS. It offers a comprehensive set of sophisticated tools, which may be used for testing and managing vulnerabilities.
+* **QualysGuard**: QualysGuard is a vulnerability management and assessment application that is hosted in the cloud. It assists businesses in locating and prioritizing security flaws in their systems. It provides functionality such as vulnerability detection, asset management, and compliance reporting, among other things.
+* **Nexpose**: Nexpose is a vulnerability management system developed by Rapid7. It contains features for doing extensive vulnerability scanning. It examines the networks, systems, databases, and online applications, and then produces in-depth reports with remedial suggestions.
+* 
+**Burp Suite**: Burp Suite is a well-known online application security testing tool. It combines vulnerability scanning with a variety of additional features, such as web application scanning, manual testing, and security research. Burp Suite is becoming more popular. It assists in determining typical online application flaws such as XSS, SQL injection, and CSRF.
+* **Acunetix**: Acunetix is a web vulnerability scanner that examines and evaluates online applications to determine whether or not they have any security flaws. It provides capabilities such as automated scanning and crawling, as well as extensive reporting on vulnerabilities that have been found.
+* **Nikto**: Nikto is a web server scanner that is open-source and focused on discovering common web server misconfigurations and vulnerabilities. Nikto was developed by Nikto Security. It is able to scan a large number of web servers and provide thorough reports on any problems that it finds.
+
+These are but a few instances of the numerous different vulnerability detection tools that are now accessible. The unique needs of the assessment, the environment that will be evaluated, and the degree of skill possessed by the users will all play a role in the selection of the instrument. It is essential to choose and set up the proper tool for the vulnerability scanning process, taking into account the particular requirements and objectives of that procedure.
+----------------------------------------------------------------------------------------------------
+ID: jflmx7t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on what you scanned, if you scanned an intentionally vulnerable app or server etc then you're likely to see more exploitable results but all apps and infrastructure are different some may be unpatched and badly configured or developed and contain a number of issues others are much more secure and so you see less.
+----------------------------------------------------------------------------------------------------
+ID: jflp7rx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I get the unpatched scenario where a client may be running outdated versions of any software. But what about badly configured or developed infrastructure? Are you talking about badly configured networks?
+----------------------------------------------------------------------------------------------------
+ID: jfluevj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Networks and devices, servers and services running on those servers and apps. lots of places build their own apps or services for specific business processes that may be vulnerable, run default credentials etc lots of things can be found by vuln scanners depending on the plugins etc the scanner users
+----------------------------------------------------------------------------------------------------
+ID: jflwe9z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks mate
+----------------------------------------------------------------------------------------------------

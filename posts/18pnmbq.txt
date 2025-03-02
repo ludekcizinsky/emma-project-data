@@ -1,0 +1,28 @@
+POST ID: 18pnmbq / POST TITLE: Accessibility and Hacking
+====================================================================================================
+Greetings!
+
+To make a long story short. I’m legally blind and will continue to go blind.. with that being said, I can only use screen readers for accessibility. Unfortunately Linux is not accessible unless I exclusively use the terminal. For the past 2+ years I’ve been trying to create workflows with work arounds to resolve accessibility issues. Windows and Mac OS are way more accessible but seem to be unconventional when it comes to OS of choice in CS.  For example BurpSuite is accessible on Windows but don’t know if it’s advisable to use Windows for web app hacking. My questions are… is there any work I can do exclusively using the terminal? If not what would be the pros and cons of using BurpSuite on Windows vs using  it on Linux?
+
+Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: kepl6kw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Burp suite is the same on windows and Linux there’s no pros or cons for either as far as I know. Most hacking is terminal based and I’ve seen posts in the past (can’t remember which subreddit) about this same question with tips and tricks
+----------------------------------------------------------------------------------------------------
+ID: kesgqis # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m a pen tester and almost exclusively use Linux in the command line, I just ssh straight into the vm from my mac. Burp also works perfectly for windows. Also you can probably exclusively use windows, and combine it win wsl. You would be better focusing on infrastructure testing because you could do that exclusively from the command line with workarounds. I’ve done web app hacking, and some apps have a horrendous amount of requests/responses going on, it would be difficult trying to get through that data with a screen reader.
+----------------------------------------------------------------------------------------------------
+ID: kexedw7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your insight! Didn’t know if there was a difference I was unaware of but if it’s the same then I’ll carry on.
+----------------------------------------------------------------------------------------------------
+ID: kexfg8w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You’re absolutely right about getting through all that data with a screen reader which is why I’ve been trying to understand how to filter data quickly but would still be time consuming. Does infrastructure testing also mean network pen testing? Nonetheless I’ll do some research into it so I appreciate that suggestion. I think I’ve felt some burn out just trying to make things accessible but I think it’s clear that I need to focus on things I can do on the command line. Thanks for the motivation.
+----------------------------------------------------------------------------------------------------
+ID: keyk7m9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I mean network pentesting, that’s what I specialise in and it’s a lot of fun, plus accessible. You could definitely do some API testing, that is around focusing on a single endpoint at a time and a lot more manageable. I sent you a DM, if you are serious about breaking into this industry, I could help you make tools more accessible and can mentor you.
+----------------------------------------------------------------------------------------------------
+ID: kf0h9c9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks! That would be awesome!
+----------------------------------------------------------------------------------------------------

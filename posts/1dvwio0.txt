@@ -1,0 +1,29 @@
+POST ID: 1dvwio0 / POST TITLE: Penetration Testing on Windows 11 - Opinions and Experiences?
+====================================================================================================
+Hi everyone!
+
+I'm considering switching to Windows 11 for penetration testing and would like to hear some opinions from those who are already using it as their primary platform. Currently, I use Kali Linux and Parrot OS, but I'm curious if Windows 11, with WSL support, could be a viable alternative.
+
+A few specific questions:
+
+How efficient is using distributions like Kali Linux or Ubuntu through WSL for penetration testing? Have you encountered any limitations compared to a native Linux environment?
+
+How do you find the overall performance and stability of the tools on Windows? Are there any compatibility or performance issues you have encountered?
+
+Do you have any tips on how to best integrate penetration testing tools with Windows? Do you use any specific Windows tools that you find useful for these activities?
+
+Do you have any positive or negative experiences to share? Would you recommend Windows for penetration testing compared to a native Linux distribution?
+
+Thanks in advance to anyone who shares their experience and suggestions! 🚀
+
+POST COMMENTS:
+====================================================================================================
+ID: lbqswe7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have just used VMware workstation/fusion in bridged mode as a pentester for years. Never had any issues.
+----------------------------------------------------------------------------------------------------
+ID: lburoah # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The only way I can recommend Windows is as a VM host for Kali.
+----------------------------------------------------------------------------------------------------
+ID: m4npdyt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You cannot. WSL does not work or integrate with pentest or any cyber related tools, mostly because of how it configures it's network access. (at least at the present time)  Win11 can be used for forensic analysis of the data recovery kind but not for any pentest tasks.
+----------------------------------------------------------------------------------------------------

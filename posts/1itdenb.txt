@@ -1,0 +1,49 @@
+POST ID: 1itdenb / POST TITLE: Work currently feels really disorganized and draining
+====================================================================================================
+Hi,
+
+I apologise in advance for any spelling or grammar mistakes, as English is not my first language.
+
+I was thinking a lot about creating this post but my curiosity (and frustration) got the better of me, as I wonder who might be / or might have been in the same situation as me.
+
+I am currently working as a cybersecurity engineer for a company with approximately 2000 employees and also multiple locations in Asia.  
+Our team is really small and we are allrounders, doing practically everything that comes our way.  
+It was always like this.  
+Even back when I was an apprentice, I needed to be able to solve problems related to a huge variety of topics.  
+I quickly became part of the backend team, with Linux and Firewalls as my main responsibilities.  
+As time went on, we had the opportunity to form a security department, which sparked a new fire inside of me and made me join immediately.
+
+Now I am in my mid 20s and have about eight years of work experience, six of them in cybersecurity.  
+Work has never been easy and we were (and still are) understaffed.  
+This sometimes means working unhealthy amounts of hours, which had a really bad influence on my personal life in the past.  
+One day I realised that I am only benefiting the wrong purpose and I need to take more care of myself.  
+I started to think more critically about my current situation and who I want to be and what I want to achieve.  
+I noticed that the current work environment and the work ethics of my company do not align with my values anymore.
+
+For example, we are not able to focus on topics.  
+There is no prioritisation, as everything is important and needs to be done quickly and is left to rot in the corner afterwards.  
+Unfortunately this is not the only thing.  
+We often have to suddenly evaluate risk and search for security issues in products or systems which appeared out of the blue and were implemented behind our backs.  
+Then again, they ask us to do this in thirty minutes which is just insane.  
+I feel like our boss does not care, because I was recently told that he gave his “OK” for some of these systems, without talking to any of us.  
+That is of course till there is an incident, which sparks outrage in our boss (“How could this happen???” or “Why is this system not protected???”).  
+Developing new skills and in-depth knowledge needs to be done outside of work, as our company sees it as "non work related fun".  
+On the other side it is required, since we often have to work on new topics and acquire new knowledge.
+
+This became worse in the last couple years.  
+Sometimes I feel like this is a bad joke and it’s becoming more painful each week.  
+I tried to talk to our boss multiple times about these issues, but it feels like I always hit a wall.  
+He says he “understands” and then nothing happens.  
+Projects keep on piling up, as well as tasks and everyone wonders why we drown in work.
+
+Did you have similar experiences?  
+I do think about leaving the company and moving on.
+
+
+
+
+
+
+
+POST COMMENTS:
+====================================================================================================

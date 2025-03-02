@@ -1,0 +1,57 @@
+POST ID: 141hi69 / POST TITLE: Need help with writing advice
+====================================================================================================
+Hi all,
+Sorry to barge here but I was interested in asking a question about some basic hacking skills. 
+I am actually a writer, and I am writing about a kid who can hack and has gained access to his school database. From there, he modified all of his friends's grades, but a professor found him by intercepting his work in some manner. 
+Now, the kid is meant to be some sort of prodigy, so he has extensive knowledge about hacking and stuff, but this professor found him nonetheless, so he must be very good too, even if he says otherwise. Point is this: the professor won't admit he's an hacker too, but the kid wants to point out that if he weren't, then he could've never arrest him. 
+What I am asking is this: to avoid keeping things vague, and wanting to add as many details as possible on the technical side, what could the professor had done to prevent the hacking and find the kid's identity? I know nothing about hacking, firewalls, IP, softwares et cetera, so I am sorta asking you to, basically, tell me a plausibile and technical method for both the hacking and both the prevention of It. I am interested in keeping things as much believable as they can be.
+
+Sorry for my english, I am italian and I'm not used to it! 
+And no, I am not trying to hack anything! 
+
+Also, sorry for the trouble. If you can answer me, I'd really appreciate it.
+
+:)
+
+POST COMMENTS:
+====================================================================================================
+ID: jn0gtjv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: "Writer" as in you're creating a story from scratch for like a book/blog/etc, or is this something that happened and you're writing a news piece?
+
+If this scenario actually happened, and you're writing an article on it, you're probably going to want actual facts about the situation and not just a bunch of theoretical "could have happened" information from other Redditors.  You're going to want accurate, authoritative sources, which no offense to my fellow EH'ers here, we're not it (strictly because this is a social media site, but also because we're not privy to the actual situation that occurred).
+
+The professor doesn't need to know squat about hacking... If Johnny and his friends are all C & D level students, any teacher who pays any kind of attention is going to see that suddenly they have A's and B's and know something is wrong.
+
+Also, it's not up to the professor to prevent tampering with the school's network, that's the IT department's job.  The chances of a school teacher knowing anything about defensive countermeasures or just IT security in general, are pretty slim to non-existent.
+----------------------------------------------------------------------------------------------------
+ID: jn0w1fn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jnfllu0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ah the old "my friend the writer" approach to asking about genital warts and how to remove them.
+----------------------------------------------------------------------------------------------------
+ID: jod7956 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m guessing ChatGPT probably already gave you an answer, but here’s my take on a realistic scenario:
+
+(Side note; most servers are much more secure than this, but I thought it would be easier to share a simple vulnerability to prevent over complicating things and slowing your story down)
+
+If I were to set up an easy to use database for a school I’d have a server connected to the school network that would communicate with the database to store report cards, parental information etc. To use it, a teacher simply needs to type the ip address of the server in their search bar to communicate with the server. This would pull up a page requesting the teacher’s/administrator’s username and password. From there it will pull all the information they have access to. 
+
+If a student were to tamper the data without having passwords and a list of usernames, they’d have to connect to the network (this would need social engineering, a rubber ducky usb [a usb used to communicate with a computer with the usb in it as if you had the keyboard in front of you or pure luck in the attempt to brute force the password, all would leave a digital footprint), scan all the ip addresses until they find the server’s ip address and type the ip in a search engine. From there they would have to type “admin” in the input box for the user and “ ‘and 1=1- - “ in the input box asking for a password (we call this an SQL injection, they’ve been considered rare for some time now, but have been in the top three most common vulnerabilities found in web applications. Web applications are basically servers that communicate with the internet. The server we are trying to access only communicates with a small network, but the same vulnerabilities still apply. You can learn more about the common web application vulnerabilities from OWASP top 10. This specific injection is actually very simplistic and is usually accounted for. You could add that as some banter if you’d like). From there your student can access and change whatever they’d like. 
+
+If the professor were to investigate the attack there are a few places they could look. If the student tried to brute-force their way in, there would be logs on the router or some kind of software written to capture packets [the software would constantly run in the background of the professor’s computer] (software is more realistic because accessing router logs without the password is a lot more difficult than just using a SQL injection and a clever hacker would have tried to clear the logs) that would have captured de authentication packets and a new ip address connecting to the network(this would not apply if social engineering or a rubber ducky usb was used). However, the following would be true in any case they access the network: the logging software or the router would also have logged the requests sent to the server. (A normal professor would have no idea of how any of this works let alone access router logs and writing logging software). The requests would show the injection sent which would be enough evidence to prove that there was a hack. To find the culprit, they’d have to look at what was altered (by looking at the requests sent to the server). In this case, the report cards of their friends. They could interview their friends or there could be some record of the culprit having past experiences in being caught or associated with hacking, but I’ll leave the investigation side to your imagination.
+
+I hope I helped to give you an idea on how to make your scenario more realistic. Good luck with your book and I hope to read it once it’s published.
+----------------------------------------------------------------------------------------------------
+ID: jn0uq4j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh, it's a book. Naturally, I didn't want to tell too many details because I thought that wouldn't be of interest but here you go: yes, a teacher can find out about the hack by reviewing the previous grades of the students, but this teacher wanted to find out who the hacker was for personal reasons. It's not his job as a teacher, but in the story being a teacher it's just a cover for him, and he doesn't want to involve anyone else to find out who the hacker is. It has to be him (in the story, the hacker did other questionable things other that change some grades), and he must track his identity on his own.
+Only, i don't want to write some vague things as: "I hacked this site with a super clever software". I was asking some advice about some technical procedures to make It look like more believable. 
+
+(The story it's not about hacking at all, but in this part it's necessary , and I know anything about It, unfortunately)
+----------------------------------------------------------------------------------------------------
+ID: jn0w8vs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Aw dang it, you're right! 
+AIs will steal our jobs, haha
+
+Thank you :)
+----------------------------------------------------------------------------------------------------

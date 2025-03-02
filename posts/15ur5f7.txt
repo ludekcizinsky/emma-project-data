@@ -1,0 +1,56 @@
+POST ID: 15ur5f7 / POST TITLE: I want to learn Ethical Hacking but my laptop is slow.
+====================================================================================================
+Hello, I want to learn Ethical Hacking so I downloaded an app to start learning the basics.
+They suggested to download a virtual machine on my computer and download the OS they suggested but my laptop is slow with only a total of 4 GBs of RAM. 
+My question is, will it make my device lag and cause errors or can it run it with no problem?. And if it runs the virtual machine, will it be able to run the OS, commands and any other programs that are required to start ethical hacking?
+Thank you!
+
+POST COMMENTS:
+====================================================================================================
+ID: jwr95an # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 4GB RAM is really less when considering working with stuff related to cybersecurity. If you wanna learn ethical-hacking, I would suggest using integrated machines on learning platforms such as hackthebox, tryhackme etc.
+----------------------------------------------------------------------------------------------------
+ID: jwrhamz # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I suggest minimum 16 GB RAM and as above Tryhackme - is the best platform for beginners
+----------------------------------------------------------------------------------------------------
+ID: jwrqvdx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've been using classes on Udemy, PicoCTF, and Kali Linux on VmWare(which is too much for your machine) but you can still learn how to install it, and what the platform looks like. Pico uses a webshell for code and if you get stuck you can lookup guides to help solve. You will be limited on what you can learn until you can save up for a better machine. Still plenty of resources though. 
+
+Ram: 8-32GB is generally recommended for running multiple VMs for testing. An example would be Kali running and testing another Win11 Vm
+----------------------------------------------------------------------------------------------------
+ID: jxhuxgb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As another user has already commented, try using integrated web based platforms on TryHackMe or HackTheBox. But the biggest question I have is what OS are you currently running? I suggest installing a Linux distribution such as Ubuntu, Fedora or Linux Mint and specifically using a desktop environment such as LXQT or XFCE. They are great for low end hardware. Also consider picking up an extra stick or two of RAM. Even if you just added another 4GB, a total of 8GB would be beneficial. https://www.crucial.com/ This is a good place to get new sticks of RAM which are fairly inexpensive. Just search up your computer and it'll tell you which ones are compatible.
+----------------------------------------------------------------------------------------------------
+ID: jxderwy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does your laptop has upgradable ram?
+----------------------------------------------------------------------------------------------------
+ID: jwr9jjy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you, I will do it!
+----------------------------------------------------------------------------------------------------
+ID: jwz1l41 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For what do you need 16GB?
+----------------------------------------------------------------------------------------------------
+ID: jx3m3nu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you
+----------------------------------------------------------------------------------------------------
+ID: jx3m4h4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: jwtnlkk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What courses have you tried and recommend on Udemy?
+----------------------------------------------------------------------------------------------------
+ID: jxildsi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am currently running Windows and I cant really modify anything with the computer because it's a family laptop
+----------------------------------------------------------------------------------------------------
+ID: jxdmz6j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I don't know but I'm really not in a position to do anything with it because it's a family laptop
+----------------------------------------------------------------------------------------------------
+ID: jwy4t6l # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Zsecuriy taught by zaid is a very good course but make sure you have minimum requirements to run labs as the course is practical...
+----------------------------------------------------------------------------------------------------
+ID: jxirk8u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ah that’s a real bummer. Installing a Linux distribution with the right desktop environment would be the biggest advantage.
+----------------------------------------------------------------------------------------------------
+ID: jxpvmju # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thank you!
+----------------------------------------------------------------------------------------------------

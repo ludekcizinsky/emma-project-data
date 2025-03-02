@@ -1,0 +1,6 @@
+POST ID: 1in1cxt / POST TITLE: Is there software solution for preventing taking photos of monitor screens?
+====================================================================================================
+Hello, as the title says I am looking for software solution that is similar to Zecurion dlp feature where u can detect phones taking photo of monitor screens. I can't seem to find anything similar to that feature anywhere so I am wondering if someone could help. Thanks in advance
+
+POST COMMENTS:
+====================================================================================================

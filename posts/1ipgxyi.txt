@@ -1,0 +1,20 @@
+POST ID: 1ipgxyi / POST TITLE: Cloud resources for SOC Analysts
+====================================================================================================
+Hey all! I am a current SOC Analyst. The company I work for uses all of the big three cloud services (AWS, Azure, GCP) and we have a bunch of alerts set up for each one. I wanted to make this post because I am looking for good resources for learning how to better perform investigation of Cloud alerting. A lot of the Cloud documentation out there appears to be from the configuration and infrastructure side. It also doesn't help that each cloud service loves to use its own lingo for the same things.
+
+  
+Again, I am already a SOC Analyst and have been doing this for a bit - I don't really want resources for how to learn to be a SOC Analyst or whatever. I'm more looking for: 'Ok, you get this alert from GCP - gather this data, these are relevant pivots, this is a possible FP or TP indicator, etc'. Maybe a 'these are the equivalent names for components between cloud services too.' This would also be useful for showing to other SOC Analysts, as everyone has varying level of comfort with the various Cloud providers.
+
+  
+And yes, I have Googled stuff, but my Google-fu isn't doing a great job. I did find this documentation for AWS that seems somewhat helpful, but not much for GCP or Azure (The Azure stuff especially seems terrible):
+
+\[GuardDuty finding types - Amazon GuardDuty\](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty\_finding-types-active.html)
+
+\[Finding details - Amazon GuardDuty\](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty\_findings-summary.html#rds-pro-login-anomaly)
+
+\[GuardDuty RDS Protection finding types - Amazon GuardDuty\](https://docs.aws.amazon.com/guardduty/latest/ug/findings-rds-protection.html)
+
+\[EKS Protection finding types - Amazon GuardDuty\](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty-finding-types-eks-audit-logs.html#privesc-kubernetes-anomalousbehavior-rolecreated)
+
+POST COMMENTS:
+====================================================================================================

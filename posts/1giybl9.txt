@@ -1,0 +1,28 @@
+POST ID: 1giybl9 / POST TITLE: Vulnerable Virtual Machines In The Cloud
+====================================================================================================
+I am planning to host vulnerable virtual machines in a virtualized environment for my students to engage in cybersecurity exercises.
+
+My objective is to establish a private network accessible via VPN, where students can safely interact with and attack these machines as part of their coursework. 
+
+I am exploring the best approach to implement this setup. I was looking at hosting them on the cloud, potentially AWS or Google Cloud?
+
+Any guidance on how to begin or recommendations for resources would be greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: lvaotm6 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take a look at ludus.cloud. it helps you set up vulnerable labs like GOAD easily, with VPN and everything. It can use a local machine or cloud and sets up VPN and everything.
+----------------------------------------------------------------------------------------------------
+ID: lvbp3yq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i am not a Cloud expert at all, but seem important to mention the few that i know :
+
+your students may try brute force attack. these can hurt your Cloud provider infrastructure/services (DoS). prevent your student that BF attack are prohibiden and prevent your cloud provider of your intention to check with them if what you are doing is ok for them too.
+
+Regardless BF, the rest should be ok about what i know. (i precise that i am not a Cloud expert, you may rely on other response first).
+----------------------------------------------------------------------------------------------------
+ID: lvzul90 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am doing it rn as part of a Cert 4 in Cyber - we just use VMWare and a custom network and we have images for different versions of Windows as well as Kali/Metasploitable. This way we can attack different machines with different vulnerabilities as well as DoS/DDoS or Brute Force without worrying about the CSP not liking that
+----------------------------------------------------------------------------------------------------
+ID: m6f7c77 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting
+----------------------------------------------------------------------------------------------------

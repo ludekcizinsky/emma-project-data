@@ -1,0 +1,30 @@
+POST ID: 11zm55v / POST TITLE: What do you use during a Assessment
+====================================================================================================
+So I am looking for a "Ethical Order of Operations" so-to-speak. I have been tasked with a preliminary assessment of a client of my company. This assessment is to include the findings of: weak points, vulns, exposed information, and all the things a Company who wants to remain secure should not have out in the open.
+
+I also should start by saying I am noob, (made my way through several HTB type things, and currently studying fore Sec+) but I do have permission to scan them. I am not asking how to hack them. 
+
+I am asking for a resource that the industry uses has a outline for pentest assessments. 
+
+&#x200B;
+
+What do you look for when tasked with enumerating a company's site.
+
+&#x200B;
+
+Any help is appreciate. My company knows I am no professional but trust me enough to let me do this work to decide if the need to hire a professional is there.
+
+POST COMMENTS:
+====================================================================================================
+ID: jdd0jcd # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is no outline. There are some basic steps to have in mind:
+
+1)reconnaissance - find as many domains/subdomains as you can. Any information about the company that may seem interesting from an attackers point of view.
+2)scan - scan the target for any open ports/services. Or do an active reconnaissance.
+3)vulnerability assessment - find any vulnerability that might lead to an exploit. Or any information that may seem useful to an attacker.
+4)exploit - after identifying the vulnerability u can try and exploit
+5)report. - report the vulnerabilities.
+----------------------------------------------------------------------------------------------------
+ID: jdh6wn0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: look at the attack frameworks for assistance by mitre and Lockheed Martin hope this helps.
+----------------------------------------------------------------------------------------------------

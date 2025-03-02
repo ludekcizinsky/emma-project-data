@@ -1,0 +1,41 @@
+POST ID: 1bc28zg / POST TITLE: Education 
+====================================================================================================
+Im a young student trying to get into pen testing en ceh. My family is pretty traditional and addement on going to college. But so far i saw on youtube and other platforms that that really isnt needed for ceh. My question is, is it neccesary to go to college or is gaining work experience and getting al the certifcates smarter ? (for people succesful as pen tester)
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kuh8uhv # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's all as necessary as the job you're applying for makes it.  There are jobs that won't look at you without a relevant cybersecurity/IT degree, and there are jobs that won't look at you unless you have the right certifications.
+
+No matter what, you're going to need work experience in IT.  No one wants to hire, and then subsequently train, someone to do red team/blue team work when that person has no actual experience in the field.
+----------------------------------------------------------------------------------------------------
+ID: kuivoyp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Reference employment websites and see what they require. It wouldn't hurt to reach out to a few professors as well. Even if you do decide to work for a few years, nothing is preventing you from going to college at a later date. You'll have a much butter understanding of material and life experience. Just be sure to save. 
+----------------------------------------------------------------------------------------------------
+ID: kw1nc3w # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CEH is useless.
+----------------------------------------------------------------------------------------------------
+ID: kuvq1be # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT:  Whether you need to go to college or not for pen testing depends on where you live and what you want. Some places like it, some don't care. It's like deciding if you want to learn things in a school or learn on your own while working. Both can work, but you need to decide what's best for you.
+----------------------------------------------------------------------------------------------------
+ID: kxdtvtg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’d recommend you go to college if you can/parents support it anyways. 
+You will need to learn those things anyways. Why not get a college degree while doing so? 
+And if you have an easy time in college cause you are in fact that good you can do some training on tyhackme / hackthebox etc. to get practical experience. 
+Also college  can be good for networking for later jobs and to get you a job after that might just pay for the certs if you are good while at work.
+----------------------------------------------------------------------------------------------------
+ID: kw204ix # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But is collage any better than getting al those certs
+----------------------------------------------------------------------------------------------------
+ID: kwmy5t2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Certs are part of the job and the industry. irregardless if you go to college or not, many workplaces will require you to complete certs to stay employed. Dont focus too much on ceh - its mainly a memorisation test so unlikely to impress recruiters.
+----------------------------------------------------------------------------------------------------
+ID: kwmyptr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks, what are the best certs for offensive cyber security? Ranking fron beginner friendly to advanced
+----------------------------------------------------------------------------------------------------
+ID: kwmzbpg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [https://pauljerimy.com/security-certification-roadmap/](https://pauljerimy.com/security-certification-roadmap/)
+
+outlines it pretty well.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+POST ID: 181xeuz / POST TITLE: Simple ways for a small office business to pentest their business / team?
+====================================================================================================
+(This is a throwaway userID)  
+I own a UK business with 12 employees. We are going to do further Cyber Security training in December. We handle client money and are regularly on the receiving end of cyber/phishing attacks.
+
+We want to 'test' the team over the next few weeks with harmless practical tests to identify gaps in training or knowledge. I would appreciate any ideas from this group for how we could \*safely\* undertake some penetration testing on our own business/team. 
+
+Ideas so far include a branded USB left in the car park to see if anyone picks it up and plugs it in (but how do we know who plugged it in?!) and a hand written letter posing from a client asking for something.
+
+Any suggestions welcome...
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: kakvk95 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: AFAIK as long as you are disciplined about POC exploits with empty payloads (not screwing with the system, just showing that at x point someone could do what they want with a shell, remote code execution, etc. ) and post exploit cleanup (not leaving any open ports, back doors, or stored XSS etc. ) you should be able to test whatever you want. Frameworks like metasploit and beef are pretty user friendly and maybe a bit script kiddie, but they can simulate what an experienced attacker might be able to do from scratch if they are really targeting you.
+
+Keep in mind I am pretty beginner myself but the scope of a penetration test really depends on what you want to test. If it’s common sense among employees, phishing emails and malicious redirects should do the trick to help keep people aware. Or maybe you would like to test yourselves on a more serious threat like an APT or randomware attack, in which bringing in a professional network pen tester might be a better idea.
+
+I am still in the learning process myself but this should be a good start to some purple team activity. Good luck
+----------------------------------------------------------------------------------------------------
+ID: kayg75l # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks! Some helpful points here and some bits for me to research, thank you.
+
+I have since found the Knowb4 phishing test emails which I plan to run on Friday next week.
+
+May then look into more advanced pen testing in due course. Its user behaviour I am focused on at the moment.
+----------------------------------------------------------------------------------------------------

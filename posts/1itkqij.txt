@@ -1,0 +1,6 @@
+POST ID: 1itkqij / POST TITLE: Google SecOps vs Sentinel for Azure monitoring
+====================================================================================================
+My company is looking into evaluating both Google SecOps and Sentinel as a SIEM/SOAR solution for our Azure and 365 environment along with a small handful of on-prem assets. I have some experience with Sentinel and zero with Google SecOps, so thought I'd pose the question to the pros out here that have used both to monitor their Azure and what they like or dislike about the competing platforms. I don't want to lean to Sentinel just because I'm more familiar with it if there's compelling reasons to look at SecOps as a viable alternative. Thanks!
+
+POST COMMENTS:
+====================================================================================================

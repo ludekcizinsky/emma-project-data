@@ -1,0 +1,22 @@
+POST ID: 1aou2gj / POST TITLE: VM recommendations
+====================================================================================================
+I recently finished up classes in ethical hacking and digital forensics and want to keep practicing what I learned. Any suggestions for a virtual machine to practice on?
+Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: kq24jlw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: VMWare.
+----------------------------------------------------------------------------------------------------
+ID: kq31023 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: VirtualBox
+
+VMware Workstation Player
+
+KVM
+
+All fulfill the same goal. Choose which one you personally like the best.
+----------------------------------------------------------------------------------------------------
+ID: kq2lqw1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Details?
+----------------------------------------------------------------------------------------------------

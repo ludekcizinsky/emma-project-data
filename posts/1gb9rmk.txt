@@ -1,0 +1,42 @@
+POST ID: 1gb9rmk / POST TITLE: How 
+====================================================================================================
+What’s the easiest way to land a job in this industry? I’m getting lots of YouTube university training but want a good action plan of how to break in?
+
+POST COMMENTS:
+====================================================================================================
+ID: ltkhknb # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Certifications like OSCP and IT experience preferably in cybersecurity. Also not mentioned often are social skills. A lot of pentesting jobs are consulting roles.
+----------------------------------------------------------------------------------------------------
+ID: ltkksed # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Charisma and who you know
+----------------------------------------------------------------------------------------------------
+ID: ltkgr9l # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bug bounty programs! Sorry I'm in the same boat, just figuring it out as I go along.
+----------------------------------------------------------------------------------------------------
+ID: ltn672d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What helped me to get a job in ITSec was experience as an Admin (3 years) and a Certification (nothing too "crazy" like OSCP or CEH). Social skills are also nice to have. What matters the most afaik is Commitment; that you really want to work in ITSec and you are really interrested.
+
+EDIT: Doing some Exercises on TryHackMe or HackTheBox can also help to get a bit more into that stuff.
+----------------------------------------------------------------------------------------------------
+ID: ltongc3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hack into their HR and add yourself to the payroll
+----------------------------------------------------------------------------------------------------
+ID: ltnj5ea # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have a slightly different opinion than most. I believe the easiest way to land a job in cyber is: apply, do interview, get hired. 
+
+Obviously you need (imo) at least a CS degree, but you don’t need an OSCP to get hired. Most serious certs require years of (proven) work in the industry anyways.  
+If you have good social skills (in this field, not many do) and good technical skills, you’ll get hired.
+
+This answer assumes you’re talking about cyber in general, not “ethical hacker” which I guess would be penetration testing. Every fucking script kiddie out there wants to be a pentester and they haven’t the slightest clue + market is saturated with noobs. 
+
+Also, YouTube university? Bro go to a real university smh.
+----------------------------------------------------------------------------------------------------
+ID: ltklktf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m actually a social whiz just need more technical knowledge and the correct certifications
+----------------------------------------------------------------------------------------------------
+ID: ltm7mtf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you have any that you’re in or that you can recommend?
+----------------------------------------------------------------------------------------------------
+ID: ltkm2je # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is no easy way just try to get in any way you can and then move laterally till you find a job/company you like working for. CompTIA certs like sec+ are a good base to start and then work towards OSCP. Ask jobs to pay for relevant certs and training any chance you get.
+----------------------------------------------------------------------------------------------------

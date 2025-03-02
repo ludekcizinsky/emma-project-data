@@ -1,0 +1,18 @@
+POST ID: 1inlzaq / POST TITLE: We managed to retrieve thousands of sensitive PII documents from Scribd! 🤯
+====================================================================================================
+Yes, you heard it right!!
+
+Scribd, the digital document library is being used by people to store sensitive documents without them realising that all of their documents are publicly accessible 🚨
+
+Throughout this research we retrieved a whopping 13000+ PII docs just from the last one year targeting specific categories, which also means that this is just a tip of the iceberg! 😵‍💫 
+
+The data constitutes of bank statements, offer letters/salary slips, driving licenses, vaccine certificates, Adhaar/PAN cards, WhatsApp Chat exports and so much more!! 
+
+Its quite concerning to see the amount of PII voluntarily exposed by the people over such platforms but at the same time we believe Scribd and other document hosting platforms need to pay special attention to avoid PII from being publicly accessible.
+
+To read more about this research, check out our Medium post: https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14?source=friends_link&sk=bae06428fd9e13f191c69ac2c34113dc
+
+As always, stay tuned for more research works and tools, until then, Happy Hacking 🚀
+
+POST COMMENTS:
+====================================================================================================

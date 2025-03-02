@@ -1,0 +1,47 @@
+POST ID: 18ouxoq / POST TITLE: Is math important in cyber security?
+====================================================================================================
+Hi, I am currently a student in the last year of high school, and I have been really interested in cybersecurity. For the past few months, I have been doing a lot of research about it, but I am not particularly logical and not good at math. Can anyone tell me if I should continue learning cybersecurity, or am I just wasting my time?
+
+POST COMMENTS:
+====================================================================================================
+ID: kejr3on # OF UPVOTES: 18.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cyber Security is a really vast Field. For the most jobs   in Cyber Security you are not going to run into math. 
+
+One of the areas you are going find math is going to be encryption and algorithms?.
+
+So if you are bad at math you can definitely be in Cyber Security.
+----------------------------------------------------------------------------------------------------
+ID: kejqz8u # OF UPVOTES: 13.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Math isn’t specifically required, but if you’re not logical then a lot of IT positions will be difficult or you’ll end up in entry level positions. 
+
+Find ways to learn how to troubleshoot and practice logical theory craft.
+----------------------------------------------------------------------------------------------------
+ID: kek56x8 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. Some areas, such as cryptography, may require a deeper understanding of mathematical concepts.
+----------------------------------------------------------------------------------------------------
+ID: kel9xvt # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No need of maths in 99% of Cybersecurity, The actual need is of logical thinking. Logical thinking comes from practice, The more similar situations you encounter you'll be able to connect them all and start forming solutions.
+
+There is no general thing like being intelligent or being logical, some people think if they are not able to solve some kind of riddles they are not logical / intelligent but that's a pure myth. You don't become logical or intelligent you just become good at things you practice for too long. You start connecting concepts easily, You start understanding things fast etc. so just keep practicing. 
+
+Somebody might be very good at web app pentesting but have a hard time understanding and doing OSINT or exploit development. So in starting go ahead and explore basics of every field and then eventually start focusing on what you actually wanna do. If you wanna go for application security focus on webapps, Android apps etc.
+----------------------------------------------------------------------------------------------------
+ID: keke5i4 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Isn't there newer encryption methods that are based more off of math curves etc? 
+
+God I'm blanking out on the description..
+
+Who knows where things are gonna go with quantum tech and the future of cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: kek7dm2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cryptography, routing, discrete math, machine learning using signatures on malware, buffer overflow and data structures/algorithms... some key areas on cybersecurity kinda envolves a good amount of math.  But overall, focus on having a good math reasoning and solving problems
+----------------------------------------------------------------------------------------------------
+ID: kel9y4e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends on. As often.
+----------------------------------------------------------------------------------------------------
+ID: keypbcc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nah, just use the Python Math module and you’re good to go
+----------------------------------------------------------------------------------------------------
+ID: kepx2a5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How long are we out?
+----------------------------------------------------------------------------------------------------

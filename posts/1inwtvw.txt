@@ -1,0 +1,12 @@
+POST ID: 1inwtvw / POST TITLE: Are you in favor of devs/QE's writing security unit/integration tests and incorporating into the pr build checks as part of shifting security left? Why or why not?
+====================================================================================================
+For context, we're a majority app sec team, and as part of shifting security left, there's ideas on what devs/QE can do to help out. For example:
+
+* After a security review of a new feature/project, could security analysts would list what type of security tests to be written and make it a req for signoff?
+* If there is overlap with these new security tests and pen tests, how would you resolve?
+* Also talking about incorporating some of these into the build process, but thats a lot more murkey and would love guidance.
+
+Any and all feedback would be great, thanks!
+
+POST COMMENTS:
+====================================================================================================

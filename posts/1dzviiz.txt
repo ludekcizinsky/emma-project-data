@@ -1,0 +1,25 @@
+POST ID: 1dzviiz / POST TITLE: Laptop suggestions 
+====================================================================================================
+Once I start really getting into things, I would like to have a separate laptop so that my personal things don't mix with my cyber security things. I've heard good things about thinkpads, and have been working on them a lot at work (I work as a technician). Are there any thinkpads in specific that are really good? Or other laptops in general?
+
+I also think I plan on buying one for cheap off of eBay and just fixing it up myself, since they can get pricey pretty quick. 
+
+POST COMMENTS:
+====================================================================================================
+ID: lci93r0 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I ended up getting a thinkpad x1 carbon 6th gen off eBay for like $200 a couple years ago. 16gb RAM, 512ssd. Gets the job done
+----------------------------------------------------------------------------------------------------
+ID: lcia0j8 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just use a VM. No reason to get a second device unless you need one. If you really want a laptop look at Kali minimum specs and just get something with an SSD.
+----------------------------------------------------------------------------------------------------
+ID: ld3raym # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you don't want to use a VM, you can use a [live boot Kali Linux on USB](https://www.kali.org/get-kali/#kali-live). That way your personal files won't get mixed up with your work files. Make sure you set up a persistent storage, so your files are saved after every reboot.
+----------------------------------------------------------------------------------------------------
+ID: ld1f0c0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, I have I think the same exact machine and bought it off FB marketplace for around the same price. I like having a separate computer just bc there are less distractions on it. Also, it's been cool to re-learn Windows after 16 or 17 years using MacOS.
+----------------------------------------------------------------------------------------------------
+ID: ld1f0dk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

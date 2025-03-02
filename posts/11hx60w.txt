@@ -1,0 +1,18 @@
+POST ID: 11hx60w / POST TITLE: Network address translation
+====================================================================================================
+I’m a beginner, and I’m following a course but this isn’t covered in the course and I would love to have some clarification.
+
+Let’s say I pentest a company that has NAT on, how would I go about targeting a certain server? Let’s say the company has one public IP, how would I filter which device I am targeting?
+
+With port forwarding it makes sense, you have 1 port that routes to a machine. 
+
+Can someone explain this to me please?
+
+POST COMMENTS:
+====================================================================================================
+ID: jaxlnxw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jb1om0x # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank for taking your time to reply! I appreciate it lots. This makes perfect sense actually. This will help lots with my studies, thanks again!
+----------------------------------------------------------------------------------------------------

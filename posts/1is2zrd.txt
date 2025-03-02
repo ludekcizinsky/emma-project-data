@@ -1,0 +1,12 @@
+POST ID: 1is2zrd / POST TITLE: Can we discuss CYA Culture?
+====================================================================================================
+Throwaway account but going on 8 years in the infosec field, mainly GRC. 
+
+Does anyone else feel as though the prevalent practice of Covering Your Ass within Infosec/Cybersec is a morally bankrupt exercise? 
+
+I’ve seen stakeholders watch an entire initiative burn rather than help out and risk associating their name with a potential failure. I’ve seen check the box audits with surface level due diligence with no real desire and borderline deliberate avoidance of going the extra mile to open up the guts and bring actual value. I’ve seen layers of pointless bureaucracy with Juniors asking Seniors asking managers for approval, who ask their managers, who ask their managers, who ask their managers…
+
+My professional drive will not allow me to indulge in these activities. Sure, I’ve gotten burned a time or two but that won’t change my fundamental beliefs of pursuing excellence. Not looking for advice, just want to commiserate with like minded people outside my professional circle. 
+
+POST COMMENTS:
+====================================================================================================

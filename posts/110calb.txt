@@ -1,0 +1,24 @@
+POST ID: 110calb / POST TITLE: Wi-Fi which requires Username and Password
+====================================================================================================
+I was wondering if there's any way I can login to my university's WiFi (it requires a username and password which I have) through CMD, I know how to login to a standard wifi (the whole netsh wlan... command) but it doesn't work on my uni's wifi, does anyone have an idea how should i go about it?
+
+POST COMMENTS:
+====================================================================================================
+ID: j8a0qgz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: the system así for domain credentials when u set the password of the wifi?
+----------------------------------------------------------------------------------------------------
+ID: j8ausi4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It sounds like you're trying to get onto a PEAP network. I can do this in linux, but not familiar with windows enough.
+
+If you have a friend with a windows machine that IS connected, can they send you their profile and you import it with netsh wlan add profile filename="PATH\TO\PROFILE.XML" Interface="YOUR-WIFI-ADAPTER-NAME" user=current?
+
+Or if you inspect the XML of another profile, maybe you'll find some section where you can specify a PEAP connection
+----------------------------------------------------------------------------------------------------
+ID: j8oqpdy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'll surely check that out, speaking of linux tho can you please tell how would you connect to an enterprise wifi (my university's in my case, with no certificate reqd) through terminal (no GUI) or python?
+----------------------------------------------------------------------------------------------------
+ID: j8osfw5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I use arch, so the standard is netctl, in which case you just write a profile and run it. I'm even pretty sure that there's a netctl profile for eduroam already floating around. 
+
+I'm not entirely sure what your distro uses but if you google your distro and "network manager" you'll probably find it pretty quick
+----------------------------------------------------------------------------------------------------

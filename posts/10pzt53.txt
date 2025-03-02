@@ -1,0 +1,26 @@
+POST ID: 10pzt53 / POST TITLE: Udemi ethical hacker curse for a beginner
+====================================================================================================
+I have experience in networking and coding(c# - i know, python - basics) and i want to extend my complement with ethical hacker skills, so what do you think what is the best for a beginner?
+
+POST COMMENTS:
+====================================================================================================
+ID: j6n2gb3 # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Like you i m a newbie, firstly i bought a course from udemy, let's say it was good but not so much, then i paid a membership from tryhackme and i m enjoying a lot. So i recommend you try tryhackme, hackthebox might be good, but never tested it
+----------------------------------------------------------------------------------------------------
+ID: j6nsyis # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.thecybermentor.com/ has some free stuff on YouTube along with certifications.
+----------------------------------------------------------------------------------------------------
+ID: j6n923o # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dion training solutions offers a course on the security+ exam (and other certs) that I found invaluable
+
+Combine that with something like a tryhackme subscription and you have a very good base to begin learning from
+----------------------------------------------------------------------------------------------------
+ID: j6qophq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How's your bash skills?
+----------------------------------------------------------------------------------------------------
+ID: j6n4bbf # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks! I'll take a look! :D
+----------------------------------------------------------------------------------------------------
+ID: j6srijb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basic file and directory management, php and mysql. I used to make php apps on apache 2 server using nano.
+----------------------------------------------------------------------------------------------------

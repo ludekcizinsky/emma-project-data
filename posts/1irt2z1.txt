@@ -1,0 +1,8 @@
+POST ID: 1irt2z1 / POST TITLE: How do you manage a vulnerability disclosure program for your saas?
+====================================================================================================
+1. Do you advertise a way for vulnerabilty disclosure on your site?
+2. How do you encourage responsible disclosures? 
+3. Do bounty programs work or just attract a lot of inbound noise?
+
+POST COMMENTS:
+====================================================================================================

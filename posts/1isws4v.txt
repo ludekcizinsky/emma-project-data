@@ -1,0 +1,24 @@
+POST ID: 1isws4v / POST TITLE: Starting a SOC center.
+====================================================================================================
+Starting a SOC service , 
+But I don't know the basics how a SOC center runs.
+I am hoping to implement wazuh as the SIEM XDR solution and extend its capabilities with suricata or snort for ids. This would be the basic setup tool that would be in use. ( Ofc I would like to implement more things)
+
+On that note, how should I go about, implementing a soc , what should be the basic requirements.
+What things should I work on.
+Also I am planning this as a long term thing, so I am considering hireing interns so that they can consider this as something they can start with and work for a good time.
+How should I provide training for them ?
+Originally I was thinking of bringing in a senior soc, but considering he might get over burnded i dropped the idea.
+In order to ensure logterm people I am thinking I should hire interns and train them on the way.
+For the training what should I consider?
+Should I get a freelancer for their training, or should I provide them certification as training or tryhackme labs.
+
+So if there is anyone who knows how to start SOC from scratch! I need a lot of insights in this.
+I would be very greatful to get some advice as well as insights on this.
+If some one has done something similar to this !
+Or know what can be done.
+Please let me know.
+Thank you.
+
+POST COMMENTS:
+====================================================================================================

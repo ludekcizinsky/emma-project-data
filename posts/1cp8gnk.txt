@@ -1,0 +1,37 @@
+POST ID: 1cp8gnk / POST TITLE: AI in hacking
+====================================================================================================
+I’m doing some research into the potential dangers of current and possible future AI technologies that could compromise cybersecurity / current practice  
+
+I’ve seen some posts that say there’s a chance of AI being able to work out passwords via listening to the sound of typing - obviously requiring some training data for a specific (mechanical) keyboard for a PC
+
+Ive also seen an in depth research paper discussing tracking hand movement to watch people type passcodes into their phones / tablets / other touchscreen devices
+
+I was wondering if anybody knows of other hacking methods that rely on similar techniques that I could look into?
+
+E.g. something I thought of it instead of recording sound of someone typing, would it be possible to train AI to process a video of someone typing on their keyboard? / is this something that has been researched
+
+POST COMMENTS:
+====================================================================================================
+ID: l3j8c5z # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: > I’ve seen some posts that say there’s a chance of AI being able to work out passwords via listening to the sound of typing 
+
+Unless there is some kind of tone (like touch tone on a phone) i doubt it. most it can do is figure out how long the password is. Another thing to consider with that not all mechanical keyboards sound the same, like mine sounds completely different than a coworkers.
+----------------------------------------------------------------------------------------------------
+ID: l3x06vd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Near term you should look at what can be easily automated. What I see coming is the ability of threat actors to be able to hit more targets faster as they automate recon, phishing and vishing. 
+
+With AI being used for recon it is likely that phishing will become spear phishing when the AI can easily work out what type of email would be best to take a target, and personalize it… 
+
+Vishing is of greater concern. What would you do if your IT person called you and asked you to log onto a specific web page? Phone number is spoofed, and the person you are talking to sounds exactly like someone you know in IT? 
+
+There are just a few of the potential attacks you might find coming soon to a small or medium business near you, or to you personally.
+----------------------------------------------------------------------------------------------------
+ID: l3xv6cd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Let's not forget about AI, when it's eventually run in supercomputers, being able to potentially break all encryption. That's what it seems like the main focus should be, sooner rather than later.
+----------------------------------------------------------------------------------------------------
+ID: l3zkev0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take the time and all the work to get United Healthcare for $22mil, or automate and get 300 easy to hack medium sized businesses for $100k each to a tune of $30mil. And all you need to do is teach your AI what you are doing, so it then can take over the process…
+----------------------------------------------------------------------------------------------------
+ID: l3xuxlq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agree, and the messed up part is the fact that scammers and hackers are already using all of the things you listed, so now it's just a matter of it getting better as AI progresses.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+POST ID: 196xajb / POST TITLE: Weird behavior on resuming to "station mode" after running my wireless adapter in "monitor mode" with airmon-ng
+====================================================================================================
+I switch to monitor mode using:
+
+    sudo airmon-ng start wlp8s0
+
+And then when I'm done testing, return to station mode using:
+
+    sudo airmon-ng stop wlp8s0mon
+
+Once I'm back, the MAC address that is reported to my wireless router is different than what it usually is. I have a couple of examples:
+
+For machine 1, it turns from
+`**:**:**:**:90:3C`
+to
+`**:**:**:**:90:3D`
+
+For machine 2, it turns from
+`**:**:**:**:38:45`
+to
+`**:**:**:**:38:46`
+
+There's a pattern here, the addresses are incremented exactly by "1".
+
+Is this a feature, or am I missing something?
+
+**SOLUTION:**
+I found a switch `--elite` that has been mentioned in the manpage along with a lot of caution that things will break, but it appears to provide me what I was looking for. As per my understanding, it doesn't destroy and create a new adapter while switching modes, but instead just adds a new one for monitoring and then removes it when switching back. This makes sure I can resume connecting to my network with the same MAC address and hence do not get blocked by my MAC filtering, and all that without having to reboot the machine.
+
+POST COMMENTS:
+====================================================================================================
+ID: kioiuid # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I found a workaround, and that is a feature of `airmon-ng`. Details have been updated in the question.
+----------------------------------------------------------------------------------------------------

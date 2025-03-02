@@ -1,0 +1,16 @@
+POST ID: 1irrkgh / POST TITLE: Career development question zscaler
+====================================================================================================
+Hey everybody,
+
+I figured this might be a long shot, especially with the current job market.
+
+I’m looking to advance my career as a Zscaler admin or deployment engineer. I’m already Zscaler certified but haven’t had the opportunity to work on projects or manage the solution beyond a couple of small ZIA projects and some lab experience.
+
+I’ve invested a significant amount of time into training, and it feels like it would be a waste of effort not to pursue this path, but I’m finding it difficult to locate roles or companies to apply to. There are a few Zscaler-related jobs on LinkedIn and Indeed, but they either require a lot of experience or are short-term contracts.
+
+I’ve also searched for MSPs that partner with Zscaler, but none seem to have these types of positions listed. The company I work for didn’t end up offering Zscaler services, so it’s not like I can rely on that for opportunities. However, I have a strong background in sysadmin/network /security work and experience deploying other things.
+
+Any advice would be greatly appreciated!
+
+POST COMMENTS:
+====================================================================================================

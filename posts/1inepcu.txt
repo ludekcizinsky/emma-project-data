@@ -1,0 +1,28 @@
+POST ID: 1inepcu / POST TITLE: What exactly is an information security risk?
+====================================================================================================
+Hi there
+
+I've worked in info sec for a few years, and recently realised that I don't have a great definition for information security risk. In particular I don't know how to distinguish between info sec risks and other organisational risks OR I don't have enough confidence in my definition to argue against others opinion. Hoping to get some clarity.
+
+I've always understood it from a GRC perspective that:
+- an information security risk is the potential impact to an organisation (operational, financial, reputational, legal) that may arise from a threat exploiting a vulnerability in the organisation's environment which compromises the confidentiality, integrity and/or availability of the organisation's information asset(s).
+
+Where CIA Triad is defined as
+- confidentiality = is when information is only accessible to authorised individuals  
+- integrity = is when information is complete, accurate and trustworthy. This means information has not been modified or deleted, by accident or without authorisation.
+- availability= is when information is accessible when needed
+
+And that an incident is the materialisation of an underlying risk.
+
+But where I ran into issues with my definition during a conversation with my co-workers is that they thought my understanding of info sec risk was too broad. 
+
+For example we work at a software company. If an application like confluence were to have an outage due to a bug or hardware failure on slack's server, my colleagues argued this was not an info sec risk and rather it was an engineering risk as there was no cyber attack, concluding that such a risk of this happening should not be managed as an info sec risk. Whereas my perspective was that this represents an information security risk as staff would not be able to access the information in slack when they need it and that this would impact operations. 
+
+Or e.g. if a natural disaster stopped people from accessing their office, which prevented them from from accessing information they needed to do their job, impacting operations 
+
+Basically I think my definition includes cases where there was no malicious actor, and the risk hardware failures, human error, natural disaster. 
+
+How do you distinguish between when a risk should be handled by the orgs info sec risk management framework Vs business wide rush management framework
+
+POST COMMENTS:
+====================================================================================================

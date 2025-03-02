@@ -1,0 +1,17 @@
+POST ID: 1ihz6x3 / POST TITLE: Substitute for immunity debugger
+====================================================================================================
+I am new to ethical hacking and I am trying to learn how to do all this, but the course I'm learning from says to use immunity debugger, and it seems like it's been absorbed by a company and they won't let people who don't work for them use the program. 
+
+What is a program I can use instead?
+
+POST COMMENTS:
+====================================================================================================
+ID: mbdtwpr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: gdb — comes with Linux. Command line debugger.
+----------------------------------------------------------------------------------------------------
+ID: mbdwmtj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you this helps a lot
+----------------------------------------------------------------------------------------------------
+ID: mdln7pf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You have too ddd that is a graphical interface for gdb, it looks antique but do the job
+----------------------------------------------------------------------------------------------------

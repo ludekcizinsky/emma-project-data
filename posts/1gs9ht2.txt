@@ -1,0 +1,43 @@
+POST ID: 1gs9ht2 / POST TITLE: Online courses to teach me?
+====================================================================================================
+Hey all, I'm super into computer science, and I am relatively proficient in C++, and fluent in Java, Javascript, and know how to use terminals. Do you know any online courses to get me into pentesting?
+
+POST COMMENTS:
+====================================================================================================
+ID: lxihgpk # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try the tryhackme platform or hack the box you actually learn stuff thats useful and most of their problems can be applied to a real time situation
+----------------------------------------------------------------------------------------------------
+ID: lxfd0et # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TCM Security Academy
+----------------------------------------------------------------------------------------------------
+ID: lxdlz9h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am not a pro but maybe Cisco
+----------------------------------------------------------------------------------------------------
+ID: lxomtcy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How to learn become hacker everybody ?
+----------------------------------------------------------------------------------------------------
+ID: lxrcs6v # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: (all free resources)
+Intro to cybersecurity by cisco, its free and at the end of the course you get a cert, you can also go with Certified in Cybersecurity by ICS2 which is also a good one. 
+
+If you want something more practical you can start on tryhack, since the new update things are more organized to learn for free/new users.
+
+If you want to test your skills in a more easy CTF style use PicoCTF, very good and beginner friendly, they also have some "courses" or material to learn.
+----------------------------------------------------------------------------------------------------
+ID: lxjahue # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: which would you recommend first
+----------------------------------------------------------------------------------------------------
+ID: mb1aecw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm going through his course, but I'm a little stuck right now cause I can't find a program he's saying to get
+----------------------------------------------------------------------------------------------------
+ID: lxrdi4g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Be creative and think outside the box ::D
+
+Now 4real, learn more than the basics of networking, then start to build up your knowledge on Operating Systems. After that you'll be able to find more and more information to continue your journey. Never give up and be ethical ::)
+----------------------------------------------------------------------------------------------------
+ID: lxlbpeh # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme is better if you dont wanna invest alot , hackthebox you gotta pay for the hq leaning , the free ones sucks
+----------------------------------------------------------------------------------------------------
+ID: lzc6ipn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You mean...everything I watched from David Bombal's channel....sucks? Noooo!
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+POST ID: 14s0nf4 / POST TITLE: What are the steps for a senior software engineer to switch to cyber security field?
+====================================================================================================
+Hi, i have been working as a software engineer since past 6 years and been coding all my life pretty much, i am interested to explore this field of cyber security and ethical hacking, what are the general steps i should take and which certification to go for? as i have a lot of experience with cloud based services like AWS, Azure, etc and experience on different languages like Javascript, Python, etc.
+
+POST COMMENTS:
+====================================================================================================
+ID: jqwkmmm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m an Application Security Engineer, have you thought about this route? I rarely do a lot of development work in current shop,  mostly red teaming and assisting in IR related to our products.
+
+We are are so incredibly fucked as a industry when it comes to AppSec, most CISOs couldn’t tell you what AppSec is and why it’s important.
+
+Let me know if you have any questions,  I had about 5-6 years working on web automation before moving to AppSec
+----------------------------------------------------------------------------------------------------
+ID: jqwpjcn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure, i'll dm you.
+----------------------------------------------------------------------------------------------------

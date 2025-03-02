@@ -1,0 +1,10 @@
+POST ID: 1imxn42 / POST TITLE: Why do people trust openAI but panic over deepseek
+====================================================================================================
+Just noticed something weird. I’ve been talking about the risks of sharing data with ChatGPT since all that info ultimately goes to OpenAI, but most people seem fine with it as long as they’re on the enterprise plan. Suddenly, DeepSeek comes along, and now everyone’s freaking out about  security.
+
+So, is it only a problem when the data is in Chinese servers? Because let’s be real—everyone’s using LLMs at work and dropping all kinds of sensitive info into prompts.
+
+How’s your company handling this? Are there actual safeguards, or is it just trust?
+
+POST COMMENTS:
+====================================================================================================

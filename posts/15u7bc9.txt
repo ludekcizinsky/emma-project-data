@@ -1,0 +1,43 @@
+POST ID: 15u7bc9 / POST TITLE: Data breach source: unknown
+====================================================================================================
+Hi everyone, 
+
+Sorry if I have posted this in the wrong sub, I'm new here. And if any sub had the information, I am sure that this is the one! (But do advise if I am wrong about that).  
+
+
+I have started to get very interested in cyber security, and through that - I began checking my own security - Login information, password changes - you know the usual layman thing.  
+
+
+I found a chrome extension "Guardio" which detected two leaks of my info. One, good old Tumblr, which I was aware of - my email and password compromised. 
+
+But it also found another, which I am of course a bit more curious about as it has to do with PII. However, the source of the leak is stated as unknown "The source of this leak has been blocked from us for sensitive or legal reasons.  
+It may be that the source is already under investigation.  
+This is all we know." The PII leaked includes my Password, Date of Birth, IP Address, Full Name, Email.   
+
+
+Not a great start.   
+
+
+I am wondering if there is any advise I can get. I have just started looking into the field of ethical hacking and cyber security, which is why I have this reddit account (thanks for all the information and resources btw!). So I am in no means even an amateur I suppose.. But if there are any technical details here, I always use google to decipher the jargon and decipher what you are saying! So please, any help and advise is very much appreciated 
+
+POST COMMENTS:
+====================================================================================================
+ID: jwouu1h # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would start by cross referencing any recent CVE's and looking through emails for any notice of a cyber breach. If it's under investigation currently there's a big chance that they haven't notified anyone of the incident yet, in which case you'll most likely have to play the waiting game. I'd start changing any passwords you have that are repeated on more than one website, and keep an eye on all of your accounts.
+----------------------------------------------------------------------------------------------------
+ID: jwrwf8u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you put your email or password in HIBP or BreachDirectory and see which leak it belong? These two don't censor sources.
+----------------------------------------------------------------------------------------------------
+ID: jwrlbbq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much!   
+
+
+I have checked my emails and haven't seen anything there. However, I have seen recenty that the electoral register had been hacked since 2021, and went unnoticed for over a year! Though, I ament quite sure as to how they would have my email address as I am not totally sure that is information held by them.   
+Thanks again for your input and advice, its greatly appreciated!
+----------------------------------------------------------------------------------------------------
+ID: lcul1qx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hello, 
+Did anything come of this. Just ran my email address and have 4 of the same? 
+
+Thank you.
+----------------------------------------------------------------------------------------------------

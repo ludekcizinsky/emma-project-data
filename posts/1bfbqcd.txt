@@ -1,0 +1,38 @@
+POST ID: 1bfbqcd / POST TITLE: Newbie!
+====================================================================================================
+Hi all,  
+
+
+I work in cyber security but in marketing and have always really wanted to move into ethical hacking.   
+
+
+The company is offering a budget for personal development and I'd really like to take up a course. Naturally, I'm very skeptical about any online course as they're mostly scammers/hold little worth.  
+
+
+Does anyone here know the best way to learn more about ethical hacking? For a **complete** beginner?   
+
+
+I've worked in tech for 5+ years, but I'm not a software enginner/dev/computer scientist. I just have a healthy paranoia of the cyber world and have a dream of being a pen tester...
+
+POST COMMENTS:
+====================================================================================================
+ID: kuz704g # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can learn alot of fundamentals in a controlled environment with tryhackme website. Alot of walkthroughs there to go down whichever road you prefer
+----------------------------------------------------------------------------------------------------
+ID: kv6rfjw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would suggest Ethical Hacking course on Internshala which is good enough for beginners. They focus on web application security and the course comes with virtual labs.
+
+I have completed the course and I would say that it's the best course to start with.
+----------------------------------------------------------------------------------------------------
+ID: kuz73rj # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you!
+----------------------------------------------------------------------------------------------------
+ID: kuz7aom # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Np, alot of the content needs a subscription, but dip your feet in first and see how you go before you decide to invest. I will say I paid for 2 months and learnt a big amount. Happy hacking!
+----------------------------------------------------------------------------------------------------
+ID: kv16n80 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Amazing! I've finished the first few challenges and it's very enjoyable! Thank you! :)
+----------------------------------------------------------------------------------------------------
+ID: kv21i4o # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Awesome work! It's a good website, I really like it. Glad you got some use out of it !
+----------------------------------------------------------------------------------------------------

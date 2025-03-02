@@ -1,0 +1,49 @@
+POST ID: 1ie7nks / POST TITLE: What book or books do you recommend to start with ethical hacking?
+====================================================================================================
+What books should I get from the basic to advanced level?
+
+POST COMMENTS:
+====================================================================================================
+ID: ma682be # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The hackers playbook all parts imo
+----------------------------------------------------------------------------------------------------
+ID: man9ll8 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+----------------------------------------------------------------------------------------------------
+ID: mas2y9u # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme or hackthebox but Tryhackme seems better for begginers
+----------------------------------------------------------------------------------------------------
+ID: ma6dcq0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Every book has information that will help you learn something new. If you’re looking for one book that covers all parts of CS, that’s not possible. Every branch of CS has many branches.
+----------------------------------------------------------------------------------------------------
+ID: maebn2b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ngl any Python and Networking book will unlock the gateways to hacking.
+----------------------------------------------------------------------------------------------------
+ID: maqhs3z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I need to get in touch with an ethical haker
+----------------------------------------------------------------------------------------------------
+ID: mb9upfe # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: *The Hacker Playbook* series is excellent for hands-on techniques
+----------------------------------------------------------------------------------------------------
+ID: md1okmr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hello guys   
+can anyone help me in ethical hacking learning and be friends because it is boring to be alone and have a friend with the same interests is very motivated
+----------------------------------------------------------------------------------------------------
+ID: mag8r0g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Some link
+----------------------------------------------------------------------------------------------------
+ID: mag8phj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Some link ?
+----------------------------------------------------------------------------------------------------
+ID: mclg44r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: is it a web series ?
+----------------------------------------------------------------------------------------------------
+ID: md1r3qi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure. We can talk on discord
+----------------------------------------------------------------------------------------------------
+ID: mag9xmp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wym?
+----------------------------------------------------------------------------------------------------
+ID: magapzu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Anyone book on pdf
+----------------------------------------------------------------------------------------------------

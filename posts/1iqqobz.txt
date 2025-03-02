@@ -1,0 +1,12 @@
+POST ID: 1iqqobz / POST TITLE: How is Nmap used to find outdated OS's to compromise through the internet?
+====================================================================================================
+I realize the title makes it seem like I am asking for advice on spreading malware but BEAR WITH ME; I am just curious on how the tech works.
+
+Ive seen a bunch of videos where they'll connect an old OS like Windows XP or older without a firewall and by just being connected to the internet the computer is compromised within just a couple minutes.
+
+They say Nmap is used to search for these things but how the hell does it do that?? Wouldn't searching through that humongous of a network be a giant undertaking? How do the hell do they do it?
+
+This simply fascinates me. Id love to know how it works and how hackers do it.
+
+POST COMMENTS:
+====================================================================================================

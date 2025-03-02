@@ -1,0 +1,6 @@
+POST ID: 1ga5ume / POST TITLE: Auth RCE in multiple Xerox printer series
+====================================================================================================
+there were even two more unauthenticated RCE and authentication bypass issues found, Xerox already patched those in the past, but did not mention them in their security notes? 🤔
+
+POST COMMENTS:
+====================================================================================================

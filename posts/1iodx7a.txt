@@ -1,0 +1,30 @@
+POST ID: 1iodx7a / POST TITLE: Is Entra (Active Directory) a good choice for CIAM? What are some of its flaws and some of its benefits compared to competitors like Okta?
+====================================================================================================
+Is Entra (Active Directory) a good choice for CIAM? What are some of its flaws and some of its benefits compared to competitors like Okta?
+
+Is Entra a good option for customer/member access management?
+
+Hi all,
+
+Looking to get a new customer access solution for a rather large user base. Asked about Okta yesterday but the team is looking at option and I wanted to ask a couple questions about how Entra performs in space.
+
+The main things we want are MFA and SSO. The main competition right now is Auth0 or the Okta CIS product.
+
+How does Entra perform compared to these? 
+
+Do we need to get the Suite for it to be as good as Okta? Or is P1 or P2 good enough?
+
+What are some of the major problems with Entra in your own opinion dealing with it?
+
+How does it compare to Okta in terms of customer experience? 
+
+We have had problems with adoption before because of friction in the CIAM area.
+
+Thank you!
+
+
+
+
+
+POST COMMENTS:
+====================================================================================================

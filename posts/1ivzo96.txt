@@ -1,0 +1,10 @@
+POST ID: 1ivzo96 / POST TITLE: Question For ISSMs
+====================================================================================================
+I have recently been selected for an interview as a ISSM to help stand up a NIST 800-171 compliant infrastructure. Also I’ll be working in some respects as a systems admin primarily on Microsoft products.
+
+I com from a background as a security analyst, the possible position seems like quite the jump and I’m excited for it since I don’t for see doing technical work the entirety of my career. However, I want to make sure I’m stepping into this role with the best foot forward. I would appreciate any helpful tips or things to help prepare myself for what I’ll be taking on.
+
+Thank you!
+
+POST COMMENTS:
+====================================================================================================

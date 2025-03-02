@@ -1,0 +1,12 @@
+POST ID: 1io3qr3 / POST TITLE: Microsoft sub-domain name abuse
+====================================================================================================
+Is anyone else seeing an uptick in sub-domain name impersonation attacks using Microsoft tenancies?
+
+For example, threat actors creating derivative tenancy names like realcompany-us[.]onmicrosoft[.]com and using them for phishing/fraud campaigns against our customers.
+
+We have watches in place for impersonation domain names in the normal TLD's, but finding it challenging to monitor and proactively deal with sub-domains.
+
+Edit- we can manage this incoming stuff, the concern is around brand impersonation and trying to get a heads up on new sub-domains before our customers do!
+
+POST COMMENTS:
+====================================================================================================

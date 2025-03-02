@@ -1,0 +1,36 @@
+POST ID: 12qf9j1 / POST TITLE: Enabling SSH Tunneling for RATs and Backdoors
+====================================================================================================
+I've only been using stealers for years and I haven't been using the proper stuff like Metasploit or Quasar RAT and I want to be able to RAT or backdoor people then remotely control their system.  
+
+
+I don't want to enable port forwarding, I have already tried and its shit and didn't work. Please tell me how to enable SSH tunneling which has a thing enabled where only my IPv4 address can access the SSH server but where I can RAT other people cross-network.  
+
+
+Last time I tried asking people you said " I cannot emphasize this enough. You should really, really learn the basics before you go messing around with RATs and getting yourself in trouble. ", " An another said, you absolutely should not be messing around with back doors before you understand how the doors themselves function. " and random shit that I don't care about. I know how the RATs work, I know how the backdoors work, I know all the basics of ethical hacking just please tell me how to enable SSH tunneling.
+
+POST COMMENTS:
+====================================================================================================
+ID: jgqiueb # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Knowing what to click doesn't mean you know how the RAT works. If you don't know how to SSH then you literally do not know networking fundamentals for network operations.
+----------------------------------------------------------------------------------------------------
+ID: jgqlz90 # OF UPVOTES: -6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: none of u are any help  
+
+
+i just watched a simple short yt video and managed to get ssh tunnelling, yet you wouldn't even help.
+----------------------------------------------------------------------------------------------------
+ID: jgrc2si # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Which is exactly the point.  Questions like the following,
+
+"Please tell me how to enable SSH tunneling which has a thing enabled where only my IP4 address can access the SSH server"
+
+Do not inspire confidence that you have tried to figure this out on your own. Or even completely understand what it is you are doing. It sounds like you are far more interested in the end result of backdooring someone, than you are understanding the different processes and technologies employed to accomplish what you are trying to do. Which is generally not a good sign.
+----------------------------------------------------------------------------------------------------
+ID: jgqojaa # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hacking is about figuring things out yourself and understanding how they work. "Hacking" as a term original meant something closer to tinkering and "breaking it apart to see what it does and how to fix it".
+
+Why doesn't SSH work? Is that traffic allowed? Is SSH even present in the environment? Ask these sorts of questions in your endeavors.
+----------------------------------------------------------------------------------------------------
+ID: jgrd4gh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 100%
+----------------------------------------------------------------------------------------------------

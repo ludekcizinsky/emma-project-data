@@ -1,0 +1,54 @@
+POST ID: 1dymfub / POST TITLE: Help i may have found an 🍎 Exploit
+====================================================================================================
+So I need assistance on what to do next I believe that what I have accidently discovered is a pretty interesting bug within apple device, and honestly can be involved I'm false identify! What do I do next, I don't believe in cooperations at the same time bugs have healthy bounties, and so I'm needing guidance!
+
+POST COMMENTS:
+====================================================================================================
+ID: lc9o4xo # OF UPVOTES: 13.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: fertile marry carpenter expansion wide humor bells roll subtract mighty
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*
+----------------------------------------------------------------------------------------------------
+ID: lcasms9 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please share your experience when you’re are done.
+----------------------------------------------------------------------------------------------------
+ID: lcads2g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any advice on how to document it, like I know how to reproduce the bug in seconds I honestly didn't believe I discovered what i did until I verified it and each time I was capable of producing the same exact results
+----------------------------------------------------------------------------------------------------
+ID: lcaif5r # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I hope you can reproduce this and document it well. Make some money for the good work.
+----------------------------------------------------------------------------------------------------
+ID: lcasct0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: And for documenting use Notion.
+----------------------------------------------------------------------------------------------------
+ID: lcas3rr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use chatgpt  if didn’t find answer here.
+----------------------------------------------------------------------------------------------------
+ID: lcaix2l # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you I am interested in cyberware and coding, however how does one document it "well" I can reproduce it no problem, Any suggestions on ways to properly making a research document?
+----------------------------------------------------------------------------------------------------
+ID: lcaseeq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Good point, I always use Co-Pilot but thank you for reminding me that!
+----------------------------------------------------------------------------------------------------
+ID: lcbu6dt # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is a lot of tutorials and templates out there. 
+
+[here](https://marker.io/blog/how-to-write-bug-report) is one.
+
+Tl;Dr
+
+- Short description of bug
+- Steps to reproduce the bug
+- Expected result (what should happen normally)
+- Actual result (the result that shows when the bug happens)
+- Proof of Bug (screenshot, dump files etc.)
+- Additional info and environment (Device, software, versions, proof of concept exploits etc. ...)
+
+In essence, a bug report like this one is solely to give the Team at apple good information as to where the bug is, how to trigger it and what it does, so they can more effectively find, reproduce and fix it.
+
+Edit: obviously also include your name and contact info. The way you want to write the report isnt lengthy, but it has to be very detailed technically. 
+The more info they get, the better.
+----------------------------------------------------------------------------------------------------
+ID: lcash5b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah
+----------------------------------------------------------------------------------------------------

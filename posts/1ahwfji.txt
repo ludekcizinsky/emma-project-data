@@ -1,0 +1,10 @@
+POST ID: 1ahwfji / POST TITLE: Did anyone try XENA the pen-testing framework?
+====================================================================================================
+Hello everyone, few days ago I found a new pen-testing framework name XENA by zarkones team.
+
+Did anyone try it? if so how was your experience? Please share and let me know.   
+can it be used in practical field like once armitage was?  
+
+
+POST COMMENTS:
+====================================================================================================

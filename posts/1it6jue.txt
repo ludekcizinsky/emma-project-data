@@ -1,0 +1,6 @@
+POST ID: 1it6jue / POST TITLE: Bypassing DEP and ASLR 32 bit.
+====================================================================================================
+Short video of bypassing ASLR and DEP in a vulnerable binary.
+
+POST COMMENTS:
+====================================================================================================

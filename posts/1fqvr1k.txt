@@ -1,0 +1,31 @@
+POST ID: 1fqvr1k / POST TITLE: pwnable.kr and security advice in general 
+====================================================================================================
+edit: [pwnable.kr](http://pwnable.kr) seems actually safe! It is supported/created by GeorgiaTech and Kyung Hee University :)
+
+Hello guys,
+
+I have recently started to be interested in cybersecurity. I discovered this website [http://pwnable.kr/play.php](http://pwnable.kr/play.php) which is a capture the flag website. It should be a lot of fun to beat each level!
+
+However I wanted to ask this question: is this website safe? Is it safe to connect through ssh to the servers to do the CTF?
+
+I have actually another question, more general not in particular related to pwnable.kr: how safe is it to connect trough SSH to a unknown server like this? Can the people know my username on my original computer? My IP? Can they gain access to my computer? Is it then advised to SSH to a computer from a VM and use a VPN? (I wanted to ask this because I am not really familiar with SSH, this is the first time I use it to connect to a server like this)
+
+Thank you!
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: lp8x3bm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use a VM or a different computer. It is not a good idea to hack directly from your personal in use computer.
+----------------------------------------------------------------------------------------------------
+ID: lpat1ca # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can use a VM with VPN or Proxychains.
+That would be secure.
+----------------------------------------------------------------------------------------------------
+ID: lp95qvi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok noted!
+----------------------------------------------------------------------------------------------------
+ID: lpbiofj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: ok thanks!
+----------------------------------------------------------------------------------------------------

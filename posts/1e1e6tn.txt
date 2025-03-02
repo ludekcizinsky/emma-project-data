@@ -1,0 +1,29 @@
+POST ID: 1e1e6tn / POST TITLE: Best ethical hacker certificates
+====================================================================================================
+I want to ask what are best certificates to apply for job or see how my learning is going on?
+
+POST COMMENTS:
+====================================================================================================
+ID: lctlirn # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP
+----------------------------------------------------------------------------------------------------
+ID: lctdarc # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are so many cyber security orientated courses available I think you need to research what qualifications are recognised in your countries I.T. industries.
+----------------------------------------------------------------------------------------------------
+ID: ld3m12s # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP, 
+CEH, 
+CompTIA PenTest+
+----------------------------------------------------------------------------------------------------
+ID: lez82mq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Of the certs mentioned, is a network cert required or merely recommended?
+----------------------------------------------------------------------------------------------------
+ID: ld30mcj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I also think you should research or ask potential employers what they recommend. As you are going through interviews you can ask this. If a cert is required for the role you can advise them you will be obtaining it within a certain period of time. I know CEH is something my employer likes our red team to have.
+----------------------------------------------------------------------------------------------------
+ID: ldkz1u5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP Obviously Rules but Pentest+ and CEH are also good
+----------------------------------------------------------------------------------------------------
+ID: ldltl7b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A+
+----------------------------------------------------------------------------------------------------

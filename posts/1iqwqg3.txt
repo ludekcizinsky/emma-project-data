@@ -1,0 +1,9 @@
+POST ID: 1iqwqg3 / POST TITLE: TryHackMe for Business vs. Certs – Which One Would You Pick?
+====================================================================================================
+
+My employer is pretty big on continuing education and pays for certs, which is awesome. This year, they’re throwing out the idea of letting our junior analysts choose between TryHackMe for Business (with learning paths, labs, and other cool stuff) or going for certifications. There’s also a chance they might offer it to more senior SOC members too.
+
+Obviously, certs help with long-term career growth, but I’m wondering—are there any real benefits to THM for Business that would make you pick it over a cert? Anyone here used it and found it valuable?
+
+POST COMMENTS:
+====================================================================================================

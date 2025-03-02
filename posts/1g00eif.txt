@@ -1,0 +1,6 @@
+POST ID: 1g00eif / POST TITLE: Axis Camera takeover alternative 
+====================================================================================================
+Getting RCE on Axis cameras via malicious app upload is nothing new. This post describes an alternative if the public PoC fails. 
+
+POST COMMENTS:
+====================================================================================================

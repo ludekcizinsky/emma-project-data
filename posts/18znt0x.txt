@@ -1,0 +1,30 @@
+POST ID: 18znt0x / POST TITLE: New to this
+====================================================================================================
+So as the tittle says I'm new to the whole ethical hacking environment I was following a course on YouTube that I think it was really good, but I still have a lot of questions around this, I was wondering if there is someone with experience better if it is a professional that could guide me in the right direction and answer a few questions. Thank you very much
+
+POST COMMENTS:
+====================================================================================================
+ID: kgjg7oq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well first you’d have to ask the question. Tryhackme is a great site for beginners. Tons of learning paths on there and will probably answer most of your questions. It’s also free for the entry level stuff.
+----------------------------------------------------------------------------------------------------
+ID: kglp01g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A bachelors degree helps get past HR and land interviews. Beyond that it won’t help much. Certain certifications will absolutely help you get interviews and land a job and the OSCP is a great example. There’s no such thing as entry level cybersecurity so you have to work hard/be passionate, get a little lucky and nail your interview to land a cyber job from the start. Especially now that it has gotten incredibly popular in the last few years and various major companies are laying off cybersecurity experts. You are competing with them for remote well paying roles. As for the path I just posted that in a comment earlier today if you check my comment history. I’m on mobile so I can’t copy paste at the moment
+----------------------------------------------------------------------------------------------------
+ID: kgldhh0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for your response, my questions are more work related and report related and a little bit of really specific things that I don't think a course will answer
+----------------------------------------------------------------------------------------------------
+ID: kglklai # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve been an ethical hacker for 5 years and worked for government and private industry. Feel free to ask here
+----------------------------------------------------------------------------------------------------
+ID: kgllq1u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's amazing, thank you for taking the time to answer a newbie, haha.
+
+Let's start with the fact that I don't have any formal education besides high school ( in my country, college does not exist ).
+
+Researching online, I get mixed answers about the best way to land a job without a degree, some say certifications and courses are useless (besides the knowledge you get ) and some say that's the way to get a job in the long run.
+
+In your expert opinion, what could be a good path or way to get started in cybersecurity and ethical hacking that I would eventually find if I put the effort into a job?
+----------------------------------------------------------------------------------------------------
+ID: kgm1ri8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I answered as a separate comment on accident
+----------------------------------------------------------------------------------------------------

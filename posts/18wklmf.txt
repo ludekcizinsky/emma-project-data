@@ -1,0 +1,106 @@
+POST ID: 18wklmf / POST TITLE: How to re-start my ethical hacking career.
+====================================================================================================
+Hi, this story might be long but hope someone reads and responds to this. 
+
+As title says I want to re-start my ethical hacking career. During the lockdown I started learning ethical hacking and attended the classes in offline, they went pretty well I had hands on experience on Kali Linux, Burp Suite, SQL and HTML injections, cookie management, DOS attack etc...all that were basics only. 
+
+It's been 1 and half year I opened those also and my old laptop is not working fine as well. I got into as a mobile app dev last year and got busy with that dev, now want to restart it. I can't and don't want to afford in buying any courses and waste the money as am gonna do ethical hacking just for my self satisfaction and if I gain very good exp over it will try to change my domain from dev to hacking. 
+
+I went through YouTube channel like UnixGuy he's providing a good path but all are paid. I am right now having only company laptop(MacBook Pro) so can't install any software as well. How do I start learning and practice it ? 
+
+I feel very bored with dev sometimes that's the main reason to re-start learning🙃 
+
+Thank you.
+
+POST COMMENTS:
+====================================================================================================
+ID: kg0dpxz # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Unless you can find a laptop that you can actually install a VM or WSL2 so you actually use tools, you won't be able to practice many things, regardless if the course is free or not. Putting aside that, there are a ton of free resources that you can start with:
+
+1. [PortSwigger's Academy](https://portswigger.net/web-security/all-topics) has a ton of content focused on **web app testing**, but you need to be able to use Burp Suite for most of them.
+2. [Try Hack Me](https://tryhackme.com/hacktivities) and [Hack The Box Academy](https://academy.hackthebox.com/) also have a lot of **free rooms** (some stop midway and ask for subscription, but it is does not cost that much, especially if you are a student).
+3. **Cisco's SkillsForAll** has a very good and free [Cybersecurity pathway](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US) focused on the networking aspect of it. You need to be able to install and run **PacketTracer** for that.
+4. [picoCTF gym](https://picoctf.org/index.html#picogym) has a lot of **Jeopardy-style CTFs** which you can find walkthroughs and learn a ton from them. Again you might need some tools to work with most of the challenges, although some simple **web exploitation** ones can be solved with the browser's developer tools.
+5. [OverTheWire](https://overthewire.org/wargames/) & [UnderTheWire](https://underthewire.tech/wargames) are great platforms for improving the much needed **Linux and Windows terminal skills**, respectively.
+6. [Hackersploit](https://www.youtube.com/@HackerSploit/playlists)'s YT channel has a ton of ethical hacking-related playlists, including the [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3).
+
+I am sure there are a lot of other high-quality and free resources out there that I am missing!
+----------------------------------------------------------------------------------------------------
+ID: kfzht1g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can also have a look at youtube channels: The cyber mentor, Hackersploit and David bombal
+----------------------------------------------------------------------------------------------------
+ID: kfzbyi2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme and tcm academy are the best platforms I’ve seen for engagement so far. They are very interactive and keep it fun
+----------------------------------------------------------------------------------------------------
+ID: kg0j0kg # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: it's fine as long as you go into it with the understanding that the field itself, as well as most IT will be automated out of a job in the next several years.  Most MSP software have either already implemented GPT based tier 1's and most cybersecurity companies in the enterprise have been rolling out active AI based security devices for years and those devices are finally starting to see prices that are appealing to medium to small sized businesses.  While you might think that a person is always going to be better than AI I would remind you that if AI could do anything well, it's maintaining and testing other computer systems and the AI you see today, is the worst version of AI you will ever see.  Especially when it's driven by deep learning.
+----------------------------------------------------------------------------------------------------
+ID: kg5n9tm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you already know some basics I'll recommend you  try HACK THE BOX or HTB academy or tryhackme engage in CTF...these sites offer a great impression for beginners and for those seeking further knowledge.You can do both and add Cybrary to it for more experience and flexibility though all are great.hope you'll find this useful
+----------------------------------------------------------------------------------------------------
+ID: kfyq6sy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Back is like ridding a bike , go for ot
+----------------------------------------------------------------------------------------------------
+ID: kfys03o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Where do u want to go ahead in cybersec? Blue team or Red team? Blue team is a bit differently practiced but it is always a bonus to know technicalities
+----------------------------------------------------------------------------------------------------
+ID: kfysh4z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kpf35ii # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Really your a hack er
+----------------------------------------------------------------------------------------------------
+ID: kg3wk8g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This really helps, thank you for your time <3
+----------------------------------------------------------------------------------------------------
+ID: kg3wnwp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure, thank you for helping.
+----------------------------------------------------------------------------------------------------
+ID: kg3wm2i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you, will look into those.
+----------------------------------------------------------------------------------------------------
+ID: kg3wth4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What do you mean here and why here manhh?
+----------------------------------------------------------------------------------------------------
+ID: kg8lo98 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you, will definitely look into all these and pick.
+----------------------------------------------------------------------------------------------------
+ID: kfyqive # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is ot ? 😄
+----------------------------------------------------------------------------------------------------
+ID: kg3wfga # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What are these teams, never heard of these. Please do explain nahh ;)
+----------------------------------------------------------------------------------------------------
+ID: kg3wgtw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Same boat.
+----------------------------------------------------------------------------------------------------
+ID: ki6q40t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ride the high seas.
+----------------------------------------------------------------------------------------------------
+ID: kg7oww8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I thought you deserved a realistic heads up.  Ai based pen testing will always be more relentless than any test you'll ever be able to throw at a firewall.  It can web search and memorize every account it can find on the web in 1000th of the time as you can.  It can also attempt to hack the user with fake ai generated people in more detail than you could ever think of.  
+
+
+You mentioned career in your post and having just left the industry over this very reason.  I just thought someone should be realistic with you.  I don't think there's going to be a cybersecurity industry to have a career in sooner than people think.  
+
+
+If I was planning on dragging out my career I just left, I would focus more on implementing and coding ai and deep learning systems for this reason.  I feel like that's what the infosec professional career is going to look like going forward.
+
+&#x200B;
+
+either way, best of luck to you.
+----------------------------------------------------------------------------------------------------
+ID: kfzphzx # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: go for it\*
+----------------------------------------------------------------------------------------------------
+ID: kg417yo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kg8m4p8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah got it 
+
+Thank you for the insights.
+----------------------------------------------------------------------------------------------------
+ID: kg4gazw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My dad's friend's daughter is working in that domain so during lockdown she started teaching to 3 of us like her relatives and me. Not any coaching centre.
+----------------------------------------------------------------------------------------------------

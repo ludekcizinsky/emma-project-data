@@ -1,0 +1,18 @@
+POST ID: 1io29r0 / POST TITLE: Network and identity microsegmentation in the cloud
+====================================================================================================
+Hi,
+
+I recently joined a big enterprise that has a huge cloud environment (new to me) along with a traditional network. The on-prem network is obviously segmented into different subnets, and we also have a POC with a micro-segmentation vendor for it to limit lateral movement.
+
+In the cloud, it seems like there are 2 frontiers - network and identity. Getting access to a role with access to a resource makes it accessible from pretty much anywhere (from an attackers endpoint for example).  
+The vendor we are looking at only takes into account the network aspect.
+
+I'm wondering how do you approach network and identity lateral movement risks in the cloud?  
+1) Is network micro-segmenting in the cloud something worth looking into?  
+2) Do you enforce role policies so they can only be assumed from specific resources, using IAM Trust Relationships for example? (essentially "identity microsegmentation")
+
+  
+Thanks for reading!
+
+POST COMMENTS:
+====================================================================================================

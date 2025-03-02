@@ -1,0 +1,33 @@
+POST ID: 1itf7er / POST TITLE: Cyber Responsibilities
+====================================================================================================
+Hoping for some industry guidance here on who is ultimately responsible for cyber security risk assessments when a non IT business unit wishes to introduce or in some cases have already gone ahead and procured a new system be it on-premises or cloud. 
+
+Background: 
+
+Up until 6 months ago I was the sole cyber security administrator in a large company. I’ve 7 years in cyber and 3 as a network engineer/systems administrator. We recently recruited a Masters Cyber Security Graduate to assist me but it’s his 1st role since graduating and has limited previous IT experience. 
+
+It’s a really small IT team with 2 systems/ network admins and 2 applications/dev admins and a part time DPO.
+
+We are heavily audited both by an internal auditor and by our national cyber security centre under NIS and NIST CSF. 
+
+I’m open to further question to add more context if needs be.
+
+Issue:
+Recently I’ve found that non IT business units are awarding contracts for cloud based systems / on-premises IoT / Scada and with only the local IT admins / cyber team an afterthought. 
+
+My questions for you, my experienced colleagues is : 
+
+Hypothetically in your organisation HR wish to procure a new cloud based LMS for employee training, they’ve narrowed it down to 3 products they feel meet their requirements.
+
+At what point should they engage with local IT?
+
+Where would cyber risk assessments enter the picture.
+
+Who is ultimately responsible to ensure a risk assessment is conducted. 
+
+Thanks in advance 
+
+
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,40 @@
+POST ID: zj4xqy / POST TITLE: Helping a friend who's getting blackmailed
+====================================================================================================
+i'm a fresh cyber security student so i dont fully know the legality or the capabilities of it all but a friend of mine is being blackmailed by a random guy on twitter and i want to know how wrong/difficult it would be to try to identify him and hold him accountable even though his twitter account is anon and private
+
+POST COMMENTS:
+====================================================================================================
+ID: izv4d24 # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If it's the "I installed a virus on your computer and recorded you jerking off" thing, that's a scam ignore it.
+----------------------------------------------------------------------------------------------------
+ID: izutukg # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: izz333w # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Legality-wise, counter-hacking is still gaining access to a system that you yourself do not own and have not been given explicit permission to access, so illegal. And yeah, as mentioned already, do all the OSINT you want, nothing wrong there. You’d be hard pressed to get local law to use the information you’ve gathered unless they have a cybercrimes department.  
+
+There are groups out there that handle this kind of thing and won’t brush you off like local law enforcement does. Google ‘cyber bullying’ + <insert your country here>.
+----------------------------------------------------------------------------------------------------
+ID: izztjwr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Fuck I don’t remember what it’s called but there’s a script on GitHub that you can give a social account and it will give you every other social account with the same email or something like that…. If you can find that it might be helpful or if this jogs someone else’s memory
+----------------------------------------------------------------------------------------------------
+ID: izx35uu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It would not be all that difficult for law enforcement. Issue a subpoena to Twitter for account info and IP address log. Then another subpoena to the ISP to get the actual subscriber info. As far as the legality for non-LEO, you can do all the OSINT you want and even do something like an IP logger. As long as you are not sending threats or actually gaining access to his devices your square with the law 99.9% of the time.
+----------------------------------------------------------------------------------------------------
+ID: izxeeex # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nah he actually has pics ik what’s a scam and what isn’t he’s just an asshole
+----------------------------------------------------------------------------------------------------
+ID: izwk3wz # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Eye for an eye!
+Protect those you choose and always do what you believe is right. If that’s your friend..? 
+Asking our oppinion is smart but still make your decision on your own because it is what you will have to live with.  
+*what the person is blackmailing about 
+*is actually true, if so is it going to actually harm your friend or others physically, mentally or emotionally. 
+Consider all factors regarding this whole situation so you can make a wholesome decision.
+----------------------------------------------------------------------------------------------------
+ID: izxepqo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah law enforcement here didn’t do shit they brushed it off cause she’s not a minor so id need to be skilled enough to even do any of that other shit without messing up and I don’t think i am so I’ll probably just report his acc till it’s gone and hope for the best
+----------------------------------------------------------------------------------------------------
+ID: izztw1y # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Honestly man I would convince this friend no one gives a fuck, unless the pictures are some extra shit but like if it’s just a nude I mean… people see you naked oh well 🤷‍♂️ if your face isn’t in it say it wasn’t you 🤷‍♂️ if it is idk say they got mad you wouldn’t do X or Y for them…. Idk just don’t do anything drastic over something small yah know?
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+POST ID: 1iombh1 / POST TITLE: Jump Boxes for access to Client networks
+====================================================================================================
+Here's my issue. I work for a CPA firm. Currently we have users that connect to client's VPNs on their work computer and remote into a client's device to work on QuickBooks or whatever software the client uses. I do not want that practice to continue for obvious reasons, we infect the client or the client infects us. We are usually working with client's IT that do not know what they're doing to properly lock down the connection. 
+
+I was thinking about some sort of jumpbox solution that our users can use that is on a segregated network. Anyone have any recommendations on that?
+
+Requirements:
+
+Use Azure if possible  
+Turn on VMs on-demand as needed  
+Scalable solution
+
+Thanks for the help!
+
+  
+
+
+POST COMMENTS:
+====================================================================================================

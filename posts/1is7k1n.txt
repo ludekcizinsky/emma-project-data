@@ -1,0 +1,15 @@
+POST ID: 1is7k1n / POST TITLE: Why wouldn't the Purdue model be applicable to Healthcare?
+====================================================================================================
+Hi there, 
+
+I come from an industrial background where cybersecurity heavily relied on the Purdue model for architecture and segmentation. I now recently have moved to the healthcare sector where the network is very flat and implement very little segmentation. Despite my limited knowledge on the matter, it seems to me that medical devices and ICS share a lot of similarities and could totally use a similar approach. When I introduced my colleagues to the Purdue model, they looked at me like if I was crazy and basically said the it was not applicable to a healthcare environment without really being able to explain why. 
+
+When looking at the subject, indeed I could not find any references of this model being used within medical environment, yet I did not find any other applicable model. 
+
+What do you think? Do you see why a similar model would not be applicable to healthcare? 
+Do you know other models of segmentation that could apply to the medical sector? 
+
+What is your own approach? 
+
+POST COMMENTS:
+====================================================================================================

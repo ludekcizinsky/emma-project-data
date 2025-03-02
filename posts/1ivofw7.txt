@@ -1,0 +1,13 @@
+POST ID: 1ivofw7 / POST TITLE: Realistic to expect a SOC Analyst role without prior IT experience?
+====================================================================================================
+Hello, I'm looking to break into the cybersecurity field, and I'm particularly interested in a SOC Analyst role (likely at the junior level). However, I'm wondering if it's realistic for someone without prior hands-on IT experience (such as networking, helpdesk, etc.) to step directly into this role.
+
+I do have experience as a web developer and supporting web products, which has helped me understand security at a web level as well as problem-solving, though I recognize this is a bit different from a general IT role. I'll soon be graduating with an associate's in Cybersecurity and am planning to earn some certs (e.g. A+, Security+, etc.) to strengthen my skillset.
+
+Given my background, would it be reasonable to expect to step into a SOC Analyst role right out of school, or is it more likely that I'll first need to gain experience in a more traditional IT position?
+
+  
+TIA
+
+POST COMMENTS:
+====================================================================================================

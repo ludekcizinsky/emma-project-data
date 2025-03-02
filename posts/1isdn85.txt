@@ -1,0 +1,6 @@
+POST ID: 1isdn85 / POST TITLE: CDN -> API GW
+====================================================================================================
+From your experience, is it common to see API Gateways fronted by CDNs for security reasons? If so, what’s the security justification for that? Would those concerns still hold for write/update kind of requests?
+
+POST COMMENTS:
+====================================================================================================

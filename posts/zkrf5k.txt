@@ -1,0 +1,57 @@
+POST ID: zkrf5k / POST TITLE: Don't know where to start networking
+====================================================================================================
+Hi everyone, I'm a newbie to ethical hacking and I just want to start learning.
+
+In fact, I have a question; one of the skills required for hacking is networking, so where can I find out about networking? Are "COMPTIA Network+ Guide" and "COMPTIA Network+ All in One" good books? Is it a smart idea to start learning about computer networking with them?
+
+I would appreciate any suggestions you may have
+
+Your help is greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: j01yzq4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. Should be sufficient. You can also try the fundamental modules on TryHackMe.
+----------------------------------------------------------------------------------------------------
+ID: j01yv1a # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I generally don't like CompTIA certifications because they always seem lacking and due to their vendor neutral aims (not bad per se), you end up not getting actual real life knowledge, because in reality things are very much vendor driven. I suggest you start with CCNA and try to consume its material in video (platforms like Pluralsight or else) and written format (Cisco's CCNA books) or whatever works for you. It's just like 2000 pages (Cisco's press books for CCNA) so I'm not sure you should read all of that because it's more of a manual/reference.
+
+That being said, if your aim is ethical hacking, you don't really need CCNA to get started. It's nice to have but you don't need all that knowledge in the beginning. No need to know the op code of a packet to do simple hacking, for example.
+
+I suggest you begin with something like TryHackMe since they'll take you through the basics of networking, OS's etc and step by step build you up to whatever position you're interested into. Once you're close to these positions, it may be worth it to dive into CCNA, DevNet, OS internals etc.
+
+That's my opinion.
+----------------------------------------------------------------------------------------------------
+ID: j0tfu83 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Either should be good, both are great for laying the ground work and working towards your  NET + certification
+----------------------------------------------------------------------------------------------------
+ID: j12qsp8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: NET+ is good but Cisco CCNA course is free and that cert will help your resume.
+----------------------------------------------------------------------------------------------------
+ID: j02xtiw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks very much. :')
+----------------------------------------------------------------------------------------------------
+ID: j038j7f # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’d have to disagree with your Comptia comment. It covers the right amount of theory for this individual’s requirements which is to brush up on knowledge to further their progress in the security field. It gives individuals a broad foundation of networking and if they wish to specialise in an area of networking then I’d agree with your Cisco recommendations for real world networking to follow. 
+
+But like the author said they just need more knowledge to improve. Id recommend Comptia Network + personally for this situation.
+----------------------------------------------------------------------------------------------------
+ID: j02yewj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This was really helpful to me. Thank you for writing.
+----------------------------------------------------------------------------------------------------
+ID: j04q5ds # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: to add cisco has free learning tools and tutorials. some cool “hands on” virtual training for networking config stuff
+----------------------------------------------------------------------------------------------------
+ID: j0396uy # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You're right.
+----------------------------------------------------------------------------------------------------
+ID: j03qcj5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My thanks go out to you for sharing your viewpoint. It really helps me :)
+----------------------------------------------------------------------------------------------------
+ID: j03m7jj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for asking the question that I’ve been wanting to ask. I have been all over the place, forums, videos and wherever my browser steered me because just get lost in another realm because I really like this field of work. I have a tendency to go about things the hard way. 
+Having realized I didn’t even know my laptop, how to set it up and download programs. So the past couple of  weeks I’ve been trying to familiarize myself with all how to personalize and configure the right settings. I am going to begin studying Networking soon. I am really excited, there is so much to learn. It is pleasant to feel like I am applying my self to more than being a miserable guppy construction worker. Anyhow thank you again and also I really admire the way everyone works together.
+----------------------------------------------------------------------------------------------------
+ID: j03puko # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm glad to help. Hope all goes well for you <:
+----------------------------------------------------------------------------------------------------

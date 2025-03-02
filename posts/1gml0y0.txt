@@ -1,0 +1,120 @@
+POST ID: 1gml0y0 / POST TITLE: How to ethically search sons pc after he has passed
+====================================================================================================
+Unfortunately my son has recently passed away under sudden circumstances. He has a PC and a MacBook. I have no interest his internet history, or his emails or stuff like that, that piece of him (not that there is anything untoward I’m sure) is for him to take with him. What I would be interested in is whether he had photos of him saved, things we could treasure etc.
+
+We are not ready yet but are there companies that could independently sift through data and save down things that they think the family would be interested in ? 
+
+POST COMMENTS:
+====================================================================================================
+ID: lw3h4or # OF UPVOTES: 26.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Autopsy would be a good choice. It lists all items it finds, including deleted files that are still recoverable
+----------------------------------------------------------------------------------------------------
+ID: lw6idck # OF UPVOTES: 12.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Condolences on your loss.
+What you're looking for basically is a Computer Forensics company depending on state they are also licensed private investigators.
+So you can google Computer Forensics and your town name and see what you have local. 
+Explain you just want certain things.
+They should explain the process and fees.
+
+National company:
+https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/computer-forensics
+
+Very low cost you can talk to a smaller local computer repair shop and provide them with death certificate and your relationship and they can attempt to recover what they can. They may or may not be willing to do that.
+----------------------------------------------------------------------------------------------------
+ID: lw6qv5c # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do it your self: the program is autopsy, the default settings will be enough.   
+   
+Otherwise, hire someone who's a professional at data forensics, trust them to handle your son's privacy with care.   
+You can't accidentally stumble on things if you don't look yourself.
+----------------------------------------------------------------------------------------------------
+ID: lwc4b4w # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My condolence.
+Where are you located?
+----------------------------------------------------------------------------------------------------
+ID: lwmi3cu # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: God bless you and your son.
+----------------------------------------------------------------------------------------------------
+ID: lwpwqrc # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think that Apple actually have a way to allow families access to loved ones devices after death, I could be wrong but I’m pretty sure I read this on their website somewhere, there would of course be a legal proof be required
+----------------------------------------------------------------------------------------------------
+ID: lxf3vga # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [I wasn't able to private message you, so I'm posting my message as a comment]
+
+Hey, I just saw your post concerning the passing of your son, first off I want to extend my condolences to you! I cannot imagine in how much pain you must be in right now, I sincerely hope you find a way to cope with this tremendous loss.
+
+I am a Computer Science Student & IT Security enthusiast from Germany (I didn't want to assume that you speak German, but if you do, feel free to reply back in German) and I am confident that I will be able to help you recover the data, at least from his PC (I would also be open to try helping with the MacBook, but I would be lying if I said I can guarantee you data recovery on that front). If you haven't personally recovered anything yet I would offer to attempt a data recovery for you, since it should be easy and not too expensive to send his harddrive & potentially his MacBook to me.
+
+If you were already able to recover the important data then of course disregard my message!
+
+I hope you have a wonderful weekend and I wish you all the best on your road to recovery!
+
+Take care.
+----------------------------------------------------------------------------------------------------
+ID: m4yza1u # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Based on the stuff already posted and your replies, your best best is to hire a company to do this for you.
+----------------------------------------------------------------------------------------------------
+ID: lw3kqq1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry about your loss, I hope your family gets through this rough period. 
+
+As for the pc, you could access it yourself with a tool, I’m not too familiar with the MacBook.
+
+There’s a tool you can download and flash onto a usb, called Hiren’s BootCD, their site will walk you through setting it up and then you can put the usb into your son’s pc, boot from the usb, and either reset his password to login into the system and look through what he had there.
+----------------------------------------------------------------------------------------------------
+ID: lw440qc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lw44vgd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lw45acv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lwmx18h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you able to log into the computer?
+----------------------------------------------------------------------------------------------------
+ID: lw49hc3 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Autopsy is the way to go.
+----------------------------------------------------------------------------------------------------
+ID: lwda132 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Switzerland
+----------------------------------------------------------------------------------------------------
+ID: lxf62xe # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for reaching out. Tbh I’ve not done anything yet and not sure when we will. It still feels kind of sacrosanct to try to pry into his personal life. 
+
+I am sure his hard drive is like a shopping cart for steam games and we probably have most of his photos already but also think it would be wise to make sure we don’t lose anything sentimental. 
+
+We are just next door in Switzerland but speak French not German. When we feel ready I will reach out. Thank you once again for your kind support..
+----------------------------------------------------------------------------------------------------
+ID: lw4duub # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I really don’t want to personally go through his stuff or even ask a friend to do it’s not because I think there is anything dubious, it’s more I don’t want to see or understand about his state of mind. Do companies offer a service ?
+----------------------------------------------------------------------------------------------------
+ID: lw440w6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lw44vjh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lw45afu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lwn5tcq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No, I have no idea what his passwords were. And as I have said. I don’t want to intrude on his inner thoughts those are for him.
+----------------------------------------------------------------------------------------------------
+ID: lw7qeft # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I want you to know how sorry I am for your loss. Your respect for your son is really beautiful.  I hope we all are treated with such gentleness someday. You set a good example for humanity and parents in general.
+----------------------------------------------------------------------------------------------------
+ID: m5rnbyy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: oh...
+----------------------------------------------------------------------------------------------------
+ID: lwpu7qn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If the hard drive is not encrypted, you should be able to browse the file contents by removing the hard drive from the computer, and connect it to a hard drive dock and connecting that to a computer you do have access to. It'll load up the drive as if it were a USB key, so to speak. Again, this hinges on the hopes that the hard drive is not encrypted.
+----------------------------------------------------------------------------------------------------
+ID: m5rno6j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: True, it is also heartbreaking to have to say goodbye to your child because in principle it is not the natural process and that is why they cannot yet. U.U.
+----------------------------------------------------------------------------------------------------

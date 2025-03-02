@@ -1,0 +1,10 @@
+POST ID: 1iu0hmr / POST TITLE: Hey! My team built a privacy-preserving AI chat / inference API service
+====================================================================================================
+If you want to know more, here is the website: [https://www.privatemode.ai/](https://www.privatemode.ai/)
+
+Here is the source code: [https://github.com/edgelesssys/privatemode-public](https://github.com/edgelesssys/privatemode-public)
+
+And the docs: [https://docs.privatemode.ai/](https://docs.privatemode.ai/)
+
+POST COMMENTS:
+====================================================================================================

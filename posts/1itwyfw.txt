@@ -1,0 +1,961 @@
+POST ID: 1itwyfw / POST TITLE: Anyone here able to help on the massive theft of gov intel
+====================================================================================================
+“Whether done by DOGE or Zuckerberg,  this is a massive betrayal of trust, The treasonous lawlessness and theft demands an immediate answer.
+
+https://substack.com/home/post/p-156773811
+
+"8 IP addresses on Amazon’s GovCloud now point to Inventry.ai’s REST API, indicating a massive firehose of data being sent to the AI company’s servers. The IP addresses are: 18.253.166.131, 182.30.117.29, 18.253.153.187, 182.30.154.252, 18.254.229.158, 18.253.160.247, 18.254.175.18, 18.254.191.201. 1/2
+
+2/2
+
+"This is a stunning breach of Americans’ privacy that likely breaks multiple federal laws, including the 1974 Privacy Act, the Federal Information Security Management Act, the E-Government Act, and the Computer Fraud and Abuse Act, among others."
+
+POST COMMENTS:
+====================================================================================================
+ID: mdslrz0 # OF UPVOTES: 519.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Who could have ever thought that giving that much access to unqualified and not cleared people would be a risk? Certainly not Russia, or China, or any other adversarial organization. Our president knows "the most about cyber security" so we're fine guys. /s
+----------------------------------------------------------------------------------------------------
+ID: mdswl6b # OF UPVOTES: 203.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Um…. So….. govcloud has a known breach that is not under mitigation? 
+
+So…not to be alarmist…but doesn’t that mean FISMA, FedRamp HIGH, and every other cert is pretty much as dead as CISA? 
+
+My question - which CTO or CSO is going to continue signing off on the ATOs with this known breach and are they willing to accept the consequences? If they do knowingly sign those ATOs, do they, the authority, now constitute a new known vulnerability since they are clearly incompetent?
+----------------------------------------------------------------------------------------------------
+ID: mdu25mr # OF UPVOTES: 65.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m very confused on what it’s trying to imply by GovCloud IPs having APIs to some AI website? GovCloud is literally no different than commercial AWS it just has the security requirements to run things that can be used wrt gov handling requirements. Any company can run whatever they want in GovCloud. How does this indicate “a firehose of data” in any way whatsoever? It just means a random ec2 box in GovCloud which includes commercial entities infrastructure happens to be this ai application not that anything at all is sending data to it. That’s like saying that the entire internet is sending data to Reddit just because they’re on AWS.
+----------------------------------------------------------------------------------------------------
+ID: mdst3wp # OF UPVOTES: 168.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You can't steal government Intel if you don't have a government. *Taps forehead
+
+🐆🍴😐
+----------------------------------------------------------------------------------------------------
+ID: mdsjptd # OF UPVOTES: 185.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah we're cooked. There isn't an eloquent way to put it. This is an all hands on deck moment but there aren't enough hands even if the deck wasn't on fire.
+----------------------------------------------------------------------------------------------------
+ID: mdswh0k # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: URL does not come up for me
+----------------------------------------------------------------------------------------------------
+ID: mdxsip2 # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This blog post makes no sense
+----------------------------------------------------------------------------------------------------
+ID: mdsuxh9 # OF UPVOTES: 66.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdt722u # OF UPVOTES: 39.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fuck DOGE but this article is alarmist nonsense written by someone that doesn't know what they are talking about. See the thread on another post
+
+https://www.reddit.com/r/cybersecurity/s/wrGnSD6i10
+----------------------------------------------------------------------------------------------------
+ID: mdtmpso # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why is no one pointing out that this started on Jan 8, before Trump grabbed control?
+
+Was DOGE given early access, or does this callout deflate the alarm?
+----------------------------------------------------------------------------------------------------
+ID: mdvv4b7 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What if we find out that literally more than half of elected officials are agents of or compromised by a foreign power?
+----------------------------------------------------------------------------------------------------
+ID: mdw2wyi # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Stuff like this is why you have to be careful reading threat intel or vulnerability summaries on social media:  The author has no idea what he's talking about.
+
+Everybody running workloads in GovCloud, including me, is apparently getting all government data according to his flawed supposition.
+----------------------------------------------------------------------------------------------------
+ID: mdzpprb # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This should be removed, it's total bs, and just propaganda.
+----------------------------------------------------------------------------------------------------
+ID: mdsqwex # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you suppose this is just more of their “the bosses didn’t cooperate”, aka has to follow a change request process, so they just did it themselves since they are such smart boys? So smart that risk management is something for government losers and not productive people?
+----------------------------------------------------------------------------------------------------
+ID: mdum7j7 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Assuming a lot of things, how exactly is one supposed to be able to help? What exactly is being asked here?
+----------------------------------------------------------------------------------------------------
+ID: mdw651d # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ha, believe me, for most people, brexit changed sod all
+----------------------------------------------------------------------------------------------------
+ID: mdw8zco # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why is government data sitting on private servers in the first place?
+----------------------------------------------------------------------------------------------------
+ID: mdxm946 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Didn’t China have it first? The government at the time down played it. What’s the big deal now? Genuinely btw
+----------------------------------------------------------------------------------------------------
+ID: me76dki # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: this is a big nothing burger, had to look into it more, just absolute alarmist bs.
+----------------------------------------------------------------------------------------------------
+ID: mdtfv42 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why even NIST, CISA, HIPPA, SOXA, ISO, SOC etc. anymore?
+
+I’m sorry but if the federal Government is able to do this with no recourse, every other organisation in the US should be free to do this as well.
+----------------------------------------------------------------------------------------------------
+ID: mdtz6oi # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [http://182.30.117.29:3000/openapi.json](http://182.30.117.29:3000/openapi.json)   Looking at the API pathing, this is serving government spending/purchasing orders, who ordered them, if/when they were delivered.  Probably lots of metadata about the purchase as well.  Interesting there's a path for Okta, Slack, Google etc.  Wouldn't be surprising if something was left wide open, just need someone better with API's to find it.
+----------------------------------------------------------------------------------------------------
+ID: mdsx6rs # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you have a typo on the second and fourth IPs?
+----------------------------------------------------------------------------------------------------
+ID: mdta2qc # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is MIT's fault for letting go of NET-18.
+----------------------------------------------------------------------------------------------------
+ID: mduu8vt # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Foreign intel thrives in chaos…
+----------------------------------------------------------------------------------------------------
+ID: mdue5mc # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Please don’t turn this sub in another clone of r/politics I was actually enjoying coming here to avoid political discussions
+----------------------------------------------------------------------------------------------------
+ID: mdtw1ns # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ok, someone please explain a few things to me.
+
+> Beginning on January 8, 2025, a surge of U.S. government infrastructure began appearing on what’s known as “the search engine of Internet-connected devices,” Shodan.io.
+
+Long before Trump took office and DOGE existed in any actual capacity to have access into government systems. 
+
+> Between January 14 and February 8, servers belonging to Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Thomas Jefferson National Accelerator Facility, and Fermi Accelerator National Laboratory have been found with Remote Desktop Protocol (RDP) services exposed to the public internet.
+
+Ditto. This was during the Biden administration. How is the author of this article blaming this on DOGE?
+
+> This grants malicious actors the opportunity to hack into servers hosting sensitive nuclear research data, a golden egg for spy agencies across the globe.
+
+Ok, nice claim there. But take it up with the Biden administration. 
+
+> On January 14 and continuing to present, TIGTA’s server used for conducting meetings are publicly exposed.
+
+Ditto.
+
+I don't have a paid membership to Shodan to see various timeline data on his other claims to really verify his claims on when some of these systems first appeared, but I'd be willing to bet many of these have been online and on the public internet for some time, and the author doesn't realize the data on those links is when it was LAST SEEN, not FIRST SEEN.
+
+Now he mentions API connections to Inventry.ai.
+
+> This is a stunning breach of Americans’ privacy that likely breaks multiple federal laws, including the 1974 Privacy Act, the Federal Information Security Management Act, the E-Government Act, and the Computer Fraud and Abuse Act, among others.
+
+None of these laws prohibit the government from engaging with private companies and sharing PII, provided the company meets certain requirements. How do we know if Inventry.ai does or does not meet these requirements? And how do we know this has ANYTHING remotely to do with DOGE? We don't.
+
+This sounds like just another left-leaning hit piece on Trump and DOGE, frankly, written by someone who doesn't even really know what they're talking about. I'm sure I'll get downvoted into oblivion. But the writer of this article has no idea what they're talking about (which is clear since they made multiple claims of issues that took place BEFORE Trump even took office). Others - the author has no idea what these servers actually do, why they might have been exposed to the internet - whether intentional or not - what data they contain, etc. But the fact of the matter is your data is not being held "hostage". The people elected Trump on a campaign promise to create DOGE and audit the federal government. Trump was elected by the people. Elon is a White House Office special advisor - does not even technically work for DOGE. He is not the DOGE Administrator - that is someone else. Trump has the authority to appoint these people and assign them this task. Elon has Top Secret clearance granted to him by Biden actually. Other people involved have the necessary clearances as well. Plain and simple. Why are we acting like private citizens contracted by the government are never granted access to data in these systems and given access to this data? Joe Blow working at the DMV for $12.50 an hour has access to your personal information too, ya know?
+
+And frankly, they're doing a bang up job at finding government waste at this point - a task no one else in the history of our government has been able to accomplish. If you're trying to act all paranoid that your social security number might get leaked on the internet - give me a break. We all know damn good and well every one of our social security numbers and most other personal data are already out there from 10,000 past leaks (Equifax, anyone?).
+----------------------------------------------------------------------------------------------------
+ID: mdyhdf1 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ugh this is just fear mongering nonsense
+----------------------------------------------------------------------------------------------------
+ID: mdx25tp # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sounds like time for a class action lawsuit
+----------------------------------------------------------------------------------------------------
+ID: mdt832l # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is all blatantly false.
+----------------------------------------------------------------------------------------------------
+ID: mdzf84b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Its probably too late at this point to be honest.
+----------------------------------------------------------------------------------------------------
+ID: me0viub # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do we know the REST API IP that these gov IPs are pointing to?
+----------------------------------------------------------------------------------------------------
+ID: me6m8gy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Pikachus really really shocked face.
+----------------------------------------------------------------------------------------------------
+ID: me6y77g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If this was the first and only time personal data had been stolen/viewed, etc. then I would say there is cause for concern.  We can see privacy breaches all the time...my first experience was with the IRS...they paid out my tax refund to someone who had stolen my identity.  (This was several decades ago which leads me to believe that personal data has been at risk for a very long time.)
+----------------------------------------------------------------------------------------------------
+ID: mduqckg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This started 12 days before Trump took office. Liberals will ignore any facts that undermine their narrative.
+----------------------------------------------------------------------------------------------------
+ID: mdtdjr4 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m appalled at what’s happening and can’t stand DOGE but this article is a lot of hands waving and no proof of anything.
+----------------------------------------------------------------------------------------------------
+ID: mdtu5b8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Holy fuck we should have gotten Elon out of these information systems yesterday 
+
+Foreign intelligence agencies are laughing rn
+----------------------------------------------------------------------------------------------------
+ID: mdtqu0v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ...what are the chances this doesn't get hacked by hostile foreign actors?
+----------------------------------------------------------------------------------------------------
+ID: mdxy0xk # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's a travesty what has happened to our country. These grifters are actually working to bring down our democracy, eliminating key services, selling our intel to our adversaries, and yeah our personal data is now done for. The people that supported Trump were exploited perfectly because they hate the government in many cases.
+----------------------------------------------------------------------------------------------------
+ID: mdt5hzq # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good work here
+----------------------------------------------------------------------------------------------------
+ID: mdtu9re # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dont worry! It's all "read only" so completely harmless!
+----------------------------------------------------------------------------------------------------
+ID: me4pqdg # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Odd, it’s almost as if we were compromised… surely all these DOGE folks are reputable with no foreign ties?
+----------------------------------------------------------------------------------------------------
+ID: mdsnv8k # OF UPVOTES: -70.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If it's illegal report a crime. If it's not a crime it's not illegal.
+
+It's for the courts to decide.
+
+Edit: yawn. Downvote away. We both know I'm right here.
+----------------------------------------------------------------------------------------------------
+ID: mdtwo31 # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Lol
+----------------------------------------------------------------------------------------------------
+ID: mdu08vr # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Call 911 then.
+----------------------------------------------------------------------------------------------------
+ID: mdtl3pu # OF UPVOTES: -8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This fuckin asteroid can’t come soon enough.. The fact that planet ending doom sounds much more pleasant than being forced to watch our country set on fire from within by President Muskrat and his degenerate, incontinent Uncle, is a sad state of affairs.
+----------------------------------------------------------------------------------------------------
+ID: mduko01 # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: mdsu9vf # OF UPVOTES: 116.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Those guys had been gargling to balls of AI on Twitter months before their cyber seige.
+
+They talked about AI like it's this amazing thing the government is dumb for not utilizing to its fullest (which alone shows their incompetence). Not surprising they went in there and immediately started feeding everything they could into AI.
+----------------------------------------------------------------------------------------------------
+ID: mdvlzfr # OF UPVOTES: 33.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Our president 
+
+This is clearly [Putin's president](https://www.msn.com/en-us/money/companies/elon-musk-s-secret-conversations-with-vladimir-putin/ar-AA1sSO1O), not ours.  Not even the president of those who voted for him as they are about to find out in the most horrific way possible.
+
+We have been overtaken by a coup by a foreign adversary.  That's not an exaggeration meant to have a shock value — it's just a terrible, dystopian fact that enrages me to my fucking core.
+----------------------------------------------------------------------------------------------------
+ID: mdxwagc # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I mean china has probably had all the access they've wanted regardless of this administration without bringing a political bias into the mix( I voted for kamala).
+----------------------------------------------------------------------------------------------------
+ID: mdt67k1 # OF UPVOTES: 48.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: late humorous bells person mountainous abundant ask lush school apparatus
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*
+----------------------------------------------------------------------------------------------------
+ID: mdulf6u # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: this is on purpose to sow doubt and confusion in one of the societies of people in America, cybersecurity tribe. now there is infighting instead of facing the true adversary.
+----------------------------------------------------------------------------------------------------
+ID: mdtwt8m # OF UPVOTES: 30.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No. As best I can tell, all the original author discovered were hosts in gov cloud responding on a typical http upstream port with a response shodan thinks is inventry.ai. 
+
+All that really means at worst is that the company inventryai is running services in gov cloud.  It does not imply that there is any sort of data egress to it from the actual us government. 
+
+The rest of the discovered hosts, rdp, etc are concerning, though again not one of the gov hosts he linked has any identified vuln.
+----------------------------------------------------------------------------------------------------
+ID: mdtazpo # OF UPVOTES: 17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don't care made money
+----------------------------------------------------------------------------------------------------
+ID: mdw2o4c # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No.  Somebody who has no idea how AWS works thinks that a workload in govcloud somehow means that.
+
+You, as a US Person, can go start a workload in AWS... and assign public IPs to things.  Will AWS GovCloud then be hacked by u/TheBoatyMcBoatFace with a firehose of data being sent to you?  No.
+
+GovCloud is just a partition.  Any US Person can get an account and deploy resources.
+----------------------------------------------------------------------------------------------------
+ID: mdvlrn9 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISA is dead?
+----------------------------------------------------------------------------------------------------
+ID: mdwond2 # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agreed. These replies are disappointing and this article is way overhyped and pushing an agenda. GovCloud IPs can be anyone... any company... any of the thousands of defense contractors...
+----------------------------------------------------------------------------------------------------
+ID: mdw5jpy # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Have you read this yet?
+
+Elon Musk’s DOGE is feeding sensitive federal data into AI to target cuts
+
+https://archive.ph/UP0Wp
+
+Anyone who is still putting faith into Musk, Bezos, etc. to keep our government data safe and secure hasn't been paying attention.  And anyone who doesn't think they'll use that data to manipulate/intimidate the public and subjugate dissent has definitely missed their brazen anti-worker/labor actions up until this point.
+----------------------------------------------------------------------------------------------------
+ID: mdsuvac # OF UPVOTES: 39.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Also can’t steal it if the government posts everything on public servers for the taking
+----------------------------------------------------------------------------------------------------
+ID: mdsmt3w # OF UPVOTES: 78.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: OP didn't even mention the public RDP servers... 😬
+
+Happy cake day 😔
+----------------------------------------------------------------------------------------------------
+ID: mdt6bqc # OF UPVOTES: 19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [https://imgur.com/Q14ONuM](https://imgur.com/Q14ONuM)
+
+If this isn't an annoying way to read it.
+----------------------------------------------------------------------------------------------------
+ID: mdtylma # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: **Try this:** [**http://182.30.117.29:3000/openapi.json**](http://182.30.117.29:3000/openapi.json)
+----------------------------------------------------------------------------------------------------
+ID: mdt7csu # OF UPVOTES: 33.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu0hhb # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How about we get to facts rather than politics?  No one knows what these IPs are, what they are doing nor if they have done anything at all.  Secondly, let's not act like breaches have never happened before in critical infrastructure or the three letter agencies prior to Trump.  This idea that all of sudden the federal government of ALL places has now within a month become vulnerable and inadequate in securing their perimeter because of the new administration is being naive and emotional for the sake of it.
+----------------------------------------------------------------------------------------------------
+ID: mdtsc82 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdtb6n8 # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is democracy, however that pendulum swings forcefully in its return.
+----------------------------------------------------------------------------------------------------
+ID: mduebu1 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The article makes a half-dozen assertions, and offers citations, mostly to Shodan. The single comment you cite quibble about Shodan's first-seen, last-seen behavior. 
+
+I don't have a current login on Shodan, but you can obviously contradict anything specific in the article if you do. 
+
+  
+The non-Shodan citations are: 
+
+* [https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/](https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/)
+* [https://www.justsecurity.org/wp-content/uploads/2025/02/new-york-v-trump-doge-treasury-feb-7-2025.pdf](https://www.justsecurity.org/wp-content/uploads/2025/02/new-york-v-trump-doge-treasury-feb-7-2025.pdf)
+* [https://www.finance.senate.gov/chairmans-news/wyden-demands-answers-following-report-of-musk-personnel-seeking-access-to-highly-sensitive-us-treasury-payments-system](https://www.finance.senate.gov/chairmans-news/wyden-demands-answers-following-report-of-musk-personnel-seeking-access-to-highly-sensitive-us-treasury-payments-system)
+----------------------------------------------------------------------------------------------------
+ID: mdy95yi # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Everyone's a Cybersecurity expert these days. Working in CTI myself I prefer for myself and the team to make their own conclusions, or at the very least challenge these "summaries" rigorously.
+----------------------------------------------------------------------------------------------------
+ID: mdy9x0j # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: me7oj9i # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agreed, barely skiddies with Google. Honestly, much of anything on Substack is trash, if it's not a name you are already familiar with. I think it's just sub/click farming
+----------------------------------------------------------------------------------------------------
+ID: mdt3fj4 # OF UPVOTES: -10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Maybe you can ask that on the original over on Threads. I was just the messenger. Thank you.
+----------------------------------------------------------------------------------------------------
+ID: mdvv0zf # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No avoiding this lmao
+----------------------------------------------------------------------------------------------------
+ID: mdya3g3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am glad to see an opinion like this upvoted!
+
+There's hope for r/cybersecurity yet.
+----------------------------------------------------------------------------------------------------
+ID: mdzp6pl # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Because TDS is a serious condition, and the propaganda is way too effective on some people.
+How anyone up voted this whole article is cringe. .
+----------------------------------------------------------------------------------------------------
+ID: mdzo6vg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Unfortunate being downvoted. These posts are just pathetic at this point.
+Amazing what propaganda is able to accomplish.
+----------------------------------------------------------------------------------------------------
+ID: mdtnwhj # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ok, start with the first sentence
+
+>Beginning on January 8, 2025, a surge of U.S. government infrastructure began appearing on what’s known as “the search engine of Internet-connected devices,” Shodan.io.
+
+Explain how that's false.
+----------------------------------------------------------------------------------------------------
+ID: mdsq0r5 # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Once the courts rule and they ignore those courts, then is it a crime?
+----------------------------------------------------------------------------------------------------
+ID: mdst50h # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dude, you acting cringe
+----------------------------------------------------------------------------------------------------
+ID: mdswtd0 # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wrong. You're in the wrong place to try and tell a bunch of actual cyber professionals what is data theft and what isn't.
+
+I used to work for one of the 22 AG'S suing the administration. So "the courts" are stacked with Dunp's appointees. 
+
+Your reductive, simplistic take on this is devoid of nuance and oversimplifies a complex threat to the country. FOH
+----------------------------------------------------------------------------------------------------
+ID: mdtcfva # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ignorance on full display, embarrassing.
+----------------------------------------------------------------------------------------------------
+ID: mdst4sm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: “It’s only bad if it’s illegal!” Ass post
+
+Get the fuck out of here you fucking moron. There’s a reason you’re being downvoted like that. It’s not because you’re right, it’s because you’re stupid as fuck
+----------------------------------------------------------------------------------------------------
+ID: mduprfb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You are a clown. Please write more of your comedy, but a little more drama if you can. Trump won, get over it.
+----------------------------------------------------------------------------------------------------
+ID: mdtu1i4 # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Comment review: 8/10 - president muskrat… now that’s original and funny! Let’s keep these creative juices flowing! Please speak with your fellow liberal friends on how to creatively insult without reaching for the most unoriginal ideas. 👏🏻
+----------------------------------------------------------------------------------------------------
+ID: mdunvx5 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No, Gov Cloud is the Government partition of AWS. It's more secure and doesn't have feature parity with the rest of AWS.  It's where the Government stores their data legitimately. Amazon, nor AWS has access to the data\*.
+----------------------------------------------------------------------------------------------------
+ID: mdtbh28 # OF UPVOTES: 48.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Doesn’t help that I’ve heard some “experts” say on public platforms that their solution to finding fraud is essentially the same.  They’ve stated you could take all the data from these DOGE “investigations” and pass it through “AI” to flag possible fraud.
+----------------------------------------------------------------------------------------------------
+ID: mdw5cwx # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > they are about to find out in the most horrific way possible
+
+There have been like a bazillion hints before that, so... I admire your optimism?
+----------------------------------------------------------------------------------------------------
+ID: mdzga3p # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yet this started January 8th, 2025... explain that?
+----------------------------------------------------------------------------------------------------
+ID: me0z0al # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't think it's that complicated. This is just a smash and grab that leaves as many doors and windows open as possible.
+----------------------------------------------------------------------------------------------------
+ID: mdybo14 # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I felt like I was having a stroke and missing something when reading the article. Thanks for putting the authors thought process in words.
+
+Getting kind of tired of alarmist "threat intel" being posted here and it just turns out to be a nothing-burger.
+----------------------------------------------------------------------------------------------------
+ID: me44frq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: me0pa7e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No, obviously this does not make someone hackerman. What it does do is require a compliance document update and security assessment. Not anyone can set up a govcloud account. Anyone can setup an aws account. They are not the same, even though the interfaces and such are. 
+
+Govcloud, depending on the level, have physically partjoned systems. I cant use the same hardware powering my dumb personal website cdn on the same hardware powering Va.gov. Govcloud does not have all of the tools and services that normal aws has. 
+
+What the above does is connect an unknown, non-compliant endpoint to a protected network and controlled system. Forgetting the security implications for a second, the ATO is 100% invalid. (Compliance is obviously not security, but this is not the best security practice either)
+----------------------------------------------------------------------------------------------------
+ID: me2j8kd # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The shodan references linked at the end for "ThE NuClEAr LaBs" are also just Joe Schmoe's personal server that has a fake federal banner on the FTP port... The entire article is nonsense written by someone who is acting like they know what they're talking about, shared by a Photographer on Bluesky, who likely also doesn't understand it all completely, and then re-shared here as if it were real news and people are outraged at the headline alone, which is something that hasn't even surely happened. Now I'm being called a "Muskrat" by people in threads here because I understand how technology works (spoiler: I personally dislike Musk very much, so y'all can miss me with your far left dogmatic chants). The date ranges are all even before Trump was even president ffs! Did no one actually read the article?
+----------------------------------------------------------------------------------------------------
+ID: mdx3bft # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not to be glib, but have _you_ read it, or just the headline?
+
+It states:
+
+> The DOGE team is using AI software accessed through Microsoft’s cloud computing service Azure…
+
+Azure is not AWS GovCloud the two are unrelated. I didn’t say a word about Musk or Bezos, and that article only speaks about only one of them as well.
+----------------------------------------------------------------------------------------------------
+ID: mdwksli # OF UPVOTES: -12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Archive.pl?  The Philippines?  Lol.  It's time clean up the members of this subreddit.  Bunch of hacks in here.
+----------------------------------------------------------------------------------------------------
+ID: mdtbga5 # OF UPVOTES: 29.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wait... Public RDP servers? Groan....
+----------------------------------------------------------------------------------------------------
+ID: mdsrqx6 # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Seriously?
+----------------------------------------------------------------------------------------------------
+ID: mdw4o90 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Most of GovCloud isn't USG systems, though, bear in mind.
+
+You know how many workloads are there that are non-government, but only there for export compliance purporses?
+----------------------------------------------------------------------------------------------------
+ID: mdsnunb # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Very good point.
+----------------------------------------------------------------------------------------------------
+ID: mdt6llp # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you so much
+----------------------------------------------------------------------------------------------------
+ID: mduauvz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What does one See There?
+----------------------------------------------------------------------------------------------------
+ID: mdwsczo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yikes bruh. It doesn't look good if its real.
+----------------------------------------------------------------------------------------------------
+ID: mdt8g4e # OF UPVOTES: 25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu1n2s # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The fact we know is that musk and his simps have been running around hovering up government data at every opportunity. There is a difference between a breach and a president giving a ceo of a tech company free reign.
+----------------------------------------------------------------------------------------------------
+ID: mdu7xkd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nothing ever happens
+----------------------------------------------------------------------------------------------------
+ID: mdttp3h # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdw513n # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The shodan data aside, the article is written by an author that clearly doesn't understand what govcloud is... and even people here are reacting as if that means it's all government.
+
+GovCloud is simply the US-domestic partition of AWS that isn't supported by non-US Persons.  You also have to be a US Person to get an account.  Most of it is non-government stuff.  Sovereign partitions are nothing new - GovCloud was just the first.
+----------------------------------------------------------------------------------------------------
+ID: mdwcwv6 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There is zero evidence that any of the (mostly misguided) conclusions the author makes are in any way correlated to what DOGE is doing. Timing alone is not sufficient to attribute these specific observations with the actions of DOGE (and the author seems to misunderstand what the timestamps for discovered services mean in Shodan, anyway).
+----------------------------------------------------------------------------------------------------
+ID: me05cs9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I wouldn't mind utilizing my IR skills for a good cause. But red teaming? The aforementioned definitely seems a better location to farm.
+----------------------------------------------------------------------------------------------------
+ID: me7ve26 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: only substack i really look at is CTO at NCSC, some real fun reads in there
+----------------------------------------------------------------------------------------------------
+ID: mdw02ql # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have only have a couple subs left that isn’t completely infested smh it’s this sub and a couple niche podcasts subs. It’s crazy
+----------------------------------------------------------------------------------------------------
+ID: mdtwuuc # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Explain how that has anything to do with Trump and DOGE when Trump didn't even take office until January 20st.
+----------------------------------------------------------------------------------------------------
+ID: mdttb0q # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Govcloud is not exposed to the open internet.  Anything/anyone that is trying to say that it is is lying.
+
+Edit:  I should say the actual important stuff is not exposed to the open internet.  Govcloud is a public facing entity so there is a public footprint but there is not a breach of data or systems in any fashion.
+----------------------------------------------------------------------------------------------------
+ID: mduynwm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That sentence makes the attempt to pin the situation on Trump/Musk blatantly false. But, in classic/trashy liberal fashion you twist things around so you can stoke your rage and pretend that people that don't agree with you are idiots.
+----------------------------------------------------------------------------------------------------
+ID: mdtt2ss # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Trump didn't take office til January 20th though. The pieces aren't lining up.
+----------------------------------------------------------------------------------------------------
+ID: mdsq5nt # OF UPVOTES: -25.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdstl8m # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Must of wondered out of /r/conservative
+----------------------------------------------------------------------------------------------------
+ID: mdstgcd # OF UPVOTES: -19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Says the person talking like a teenage girl.
+----------------------------------------------------------------------------------------------------
+ID: mdsykvu # OF UPVOTES: -12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Motte and bailey in action. Can't defend the question of legality, retreat to appeals to paranoid conspiracy.
+----------------------------------------------------------------------------------------------------
+ID: mdvj9w7 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m here to entertain! If we can’t have laugh, regardless of the situation, then you’re taking yourself way too seriously.
+----------------------------------------------------------------------------------------------------
+ID: mdvmfyh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Right?! I also try and award points for clever whenever I spot it in the wild, regardless of soapbox. I think we’re all too hyper fixed on whatever echo chamber we might subscribe to; the reality is the vast majority of us have more in common than the trivial talking points, and are capable of civilized dialogue and banter when engaging one another. Our kids having it better than we did is the only real goal in my mind. I have close friends and family across all the isles, and I love and respect them equally. Cheers!
+----------------------------------------------------------------------------------------------------
+ID: mdurnt3 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: your * is suspicious.
+----------------------------------------------------------------------------------------------------
+ID: mdtf4t3 # OF UPVOTES: 34.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My poor soul hurts to hear that lol
+----------------------------------------------------------------------------------------------------
+ID: mdtkf7n # OF UPVOTES: 54.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I absolutely believe that AI can be helpful for finding fraud. The caveat, of course, is that once something is flagged by AI, a *professionally qualified human or team of humans* should review each flag in depth. The way it's being used is beyond insanity.
+----------------------------------------------------------------------------------------------------
+ID: mdw5teo # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: lol, fair enough.
+----------------------------------------------------------------------------------------------------
+ID: me1dy1p # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT:  Explain what?
+
+TechBro Oligarchs pledged fealty to the Trump regime far before Jan 8th, 2025.
+----------------------------------------------------------------------------------------------------
+ID: me44qkc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Huh?
+----------------------------------------------------------------------------------------------------
+ID: me0pxk9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: All govcloud is physically partitioned. 
+
+But yes, any US person can get a govcloud account. No compliance update required. I have a personal govcloud account. You could have one, too, if you’re a US citizen or green card holder. 
+
+You do not need an ATO to be in govcloud. Govcloud is not a government system.
+----------------------------------------------------------------------------------------------------
+ID: mdx9f02 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Azure is not AWS GovCloud the two are unrelated
+
+You're missing the context?
+
+I think the point you're missing is what DOGE is actually rampantly *doing* and the expansive nature of what that means for the entire United States' infrastructure.  Especially under the direction of a foreign adversary, namely Putin.
+
+https://www.msn.com/en-us/money/companies/elon-musk-s-secret-conversations-with-vladimir-putin/ar-AA1sSO1O
+
+Do you not understand the coup that's happening right now?
+
+>I didn’t say a word about Musk or Bezos, and that article only speaks about only one of them as well.
+
+Again, the point is Musk's DOGE is pushing our private government data into AI systems and we already know they've massively bungled the handling of this process with security and privacy measures being thrown into the shitter.  How *convenient* for Putin to have a wealthy [sociopath Nazi](https://streamable.com/rxfimj) do this for him.
+
+Bezos (who has pledged fealty to the treasonous Trump regime) lords over Amazon's GovCloud that you claim is "literally no different than commercial AWS" even though it contains contains *Sensitive, Secret, and Top Secret* data with over 7,500 government agencies using it.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Also here's a list of companies that utilize GovCloud in regard to governmental and quasi-governmental data:
+
+https://theirstack.com/en/technology/aws-govcloud
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+This GovCloud data contains *Sensitive, Secret, and Top Secret* data.  That means investigative data on political orgs (leftist and otherwise), etc. will very likely be included.
+
+This goes far beyond Musk getting access to our SS numbers, income, etc. — This data rug ties the whole fascist room together in a incredibly suppressive, dangerous way.
+
+Hitler could have only dreamed of having this much power.  We need to fight this and people need to understand the stakes.
+----------------------------------------------------------------------------------------------------
+ID: mdwnknu # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's an archive of the paywalled/soft paywalled Wash Post article.  Are you dense or being purposefully obtuse?
+
+Clean yourself up, hack — and educate yourself:
+
+https://en.wikipedia.org/wiki/Archive.today
+----------------------------------------------------------------------------------------------------
+ID: mdthla1 # OF UPVOTES: 42.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Supposedly. I'm not going to go digging around govcloud's ip blocks to find out, though I guess if CISAs not intact.. I've been seeing a lot of stories from people that jump to conclusions though, misinformation for clicks I guess.
+
+In one case, they allege "Alarmingly, a DoE allowed anonymous login with **write access**" and link a server on shodan that has a "This is a Federal computer system and is the property of the United States Government." login banner, but people put those on their servers for fun - the SSL cert is Sectigo issued, it's a wordpress theme site 'EnergeticFields.org'. ARIN has the IP as Charter. Looks like nonsense. 
+
+They also claim " 8 IP addresses on Amazon’s GovCloud now point to Inventry.ai’s REST API, indicating a massive firehose of data being sent to the AI company’s servers. The IP addresses are: 18.253.166.131, 182.30.117.29, 18.253.153.187, 182.30.154.252, 18.254.229.158, 18.253.160.247, 18.254.175.18, 18.254.191.201"
+
+That's an odd way to word that ("pointed at" vs "there are EC2 instances running", unless it's a reverse proxy), but looking at shodan, they're listening on tcp/3000, there's indeed a REST API there with an /openapi.json endpoint, and the API is auth'd. I don't have a timeline sub to see what was there before though. Could be true. We can't confirm netflow/ingress of course.
+
+I'm not sure why a bunch of machines would start showing up as public facing though - even with what they are doing, they'd have to be messing with the edge and that would just be very odd. If they're vacuuming up a bunch of data, they're likely pushing it rather than pulling it.
+----------------------------------------------------------------------------------------------------
+ID: mdvuddb # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: C Dz NUTZ
+----------------------------------------------------------------------------------------------------
+ID: mdt9tbv # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu8twg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdtayd8 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdumukr # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdufa7g # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 🎶 cause we’re in a hostile government takeover 🎶
+----------------------------------------------------------------------------------------------------
+ID: mduqhhd # OF UPVOTES: -2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You are right that there is a difference.  A breach is unauthorized access to confidential data or the use of said information. The president has the authority to direct DOGE to take the actions that they that are.  Now whether he is going beyond what he should be able to remains to be seen and as with all checks and balances within the government the courts will decide whether he is or not. 
+
+Secondly, as long as Musk and his simps are hovering up government data as you claim in a secure manner following best practices than I don't see an issue with it.
+----------------------------------------------------------------------------------------------------
+ID: mdu0832 # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdtyyxv # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That's not what we were talking about
+----------------------------------------------------------------------------------------------------
+ID: mdtyn68 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don’t give a flying f who was in office.  Containment first. Investigate comes later.  Politicizing everything is what is leaving us vulnerable.
+----------------------------------------------------------------------------------------------------
+ID: mdu0kba # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://www.shodan.io/host/131.225.193.27
+
+This is an example of US government infrastructure appearing on Shodan.
+----------------------------------------------------------------------------------------------------
+ID: mdu8whq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nothing in the sentence he called wrong was discussing Trump.
+----------------------------------------------------------------------------------------------------
+ID: mdsqifi # OF UPVOTES: 23.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No, they're actively defying court orders and will do the same with this one. It's not on me to pay attention for you, you know. Being a reddit edgelord might be interfering with your situational awareness.
+----------------------------------------------------------------------------------------------------
+ID: mdsu3vn # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dying a virgin to own the libs.
+----------------------------------------------------------------------------------------------------
+ID: mdsuo9t # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just stand on your shit if you feel confident. I've learned that calling out downvotes just isn't a good look.
+----------------------------------------------------------------------------------------------------
+ID: mdswefg # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You sound like a clueless child.
+----------------------------------------------------------------------------------------------------
+ID: mdswijg # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It is telling that you have to resort to ad hominem attacks to help you feel better about yourself.
+----------------------------------------------------------------------------------------------------
+ID: mdsyd86 # OF UPVOTES: -19.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not a member, but thanks for confirming this is political not cybersec. You said the quiet part out loud.
+----------------------------------------------------------------------------------------------------
+ID: mdt2yu2 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dunning-Kruger in action. User doesn't know what they don't know and has overestimated their own understanding of the topic.
+----------------------------------------------------------------------------------------------------
+ID: mdtl3pt # OF UPVOTES: 24.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sure, I agree.  The issue is that’s unfortunately not how regular people think of AI or LLMs.  They think it works like a regular program where the output is algorithmically (whether they understand that or not) correct.  My problem with these “experts” is they are sane washing DOGE’s actions by corroborating their behavior.
+----------------------------------------------------------------------------------------------------
+ID: mdxa54l # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: And how are you training the AI to parse the data? Where are the labeled data sets? Where is the data prep? You can’t just throw a fire hose of data at a LLM and say “find fraud”. How does the AI even know what fraud looks like? And if you don’t understand the business you can’t do prompt engineering. 
+
+So this only makes sense to people who know nothing about the technology and its limitations.
+----------------------------------------------------------------------------------------------------
+ID: mdvttas # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Or have an offline ai on the secured network to you know …not bless the data
+----------------------------------------------------------------------------------------------------
+ID: mdtx4a8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well, that is what is happening today with fraud systems.
+----------------------------------------------------------------------------------------------------
+ID: me6zn6q # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I also think you need to know the data a little first. Like it's there any classified or PI in this data? My guess is most likely and that should not be getting uploaded to anything. If you want to use AI for that you need a private hosted LLM so you don't train on that data...
+----------------------------------------------------------------------------------------------------
+ID: me0iu72 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm missing no context, trust me, I'm following political happenings very closely, but you're applying unrelated context to my simple question about a claim. My original question had nothing even at all to do with DOGE, or Musk, or Bezos, my guy, stop pushing your political grandstanding into this thread, please. It's about the claims of the OP.
+
+If people are going to share posts about "cybersecurity" saying "the sky is falling because <foo>" then <foo> should at least make sense. 
+
+The OP in this thread, that I am speaking about, and you seem to not be, is the claim about "IPs in GovCloud happen to be inventry apis" and "indicating a massive firehose of data being sent to the AI company’s servers" - what indicates that? There is nothing presented that indicates that at all.
+
+That list of "GovCloud utilization" is far from being true or complete as I have worked at two companies prior that run in GovCloud and neither is on that list, nor any of the hundreds if not thousands of GovCloud customers we served including federal, state, and city government agencies. It's just AWS "for gov" - that's it. It's not some shared resource or singular entity. It's literally just the same AWS platform, with the same AWS console that AWS has gone through the hoops required to get their infra and systems certified to host the higher level clearance applications, and to get any actual gov customers or handle any gov related data, you yourself also need to go through the hoops to get your application itself certified running on top of it - being "in GovCloud" alone does not certify you for Gov data handling, just AWS's side is already certified so you only have to worry about your usage itself. Inventry simply having endpoints in GovCloud is meaningless. It does not mean anyone is sending anything to it. They could be in auditing right now, or still planning on it and setting up, but without certification no government data, users, or anything can start contracts with them. Them simply running/existing in GovCloud, by itself, as a claim, is meaningless.
+
+Nothing that you are saying answers my question or refutes anything I've said. You just keep coming back yelling about Nazis and Elon and Bezos, none of which I'm currently talking about, and just trying to ask how these claims were come to be made about this AI platform being used in any way shape or form by DOGE. 
+
+The answer to "what's the implied significance of this GovCloud IP finding, when GovCloud is literally just AWS" is not "Hitler!"
+----------------------------------------------------------------------------------------------------
+ID: me0m8if # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Regular GovCloud doesn't hold secret or top secret information, AWS has seperate cloud services for those that aren't accessible from the public internet.
+----------------------------------------------------------------------------------------------------
+ID: mdwoiog # OF UPVOTES: -6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Good bot
+----------------------------------------------------------------------------------------------------
+ID: mdvb3g3 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Kudos for the level headed response. 
+
+I'm highly suspect of the doggie team based on how they have handled this 'audit', their public claims about the social security data, and the terrible configuration of the doge(.)gov site. The idiotic way those things have gone definitely makes me worried about their technical knowledge/practices.
+
+BUT this specific substack also appears to be written by someone with only surficial technical knowledge. It looks like they found certain terms in the banner and then didn't actually do the rest of the steps to verify which hits were legit.
+
+That invertry ai api endpoint was the most interesting thing imo and I'd love to see someone with more knowledge do a followup to this article doing a more thorough examination of each claim.
+----------------------------------------------------------------------------------------------------
+ID: mdxydd4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We have become a pariah. No longer welcome in other countries much like the russians.
+----------------------------------------------------------------------------------------------------
+ID: mdta14x # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not mine. I'm a Brit, thank god.
+----------------------------------------------------------------------------------------------------
+ID: mdtc604 # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu0vlf # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdtzc5e # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How is it not? The guy you replied to says this is all false. The title of the SubStack article is literally:
+
+> DOGE Exposes Once-Secret Government Networks
+
+This title alone means everything in the entire article is inherently false.
+----------------------------------------------------------------------------------------------------
+ID: mduyq9e # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No that is exactly what we are talking about.
+----------------------------------------------------------------------------------------------------
+ID: mdxjdo6 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: (Checks reddit user history.  Sees posting to extreme leftist subs.  Calls bullshit.)
+----------------------------------------------------------------------------------------------------
+ID: mduxcnb # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Still something that was exposed to shodan 6 days before Trump took office,  1/14/2025. Blame Biden. You have to have a shodan account to see this history.
+
+https://www.shodan.io/host/131.225.193.27/history
+----------------------------------------------------------------------------------------------------
+ID: mdu5ikp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You sure about that?  Anyone can create a banner like that.  Also, just seeing a banner doesn't mean anything is exposed.  
+----------------------------------------------------------------------------------------------------
+ID: mdt5noo # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No actually your abhorrent attitude and ego goes hand in hand with an overly indulgent individual in the political sphere. I’ll quite loudly say you come across as a bit of a prick. Not wanting to break any rules but your attitude does nothing for the conversation your just making about you
+----------------------------------------------------------------------------------------------------
+ID: mdt4imr # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I see you've joined the previous poster in the castle courtyard.
+----------------------------------------------------------------------------------------------------
+ID: mdtoe9j # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Oh absolutely, I was agreeing with you in general. I also wonder if maybe it isn't at least partially the fault of a branding issue - I suspect that calling it Artificial 'Intelligence' strongly contributes to the misperceptions regarding its overall capabilities.
+----------------------------------------------------------------------------------------------------
+ID: me14v88 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: **EDIT**: Since you cowardly blocked me immediately after your next reply so I couldn't respond to your next reply (that's some shady shit), I'll reply to your next inane reply here below with an edit of this post:
+
+>>In context of what is going on with DOGE, the sharing of government data from GovCloud to a fly-by-night, private equity AI company is alarming to say the least.
+
+> You keep repeating misinformation at this point
+
+Stop lying.
+
+FACT: Inventry.ai is owned by private equity.
+
+FACT: Inventry.ai has only been in operation for a few years.
+
+FACT: Evidence shows Inventry.ai is connected to GovCloud
+
+FACT: GovCloud is not going to connect to Inventry.ai for shits and giggles.
+
+FACT: If you think only a trickle of data is needed by ML to make sense of data, [then you need to brush up](https://postindustria.com/how-much-data-is-required-for-machine-learning/).
+
+We're done here, Muskrat liar.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The rest is my older reply below:
+
+
+>It's just AWS "for gov" - that's it ... when GovCloud is literally just AWS" is not "Hitler!"
+
+" ... Delivering a high-availability cloud technology with the security and reliability governments need across all classification levels: Unclassified, **Sensitive, Secret, and Top Secret** ... "
+
+How about some context you're avoiding? With one "little" difference that GovCloud contains critically sensitive quasi-governmental and governmental data including data via 3-letter agencies.
+
+The concern is (in *context* of DOGE) is that we see (at the very least) evidence that GovCloud is connected to a fly-by-night private equity AI company potentially sending extremely sensitive government data to be processed (or whatever) by AI which has severe security/privacy ramifications especially in light of what DOGE has been haphazardly doing with AI and government data in the same vein.
+
+It's stunningly weird to continue to ignore that context.
+
+> I'm missing no context, trust me
+
+You still don't seem to grasp the context of how expansive DOGE is and are blowing off a literal technofascist coup as "the sky is falling".  Have you heard of RAGE?  Have you heard of "network states"?  Do you not understand the ramifications of this in context?
+
+You're either missing it — or dodging it.
+
+>It's about the claims of the OP
+
+The actual OP is here:
+
+https://www.threads.net/@janandersnelson/post/DGQz3xLPW8Z?xmt=AQGzwkT98wZbEod091DEfLZ30y3kUijtlgLwH5uNj_RNmw
+
+If you want specifics on their methodologies, I would direct your specific questions there.  If you think only a trickle of data is needed by ML to make sense of data, [then you need to brush up](https://postindustria.com/how-much-data-is-required-for-machine-learning/).  Either way, I'm looking at the big picture that you want to brush off:
+
+In *context* of what is going on with DOGE, the sharing of government data from GovCloud to a fly-by-night, *private equity* AI company is alarming to say the least.
+
+Bezos has pledged fealty to a *treasonous* Musk/Trump regime dismantling our democratic institutions obviously in benefit of Russia among other foreign adversaries. Giving Bezos benefit of the doubt on what his GovCloud is doing connected to a fly-by-night private equity AI entity is foolhardy.
+
+Given the stakes that our nation's infrastructure is being actively attacked and treacherously dismantled by the Trump regime billionaire funders/collaborators — we're not going to blow this off and move on.
+
+There needs to be transparency on this so we're not digging around trying to figure out what's going on ourselves, but that's unfortunately how it works within a fascist oligarchy/dictatorship.
+
+I hope you continue to dig into the details of it.  When you find out more from the actual OP (not the Reddit OP) I hope you share your findings honestly and in context of a fascist coup.  To ignore that aspect in all of this is ridiculous at best and absolute cowardly denial at worst — I can't believe I even have to say this.
+----------------------------------------------------------------------------------------------------
+ID: me0p6fx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > GovCloud doesn't hold secret or top secret information,
+
+GovCloud's own website states that they do — and the FBI and other 3-letter agencies, etc. utilize GovCloud with their data:
+
+ " ... Delivering a high-availability cloud technology with the security and reliability governments need across all classification levels: Unclassified, **Sensitive, Secret, and Top Secret** ... "
+
+It's a simple Internet search to find this.
+----------------------------------------------------------------------------------------------------
+ID: mdwsrcy # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bad bot Muskrat.
+----------------------------------------------------------------------------------------------------
+ID: mdw4q0x # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Have you read this yet?
+
+Elon Musk’s DOGE is feeding sensitive federal data into AI to target cuts
+
+https://archive.ph/UP0Wp
+
+Anyone who is still putting faith into Musk, Bezos, etc. to keep our government data safe and secure hasn't been paying attention.  And anyone who doesn't think they'll use that data to manipulate/intimidate the public and subjugate dissent has definitely missed their brazen anti-worker/labor actions up until this point.
+----------------------------------------------------------------------------------------------------
+ID: mdtbiqw # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sorry ;)
+----------------------------------------------------------------------------------------------------
+ID: mdthswq # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hahaha, wow that's an amazing revelation in the thread. Good stuff, thanks.
+----------------------------------------------------------------------------------------------------
+ID: mdvxkc6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Adopt me, please....
+----------------------------------------------------------------------------------------------------
+ID: mdw5qbk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: A Brexit survivor.
+----------------------------------------------------------------------------------------------------
+ID: mdtkskw # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu3l52 # OF UPVOTES: -7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdu0s9w # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We were talking about the first sentence, which he claims is false. The first sentence says nothing of musk or DOGE
+----------------------------------------------------------------------------------------------------
+ID: mdxl2z5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Conservative thinks extreme leftists have a horse in US duopoly party politics. Both parties are right-wing, buddy.
+----------------------------------------------------------------------------------------------------
+ID: mdyaktg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So? I post to extreme right wing subs like r/Anarcho_Capitalism .
+
+They have correct ideas that align with industry standards, whatever their views are, it's irrelevant in this case, they didn't even bring it up.
+----------------------------------------------------------------------------------------------------
+ID: mdu8dt4 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No, anyone cannot create a banner on an IP owned by Fermilab.
+----------------------------------------------------------------------------------------------------
+ID: mdt4yll # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Try to stay grounded in this discussion. It'll be less embarrassing for you in the long run.
+----------------------------------------------------------------------------------------------------
+ID: me1cjmu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > In context of what is going on with DOGE, the sharing of government data from GovCloud to a fly-by-night, private equity AI company is alarming to say the least.
+
+You keep repeating misinformation at this point, so I'm just going to stop participating in bad faith discussions. 
+
+To reiterate again, in hopes you maybe understand this time: 
+
+A. I've literally worked on applications living within GovCloud, for commercial companies. I know what I'm talking about here, and your quote from the homepage isn't saying anything refuting what I'm saying. 
+
+B. Something running on GovCloud means just as much as something running on vanilla AWS, GCP, Azure, DigitalOcean, Hetzner, or even in a personal/private datacenter, shit even the same as running on a server in someones basement. It does not mean it has access to anything else running on GovCloud. It does not mean anything in GovCloud is sending data to it. It does not mean anything at all other than that an app is running on a box in that datacenter. GovCloud is not a singular "thing" where everyone just has a shared pool of "top secret" data it can all read from. I can't query Reddit's databases simply by having my "hackReddit" app also running on AWS. GovCloud is simply a hosting platform that is full of private equity and commercial applications serving government contracts, but in order to get those contracts the applications themselves also need a full audit and approval for FedRamp, IL5, etc certifications. Your repeat attempts to say that existing in GovCloud means it has access to top secret data shows that you simply do not understand how technology or hosting providers work, you just want to throw around political outrage, so there's not much we can discuss further.
+----------------------------------------------------------------------------------------------------
+ID: me0ulee # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: https://aws.amazon.com/blogs/publicsector/announcing-the-new-aws-secret-region/
+
+"The AWS Top Secret Region was launched three years ago as the first air-gapped commercial cloud" 
+
+notice the term air gapped.
+
+EDIT: dude blocked me after his reply under the same comment where he complains about getting blocked by someone after they reply. I suppose Cowicidal is, by his own words, "cowardly" and engaging in some "shady shit"
+----------------------------------------------------------------------------------------------------
+ID: me0tc7t # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The regular public facing GovCloud on commercial internet does not hold secret or top secret information, different "regions" not on the public internet do host secret and top secret information. Your 5 minutes of google doesn't beat my doing this for a living.
+----------------------------------------------------------------------------------------------------
+ID: mdw7w98 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks, and yeah, I did read that source and have no real reason to doubt it. But, I would love to see articles like that corroborated with some actual forensic evidence similar to, but beyond what the OP substack writer tried to do.
+
+My confidence in the media to correctly report on most things, but particularly complex and technical things, is shrinking day by day for a variety of reasons (latest being the COBOL date thing, which imo just discredits the MANY very legitimate criticisms against elon and the doggies). 
+
+So I guess I'm honestly just really desperate for some actual unfiltered, verifiable evidence for my own sanity and because I truly think the inability to agree on any kind of shared reality is seriously fucking up our democracy and sensibilities. 
+
+Not sure if hard evidence can even fix that lack of shared reality anymore, but feels like its either that or eliminating the entire current social media model lol
+----------------------------------------------------------------------------------------------------
+ID: mdtmi56 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You really think the tech companies are going to stick with the states? As big a market as it is, the rest of the world is bigger, and the recession trump is going to cause will just make it worse. They already have infrastructure around the world, its not like they are physically tied to the states.
+----------------------------------------------------------------------------------------------------
+ID: mdu4yws # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Politics doesn't affect you? Really?  Like I say, you are getting exactly what you deserve.
+----------------------------------------------------------------------------------------------------
+ID: mduxzu2 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The premise of the article is that DOGE had a hand in this. The first sentence makes the premise that DOGE/Trump/Musk had a hand in what's being reported. Sure, those sites are in Shodan, but it wasn't DOGE. That's what's blatantly false.
+----------------------------------------------------------------------------------------------------
+ID: mdudfzz # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: First time on the internet?
+----------------------------------------------------------------------------------------------------
+ID: mdt8yhx # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not embarrassed at all. Thanks for playing, but no participation prize.
+----------------------------------------------------------------------------------------------------
+ID: me1gm4o # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Notice the lack of term GovCloud.
+----------------------------------------------------------------------------------------------------
+ID: me1gtv6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Your 5 minutes of google doesn't beat my doing this for a living.
+
+It's literally on their own website.  That beats you like a dog.
+
+Stop trying to gaslight me.
+----------------------------------------------------------------------------------------------------
+ID: mdwk25v # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Fair enough, I understand where you're coming from.
+
+>latest being the COBOL date thing, which imo just discredits the MANY very legitimate criticisms against elon and the doggies
+
+From what I've seen it's not likely a COBOL date thing, but probably a COBOL data design issue and even more likely a deal where things have been modified with policy changes over the decades and it's become a complex (but workable) beast in the process.
+
+That's exactly why they shouldn't have fired the people who had a grasp of the systems and processes unless *their point* was to obfuscate typical government processes and purposefully confuse it with fraud in order to dismantle government in their *very obvious* techno-fascist coup.
+
+The problem is people don't understand that these critical systems are meant to run with 100% "uptime" to get out payments *no matter fucking what*.  It's not a porn server where a small amount of website downtime and/or disruption of backend payment services is acceptable.  That means the overall system is most certainly going to have some patched on "inefficiencies" compared to a porn server, but it will still function *solidly* for the greater good.  When people lose their porn, they don't fucking die.  That's why people don't run a government like a business unless they're mentally ill, megalomaniacal evil idiots (see Musk/Trump) addicted to attaining more and *more* money/power like heroin addicts.
+
+Sure, the media is making mistakes about COBOL, etc. as it's well over the heads of most people and especially the media  — but they're going to report what's handed to them especially when it's over their heads to vet it out.
+
+This tactic from Musk is typical, *purposefully obtuse* fascist behavior where he makes unsubstantiated, outrageous claims and throws out numbers without backup.  That tactic leaves everyone else wasting time and effort to scramble to figure out his bullshit.  Mistakes will be made in the desperate attempt to make sense of his claims (and those mistakes will cynically become the focus) and he succeeds in his fascist distraction machine.
+
+Either way, Musk has been shown to be talking out of his ass without having any real evidence of substantial fraud.  The point the public needs to understand is he's attempting a coup to dismantle our government and implement RAGE (look it up) with DOGE.
+
+Correct me if I'm wrong.
+
+Program Operations Manual System (POMS):  https://archive.ph/FGreF
+
+Numberholders Age 100 or Older Who Did Not Have Death Information on the Numident: https://oig.ssa.gov/assets/uploads/a-06-21-51022.pdf
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+https://news.ycombinator.com/item?id=43073149
+
+And the media is starting to sort it out against Musk's lies:
+
+https://www.politifact.com/article/2025/feb/17/are-150-year-old-americans-receiving-social-securi/
+
+In other words, it's vastly faster and easier to break things than to build them.  I'm not going to shit on people who in good faith are trying to figure out what the fuck a ~~bad~~ evil faith actor like Musk is claiming by him just throwing bullshit after bullshit against the wall.  He's not even doing it to see "what sticks" — it's a rapid-fire, gish gallop approach to authoritarianism.
+
+It's been a part of their fascist game plan for a long time now and even some of the chuckleheads on FOX News are bragging about it due to their extreme hubris.
+----------------------------------------------------------------------------------------------------
+ID: mdu6ud2 # OF UPVOTES: -5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: mdufss1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Not sure what you think you're trying to say.
+----------------------------------------------------------------------------------------------------
+ID: mdtdsrm # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just because you *aren't* doesn't mean you *shouldn't be*.
+
+
+I'd stick to r/azure and r/linuxnoobs to further save yourself some embarrassment, whether it be perceived by you or not.
+----------------------------------------------------------------------------------------------------
+ID: mduax7g # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you are quoting people, making it clear helps. That's what punctuation is for.
+
+Everything else you wrote ammouts to "people can't be bothered" 
+
+The russian bots are the ones supporting trump.
+----------------------------------------------------------------------------------------------------
+ID: mducs7f # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is peak American right here.  You blamed the Electoral College for this, but Trump won the popular vote, too.  So, you're either confidently uninformed or you don't know how our government works.  
+
+
+
+
+
+Then you fail to communicate properly, using poor grammar and punctuation, while simultaneously bemoaning that education has failed other people in the U.S.  
+
+
+
+
+
+
+Then when your poor communication fails, you blame the other person and call them names.  Lmao, you sure you don't vote red?
+----------------------------------------------------------------------------------------------------
+ID: mdui1lo # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am telling you that the internet quite often has fake shit.
+----------------------------------------------------------------------------------------------------
+ID: mduiyw1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: OK sure, US government ip address are faking us government infrastructure.
+----------------------------------------------------------------------------------------------------

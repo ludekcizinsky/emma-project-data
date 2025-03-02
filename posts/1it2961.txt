@@ -1,0 +1,16 @@
+POST ID: 1it2961 / POST TITLE: Deepfake Scanner - Yan or nay ?
+====================================================================================================
+We have developed a deepfake scanner that can predict pretty accurately if a video is a deepfake or not. Even if only parts of the video have been altered.
+
+We’ve tested it against the other models on the market and it performed very good.
+
+We have now released a beta into the world and got some traffic. Since we are based in Germany the upcoming elections seem like a pretty natural trigger for people to check videos - especially since we are dealing with A LOT of Russian financed propaganda for the extremist parties. 
+
+Here’s where it gets interesting: hardly any of those political deepfakes are uploaded in our tool. My hypothesis is that people who see those videos mostly look for affirmation of their political views and therefore do not question the video.
+
+Here’s my question: from a business perspective do you guys see a the same phenomenon? Or is there a higher interest in reliable information? 
+
+Thank you in advance for your answers 
+
+POST COMMENTS:
+====================================================================================================

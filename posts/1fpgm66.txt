@@ -1,0 +1,118 @@
+POST ID: 1fpgm66 / POST TITLE: don't understand hacking
+====================================================================================================
+i wasn't really sure how to word it honestly, but i understand hacking like information gathering and such, what i don't understand is when i follow courses i always get to the most important part that i need to follow along with n always end up getting errors? even if i follow the course step by step there's always some issue
+
+so basically i was watching https://youtu.be/41DefJrv-L4?si=e3jke-siGQVsA4vQ
+
+and got around 7:37:21
+
+after tryna login to the wordpress page, it just downloads a php file n doesnt actually log me in, plus the website isn't even styled
+
+
+im basically looking for advice from anyone that can help me or something advance into pentesting, i dont wanna hear "ask chat gpt " cuz every time i do i get a "this content may violate our usage policies" n it deletes chatgpts response even if i clarify its my own network, on a vulnerable machine that im using 
+
+POST COMMENTS:
+====================================================================================================
+ID: loxw2g0 # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Without watching the whole seven hours, I'm recommending a different approach. While it seems like a good idea to you to jump straight into the deep end of pen testing or ethical hacking, I would suggest that you'd start from zero. That means you have to have an understanding of what creates the vulnerabilities in the systems. Of course you can just focus on security, but everything, and i mean everything is so much easier when you first spend time deciding which is the most relevant area to specialize in. For example, many penetration testers initially struggle with technical issues not because the tools or courses are flawed, but because they lack a deep foundational understanding of how the underlying systems work—whether it’s networking, operating systems, or web technologies like PHP and WordPress.
+
+The issue you’re encountering with the PHP file downloading instead of the page rendering correctly suggests that the web server isn’t configured to execute PHP. This could stem from a misconfigured environment, like an Apache or Nginx server not having PHP modules properly enabled. Understanding how these servers work will allow you to diagnose and solve these problems without relying purely on the step-by-step guide, which often can miss out on deeper troubleshooting insights.
+
+To advance into pen testing effectively, here’s a strategy you can follow:
+
+1. **Master the fndamentals:**
+   You need a strong foundation in networking (TCP/IP, DNS, HTTP/HTTPS protocols), operating systems (Windows/Linux), and scripting (bash, Python, etc.). Without this core knowledge, every small error, like your PHP issue, becomes a roadblock. For example, understanding how WordPress is built, the dependencies it requires (PHP, MySQL), and how web servers operate will significantly improve your troubleshooting.
+
+2. **Build and manage your own environmenys:**
+   Create vulnerable environments like DVWA (Damn Vulnerable Web App) or Juice Shop, which are designed for learning. This gives you control over the configuration and a sandbox for experimentation, allowing you to practice fixing misconfigurations that commonly lead to vulnerabilities.
+
+3. **Dive into specific tools once you’re ready:**
+   Once your environment setup skills improve, you’ll be able to fully engage with hacking tools like Burp Suite, Metasploit, or custom scripts. The real power comes from knowing how to use them to exploit actual weaknesses—not just following a script but understanding *why* each step works.
+
+4. **Get comfortable with error messages:**
+   A key part of any pen tester’s skillset is troubleshooting. When you run into issues like the PHP file not executing, use that as an opportunity to learn. Check server logs, review configurations, and dive into online resources (forums, documentation) to figure out what’s wrong. The more comfortable you become with troubleshooting, the faster you’ll progress.
+
+5. **Learn through ctfs and practice labs:**
+   Capture the Flag (CTF) competitions and platforms like Hack The Box, TryHackMe, or VulnHub provide real-world challenges that will reinforce what you’ve learned in a fun, competitive environment. These are much more dynamic than scripted tutorials and force you to adapt.
+
+By focusing on this foundation, you won’t be just learning to hack by rote—you’ll be gaining a deeper understanding of how systems work, where they break down, and how to exploit that. It’s a more sustainable path to becoming a skilled pentester.
+
+If you’re committed to progressing in pentesting, you’ll need to shift your mindset from “step-by-step guide follower” to “problem solver.” Cultivate curiosity and perseverance—those qualities will carry you further than any single tutorial ever will.
+----------------------------------------------------------------------------------------------------
+ID: loxxrm7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: While it isn’t going to maybe be the answer you want to hear, a large part of this field is researching and understanding how to ask the right questions. For instance, in the situation you described it sounds like a php file is being downloaded instead of executing. You should take a look at what causes a file to execute vs being static, how can that be exploited? How can it be secured if you DONT want server side execution? How can you bypass those basic security functions and why best practice is best practice. 
+
+Remember that every time something goes wrong, a payload doesn’t fire, or does something unexpected is a chance for you to learn, but it sounds like first you need to learn how to learn if that makes sense. Computers are logical creations, they don’t randomly do things just because. There’s is a reason that can be researched. 
+
+It’s also not a quick info dump field. You want to test a vulnerable web app so you should understand some basics of HTML and JavaScript as well as server side languages like PHP or Python. How does it function and why does it do what it does? What’s the logical reasoning for why it does these things? What is an API and why would you use it? What is JSON?
+
+If I were you, I would start off with two things. Build a simple web application to start learning how these things are built and configured, and do Portswigger academy to learn how to exploit them.
+
+Also, you’re going to get a lot more specific help if you can post in these forums with a specific problem, steps already taken and the problem you’re stuck at. 
+
+As to your problem, off the cuff i’d recommend researching the .htaccess file and its function and how it relates to your problem. 
+
+Here’s some basic WP stuff from TCM:
+https://youtu.be/-evas4VOLH8?si=f1hvR8lWxlTSVaSq
+
+Good luck!
+----------------------------------------------------------------------------------------------------
+ID: loyr6q4 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Probably your nginx/apache isn’t configured to handle php backend.
+If you search on google your problem Im sure youll find hundreds of solutions, 70% of ethical hacking is practically searching solutions to your problems. This field is complex and many things are prone to fail without proper knowledge, you learn by trial and error.
+----------------------------------------------------------------------------------------------------
+ID: lqqudkz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Late to the party as always, but master networking and network integration and the rest will follow naturally. Only practice on pwnable for now, some websites lure early hackers by representing themselves as similar platforms.
+----------------------------------------------------------------------------------------------------
+ID: loza0sz # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ask AI for any question you can't find an answer for, you have 3 AI's as far as I know ChatGPT, Copilot that I used and Gemini that is really useful..
+----------------------------------------------------------------------------------------------------
+ID: loy0qid # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: that's interesting, i definitely want to take on the mindset of problem solving, but as i said to the other person, i have nobody really to ask n using chatgpt isn't helpful, also searching for specific questions usually leads no where , i understand most of networking, n stuff like that , OSI, http(s), ports, ips, udp/tcp, etc but i always struggle with something im confused about such as something like this , cuz if i search it up there's no answers
+----------------------------------------------------------------------------------------------------
+ID: loy5n6z # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This should be a pinned post, this is an awesome reply. Just dipping my toes in the field as a side hobby myself and this is super helpful.
+----------------------------------------------------------------------------------------------------
+ID: loy0b6o # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i appreciate what u said, but it's not that i'm completely new, basically i started off making websites n learned some backend with nodejs, js, react, python, java, etc, i've been learning about networking and tryna understand the phases of hacking n how i need to approach things n learn
+
+the problem is a lot of the stuff ive asked chatgpt has been completely wrong or i dont get an answer, as i dont have anyone else to ask thats the only thing i cant do or as i said i get "this content may violate usage policies", im still going to take ur advice n learn how i should understand how a website works, understand the code, it was just an issue i was frustrated n confused with, im not exactly sure how to find answers for specific questions by googling as well
+----------------------------------------------------------------------------------------------------
+ID: lozh8df # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think the question becomes how serious you are about making pen testing a career for yourself? If you're committed to that dream of yours, I'd start by focusing on developing a systematic approach to problem-solving, which is crucial in this field. You’ve got a solid understanding of networking and protocols, which is great, but pentesting requires deep knowledge across various domains. When you hit roadblocks—like the one with the PHP file downloading instead of rendering—rather than expecting an immediate answer from a single search or ChatGPT, shift your approach to researching the underlying mechanics.
+
+Here’s what you can do nect:
+
+1. **Commit to learning troubleshooting techniqques:**
+   Every pentester faces moments where things don’t work as expected. When the PHP file downloads instead of executing, it’s not just a “step-by-step” problem—it’s a server configuration issue. Learn how to diagnose those situations: Is the server running the correct version of PHP? Are the modules for PHP enabled in Apache or Nginx? Is there a misconfiguration in the virtual host file? The more you troubleshoot, the more you’ll understand how environments are built and where they break down.
+
+2. **Invest in long term learning resources:**
+   Consider formal learning tracks or certifications, like OSCP (Offensive Security Certified Professional) or the eLearnSecurity certifications. These courses don’t just teach you tools—they teach you how to think like an attacker and solve problems.
+
+3. **Join a community:**
+   You mentioned having no one to ask—this can feel isolating. But communities like r/netsec, Discord channels dedicated to infosec, or local hacking meetups can connect you with other aspiring pentesters. You’ll find that sharing issues and learning from others can accelerate your growth.
+
+4. **Get used to documentation and forums:**
+   One of the skills that separates good pentesters from great ones is their ability to find information hidden in obscure documentation, mailing lists, or community forums. For example, your PHP issue might be solved by digging into Apache or Nginx logs and matching them against what you find in the PHP documentation or user forums. 
+
+5. **Practice deliberately:**
+   Set up your own labs where you can experiment with breaking and fixing systems. Tools like Vagrant, Docker, or local VMs can help you replicate complex environments and test configurations. Being hands-on will deepen your understanding of systems beyond theoretical knowledge.
+
+Ultimately, if you’re serious about making pentesting your career, these roadblocks are part of the journey. The mindset you need to adopt is one where you embrace challenges and learn from every failure. 
+
+I do understand the struggle. My own path(fortunately) went from software development to info sec, which in my opinion was the right order to things, as you get the knowledge of underlying conditions which contribute immensely to cyber security. And that's what i encourage people who are interested in info sec/pen testing to do.
+----------------------------------------------------------------------------------------------------
+ID: lp00kgy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks! I mean this is one of the main issue with cyber security nowadays. People think of it as just the hacking part and how intriguing it can be, but in reality, while it 100% is cool and intriguing, the learning path is very rough and needs commitment on levels you might've not expected. The most efficient and skillful cyber security professionals mostly come from a very strong developer background. While you could do level 1 soc without coding knowledge, it's a very good idea to just start from the ground up and work your way into understanding different languages and what their fundamental flaws might be and then start exploiting them, in a safe environment ofc.
+----------------------------------------------------------------------------------------------------
+ID: loy1m8o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cool that’s a really good base! I’d point you towards Tryhackme, hack the box and especially TCM security, I think that covers three of the big learning styles. THM is guided with questions leading you through modules and reading. HTB is amazing, tons of information but you need to read through it and take notes and will do some outside research. TCM is great because it’s videos and they direct you to labs either on THM, HTB or self made, give you time to try it yourself, then have a walkthrough video with explanations. I’d recommend TCM and free THM to start if you can afford the 35/month for the all access for TCM. Keep at it!
+
+Edit to add googling this stuff is a skill, when I started it was terrible too, but it’ll get better. I would probably use ChatGPT to ask something like “I have a Wordpress site where the PHP for the login page is being downloaded instead of executed. Please list the top 5 potential causes for this” and then take those and go do your own research if you’re having trouble. Also a great opportunity to learn google dorking which is a valuable skill and also will make your googling better.
+----------------------------------------------------------------------------------------------------
+ID: loy2flu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah the only issue is that i don't have much money to spend rn, but i have THM n gone thru the pentester n red team stuff, the reason im watching the course i linked is cuz i noticed gaps in my knowledge, i knew a little more advanced stuff but couldn't work around stuff to apply it
+----------------------------------------------------------------------------------------------------
+ID: loy38lf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TCM has a free tier for some stuff and they have most of their videos just out on YouTube so you can definitely get those free. Also portswigger academy is free and Rana Khalil’s videos on it are great. Ryan John has some good videos as well on YouTube for webapp.
+----------------------------------------------------------------------------------------------------

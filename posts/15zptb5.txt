@@ -1,0 +1,6 @@
+POST ID: 15zptb5 / POST TITLE: final project
+====================================================================================================
+My original idea for final school project was to access the phone of a housemate (who begrudgingly approves of this experiment; we're hoping he's learned his lesson from being phished in real life and that he'll pass the test) with an O.MG cable (was planning to leave it on the porch like someone dropped it), but I didn't realize there is no option for injecting a payload onto an i-phone 8-10. Then, I figured I'd use Kali SET to do a web credentials phish, but another classmate beat me to that and there can be no overlap. I don't want to do anything where I take his phone from within the house, because that's not realistic and it defeats the purpose. Any ideas?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,30 @@
+POST ID: 13kvk4g / POST TITLE: Learn Hacking
+====================================================================================================
+I want to become an ethical hacker. How and where can I start
+
+POST COMMENTS:
+====================================================================================================
+ID: jkmcyuo # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: jknztt6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hackthebox Academy and Application are a very good place to begin as it is a very hands-on, interactive program. Other comments like learning linux and Python are very good suggestions as well.
+----------------------------------------------------------------------------------------------------
+ID: jkophen # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Definitley look at Try Hack Me, or Hack The Box - both a great platforms to start learning. Having a good understanding of networking is also a good start, and just general knowledge within the IT realm can help. Set very simple goals for yourself. Learning hacking, is a very very broad goal. Start small. Like complete a module on Hack The Box
+----------------------------------------------------------------------------------------------------
+ID: jkn1uok # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Setup a network of pcs not connected to your real home network to practice on
+----------------------------------------------------------------------------------------------------
+ID: jkqeeg0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot
+----------------------------------------------------------------------------------------------------
+ID: jkqef2m # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot
+----------------------------------------------------------------------------------------------------
+ID: jkqefce # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot
+----------------------------------------------------------------------------------------------------
+ID: jkqeeve # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot
+----------------------------------------------------------------------------------------------------

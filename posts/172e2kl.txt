@@ -1,0 +1,53 @@
+POST ID: 172e2kl / POST TITLE: How to start selling pentesting services?
+====================================================================================================
+I am hacking for 6 months yet, I did one full pentesting service for a friend of mine, with a complete report. 
+I’m searching for clients and the best thing I have is freelancing platforms like Fiverr and Upwork, where I would make like $50 for a service.
+
+POST COMMENTS:
+====================================================================================================
+ID: k3w5mib # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why should someone choose you over an established reputable company?
+----------------------------------------------------------------------------------------------------
+ID: k3x89jv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: k3zho45 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you try Hackerone or bugcrowd? I’ve managed to make money there. Very happy, motivated and will continue.
+----------------------------------------------------------------------------------------------------
+ID: k46axkv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Also $50 is way too cheap for a penTest even if it’s just one IP address or one application
+----------------------------------------------------------------------------------------------------
+ID: k3w6fh9 # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Great, I think a small/medium company don’t have too much money to invest, so of course I would charge less than a established reputable company, since I am a “small cybersecurity company” and don’t have enough experience
+----------------------------------------------------------------------------------------------------
+ID: k3zhrvu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: k42ppr3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yess, I’m doing it as well, but I’m entrepreneur and I’m trying to grow my cybersecurity business
+----------------------------------------------------------------------------------------------------
+ID: k3w7b0s # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Set up your contracts, billing, insurance, and website. List all your certifications and references on your site. Learn sales and have a mock report ready to send if they ask. Still even then you’re gonna have to convince them why they should pick you over someone else. It’s gonna be very hard to start. Lots of cold calls and building relationships/trust.
+----------------------------------------------------------------------------------------------------
+ID: k3zitb6 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: liquid workable governor humorous serious innocent wine bag thought wide
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+----------------------------------------------------------------------------------------------------
+ID: k3zj26m # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical is not always equal to lawful. But regardless of how ethical it is OP can go to jail for what you are recommending. Why are you doing it?
+----------------------------------------------------------------------------------------------------
+ID: k3zl3fq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: k3zmm7e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You sound like a romantic little boy.
+
+
+“The best way to avoid controversy when using Nmap is to always secure written authorization from the target network representatives before initiating any scanning. There is still a chance that your ISP will give you trouble if they notice it (or if the target administrators accidentally send them an abuse report), but this is usually easy to resolve. When you are performing a penetration test, this authorization should be in the Statement of Work. When testing your own company, make certain that this activity clearly falls within your job description. Security consultants should be familiar with the excellent Open Source Security Testing Methodology Manual (OSSTMM), which provides best practices for these situations.”
+
+https://nmap.org/book/legal-issues.html
+
+
+What you described could happen but you have to be exceptionally good. There are plenty black hats sitting in jail. And going there for a not permitted port scan would be very easy.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+POST ID: 1iolh4s / POST TITLE: Is it common for fintech companies to be wary of using Password managers?
+====================================================================================================
+I was speaking to someone in the fintech space and they mentioned that their IT director (or someone high-up) has a mandate against using any password manager technology for the organization.
+
+Supposedly their team handles a lot of money and they generate passwords and share them with the whole team verbally. The team then memorizes this password and uses as needed.
+
+To me its already a red-flag that a whole team has access to a single account without any controls/audit of who actually accessed the account. However, I understand the not-storing the password in a password-manager for very-specific use-cases could be a beneficial strategy.
+
+What seems odd to me is that the IT director for a fortune 1000 company has a blanket "no password manager" policy across the company and that they are actively discouraging the use of them.
+
+Has anyone else encountered this in their careers?
+
+The end result of this is the person I was speaking to swears by never using a password manager and instead has their own mechanism to remember passwords for all their accounts like an easy to remember cipher.
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,10 @@
+POST ID: 1g2qzjx / POST TITLE: Finding Registered Domain Against a Owner/Name
+====================================================================================================
+Hi Good people. I want to analyze one simple task but I tried several google dork but it is not helping me. The task is: Find the Names of all domains owned by Mr X. What is the best and most efficient way to list down all the registered domains against the owner of that domain? I need your best guidelines here.  
+Thanks in advance.
+
+POST COMMENTS:
+====================================================================================================
+ID: m68opi5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I like this question
+----------------------------------------------------------------------------------------------------

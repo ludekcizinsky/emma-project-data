@@ -1,0 +1,18 @@
+POST ID: 163lrx7 / POST TITLE: The OSINT Newsletter - Finding Missing Persons - Trace Labs CTF Review (DEFCON 31)
+====================================================================================================
+📣 The latest issue of The OSINT Newsletter is here.  
+
+🔎 Finding Missing Persons with OSINT  
+
+[Trace Labs](https://tracelabs.org/) recap of DEFCON 31 with the tools, tactics, and techniques used to place third  
+
+\~3000 words of useful tips and tricks our team used to get the bronze  
+
+Each category is broken down for easy application.  
+
+👏 A big shout out to [Epieos](https://epieos.com/) for making their OSINTER modules free during the CTF.  
+
+[https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs](https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs)
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,24 @@
+POST ID: 1c61crm / POST TITLE: Is red team or ethical hacking in general in demand?
+====================================================================================================
+Hello, i am newbie in ethical hacking. I really interested in cybersecurity and ethical hacking, especially red team is the most interesting field for me,but is it in demand right now? And what do you think, will it be in demand in 10 or 15 years?
+
+POST COMMENTS:
+====================================================================================================
+ID: kzy5i2c # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I feel like cyber is becoming increasingly important. There's a reason nation states invest in their intelligence and hack each other. It's massive and it's not going away.
+----------------------------------------------------------------------------------------------------
+ID: l002lgw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I honestly feel it’s not and that the only people who make money here are the people who sell courses. Sometimes I feel this field of work is for like math savants and people who have corporate connections. Because the more I realize the more red team certs I take at the end of the day I’m just a script kiddie
+----------------------------------------------------------------------------------------------------
+ID: l01n2ga # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nope, at least in third world, if in COVID they wasn't willing to spend on cybersec, nowadays less...
+----------------------------------------------------------------------------------------------------
+ID: kzyyr5s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's so hot right now they are considering standing up a new branch of the military... This cyber thing is bigger than air power was in WW2 which made the Air Force what it is today...
+----------------------------------------------------------------------------------------------------
+ID: l00j96s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the answer, but what about civil purposes? I understand that red team is more for some offensive actions, but do we have some demand in the civil field?
+----------------------------------------------------------------------------------------------------
+ID: l01n0ut # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So, what we could do? This is the same logic for all the IT positions, with some exceptions, but we could say the same for programming, software engineering, and other CS related paths. All of this will need corporate connections in order to progress... I am excluding like, something real like Network, Microsoft stack, PowerBI, .Net, SQLServer and nothing else, it sounds like there are only these paths on IT, not even python is demanded...
+----------------------------------------------------------------------------------------------------

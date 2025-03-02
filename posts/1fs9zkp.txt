@@ -1,0 +1,30 @@
+POST ID: 1fs9zkp / POST TITLE:  Seeking Ideas for FOSS Offensive Security Tool in Rust 
+====================================================================================================
+Hello,
+
+I'm a freelance web developer currently enrolled on HTB Academy with the goal of pursuing certifications like OSCP and eventually transitioning into offensive security as a career. To build up my portfolio and enhance my skills, I'm looking to create an open-source offensive security tool using Rust.
+
+My goals for this project are to:
+
+1. Create a useful tool for the security community
+2. Avoid duplicating existing tools unless significant improvements can be made
+3. Practice and showcase Rust programming
+4. Build a relevant portfolio piece for my transition into offensive security
+
+Some initial ideas I've considered:
+
+* A faster alternative to dnsenum
+* An improved version of gobuster
+
+I'm open to completely new ideas or suggestions for existing tools that could benefit from a Rust implementation with performance improvements.
+
+I appreciate any insights, ideas, or feedback you can provide. Thank you!
+
+POST COMMENTS:
+====================================================================================================
+ID: lpje11g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For number 2, you already have https://github.com/epi052/feroxbuster
+
+
+But rust is awesome for red teaming. What about something cloud related? Like aws og azure ? Or some tool that could automate and integrate multiple AD tools like get AD CS errors, kerberroastable and as-rep roastable accounts and tickets etc.
+----------------------------------------------------------------------------------------------------

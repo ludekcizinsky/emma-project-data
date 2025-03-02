@@ -1,0 +1,7 @@
+POST ID: 1hcoulf / POST TITLE: 300K+ Prometheus Servers and Exporters Exposed to DoS Attack
+====================================================================================================
+TLDR:
+In this research, we uncover flaws in the Prometheus ecosystem, including information disclosure, denial-of-service (DoS), and remote code execution risks via RepoJacking of Prometheus exporters. Over 336,000 Prometheus servers and Node Exporters are publicly exposed.
+
+POST COMMENTS:
+====================================================================================================

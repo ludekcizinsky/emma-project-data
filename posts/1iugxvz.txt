@@ -1,0 +1,6 @@
+POST ID: 1iugxvz / POST TITLE: How detailed are your playbooks?
+====================================================================================================
+I have been tasked with writing playbooks for several categories of incidents, and I was wondering how detailed you get and if you include screenshots of alerts and dashboards etc. It wouldn't be too difficult to write all of the steps out in a document, but they could get really large if we included "how to" and other documentation etc. 
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,34 @@
+POST ID: zqpuas / POST TITLE: [Help] - Gift for experienced pentester
+====================================================================================================
+Hi guys,
+
+Can someone recommend me a good gift for a pentester?
+
+I was looking at TryHackMe vouchers, but I believe the challenges are too basic as this person already has lot's of experience in this field.
+
+For myself I got a Flipper Zero :) lol :) but I'm more into hardware and this person is more into software/web apps.
+
+Thank you so much!
+
+POST COMMENTS:
+====================================================================================================
+ID: j0z7ybk # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Uh, i have a nice joke-gift idea... Condom with note: okay, you are penetration tester! Try penetrate this...! 
+
+But i have nothing seriuos... Sorry for that joke ik its not funny...
+----------------------------------------------------------------------------------------------------
+ID: j100lcw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can try giving HTB premium or pentester lab, if you feel these are also basic. You can try giving an exam voucher like OSCP. 😂
+----------------------------------------------------------------------------------------------------
+ID: j1058xv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you can give a monitor-mode supported Wifi Receiver for pentesting wifi or a Raspberry Pi latest model
+----------------------------------------------------------------------------------------------------
+ID: j11w0zx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Even if they're not that much into hardware, that flipper would be an amazing gift to anybody that is in this space. ;) Especially because those are super tough to get your hands on right now - or so that's what I have heard.
+----------------------------------------------------------------------------------------------------
+ID: j0zhpt4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice joke fr 😅
+----------------------------------------------------------------------------------------------------
+ID: j13vh2s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, I waited a lot, missed two sold outs and was lucky this time.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+POST ID: 1iskzzb / POST TITLE: Identifying fraudulent email applications
+====================================================================================================
+So, my company wants a quick and light way to potentially determine fraudulent applications. Nothing intense, we're going for good enough.
+
+We have names, email address, time stamps, and IP addresses available to potentially screen.  I am looking at ways to determine potentially fraudulent requests, such as we noticed a certain IP address having about 50 different applications, 50 different emails, with about 1 minute in between each application. Could that be a potential indicator?
+
+Are there any other good metrics that could indicate fake emails?
+
+POST COMMENTS:
+====================================================================================================

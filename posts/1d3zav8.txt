@@ -1,0 +1,27 @@
+POST ID: 1d3zav8 / POST TITLE: Brute force WPA2
+====================================================================================================
+Wassup, been trying to Crack my wpa2 but I only let it run for like 10-15 min. I've read and been told it can take up to several hours. I'm not questioning the time but for those of you that have done this before what time did it take you until you cracked the pin?
+
+POST COMMENTS:
+====================================================================================================
+ID: l6axxf2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depend upon the password
+----------------------------------------------------------------------------------------------------
+ID: l6ay1ef # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But you can specify some characters that you know in the password that will reduce the time exponentially.
+----------------------------------------------------------------------------------------------------
+ID: l80scqa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey can you help me I don’t specialize in this work but I’m looking to hire
+----------------------------------------------------------------------------------------------------
+ID: l6b4jpt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I get that, and using a form of wordlist usually works quciker with some kind of initial letter or the last one. But what if you try and crack the pin of the router where WPS isn't activated. Ever tried that?
+----------------------------------------------------------------------------------------------------
+ID: l6b51mw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can try linode a cloud Linux provider with $100 free credit, which offers multiple gpus in one system, helping you to get the password much quicker
+
+For instance you can watch this video by David Bombol
+https://youtu.be/nHDixd-EdEQ?si=0FvwXF-riSvzr140
+----------------------------------------------------------------------------------------------------
+ID: l6baeyf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice thx! I'll check it out
+----------------------------------------------------------------------------------------------------

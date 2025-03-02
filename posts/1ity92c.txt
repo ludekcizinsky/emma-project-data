@@ -1,0 +1,98 @@
+POST ID: 1ity92c / POST TITLE: The cycle that is cyber
+====================================================================================================
+Anyone else see the same cycle over and over no matter where they work in cyber?
+
+To me it seems pretty common that every so often the bean counters say "what value have you provided lately" then they ask what we could live without. Then they cut our budget and take away 50% of our tools and staff. In the following 1 to 2 years we will experience a data breach of some kind and will be asked how we could have stopped it. Then we'll be given millions to beef up our security with modern controls, but we won't be given the time or the staff to fully and properly roll out the new controls. Then we will limp along till we get into a decent position before the cycle begins again. 
+
+I've done security in Finance, Healthcare, and Government, and I go through the same damn cycle. Anyone else living a similar cycle?
+
+POST COMMENTS:
+====================================================================================================
+ID: mdsq52y # OF UPVOTES: 86.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That's not a cyber cycle. That's a your company cycle. 
+
+As with everything cyber. We offer decision makers options, with pros and cons, and risks of what could and likely happen with each option.
+----------------------------------------------------------------------------------------------------
+ID: mdspgr2 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: its all a numbers game
+----------------------------------------------------------------------------------------------------
+ID: mdspv67 # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is why I sought out places where cybersecurity is core to the business. The org I'm at now is an insurance/financial org and we're a large player in the cybersecurity insurance space. One could argue that as far as being concerned about reputational damage of an incident goes we're at the top.
+
+I'm won't say there would never be budget tightening or cuts, but those would only come if they were being done across the entire org and would be very scrutinized to ensure they had minimal impact.
+----------------------------------------------------------------------------------------------------
+ID: mdtu1c5 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We sell ourselves as an assurance policy. 
+
+Don't want us, that's fine, but at some point it'll cost you hundreds of millions. Destroy the brand reputation lose your customers for a different provider and then you'll have to tell the shareholders that the hundreds of millions of profit we earned every year won't happen any more because you had to dissolve the company.
+
+So for the sake of a couple million a year let's just pretend this conversation never happened.
+----------------------------------------------------------------------------------------------------
+ID: mdu6u7k # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is why there is a huge push to quantify cyber risk and get cybersecurity leadership to speak in business terms.  If risk can be reasonably quantified and well communicated, then these questions won't come up, and a reasonable resource level can be maintained per the risk level of the business.
+----------------------------------------------------------------------------------------------------
+ID: mdt05f0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Opportunists make up the company leadershit and they take turns flipping switches on and off, aggrandizing the impact, capturing a massive bonus/stock grant, then golden parachute or fail upwards.
+----------------------------------------------------------------------------------------------------
+ID: mdukmii # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Oh, 100%. It’s like clockwork. Every time I’ve been in cyber, there’s this weird balance between not enough resources until something bad happens, then suddenly everyone’s a security expert and the money flows in. But you’re right — it never seems like there's enough time or people to do it properly.
+----------------------------------------------------------------------------------------------------
+ID: me1m3hg # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is a cycle of toxicity and honeslty probably 80% of us routinely experience this in cyber.
+----------------------------------------------------------------------------------------------------
+ID: mdurb45 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's unfortunately not entirely irrational. If cashflow is going in the ditch short term, the risk of being hacked in the coming few years might be less threatening than going red in the coming months. 
+
+Ethics aside, not much use bringing super secure systems into bankruptcy. Might as well gamble and live to see the next fight.
+----------------------------------------------------------------------------------------------------
+ID: mdvhdmc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Nope. This sounds crazy and I haven't seen it in the companies I've worked for or our numerous clients after more than 20 years in the industry. I wonder if perhaps what you're perceiving is colored by your own cynical interpretation of things?
+----------------------------------------------------------------------------------------------------
+ID: meb8nch # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m almost done with my cybersecurity degree. I just want to get an intern job and get hands on experience. Sounds like that won’t happen if they’re gonna cut staff every year 😂🤣
+----------------------------------------------------------------------------------------------------
+ID: mdxh12c # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The issue at hand is that risk in cyber is extremely hard to quantify. Any CFO worth their weight in gold is going to eat 99% of the people here for lunch because they don't know anything about how to calculate the impact of a project.
+
+"oohh I've done a shiny matrix with risk composed of impact in $ times probability". Yeah, show where did you get the probability from :) And how did you arrive at those $ numbers? -> That CFO is going to axe you.
+
+And what is hard to quantify, gets the axe sooner or later. Extra if you are not bringing cash to the table. Cyber doesn't bring cash to the table. At best, it stops -sometimes, that's the tricky part- cash leaving the table.
+
+Yeah yeah I know you're a CISO who's reading this and who works for some crazy web3 crypto cold store wallet whatever and whose users are paranoid about security. Congrats. The 99% of the rest of the world couldn't care less about security. Maybe the Dassault family cares about not getting their aircraft plans stolen. 
+
+It's either accept living with that fact or switch over to another area that brings in the money. Like being in sales for a cybersecurity company.
+----------------------------------------------------------------------------------------------------
+ID: mdsqzgj # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In nearly 20 years in the industry, every place I have ever worked has gone through similar cycles. Some to greater extent than others, but cyber is a cost center and doesn't bring in any money, so eventually the bean counters question the spending.
+----------------------------------------------------------------------------------------------------
+ID: mdw855u # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think this cycle tends to coincide with executive turnover too.  New executives come in, they want to make a name for themselves, the cut costs and labor, increase the bottom line, something happens and there’s another investment, executive leaves for another company with a promotion and the cycle continues.
+----------------------------------------------------------------------------------------------------
+ID: mdwiu9t # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yup. OP is describing the textbook case of GRC function failure. If the current risk manager is unable to communicate risks to the "beancounters" for *years*, and the cybersecurity program lives catching up from incident to incident... It's a cue for some cyber-leadership change.
+----------------------------------------------------------------------------------------------------
+ID: mdvbpvg # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I work for a company that almost went under because of a ransomware attack that occurred about 2 months before I started. 5 years later we quietly remind our ceo and cto. By saying “this tool can prevent what happened in 2019…” never had one complaint. One stolen account costed the company over $4million and a lot of lost business. We are still cleaning up.
+----------------------------------------------------------------------------------------------------
+ID: mdsse4g # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I remember when IT in general was that way and I had to help justify why a rack server was better then a bunch of desktops lol.
+
+The bean counters can question all they want. I presume that since you have been through this 1-2 cycle for 20 years that you keep all your emails and CYA documentation of that last time this happened and the cost of that fallout?
+
+I'm trying to understand how you work in large enough companies in major industries that have budgets enough to give you millions of dollars yet don't have stable senior management and C-suites that stop this cycle.
+
+EDIT: please note I am not questioning you or saying your experiences are wrong. I guess I have been blessed to not deal with that BS.
+----------------------------------------------------------------------------------------------------
+ID: me7mk5z # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I disagree at least for org. We wouldn’t have clients because those clients wouldn’t trust our firm if we didn’t have a security program, team or audits in place. 
+
+So I argue cyber produces revenue indirectly through enabling the business to retain and onboard new clients.
+----------------------------------------------------------------------------------------------------
+ID: me0wac0 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So true, once a company goes through the full economic pain and operational headache of a breach, you'll never hear management question why they need cybersecurity again.
+----------------------------------------------------------------------------------------------------
+ID: mdsw3w2 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hahaha. It's funny you say that because I have always blamed it on senior management and C suites not managing expectations up correctly and being generally useless. Lol
+
+I will say when I worked for an international finance company I saw it the least and saw the best overall cyber org I have ever seen. And to be fair, I've been in government for the last 5 years and this is the worst I've ever seen of this cycle. But I spent about 7 years in Healthcare between the 2 and went through the cycle about 2 to 3 times there.
+----------------------------------------------------------------------------------------------------

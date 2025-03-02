@@ -1,0 +1,14 @@
+POST ID: 1fcbx1g / POST TITLE: What are some different ways to view/access files on one computer from a different one?
+====================================================================================================
+I've been messing around with Linux and i remember a while ago i did something that allowed me to view files on Kali Linux that i had stored on an Ubuntu virtual machine on the same device. I'm mostly interested in just learning how to use Linux and i am obsessed with the idea of being able to view someones files from my own computer. btw i don't know much about Linux or coding in general, the best i have is some knowledge on python and a dream. I'm mainly just asking what kind of programs or softwares are capable of such a thing and the pros of cons of each one.
+
+POST COMMENTS:
+====================================================================================================
+ID: lme04l2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lme04m6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

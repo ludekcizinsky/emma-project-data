@@ -1,0 +1,24 @@
+POST ID: 12ff2dc / POST TITLE: Ctf problem
+====================================================================================================
+Hello who can help me at one ctf problem?
+
+POST COMMENTS:
+====================================================================================================
+ID: jffjj4o # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Here's a good resource: https://gprivate.com/64hzf
+----------------------------------------------------------------------------------------------------
+ID: jffe4k2 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is ctf?
+----------------------------------------------------------------------------------------------------
+ID: jffjf7k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Capture the flag. It's hackthebox excersise. What a question
+----------------------------------------------------------------------------------------------------
+ID: jfi3o3g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CTF's are basically hacking challenges. You are given a machine or website and you should try to hack it. When you  succeed to do so, you will find a flag that you need to submit in order to complete the challenge.
+----------------------------------------------------------------------------------------------------
+ID: jfi3bi4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's just a question. No need to be rude about it cmon. Besides, it's not always hackthebox exercises
+----------------------------------------------------------------------------------------------------
+ID: jfi3mtj # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Read the sidebar
+----------------------------------------------------------------------------------------------------

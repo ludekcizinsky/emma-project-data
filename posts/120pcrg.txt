@@ -1,0 +1,20 @@
+POST ID: 120pcrg / POST TITLE: Need recommendations for Networking course.
+====================================================================================================
+I have started learning Ethical Hacking from the Cyber Mentor full course and before that I got a kind of a Networking 101 from Network Chuck. But as I am going deep into cyber sec I am realizing that my Networking foundations are not the best. For that I looked into "GeeksforGeeks" computer Networking course and it is very extensive. It has got a basic Networking fundamental and then it explores 5 layers of OSI Model, each having a lot of content in it. So, will this be enough? Or will it be more than enough for me at this stage? How do I know what to learn at this point and what to leave behind to learn later so I can understand it better after having some experience doing things.
+
+Any help would be very much appreciated. Thanks!
+
+POST COMMENTS:
+====================================================================================================
+ID: jdigs3h # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Comptia Network+
+Professor messer N+ is free on youtube
+
+Network chuck has a CCNA course on his youtube aswell would recommend that you look into that
+----------------------------------------------------------------------------------------------------
+ID: jdkbaxh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Jeremysitlab has a free ccna course on YouTube
+----------------------------------------------------------------------------------------------------
+ID: jdik5nj # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks. I will look into into these ones. I have already gone through Network Chuck's CCNA playlist, and it was my first Networking course. Even though he teaches the concepts absolutely amazingly I feel like he hasn't gone through a lot of stuff. Just the basics of Networking.
+----------------------------------------------------------------------------------------------------

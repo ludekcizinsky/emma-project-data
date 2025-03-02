@@ -1,0 +1,25 @@
+POST ID: 1fgz0u7 / POST TITLE: Does creating your own hacking tools, exploit development, and reverse engineering at a high level, require high level math?
+====================================================================================================
+If so, how much?
+
+POST COMMENTS:
+====================================================================================================
+ID: ln61rbe # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No.
+----------------------------------------------------------------------------------------------------
+ID: lnc0g95 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: unless you're working in something like breaking encryption, I wouldn't call it high level math.
+
+You may want to learn things like how the math behind subnetting works. How to "read" hexadecimal. etc.
+----------------------------------------------------------------------------------------------------
+ID: ln6kbt4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I mean.. no I guess?
+Why would it?
+Unless your trying to reverse some calculator or formula used in a game (maybe aimbotting would require some math).
+----------------------------------------------------------------------------------------------------
+ID: ln9d1ok # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No it doesn't, most of the math involved would just be basic middle school level math and other than that the computer can do everything for you.
+----------------------------------------------------------------------------------------------------
+ID: lnaj84u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ctrl c ctrl v works better
+----------------------------------------------------------------------------------------------------

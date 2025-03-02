@@ -1,0 +1,36 @@
+POST ID: 11aa52x / POST TITLE: Total Beginners. Where do we start?
+====================================================================================================
+tldr context: My girlfriend and I are trying to learn CS and ethical hacking. I’m a bit more experienced with computers, and she’s a complete computer newbie. 
+
+Context: I started developing an interest in ethical hacking and so did my girlfriend. I’m sorta well versed in computers, I know how the web works to some extent and I know some HTML and a little JS. My girlfriend on the other hand, knows very little about computers in terms of how they function and operate.
+
+Where should we start with learning? What skills and computer languages should we start with? How did you go about learning CS?
+
+Thanks
+
+POST COMMENTS:
+====================================================================================================
+ID: j9r54ad # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: there is literally a resource pinned on the main r/ethicalhacking page.
+----------------------------------------------------------------------------------------------------
+ID: j9slfir # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I could suggest she could start with languages like python. For that you can get a subscription in codeacademy. It has also some courses in the basics of computers too I guess. There's this book called  'Computer science distilled' by Wladston Ferriera, it could be a good starting point. After that you can go for hackthebox and tryhackme.
+----------------------------------------------------------------------------------------------------
+ID: j9tz92i # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn networking and operating systems of Linux and windows very well. You can't hack what you can't understand how they even work on a fine level right?
+----------------------------------------------------------------------------------------------------
+ID: j9u0sa5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh thanks, i didn’t see that
+----------------------------------------------------------------------------------------------------
+ID: j9t3u0r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's private?
+----------------------------------------------------------------------------------------------------
+ID: j9t9cvc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's not.
+----------------------------------------------------------------------------------------------------
+ID: j9t9n5s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You entered the wrong subreddit haha it's good now
+----------------------------------------------------------------------------------------------------
+ID: j9ve8dk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no i entered the right one but i entered it on my phone so it combined "Ethicalhacking" and "page" so it wasn't a valid URL.
+----------------------------------------------------------------------------------------------------

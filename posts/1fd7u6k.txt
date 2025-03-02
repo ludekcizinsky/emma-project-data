@@ -1,0 +1,67 @@
+POST ID: 1fd7u6k / POST TITLE: Studying cyber security 
+====================================================================================================
+I'm getting into cyber security, whole new career, any advice ,on where to get started? Thanks in advance 
+
+POST COMMENTS:
+====================================================================================================
+ID: lmdzboz # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try to be as active as you can in the community. Participate in CTF’s, homelab, look for various projects to do. While you’re studying, start looking for Helpdesk/tier 1 type roles (Cybersecurity isn’t necessarily an entry level IT role, it’s possible to break in early, but unlikely) LEARN THE BASICS!!!!!!!!! CANNOT STRESS THIS ENOUGH. Learn Hardware basics, Windows/Linux operating systems, Networking basics, probably some Powershell, Bash, and Python as well. Be mindful it’s hard to safeguard an enterprise environment if you don’t understand how the environment works so I’ll harp on the basics yet again.
+----------------------------------------------------------------------------------------------------
+ID: lmfdb7f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Expect to hustle for 5-7 years to get to where you want to be. 
+
+Memorizing the facts ... The things that are going to stay the same... Ports/protocols/standards
+
+Master the basics... Build a computer, build a network, then build both in the cloud... Create a Domain, a forest and then do it in the cloud. 
+
+Learn powershell,  bash,  python 
+
+Find your passion and get REALLY GOOD AT IT.
+
+As soon as you can start doing projects, document them, put it on a blog or github. Make a portfolio of the things you can do so when you interview you can show them.
+----------------------------------------------------------------------------------------------------
+ID: lmzrou1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Get into penetration testing, it pays top dollar if you get really good at it.
+----------------------------------------------------------------------------------------------------
+ID: ln4i2c3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: YouTube is most likely your place my Friend, millions of tutorials.
+
+  
+TryHackMe and HackTheBox will teach you a lot, they both have student discounts.
+
+  
+BUT, START WITH THE BASICS FIRST! YOU CAN'T HACK ANYTHING IF YOU DON'T KNOW HOW IT WORKS/HOW TO WORK WITH IT!
+----------------------------------------------------------------------------------------------------
+ID: lmgs3a7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Absolutely, I'm a martial artist since 2008, boxing since 11, and I always stress to beginners is the fundamentals and basics of every, master those and everything becomes simpler. Ty bud. 🙏🏼 Willing to take mentorships if it's available,
+----------------------------------------------------------------------------------------------------
+ID: lmv2oxg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Does 6-7 years of software development help breaking into the industry?
+----------------------------------------------------------------------------------------------------
+ID: lqlbiwc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have to agree there so many want to jump into the deep end please please learn the basics it will help you in the long run and you won't have to go back to the basics when you can't figure it out or makes absolutely no sense
+----------------------------------------------------------------------------------------------------
+ID: lmgrhzg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ty bud, I'm definitely ready to put in the work, super stoked for my future, all you are badasses 
+----------------------------------------------------------------------------------------------------
+ID: lmi5sc5 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I’m always willing to give advice and talk over discord. I can give some mentorship since I have some skin in the game
+----------------------------------------------------------------------------------------------------
+ID: lmv5owp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m not sure if this comment is satire, but yes. Think of Cybersecurity as 3 different Domains: Networking, Operating Systems, and Scripting/Coding. Personally my strongest suits are Operating Systems and Networking.
+----------------------------------------------------------------------------------------------------
+ID: lmjyaw0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: DivineCr3ationz discord bud , hit me up
+----------------------------------------------------------------------------------------------------
+ID: lowxnl9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: May I become a mentee as well
+----------------------------------------------------------------------------------------------------
+ID: lmva7ub # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why would it be satire? It's a question many software developers have who want to switch to cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: lmjyj5l # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Added
+----------------------------------------------------------------------------------------------------
+ID: lqtbwut # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Shoot me a DM
+----------------------------------------------------------------------------------------------------

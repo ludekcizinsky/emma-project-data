@@ -1,0 +1,8 @@
+POST ID: 18naptb / POST TITLE: At what point do I start looking for bugs?
+====================================================================================================
+I've just gotten into the ethical hacking field, and I've been learning with portswigger academy, hack the box, HackerOne's capture the flag, etc.
+
+I've finished up portswigger's course on SQLi, and I'm wondering if I should start looking for SQLi bugs, keep learning about other vulnerabilities, or something in between?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,9 @@
+POST ID: 1iua3gv / POST TITLE: Research Lines in Cybersecurity
+====================================================================================================
+Hello. Now first of all, yeah I am pretty young for asking these questions because I am only 16. But thinking about my career, I want to pursue Cybersecurity and particularly the offensive side of it (red teaming and pentesting). Now I want to know if there are any research fields in the cybersecurity field. Like big companies have reawrachers working on AI and quantum computers, do they also have cybersecurity resarchers? Are there any places which accomodate cyber resarchers? I have mostly seen people in this field get a job but never Research. So as a young person with little experience, I have reached out to you all to seek assistance. I would be grateful if you could help me. 
+
+POST COMMENTS:
+====================================================================================================
+ID: me8hsqc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, big tech companies spend billions on research but you will need either mad skills or a PhD…or even both.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+POST ID: 1cnla0o / POST TITLE: I want to learn overall general computer basics and cyber security
+====================================================================================================
+I am currently learning front-end development on my own but I want to learn more about how computers  work and then go down the cyber security/hacking world. Would anyone happen to have an resources they would recommend? 
+
+Ideally I want to become well versed in web development, UX, and cyber security. An overall jack of trades when it comes to the digital world
+
+POST COMMENTS:
+====================================================================================================
+ID: l3858v8 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme.com is really good for beginners. It has a ton of free and paid content.
+----------------------------------------------------------------------------------------------------
+ID: l3b3vr0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Roadmap.sh
+----------------------------------------------------------------------------------------------------
+ID: l3br5g9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ll check it out thanks!
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+POST ID: 1iu3jfk / POST TITLE: How are companies accessing AI Assistants securely?
+====================================================================================================
+With AI tools like ChatGPT, Claude & Gemini everywhere, how are orgs in youur network handling **security risks**?
+
+AI boosts productivity, but also raises concerns—**data leaks, compliance (HIPAA, SOC2, CCPA), insider threats**. Some companies ban AI outright, but feels like a short-term fix. Others exploring **secure AI gateways** that redact sensitive data before it hits the model.
+
+Curious—how is ur security team handling this? Internal solutions? Third-party tools? Just policy-based controls? Would love to hear thoughts from this community!
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,16 @@
+POST ID: 1iuojzj / POST TITLE: Is RAG a security risk?
+====================================================================================================
+Came across this blog (no, I am not the author) [https://www.rsaconference.com/library/blog/is%20your%20RAG%20a%20security%20risk](https://www.rsaconference.com/library/blog/is%20your%20RAG%20a%20security%20risk)
+
+TLDR:  
+The rapid adoption of AI, particularly Retrieval-Augmented Generation (RAG) systems, has introduced significant security concerns. OWASP's top 10 LLM threats highlight issues such as prompt injection attacks, hallucinations, data exposure, and excessive autonomy in AI agents. To mitigate these risks, it's essential to implement robust security measures, including:
+
+* **Eliminating Standing Privileges**: Ensure RAG systems have no default access rights, activating permissions only upon user prompts.
+* **Implementing Access Delegation**: Utilize secure token-based systems like OAuth2 for user-to-RAG access delegation, ensuring RAGs operate strictly within user-authorized permissions.
+* **Enforcing Deterministic Dynamic Authorization**: Deploy Policy Enforcement Points (PEPs) and Policy Decision Points (PDPs) with clear, predictable access policies, avoiding reliance on AI for authorization decisions.
+* **Adopting Knowledge-Based Access Control (KBAC)**: Align access control with the semantic structure of data, leveraging contextual relationships and ontology-based policies for informed authorization decisions.
+
+Do you agree? How are you mitigating these risks?
+
+POST COMMENTS:
+====================================================================================================

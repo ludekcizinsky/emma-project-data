@@ -1,0 +1,6 @@
+POST ID: 1f7hr5o / POST TITLE: Traceeshark: Deep Linux runtime visibility meets Wireshark
+====================================================================================================
+Traceeshark: integrates Linux runtime security monitoring and system tracing with Wireshark, allowing users to load Tracee captures in JSON format into Wireshark for analysis. It enables the examination of system events alongside network packets, offering rich context about processes and containers. Additionally, Traceeshark allows for real-time event capture from Tracee directly within Wireshark, whether on a local machine, a semi-local setup using Docker on Windows/Mac, or remotely via SSH.
+
+POST COMMENTS:
+====================================================================================================

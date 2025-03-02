@@ -1,0 +1,19 @@
+POST ID: 17qc6hm / POST TITLE: Seeking Reliable and Timely News Updates on Vulnerabilities for Ethical Hackers: Where Should I Look?
+====================================================================================================
+Hello everyone,
+
+I'm an aspiring ethical hacker looking to stay updated on the latest vulnerabilities and security threats. As the field is constantly evolving, I'm seeking recommendations for reliable sources that provide timely and accurate information on vulnerabilities, exploits, and security news. Whether it's websites, blogs, forums, or any other platform, I'd greatly appreciate your suggestions on where to find the most valuable and up-to-date news in this domain.
+
+Thank you in advance for your insights and recommendations!
+
+POST COMMENTS:
+====================================================================================================
+ID: k8h2v39 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://cyware.com/cyber-security-news-articles
+
+Cyware is a website that combines articles from many tech sites to form a centralized center for what's going on in the world of cybersecurity. The only issue is the vulnerabilities posted are somewhat vague (as to not release a zero day PoC publicly) and usually a day later than most tech sites.
+
+It gives you an idea of what's currently being exploited with some details for how it's being done. For details, you'd have to search the specific vulnerability or CVE for more information.
+
+As of this posting, ObjCShellz Malware is targeting MacOS systems.
+----------------------------------------------------------------------------------------------------

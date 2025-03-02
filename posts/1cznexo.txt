@@ -1,0 +1,25 @@
+POST ID: 1cznexo / POST TITLE: New here 
+====================================================================================================
+Hello everyone, I am new here and to ethical hacking in general. Sorry if my question is a repeated one but any advice on where to start? I have some fundamentals in programming and networking but I am not sure where to start. TIA!
+
+
+POST COMMENTS:
+====================================================================================================
+ID: l5hkr0g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Welcome! Depends on your level of knowledge. If you know next to nothing about computers and routers and ports I recomend watching security  + videos, or net + videos. Professor Messer on YouTube is a great resource. Next I'd recomend tryhackme or hack the box. 
+----------------------------------------------------------------------------------------------------
+ID: l5i5byh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is also a pinned post [which ypu can find here](https://www.reddit.com/r/ethicalhacking/s/trnuma2YF2) that has a lot of resources. Thats a good start. If you are completely new there are some free courses hosted by cisco the introduction ones are pretty basic but can give you certificates of completion which might be useful as well
+----------------------------------------------------------------------------------------------------
+ID: l5ipz7f # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As a beginner, you should follow a perfect road map, [Like this](https://youtu.be/uTAaFExLgwQ?si=x3HyX-DcX9zGleIP).
+----------------------------------------------------------------------------------------------------
+ID: l5lwau2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Spend a month to a month and a half on A plus and Network Plus respectively. Follow through the professor Messer videos. Use exam cram to take practice quiz as you go along. Then do security plus also from Messer. Then I would suggest you do EC Council CEH or Pentest plus by CompTIA. CEH actually taught me hands on real life skills and tools. After that choose a niche to specialize in. Don't listen to people who say EC Council is garbage. Most people on Reddit never even got that far in the journey. They just talk shit. Good luck. Honestly the best path would be 6 months on your fundamentals A+, Net + and Sec plus
+----------------------------------------------------------------------------------------------------
+ID: l5lwmba # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Also I would recommend investing in IT Pro.tv. it's a monthly subscription platform. 40 bucks a month. But it literally has every certification course you can imagine. I can't tell you the difference it's made for me. Especially for Ceh and Pentest plus. It's so worth the price
+----------------------------------------------------------------------------------------------------
+ID: l5v4r0j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey. I’m coming to this field from a software engineering background so I’m well familiar with languages and whatnot but not too familiar with network concepts. What would u recommend I start with for a pen tester pathway ?
+----------------------------------------------------------------------------------------------------

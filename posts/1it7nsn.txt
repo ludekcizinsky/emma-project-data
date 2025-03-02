@@ -1,0 +1,15 @@
+POST ID: 1it7nsn / POST TITLE: MDR Analyst vs. Lead Security Engineer in Crypto – Which is the Better Career Move?
+====================================================================================================
+Hey everyone,
+
+I’m at a crossroads in my career and would love to get some advice from the community. I have 5+ years of experience in cybersecurity, primarily in SOC operations, threat hunting, security automation, incident response, cloud security. I'm now considering two roles:
+
+1. MDR Analyst – Focused on threat detection, response, and intelligence, likely deepening my expertise in incident handling and advanced threat analysis.
+2. Lead Security Engineer (Crypto based Company) – A broader role involving Endpoint security, Incident Response, Cloud Security, Threat detection, Security Architecture and possibly governance/compliance but in a niche crypto environment.
+
+My goal is to move to the next level in cybersecurity, not just specializing in one area but gaining exposure across multiple domains (offensive, defensive, engineering, governance, etc.). I want to ensure that my next role sets me up for long-term growth and leadership opportunities.
+
+Which role do you think would be the better choice for someone looking to build a well-rounded cybersecurity career? Also, how valuable is crypto and web3 security experience in the long run?
+
+POST COMMENTS:
+====================================================================================================

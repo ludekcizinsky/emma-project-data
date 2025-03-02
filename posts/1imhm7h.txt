@@ -1,0 +1,25 @@
+POST ID: 1imhm7h / POST TITLE: Data Center resilience lacking?
+====================================================================================================
+TPG Outage in Sydney Australia disrupted vital network & telecommunication services: 
+
+Last night, TPG Telecom in Sydney faced a major service disruption due to a power outage at one of their data centers. 
+
+The incident began around 5:15 PM on February 10, 2025, impacting fixed data, private cloud, and voice services, especially in New South Wales. 
+
+This outage also affected customer support channels and the Frontier portal, leaving many without access to crucial services.
+
+The outage was caused by a storm, which led to both the main power supply and the backup generator failing. This situation underscores the importance of redundancy in telecommunications infrastructure. 
+
+While TPG Telecom has systems for REDUNDANCY, this event reveals potential gaps in their resilience against concurrent failures of primary and backup power systems. Eg need for multiple locations distributed - TPG is a national telco.
+
+TPG Telecom has been actively working to restore services, with some connectivity returning throughout the evening. However, this incident prompts a broader discussion on the adequacy of redundancy measures in Australia's telecommunications sector. 
+
+What if hackers target that data center? They would disable vital services by targeting one data center. Is there sufficient redundant infrastructure? Doesn't look like it or its not stress tested. Telcos and data centers should be put on notice if they provide vital national services. 
+
+Ensuring robust backup systems and geographical distribution of critical services is vital for uninterrupted service in the face of unexpected events.
+
+As we look forward, this event serves as another reminder for all in the industry to review and possibly enhance our approach to data center resilience. Let's learn from this to build more reliable and resilient networks for the future. 
+
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,60 @@
+POST ID: 1ioe0ju / POST TITLE: Virus Infected Windows 11 at Hardware Level? Can't Format SSD in Linux
+====================================================================================================
+I think there is quite strong malware spreading around. I am scared that it spread through my unsecured router with default credentials.
+
+So recently I've been analyzing one malware and trying figure out how one of our employee **hard drive got "corrupted." That person opened a virus that was disguised as a meeting link.** Executable file that ran with **admin rights** on **Windows 11**. Now on that infected machine, the **SSD is unreadable by any other OS** except the infected system. I am **worried the virus might have spread through the router** because it was using a **default password**. My devices were **on the same network** as the infected machine.
+
+# Symptoms:
+
+* The **PC works normally** when booting into the **infected Windows 11**.
+* The **SSD is completely undetectable** in any other OS (**Linux Mint, Kali Live USB, Ubuntu Live USB, Windows 11 Installer USB**).**So I am unable to re-install the OS or format the drive.**
+* **Windows normal recovery toolkit works**, which means the **virus is probably integrated inside the recovery** as well.
+* **Now on Linux Mint Live USB – The** `lsblk` **command detects** `nvme0n1`\*\*, but it shows as 0B (zero bytes) in size.\*\*
+
+**However,** `nvme list` DOES detect the drive, showing:  
+`Namespace: 0x1 Usage: 512.11 GB / 0.00B Format: 512 B + 0 B Firmware Revision: 004C`
+
+**But** `fdisk -l` **does NOT show the drive**, only the **USB itself and loop devices**.
+
+`wipefs` **fails with:**
+
+`Cannot flush modified buffers: Input/output error`
+
+`mkfs.ext4` **fails with:**
+
+`Device size reported to be zero. Invalid partition specified or partition table wasn’t reread after running fdisk.`
+
+**Tried** `dd` **to wipe the drive → Fails with "No space left on device" instantly.**
+
+`smartctl -a /dev/nvme0n1` **outputs:**
+
+`Read NVMe Identify Controller failed: NVME_IOCTL_ADMIN_CMD: Input/output error`
+
+**Kernel logs (**`dmesg | grep -i nvme`**) show repeated NVMe controller errors:**
+
+`nvme nvme0: controller is down; will reset: CSTS=0xffffffff, PCI_STATUS=0x10`
+
+`Buffer I/O error on dev nvme0n1p1, logical block 0, async page read`
+
+**SSD is failing to identify itself and throwing hardware-level I/O errors.**
+
+# Main Questions:
+
+1. **Could this have spread through my router since it had default credentials?**
+2. **How do I fully nuke this SSD?**
+3. **Would a full BIOS flash + SSD replacement be my only option?**
+4. **For operational security and best practices, would it be best to replace all affected devices such as the computer, router, and peripherals?**
+
+I can send the executable for people who want to investigate further.
+
+# VirusTotal & HybridAnalysis Reports:
+
+* **VirusTotal hash:** `43860e24ed3f0657c402db75b38062d50993d6161b600798a9a14e5dd6d31a37`
+* **HybridAnalysis hash:** `43860e24ed3f0657c402db75b38062d50993d6161b600798a9a14e5dd6d31a37`
+
+# TL;DR:
+
+Opened a **Windows 11 admin-level malware**, now my **NVMe SSD won’t erase, format, or show up correctly** in any OS **except Windows**. `lsblk` **detects it as 0B,** `nvme list` **sees it but with a format issue,** `fdisk` **doesn’t detect it,** `dd` **fails instantly, and** `smartctl` **reports I/O errors.** **Router was unsecured**, so I fear **firmware/rootkit persistence or network spread**. **Any ideas on how to fully wipe or recover the drive?**
+
+POST COMMENTS:
+====================================================================================================

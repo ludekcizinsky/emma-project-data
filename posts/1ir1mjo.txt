@@ -1,0 +1,22 @@
+POST ID: 1ir1mjo / POST TITLE: Feedback Needed: Mobile App to Detect Phishing Websites
+====================================================================================================
+I'm considering developing a mobile application that helps users analyze websites (received by email ou sms) to determine if they are phishing sites. The app would provide detailed information about the site, including:
+
+* **Hosting Provider:** Identify the web host to check for known malicious hosts.
+* **IP Address:** Display the IP address and its geolocation.
+* **Trust Score:** Generate a trust score based on various factors like SSL certificates, domain age, and known threats.
+
+The goal is to empower users to make informed decisions about the websites they visit, especially when dealing with sensitive information like login credentials or financial transactions.
+
+I'd love to hear your thoughts on this idea:
+
+1. Would you find such an app useful?
+2. What additional features would you like to see?
+3. Are there any similar tools you currently use ?
+
+Your feedback is greatly appreciated!
+
+Thank you!
+
+POST COMMENTS:
+====================================================================================================

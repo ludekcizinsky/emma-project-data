@@ -1,0 +1,184 @@
+POST ID: 1iutxco / POST TITLE: It will no longer be possible to activate Apple's ADP in the UK
+====================================================================================================
+Eventually no UK customer data stored on iCloud - Apple's cloud storage service - will be encrypted.  
+  
+[https://www.bbc.com/news/articles/cgj54eq4vejo](https://www.bbc.com/news/articles/cgj54eq4vejo)
+
+POST COMMENTS:
+====================================================================================================
+ID: me0e9cb # OF UPVOTES: 211.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Whether you have something to hide or not, THIS IS AN OPEN VIOLATION OF OUR CIVIL LIBERTY.
+----------------------------------------------------------------------------------------------------
+ID: me08ai9 # OF UPVOTES: 46.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Can someone confirm if cloud syncing is on by default? I presume the data on the device remains encrypted and only assessable to the user?
+----------------------------------------------------------------------------------------------------
+ID: me0vy7x # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They must have forgotten what recently happened to US Telecom with hackers from China who were “leveraging” lawful access protocols…
+----------------------------------------------------------------------------------------------------
+ID: me0vvgg # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What a dystopia.
+----------------------------------------------------------------------------------------------------
+ID: me0flxl # OF UPVOTES: 26.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is not in the least bit surprising. The politicians have been told time and time and time again that there is no such thing as safe back door for the “good guys.” And Apple has been very clear that they would not be doing that.
+
+FAFO, as the kids say.
+----------------------------------------------------------------------------------------------------
+ID: me09rom # OF UPVOTES: 37.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They wonder why no one, what's to set up a tech business in the UK
+----------------------------------------------------------------------------------------------------
+ID: me0cjll # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'd think that ADP might well be enabled by some Corporate businesses to keep documents, notes etc safe.  I wonder what they would do?  Probably move to some Zero-Knowledge Service like Tresorit, or even Mega
+----------------------------------------------------------------------------------------------------
+ID: me1fhz9 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Trying to understand what’s best practise now if anyone can help?
+Always security conscious and have password manager installed so have turned off keychain, are apps like password managers safe from these changes?
+Is it better to turn off keychain?
+I have iCloud as I presumed when I change phones or lose phones for example I can sync everything to a new device, is this correct?
+If I turn off iCloud will I not have that feature?
+Sorry if it’s basic but I’m not sure any feedback welcome
+Thanks
+----------------------------------------------------------------------------------------------------
+ID: me2yjm6 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So, let me get this straight. So that the UK may be able to imprison some people hurting people's feelings online, all of it's citizen will have their data stored unencrypted in apple's server? Apple? Who famously leaked nudes from like half the planet through icloud, including half of Hollywood?
+
+Cool, cool, cool. I see the UK has elected to leave their brains at home before going to work.
+----------------------------------------------------------------------------------------------------
+ID: me193qq # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I actually saw this coming💯
+----------------------------------------------------------------------------------------------------
+ID: me1hsbz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Is there a way around this? Regionalising your phone to the USA & connecting with US VPN or something ? Is that possible?
+----------------------------------------------------------------------------------------------------
+ID: me22aoc # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This could be expanded to include all Cloud. Can you imagine orgs bringing everything back on-prem.
+----------------------------------------------------------------------------------------------------
+ID: me4gv7w # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do think it will be possible to change the country to be able to activate ADP ?
+----------------------------------------------------------------------------------------------------
+ID: me4xbwl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Back to dropbox? Or is that subject to privacy attack too. I'll just turn off icloud.
+----------------------------------------------------------------------------------------------------
+ID: me7zrp7 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How will Apple be able to remove ADP from my content on their cloud if the key is on my phone?
+----------------------------------------------------------------------------------------------------
+ID: me1hngc # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well there goes the last reason to ever own an Apple product
+----------------------------------------------------------------------------------------------------
+ID: me1a6go # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As a Canadian, I am so glad that I don't back up my iPhone's contents to iCloud. No backups to the cloud = nothing to leak.
+----------------------------------------------------------------------------------------------------
+ID: me13csh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Curious what will happen with devices that already have this enabled. Apple doesn't have the key so can't provide it, will they force the user to provide the key somehow or force deactivation of the feature?
+----------------------------------------------------------------------------------------------------
+ID: me6kpio # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's as much a power move by apple to come across as the good guys and influence British politics. Justified in this case but also sketchy in its own way.
+----------------------------------------------------------------------------------------------------
+ID: me77io1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If someone bought a phone elsewhere (ie, US), would it not work in the UK? Or would this only be for people with a UK address?
+----------------------------------------------------------------------------------------------------
+ID: me0k8pt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wonder what happens to data already stored in iCloud from active UK devices…
+----------------------------------------------------------------------------------------------------
+ID: me0arxp # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Lights go down... fog rolls out... Laser light show begins... \*DON'T CALL IT A COMEBACK\* starts blasting on speakers and iTunes bursts thru the curtains to uproarious cheers from the crowd, a few people faint, others are chanting "Bring back the Shuffle, Bring back the Shuffle" 
+
+iTunes raises its hand to quiet the crowd... murmuring and whispers can still be heard... 
+
+Then the words that rocked the world are heard loud and clear...  
+  
+"iTunes is BACK World!" 
+
+The crowd LOSES it, camera flashes fill the room, tears are seen rolling down cheeks... 
+
+The time for local storage is back!
+----------------------------------------------------------------------------------------------------
+ID: me0rp13 # OF UPVOTES: -4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Posted this elsewhere but figure it might have some audience here too:
+
+Why the iPhone 16 should scare you shitless.
+
+https://youtu.be/_c8UrgGG3NA
+
+
+I personally am moving my accounts off of Google (Android users) and switching to de-googled lineage os with my pixel 3a XL from yesteryear. I don't want no AI powered anything in my pocket.
+----------------------------------------------------------------------------------------------------
+ID: me7th4f # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wasn’t aware that the UK had many civil liberties left
+----------------------------------------------------------------------------------------------------
+ID: me7pkzr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: "Our", you in the UK then ?
+----------------------------------------------------------------------------------------------------
+ID: me0bcqx # OF UPVOTES: 71.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: All data is transferred to and from iCloud is encrypted end to end, but Apple has the private key to decrypt it for you to be able to shared content on say your iCloud Drive to others. 
+
+With ADP enabled, the private key is on your device, and so you cannot share iCloud content with others, your syncing encrypted data to icloud for storage, nothing more. As Apple does NOT have the private key, they cannot decrypt it at their end.
+
+This is a kick in the teeth for the UK, even if law enforcement need a warrant to request the data.
+
+This is all for the protection of children, and to root out terrorists, a tiny number of people, if any, here in the UK.  Just feels like a power-grab.
+----------------------------------------------------------------------------------------------------
+ID: me0bquo # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: On device it's all encrypted by your passcode/faceid.  ADP is additional encryption for files at rest in iCloud
+----------------------------------------------------------------------------------------------------
+ID: me0wu29 # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As someone that manages Apple devices in a corporate setting, those Managed Apple ID accounts are laughably inadequate for typical enterprise business requirements. They only come with a bog standard 5GB of cloud storage, and there’s not a super easy way to manage a user’s personal data after offboarding. You’d be much better off with an enterprise solution like Tresorit, CrashPlan, OneDrive/SharePoint/Teams, DropBox, Box, Google Drive, etc.
+----------------------------------------------------------------------------------------------------
+ID: me1yyiz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don't most businesses have a office365 or google workspace subscription
+----------------------------------------------------------------------------------------------------
+ID: me1rcj3 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: For now, but now that UK asked and apple has complied every government is going to ask for the same
+----------------------------------------------------------------------------------------------------
+ID: me4qyxz # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m also wanting to know the answer to this , huge invasion of privacy!
+----------------------------------------------------------------------------------------------------
+ID: me1dich # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's not just the iCloud backups. Your iMessages, photos, contacts, notes all sync to iCloud.
+----------------------------------------------------------------------------------------------------
+ID: me19c7a # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The article states.
+
+> Existing users' access will be disabled at a later date.
+----------------------------------------------------------------------------------------------------
+ID: me0l09e # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Straight to the tower.
+----------------------------------------------------------------------------------------------------
+ID: me245yd # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s such a fine line between doing something for the safety of everyone and abusing this power. But with everything that we know historically about things like this (Snowdon and NSA/GCHQ), we know that the greater good isn’t always the use case.
+----------------------------------------------------------------------------------------------------
+ID: me20p0z # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I haven't checked, but I'm guessing icloud backups are geo-located to the country your reside in? So residents in the UK have their data backed up to Apple's cloud in the UK and so on..
+----------------------------------------------------------------------------------------------------
+ID: me0wvh7 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for confirming - are files from the device synced to iCloud by default, or does the user have to enable this, separate to whether or not ADP is / can be enabled?
+
+As I understand it, some of the published breeches involved people attacking the iCloud login rather than the device itself, which provided access to synced data.
+----------------------------------------------------------------------------------------------------
+ID: me2buja # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How do you regionalise to the US?
+----------------------------------------------------------------------------------------------------
+ID: me4ru4u # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Let's hope that Apple only did this because it can't be bothered fighting with the UK government with the path it's taking. Hopefully if the US government demands it they have some backbone.
+----------------------------------------------------------------------------------------------------
+ID: me4yhdw # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You’d like to think apple might make it easier for UK based customers to do this
+----------------------------------------------------------------------------------------------------
+ID: me1p9q4 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: >Your iMessages, photos, contacts, notes all sync to iCloud
+
+If it's enabled. Back when I still had an iPhone I had everything disabled and only did backups via iTunes.
+----------------------------------------------------------------------------------------------------
+ID: mebfbbm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: America already found out when you have a back door into computers. State hackers were able to use that backdoor into computers that was meant for Government agencies. Since then, the FBI has been running damage control on the entire shit show. I expect this to be no different for the UK.
+----------------------------------------------------------------------------------------------------
+ID: me5li0k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you turn on iCloud, then everything is on by default but just go down the list and uncheck them when you turn on iCloud.
+----------------------------------------------------------------------------------------------------
+ID: me1r3c5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So did I. But iTunes was destroyed and the hability to sync locally was made incredibly hard. Same with 1Password, there was a handy local sync WLAN feature and they destroyed it to force everyone on their stupid cloud sync online account which of course you must pay a monthly subscription for.
+----------------------------------------------------------------------------------------------------
+ID: me30h8e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s a paid option but a good product for backing up your phone and more. It has a lot of other capabilities too.
+
+https://imazing.com/
+----------------------------------------------------------------------------------------------------

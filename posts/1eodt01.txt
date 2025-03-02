@@ -1,0 +1,26 @@
+POST ID: 1eodt01 / POST TITLE: We discovered critical vulnerabilities in 6 AWS services
+====================================================================================================
+TL;DR: Uncovered Six Critical AWS Vulnerabilities
+
+We uncovered six severe vulnerabilities in AWS services that exploited predictable S3 bucket names. These vulnerabilities allowed attackers to intercept and manipulate service resources, potentially leading to full account takeovers (depending on the service role's permissions):
+1. CloudFormation: Allowed attackers to execute remote code and manipulate data, potentially leading to a full account takeover.
+2. Glue: Enabled remote code execution and data exfiltration by injecting malicious code into ETL jobs.
+3. EMR: Made it possible for attackers to inject malicious code into Jupyter notebooks, leading to RCE/XSS .
+4. SageMaker: data leakage and manipulation, which could alter machine learning model outputs and expose sensitive information.
+5. ServiceCatalog: Allowed attackers to inject resources into CloudFormation templates, deploying malicious components or unauthorized admin roles.
+6. CodeStar: Facilitated denial of service (DoS) attacks by blocking legitimate service use.
+
+In four out of these six vulnerabilities, attackers needed only the victim's account ID to execute the exploit. This highlights the importance of treating AWS account IDs as confidential information.
+
+Our blog,details these vulnerabilities, describing the "Shadow Resource" attack vector and the "Bucket Monopoly" technique. AWS has fixed these vulnerabilities, but similar attack vectors may still exist in open-source projects and other scenarios.
+
+For detailed insights, mitigation strategies, check out our blog.
+
+POST COMMENTS:
+====================================================================================================
+ID: lhd6qr1 # OF UPVOTES: 8.0 SUBREDDIT: netsec
+COMMENT TEXT: Thank you for sharing
+----------------------------------------------------------------------------------------------------
+ID: lhg16p6 # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Yes, cool work thanks, ID's and names, field:value?
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+POST ID: 1fa2bqe / POST TITLE: Your moderator got hit with a attempted scam email!
+====================================================================================================
+Posting this just to show it can happen to anyone. i was checking my mail when i noticed an email from someone i didnt recognize. it was one of those "we hacked your phone camera and caught you watching Porn! send us bitcoin or else!" emails. what was interesting is they did have my name and my address but the picture they tried to use was actually of my neighbors house that was blurred. am i concerned? not really. i dont watch porn on my phone, and my phone has a pop up camera, im sure i would have noticed it up if i was. anyways, stay safe! and don't pay any attention to these emails.
+
+POST COMMENTS:
+====================================================================================================
+ID: llqf030 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As you know, this is very common and gets posted here a lot. The picture of your house (in this case your neighbors house) is a relatively new technique they've added in an attempt to scare people. [https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/](https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/)
+----------------------------------------------------------------------------------------------------
+ID: llwfi3k # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Honestly the extortion for porn history is hilarious.
+
+You like tit's or dick, congrats every human does. 
+
+If you can get extorted over petty shit, said user should not have an internet connected device and go back to mags.
+----------------------------------------------------------------------------------------------------
+ID: llqto7i # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Classic... classic.
+----------------------------------------------------------------------------------------------------
+ID: llqntin # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I kept the last hacker wannabe on the line for over an hour. He was having a convo with the computer,tv, and ai robot that had audio out with replies
+----------------------------------------------------------------------------------------------------
+ID: lm5e8z8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This happened to me today, and I’m confused about how the ha*ker did it. The email address was the same as mine, and at first, I thought it was just a single-letter error. But after cross-checking, I saw that the email landed in my junk folder, so it’s obvious it’s phishing. However, when I checked the original email header, it seemed similar to mine. Can anyone explain how this works?
+----------------------------------------------------------------------------------------------------
+ID: llqwpnd # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: lol nice. i usually pretend im concerned with their gimmick and when they ask for the credit card number or something i panic and tell them i need to find it, and will put them on hold and just sit there and browse the internet or something. occasionally ill take them off hold to let them know "im still searching for it" and before they can say anything put them back on hold. longest i managed to keep someone on hold was 30 minutes.
+----------------------------------------------------------------------------------------------------
+ID: lmh7vjv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well unless he's using a  email address very identical to the email address you have then the are using a spoofer this way they can make it to your emails but the email provider knows it is spam either way and move it to the junk.
+----------------------------------------------------------------------------------------------------
+ID: llwfpju # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just give them the stripe test credit card. Knowing scammers they are dumb enough to use stripe and their side will say payment complete (in the context of using payment processors for scams in general)
+----------------------------------------------------------------------------------------------------

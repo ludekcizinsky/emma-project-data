@@ -1,0 +1,6 @@
+POST ID: 1021zph / POST TITLE: Testing Stored XSS
+====================================================================================================
+Hello, I would like to test for Stored XSS, would BurpSuite be able to test this? I am specifically testing Rudy and not JS (I saw within the tools, there is JS testing for XSS)
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,9 @@
+POST ID: 15u1b13 / POST TITLE: Certification inquiry.
+====================================================================================================
+I have an extensive experience with computers, but have no idea what certifications or courses would be meaningful or relevant to the field of cybersecurity. I’m interested in analysis, threat assessments, pen testing, and even forensic data recovery methods. Any advice or recommendations would be greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: jwqfztx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The stickied post '[Interested in joining the ethical hacking community](https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested_in_joining_the_ethical_hacking/)' is still very much relevant for this.  There's a link to a certification roadmap video that's a good watch for what you're looking for.
+----------------------------------------------------------------------------------------------------

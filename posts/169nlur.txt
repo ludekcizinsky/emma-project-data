@@ -1,0 +1,205 @@
+POST ID: 169nlur / POST TITLE: Cracking my own wifi is nearly impossible?
+====================================================================================================
+I recently started learning ethical hacking and i'm doing the HTB Academy to get my paths on.
+
+&#x200B;
+
+I decided to give it a try and try to crack my own wifi using Aircrack-NG on my Kali VM.
+
+&#x200B;
+
+What I found is that it is actually very dificult to do that considering the password that is setup on my wifi. (random mixed lowercase, uppercase and numbers).
+
+  
+I tried using the Aircrack-NG and got the handshake captured. Now I need to find the password. 
+
+&#x200B;
+
+The thing is, the password is not something that is on a common wordlist. So I tried to generate a Wordlist capable of taking that job...
+
+&#x200B;
+
+I decided to generate a wordlist with Crunch with all the characters in the alphabet(lowercase and uppercase) and all the numbers from 0 to 9 between 1 and 15 characters lenght... my oh my.... The projected size of the wordlist was around 6800 PetaBytes......  
+
+
+Would there be a simpler way to do this?  
+
+
+I understand it would be much easier if the wifi password was something simpler and possible to find in common wordlists but its not, which is actually a good thing.
+
+POST COMMENTS:
+====================================================================================================
+ID: jz6xzvr # OF UPVOTES: 18.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I suggest you research rulesets and masks with either hashcat or John. Utilize a GPU if you can. If you have a strong password then that’s great, it will take a very long time to crack and there is no way around that. WPA2-PSK networks are only as secure as their password. I do this for a living so feel free to ask any additional questions.
+----------------------------------------------------------------------------------------------------
+ID: jz3geki # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's not like the movies, it takes time (as a beginner) if you're resorting to brute forcing you can take advantage of cloud services and double, triple, quadruple the computing power but even still it could potentially take weeks or months. As other commentor suggested try wifite or airgeddon to help with different capture and cracking techniques
+----------------------------------------------------------------------------------------------------
+ID: jz8gfth # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try tricking the wifi owner into telling you the password... that's going to be faster. Call yourself up and say you're from the ISP and tell yourself you need to do an important test to give you more free Internet speed.
+----------------------------------------------------------------------------------------------------
+ID: jz7ukwr # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jz9bb60 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depending on your wireless router, it may be helpful to generate a worldist that is based on the manufacturer and model. The keyspace (what characters are in use, the length, and pattern, if any) for most manufacturers is known.
+
+https://github.com/sheimo/Wifi-WPA-Keyspace-List
+
+You didn't specify what protocols are in use. I'm assuming this is WPA2? How old is this router? In addition to WPS, you may give PMKID a shot.
+----------------------------------------------------------------------------------------------------
+ID: jz2szb4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Brute forcing a Wifi-password is most times way too time consuming.   
+Have you tried cracking the WPS Pin (If you have it enabled) instead?   
+
+
+https://github.com/derv82/wifite2
+----------------------------------------------------------------------------------------------------
+ID: lfliupl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is a video I watched, https://youtu.be/tRKr1vKaZkk?feature=shared
+I was wanting to try this out too. I'm not sire if I need a wifi pineapple for this and if I can use kali Linux as a virtual machine aswell.
+----------------------------------------------------------------------------------------------------
+ID: jz3htr3 # OF UPVOTES: -2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dont give it a word, use hydra in brute force mode
+----------------------------------------------------------------------------------------------------
+ID: jz6x2ux # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s an attack called “evil twin”
+----------------------------------------------------------------------------------------------------
+ID: jz67tzt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: not all wifi passwords can be cracked, within our lifetime...
+
+there are many combinations that simply are too long to crack, due to time
+----------------------------------------------------------------------------------------------------
+ID: k25wh3b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m new to hacking too, im going to try to do a deauth attack and sniff the handshakes when I get home tonight! I’m using fluxion but there’s other tools on Kali I want to get experience using too, only thing that sucks is you need a network card(on top of the one you already have) that is capable of being put in monitor mode.
+----------------------------------------------------------------------------------------------------
+ID: kgbcz30 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'd say a better route is trying to phish the wifi password with an evil twin AP with same SSID with a nice and crisp captive portal
+----------------------------------------------------------------------------------------------------
+ID: jz43mbm # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, I'm aware of that. I just didn't think the list would be so big in size, but considering all the possibilities it is in fact quite large.
+
+If the password is 15 characters long and can use all the lowercase, uppercase and numbers, you would have aproximatelly 7,737,809,530,721,000,000 combinations... more precisely, Seven quintillion, seven hundred thirty-seven quadrillion, eight hundred nine trillion, five hundred thirty billion, seven hundred twenty-one million
+
+That would take a super computer to crack and possibly a few months (or years even).
+
+For curiosity, I asked Chat GPT for some calculations:
+
+>To estimate how long it would take for an NVIDIA RTX 4090 to crack a password with 7,737,809,530,721,000,000 possible combinations, you can use the following calculation:Calculate the number of passwords the RTX 4090 can attempt per second: 288.5 billion attempts per second.Divide the total number of password combinations by the number of attempts per second to get the time it would take in seconds:Time (seconds) = Total Combinations / Attempts per SecondTime (seconds) = 7,737,809,530,721,000,000 / 288,500,000,000Convert the time from seconds to a more understandable unit, such as years. There are approximately 31,536,000 seconds in a year (60 seconds/minute \* 60 minutes/hour \* 24 hours/day \* 365.25 days/year).Time (years) = Time (seconds) / 31,536,000Now, let's calculate it:Time (seconds) = 7,737,809,530,721,000,000 / 288,500,000,000 ≈ 26,827,047,656 secondsTime (years) ≈ 26,827,047,656 / 31,536,000 ≈ 850 years
+
+It would take 850 years for a single RTX4090 to go through all the possibilities...  
+
+
+Edit: Typo and Quote
+----------------------------------------------------------------------------------------------------
+ID: jz8v1cq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 200 IQ move...
+----------------------------------------------------------------------------------------------------
+ID: jz7xsmr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your input. I am indeed happy that this can't be cracked in a reasonable amount of time.   
+
+
+Makes me feel even better knowing that most of my passwords are completely random 50 long characters with all kinds of special characters.  
+
+
+The main objective here was to learn, which was achieved.
+----------------------------------------------------------------------------------------------------
+ID: jza9dcu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: mine isn't on that list unfortunately. but thanks for the input.
+----------------------------------------------------------------------------------------------------
+ID: jz33oej # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did not, but that looks cool. I'll see if I can get something out of it. Thanks.
+----------------------------------------------------------------------------------------------------
+ID: jza9utl # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: just an uptade, ran wifite against my own network, and obviously it didn't crack it but I find this tool extremely easy to use. almost too easy... it took me literally 2 or 3 steps to automatically scan and try to crack it... thanks!
+----------------------------------------------------------------------------------------------------
+ID: jz67p9i # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hydra is not for cracking wifi passwords
+----------------------------------------------------------------------------------------------------
+ID: jz7rexb # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A rouge device on his own network to capture the password that he already knows?   Nope
+----------------------------------------------------------------------------------------------------
+ID: k0ysgxz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thats not strictly true. Some hashing methods split up the hash for longer passwords. There is a point at which the length of the password becomes pointless.
+
+The older Windows LMHASH comes to mind as a well understood splitting mechanism...there are others, I just can't remember them offhand.
+
+Quite a few 2FA mechanisms split hashes as well.
+----------------------------------------------------------------------------------------------------
+ID: jz56awu # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's almost like they designed the password around the idea of not being brute forced
+----------------------------------------------------------------------------------------------------
+ID: jz800vz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jzdhvj7 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It most certainly can
+----------------------------------------------------------------------------------------------------
+ID: k0yt7iv # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you are lost, this post is about wpa/wpa2, wifi passwords
+
+so wtf you going on about?
+----------------------------------------------------------------------------------------------------
+ID: jzaa4nw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I guess they might know what the're doing :D
+----------------------------------------------------------------------------------------------------
+ID: jz80yey # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I use a password manager to generate e save all those crazy passwords. The master is similarly long but easier to memorize and not less secure than those (and no written down on a notepad on my desktop as so many people do)
+
+Plus I have MFA on absolutely everything I can have. 
+
+I'll have a look at pth. Not heard about it yet, but I'll assume is something along the lines of using the hash to log in somewhere instead of the actual password?
+
+ I have done something similar in an htb module but in linux where you would get the user rsa key and ssh with that user using that rsa key
+----------------------------------------------------------------------------------------------------
+ID: jzdhxf8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My bad… hashcat…. Is what i meant🤣
+----------------------------------------------------------------------------------------------------
+ID: k0zggns # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sorry, I'm a pentester so I see things from a bigger picture perspective.
+
+Not all WiFi attacks require you to bruteforce a specific hash. You can force some WAPs to negotiate weaker hashes. Or if RADIUS is involved, you dont even need to attack the WiFi directly.
+
+Why attack the armored front door when you can just climb through an open bathroom window? Know what I mean?
+
+Capturing a handshake and bruting WPA2 is how you hack your neighbours wifi, but its not how you'd typically hack enterprise WiFi.
+
+Going after WPA/WPA2 isn't as common as you'd think on a corporate pentest.
+
+Its not uncommon to find RADIUS configured to use a Windows Domain architecture for authentication and in some cases corporate networks need to have "legacy" authentication methods switched on for older kit that either cannot be migrated or is too expensive to migrate. In which case, if you wanted to gain access to WiFi, you simply wouldnt bother attacking the WiFi to get credentials, you'd find a legacy machine that is much easier to attack.
+
+Quite often you don't need any high tech methods...people leave passwords on post-it notes visible through an external window for example.
+
+Pentesting and ethical hacking is all about risk assessment at the end of the day. A weaker WPA/WPA2 password isn't as high risk as say a RADIUS server tied into a domain with pre-2000 hashing enabled...strong passwords are completely irrelevant if they are undermined by someone sticking them to their monitor which is visible through some cheap binoculars from a roof top across the street.
+
+The point of a pentest isn't to confirm that you've configured things as best you can, you can do that without a pentest, its to find the things that are maybe less obvious.
+
+You can use the strongest security mechanisms known to man and it be rendered completely useless for the dumbest reasons...which should be picked up in a pentest.
+
+Cracking WPA/WPA2 and telling the target that their password is weak is not proper pentesting. Because you can tell them that without attacking their wifi by simply asking them if their wifi password is over a certain length, contains special characters etc...thats the sort of thing you want them to straighten out before a pentest to save on wasted time and racking up a huge bill for nothing...you want to ensure your time is spent looking for actual problems.
+
+Performing a test and reporting weak passwords without giving them some guidance up front is ethically a bit dodgy...you want to give them guidance up front then test the result. You don't want to test a system, find loads of basic shit then laugh in their face...they may never had any guidance before and therefore not know any better.
+
+You're there to help at the end of the day, you want to walk away giving them a clean bill of health, you don't want to ride into the sunset, cowboy style, after telling them their network is shit.
+
+If you're certified, this sort of thing is usually covered in the code of conduct you have to follow as part of the certification.
+----------------------------------------------------------------------------------------------------
+ID: jzedath # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah, sure...as if
+----------------------------------------------------------------------------------------------------
+ID: k0zmjj8 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: go flex elsewhere, that wall of text is irrelevant
+
+post is about wifi cracking
+
+wtf about corporate pentest???? lmao
+
+OP asked about hacking wifi, and making a wordlist, not your ego and career
+----------------------------------------------------------------------------------------------------
+ID: k0zpwck # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I fail to see how I was flexing. If anything my post was dry as fuck.
+
+His opening sentence implied more. This is an ethical hacking sub. Not a howto forum.
+
+Offering a step by step guide on how to hack something without context wouldn't be very ethical would it? Nobody following ethical practices would do that. This is an ethical hacking sub...and most of the posts here are centered around career guidance, best practice, professional insight etc...its not a sub to get howto guides on hacking stuff for shits and giggles...plenty of other places online for that sort of skid bullshit.
+----------------------------------------------------------------------------------------------------

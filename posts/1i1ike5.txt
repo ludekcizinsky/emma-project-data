@@ -1,0 +1,17 @@
+POST ID: 1i1ike5 / POST TITLE: RCE in rsync, CVE-2024-12084 (and 5 more vulnerabilities)
+====================================================================================================
+"In the most severe CVE, an attacker only requires
+anonymous read access to a rsync server, such as a public mirror, to execute arbitrary code on the machine the server is running on."
+
+POST COMMENTS:
+====================================================================================================
+ID: m7712lw # OF UPVOTES: 26.0 SUBREDDIT: netsec
+COMMENT TEXT: > Heap Buffer Overflow in Rsync due to Improper Checksum Length Handling
+
+The gift that keeps on giving.
+----------------------------------------------------------------------------------------------------
+ID: m7asirv # OF UPVOTES: 7.0 SUBREDDIT: netsec
+COMMENT TEXT: Sounds to me like CVE-2024-12084 (heap OOP write) together with CVE-2024-12085 (1 byte stack infoleak) might be powerful enough to write a stable exploit even if ASLR is enabled. 
+
+Given that ChromeOS is built on Gentoo which uses portage (which in turn extensively uses raync) it makes sense that a Google team did a deep dive into rsync. Especially since CVE-2025-12087 (file traversal) can be used to wreak havoc on the client, potentially compromising build environments after an rsync mirror has been popped.
+----------------------------------------------------------------------------------------------------

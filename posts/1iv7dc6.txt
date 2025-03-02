@@ -1,0 +1,150 @@
+POST ID: 1iv7dc6 / POST TITLE: Esports headache at university
+====================================================================================================
+I work for a small school and we've been told there's no budget for a cybersecurity person, so we cover what we can and leverage Cortex (PaloAlto) and Proofpoint for some prevention measures. We have an esports team - windows machines are domain joined and on a separate vlan but still have access to network resources. They play Marvel Rivals and an update came out today that Cortex blocked. The reasoning was both that it was trying to install WinRing0.sys (can be exploited but can be legit is my understanding) and also trying to HIDE that driver as powershell. Would you allow it through on esports endpoints? Cortex support showed us how but said to be very cautious. Any advice?
+
+POST COMMENTS:
+====================================================================================================
+ID: me3bchy # OF UPVOTES: 278.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In my opinion, those hosts should not be domain joined at all. Because of this type of issue specifically. Should also have a separate line out of the edge beyond just a VLAN, and shouldn’t be able to access internal resources.
+----------------------------------------------------------------------------------------------------
+ID: me3audv # OF UPVOTES: 151.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, I’d allow it. 
+
+It’s a ring 0 kernel driver that’s used for anticheat. 
+
+Consideration: you are giving China ring 0 access but if any of them are playing anything by Riot, they’ve already done that anyway.
+----------------------------------------------------------------------------------------------------
+ID: me3hmgk # OF UPVOTES: 66.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m a cybersecurity engineer in k12 with several hs with esports machines. Under no circumstance would I domain join those machines. They have dedicated switch gear and are unable to contact internal resources. There isn’t a situation where gaming pcs should be used for purposes other than gaming in our environment (mind you we have to deal with CIPA so it’s different for us).
+----------------------------------------------------------------------------------------------------
+ID: me3e8ji # OF UPVOTES: 17.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We'd allow it. We have something similar with our local ISP. But, our machines are segmented away and not on the domain. Coaches have an admin acct for installs as needed.
+----------------------------------------------------------------------------------------------------
+ID: me3mahd # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: First instinct would be to double check the parent process tree and the hashes of the processes running it.
+
+Second thought would be do they really need to be domain joined? On their own vlan is good but I would just ship it to the guest network type of setup and treat them as BYOD (in fact the Esports team might prefer that setup) this way they can swap in their own stuff like mouse and keyboard to play. If the machines act odd you can wipe them and just have them reinstall the game afterwards.
+
+Edit: BYOD not BYOB, lol
+----------------------------------------------------------------------------------------------------
+ID: me3yp5w # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: EDRs and gaming do not mix well. Anticheats and anti piracy programs trigger them or cause crashes.
+
+Get those systems out of your normal scope, isolate them and move on.
+----------------------------------------------------------------------------------------------------
+ID: me3aumu # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If its required for them to play then let it through and isolate the vulnerabilities
+----------------------------------------------------------------------------------------------------
+ID: me3es17 # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would not domain join them.
+----------------------------------------------------------------------------------------------------
+ID: me3y37d # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: "We have to budget for a cyber security person"  
+
+Which school was this again? Asking for a friend.
+----------------------------------------------------------------------------------------------------
+ID: me3jf5o # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Our esports machines live on their own network (separate ISP connection as well). They are intuned and we use Defender. We would allow the exceptions as they live in a sandbox.
+----------------------------------------------------------------------------------------------------
+ID: me3mfdl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yep it's so they can stop and prevent people from utilizing a cheat.i would allow it otherwise they won't be able to be used to play rivals
+----------------------------------------------------------------------------------------------------
+ID: me3rpwl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes, but they would be off the domain and unable to connect to any internal resources. Internet only.
+----------------------------------------------------------------------------------------------------
+ID: me45akp # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Requirements of the system mean they should be be network isolated, but managed machines. Considered hostile or unknown. 
+
+Endpoint products can stay,  updates through Microsoft internet services not SCCM, Intune can manage GPO over internet. Consider the machine getting wiped to a clean base image every summer? 
+
+Then excluding the driver that but can abused for priv esc isn’t as big of an issue.
+----------------------------------------------------------------------------------------------------
+ID: me3bmqj # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My advice is that I don't know until I'm in the office and look at the following.
+
+I would refer to our policy that has been crafted with direction from our business partners and senior management. Then I would weigh the risk against our risk aptitude, can we handle this risk? What in-depth defense mechanism do we have to mitigate any problems that may occur (or are there, check if the WinRing0.sys can be exploited remotely for example). Then I'd create some sort of control to protect the assets. So having it on a VLAN is okay, but can these machines affect parts of the network? Can they take down the network somehow? Etc. Etc.
+
+Then I'd use what I learn to report back to senior management with recommendations of improving the policy and then improving guidelines on how to protect the network from similar attacks on various fronts, not just the college esports team.
+----------------------------------------------------------------------------------------------------
+ID: me3b1zw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's normal that edr blocks some software. Verify that the software is being distributed through proper channels, and white list it.
+----------------------------------------------------------------------------------------------------
+ID: me3mgpy # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do they have to be domain joined?
+----------------------------------------------------------------------------------------------------
+ID: me48nnr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Subnet it from the router on dedicated hardware, so it doesn't unnecessarily share resources with the rest of the system.
+----------------------------------------------------------------------------------------------------
+ID: me4e6mn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm at a small high school, so I've come across this before.
+
+You've not made it clear if the machines are dedicated eSports or have to be used for other things, but as you've said they can access 'other resources', I'm going to assume that they are not dedicated eSports and this is the best solution I've seen in those circumstances:
+
+* Removable hard drive for the eSports install or other dual boot configuration. (removable works best to prevent people using them for gaming when they shouldn't)
+* eSports boot option is not domain joined, does autologon, etc.
+* 802.1x cert auth for VLAN allocation when on the domain profile. No auth, system is put on the eSports isolated VLAN.
+* eSports hard drive is set up with Deep Freeze (or equivalent) so that any mischief is removed on a reboot.
+* When updates occur, defrost the deep freeze, allow updates, freeze again.
+----------------------------------------------------------------------------------------------------
+ID: me7nua1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I am not a big city security guy. But don't they need the lowest ping possible? 
+
+Give them separate Internet connection, their own domain, and good luck wishes.
+
+If they need access to the current domain - tell them to use library.
+----------------------------------------------------------------------------------------------------
+ID: me7xlbn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Any system with winring0 can be easily compromised, since it allows easy physical memory mapping. I’m not too versed in the cybersecurity world but I use the vulnerable driver for avoiding windows security protocols. I’m guessing the developers are using it for anticheat purposes, which at that point is just invasive as hell
+
+If it talks like a rootkit, and acts like a rootkit…
+----------------------------------------------------------------------------------------------------
+ID: me8y78e # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ex Cortex SE here, sounds like XDR is flagging a vulnerable driver and BTP is running a prevention. Do you have permissions allow exclusions?
+----------------------------------------------------------------------------------------------------
+ID: meauwit # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think I used to work where you work.  All internal servers were accessible from literally any host using an employee login.  You all had a cyber person but didn't want them to be a cyber person, so they left and got a job as a cyber person making a lot more money.
+----------------------------------------------------------------------------------------------------
+ID: me3waod # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just don’t join them to the domain lol this is like 100 level
+----------------------------------------------------------------------------------------------------
+ID: me3bort # OF UPVOTES: 79.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agree, it was done in the before (me) times. It’s a nightmare for them and us both. Think of all the games that need admin rights.
+----------------------------------------------------------------------------------------------------
+ID: me41ssf # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Agreed. Non-domain tied and throw AV, and maybe even Threalocker app approval on it to have some control. RMM is crucial too for maintaining updates and having access to them. NinjaRMM is amazing IMO.
+----------------------------------------------------------------------------------------------------
+ID: me5ttpd # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I second this. Remove them from AD, give them separate local accounts (with or without administrative rights; up to you. I'd opt for a dedicated admin account, password can be given out, change regularly). Keep the dedicated VLAN for isolation of the hosts from the rest of the network. Restrict or completely forbid access to internal resources or provide a different share (that is not internally bound but completely separated; might need to look into automating file transfer from needed source to target).
+
+Restrict access to the internet by just opening ports needed for communication. Most if not all firewall vendors do have pre-defined address groups (for instance Web Access on FGT gives you DNS, HTTP and HTTPS). I always start with the minimum needed ports to communicate and granularly open ports if the need arises. Also nice to have are active security profiles for inspecting traffic from lan.to.wan and from wan.to.lan.
+----------------------------------------------------------------------------------------------------
+ID: me9xm7g # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yep, good point. Most esports titles already use kernel-level anticheat like Vanguard anyway. One more Ring0 driver from China won't change much at this point.
+----------------------------------------------------------------------------------------------------
+ID: me3h71x # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is the way.
+----------------------------------------------------------------------------------------------------
+ID: me47zic # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is a violation of the Gramm-Leach-Bliley Act is you have kind of financial aid program. Pell grant or student loans. You university is required to have a cybersecurity officer.
+----------------------------------------------------------------------------------------------------
+ID: meamcad # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In a similar situation where CAD lab workstations are also used for eSports. I settled on dual boot and that seems to be working well. Haven’t gone as far as Deep Freeze but this is a great idea!
+----------------------------------------------------------------------------------------------------
+ID: me3dx1x # OF UPVOTES: 78.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What's stopping you from removing them from the domain right now?
+----------------------------------------------------------------------------------------------------
+ID: me3did6 # OF UPVOTES: 42.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Setup a workgroup for them and tell them good luck?
+----------------------------------------------------------------------------------------------------
+ID: me5s84k # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: “Qualified individual”. Should it be a cybersecurity professional with an appropriate title? Yes. Does it have to be? No. Will you get in trouble with the Department of Ed? What’s that?
+----------------------------------------------------------------------------------------------------
+ID: me47ote # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Reach out to a cyber cafe and find out the software they use to manage stuff and just set that up. There are solutions built for this
+----------------------------------------------------------------------------------------------------
+ID: me3iekx # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Exactly
+----------------------------------------------------------------------------------------------------
+ID: me88ueo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: lol. True. They will be going away soon.  /s
+----------------------------------------------------------------------------------------------------

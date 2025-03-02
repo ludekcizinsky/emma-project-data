@@ -1,0 +1,33 @@
+POST ID: 188gkd4 / POST TITLE: How to get into ethical hacking
+====================================================================================================
+Im a senior in high school trying to study cyber security in wondering, I have no knowledge on what are the first steps to get into this type of work can anyone tell me where to begin ?
+
+POST COMMENTS:
+====================================================================================================
+ID: kbko5yr # OF UPVOTES: 10.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme.com and start with the beginner path
+----------------------------------------------------------------------------------------------------
+ID: kbuzffj # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You have to have skills, but you also have to get past HR. HR doest test your ability to find sqli injection points. They will look for CERTS, experience and schooling. Get your S+ while you study for eJPT. Look up UnixGuy on YouTube. He has a wealth of experience answering this question and sharing his experience trying to do the same as you many years ago.
+----------------------------------------------------------------------------------------------------
+ID: kbmt8di # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nahamsec and John Hammond on YouTube have a ton of content regarding starting in ethical hacking. Between them, and TryHackMe you'll have a great starting point.
+----------------------------------------------------------------------------------------------------
+ID: kfxza2o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You little bastard
+----------------------------------------------------------------------------------------------------
+ID: kbn1yl9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme's advent of cyber is on right now and is completely free
+----------------------------------------------------------------------------------------------------
+ID: kbmsxp2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This man knows. It's completely worth paying for as well.
+----------------------------------------------------------------------------------------------------
+ID: ke240az # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This. Hackthebox also has a really good beginner course with their Starting Point machines.
+----------------------------------------------------------------------------------------------------
+ID: kbzed4a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice! I didn't know it was free. I love that site but haven't been able to pay to continue learning on there. This is great news, thanks.
+----------------------------------------------------------------------------------------------------
+ID: kbxwwcl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is it really that good?
+----------------------------------------------------------------------------------------------------

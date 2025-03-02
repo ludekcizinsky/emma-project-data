@@ -1,0 +1,6 @@
+POST ID: 1in0o2h / POST TITLE: Requisitos mínimos maquina AWS (CCCS)
+====================================================================================================
+Estoy preparándome para la certificación (CCCS) de Crowdstrike, me gustaría crear una maquina virtual en la nube para poder trabajar con ella alguien podría recomendarme cuales son los requisitos ideales para poder montar el entorno? Del mismo modo cualquier consejo para ayudarme con la preparación de la certificación sera agradecido. Gracias y saludos
+
+POST COMMENTS:
+====================================================================================================

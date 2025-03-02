@@ -1,0 +1,6 @@
+POST ID: 172ojb3 / POST TITLE: Java Drive-By-Download Attack
+====================================================================================================
+What actually is Java Drive-By-Download Attack and how does it work and how does the attacker implement it successfully? does it need the browser to be insecure or the victim's PC to be vulnerable or it works in every case?
+
+POST COMMENTS:
+====================================================================================================

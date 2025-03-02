@@ -1,0 +1,25 @@
+POST ID: 147qz3x / POST TITLE: Found a hole in web licence managment application - whats now?
+====================================================================================================
+Hello, i found a really big and easy usable bug in a webapplication which is used to check licence keys for onprem software. The company is not such big, but its hard to say how many bucks its made per month. I imagine the licences that i found are worth around 500k usd (if they are already sold, what i think so). 
+
+The Bug is really easy to use and results in a list of tousends usable keys for this application which needs normaly monthly payed.  I tested a few of them and they send a "licence ok" back if you use it in the application. 
+
+The question is, what should i do with that information? I would say im not a criminal, so i dont like to publish or use it. Is it ethical legit to ask the company for a bug bounty? Or just contact them and tell what is going on? Or just forgot it?
+
+POST COMMENTS:
+====================================================================================================
+ID: jnxw12y # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The ethical thing would be to just let them know there is a bug, what causes it, and provide the proof of what you've found.  The problem with mentioning anything beyond that is that you're telling them you found a verified bug, which means you yourself have exploited it to verify it, so saying anything about compensation could come off as malicious intent.
+
+They could say "Thank you!" and \*possibly\* offer some small monetary thanks, or if they're absolute asshats, they could just gather your info and claim that you hacked them and are now extorting money from them.
+
+The reality of it though, unless you manage to contact someone in IT who actually *gets it*, they're more than likely just going to delete your email... if it even makes it through their spam filter.
+
+Personally, I go option 1, but the initial email is "Is there a direct point of contact in your IT department who I could report a bug on your website to?" and see if they respond.
+----------------------------------------------------------------------------------------------------
+ID: jnz667b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i would just tell them , without bringing up money or anything they might give some type or reward, but i highly doubt it if its not on a bug bounty program i done something similar and only gave me credit to use on their website.
+----------------------------------------------------------------------------------------------------
+ID: jo03h08 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would see if they have anything resembling a security program or contact. If they don't see if you can report it to google's project. You probably won't get any money, but you won't be accused.
+----------------------------------------------------------------------------------------------------

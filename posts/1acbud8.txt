@@ -1,0 +1,32 @@
+POST ID: 1acbud8 / POST TITLE: Best "bang for buck" exploit?
+====================================================================================================
+My friend who's a professional told me (just starting out) to only focus on one area and get good at it instead of trying to learn about all types at once.
+
+If you were in your early days and had to focus on just one vulnerability type to study and get good at for the next 3-6 months, what would you pick and why?
+
+POST COMMENTS:
+====================================================================================================
+ID: kjte7c4 # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme has free basic lessons and exercises in every category and the best place to start (look at the learning paths). Portswigger academy is great for webapps. Hackthebox academy is Tryhackme but more expensive and refined. TCM academy is great for video material and hands on building your own AD network to attack and various other things
+----------------------------------------------------------------------------------------------------
+ID: kjt6nht # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kjy3wan # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: TCM is highly underrated. Their practical approach helps a lot
+----------------------------------------------------------------------------------------------------
+ID: ko8k3gm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for sharing. Im gonna go check these out
+----------------------------------------------------------------------------------------------------
+ID: kjt6twe # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So far my focus has been looking at applications but that's mostly because that just happens to be the first thing I saw on YouTube when I was watching some of the recommended videos and creators.
+----------------------------------------------------------------------------------------------------
+ID: kjt7hds # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kjt80p3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have a good video or course to follow regsrding those topics?
+----------------------------------------------------------------------------------------------------
+ID: kjte9zv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I Posted the answer to this on the main thread
+----------------------------------------------------------------------------------------------------

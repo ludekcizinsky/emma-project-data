@@ -1,0 +1,6 @@
+POST ID: 1irvafp / POST TITLE: tools for OSINT/investigation social media or email
+====================================================================================================
+hello everyone am at my last year of uni in cy and i have been compiling a list that contains tools in each section of the industry so if i need it i can find good onse i have many in mapping networks/sites, for web security, injections, cracking hashes/ passwords, and for sniffing / packet inspection but i can't find good reliable tools for investigation social media or for email other then [https://epieos.com/](https://epieos.com/) which is a little shit is there something you guys know about that could help in this regard ? ty for the help in advance
+
+POST COMMENTS:
+====================================================================================================

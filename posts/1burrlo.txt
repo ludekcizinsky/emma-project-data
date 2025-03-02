@@ -1,0 +1,53 @@
+POST ID: 1burrlo / POST TITLE: Open port 22 on zipabox 2 smart home controller
+====================================================================================================
+I have a zipabox 2 smart home controller in my home. It has zwave and controls a few lights and shutters.
+
+I'm connected to it with a mobile app and through shortcuts on my iphone to a web api to control with siri.
+
+I've recently done a scan of my home network with nmap, and found that among others, the controller's port 22 is open, with nmap identifying it as running "Dropbear sshd 2016.74 (protocol 2.0)".
+
+I've tried logging in with guest, user, admin, and even the email I've registered in zipato as credentials, with root and blank passwords, even running hydra with rockyou.txt. All attempts failed.
+
+I decided to contact zipato themselves, as the zipabox I paid for is in my ownership, and I should be able to log into it. That's also why I haven't been afraid to bruteforce the device.
+
+That's how the correspondance went:
+
+[https://imgur.com/a/7HcGJhv](https://imgur.com/a/7HcGJhv)
+
+The only terms and conditions/documents I found are:
+
+[The manual](https://www.zipato.com/wp-content/uploads/2019/02/zb2.main-Zipabox2_user_manual-100x100mm_v1.3_preview.pdf)
+
+and
+
+[Terms of Service](https://www.zipato.com/legal-terms-of-service)
+
+Although the terms of service disallow any bruteforcing and pen testing, it's only with regards to the site/the service which is defined as 'support.zipato.com (the “Site”) and the ZIPATO web-based application including but not limited to my.zipato.com and admin.zipato.com and mobile applications, integration and data linking service accessed through the Site (“Service”)'.
+
+The website/mobile application/admin portal/data linking service have nothing to do with me accessing my home controller through ssh, so it seems that as far as the terms go, I am allowed to do this. 
+
+I just wanted to get yall's opinion on the terms and on how I could ssh into the controller. I looked for vulnerabilities and only found ones that were patched in the version of dropbear sshd present on the controller.
+
+POST COMMENTS:
+====================================================================================================
+ID: kxxa6r9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You'll be fine brute-forcing the hardware you own, but you're unlikely to get access.  
+Your best bet would be to either dump the firmware or find a copy of the firmware and try to search for hardcoded ssh credentials. 
+
+You can programmatically control it with some 3rd party software, if that's what you're trying to achieve. 
+
+[https://github.com/djoulz22/zipabox](https://github.com/djoulz22/zipabox)
+
+Since the firmware isn't available with a direct download, you'll probably have to perform some kind of MITM operation on the firmware update page to see if you can check where it grabs it from.   
+There's also a small chance the user/password/key file are stored in the android APK for connecting to the device. 
+
+  
+some additional documentation: [https://device.report/zipato/zipabox-2](https://device.report/zipato/zipabox-2)
+----------------------------------------------------------------------------------------------------
+ID: kxzawy8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your reply!
+I don’t know if dumping the firmware is the best option since if I’m not mistaken that requires opening the device, and I don’t want to risk ruining it.
+Regarding the update, I trigger it from the mobile app and the zipabox updates on its own. It may be possible to perform a mitm attack but the traffic is likely encrypted because of https.
+
+Maybe at some point when I don’t need it anymore it’ll become my foray into physical pentesting
+----------------------------------------------------------------------------------------------------

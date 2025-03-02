@@ -1,0 +1,8 @@
+POST ID: 1is900v / POST TITLE: Cyber Security  Training for Marine SOC
+====================================================================================================
+So, my company is starting out new in SOC, and marine time operations.   
+We are preparing for hiring some Cyber security interns for this and planning on providing training for the same, so is there any company or community that can help us in providing Overhead training for setting up a SOC center to monitor Marinetime security.  
+Can you'll recommend some good companies or how should i go on with it.
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,6 @@
+POST ID: 1inzvc9 / POST TITLE: Does anyone have a list of commonly used AI/GPT services today?
+====================================================================================================
+I'm planning an audit of our organization's usage of unvetted AI platforms on corporate-managed end-points and I was wondering if there was a list floating around I could use as a starting point for my analysis. I figure I could probably just look for websites categorized as AI by Zscaler but I'd like to have a secondary check also.
+
+POST COMMENTS:
+====================================================================================================

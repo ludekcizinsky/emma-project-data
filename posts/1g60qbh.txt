@@ -1,0 +1,27 @@
+POST ID: 1g60qbh / POST TITLE: OSINT
+====================================================================================================
+Rookie here! Options/advice on where to start and what I should start with? Looking into helping my local community with missing persons. What do I need or at least should start with?
+
+POST COMMENTS:
+====================================================================================================
+ID: lshiztd # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How much of a rookie are you? If I may ask?
+
+To start, first, get yourself familiar with the field and what it means. SANS has an excellent article about it ([How to Get Into OSINT](https://www.sans.org/blog/how-to-get-into-osint/)). 
+There are plenty of other resources; just search for them (and come back and ask if you're not sure). 
+
+You can also enroll in a course (e.g. [this one](https://www.udemy.com/share/101ZXs3@loNUA0JH_XlAO0yw4d-BwEtKIb28b4tFBYnyQM7r1H_Fxo5BEQxShZcUwxo2oISI/) at Udemy). 
+
+Then, take a look at [Jivoi's curated list of OSINT tools](https://github.com/jivoi/awesome-osint). It's an amazing resource. Go over the tools, and see what they do.
+
+Lastly, go to work. Play with the tools. Use them to find yourself, or your parent/spouse/sibling. Learn by doing. 
+
+Good luck
+----------------------------------------------------------------------------------------------------
+ID: m59eh5o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This was incredibly helpful, thank you for this!
+----------------------------------------------------------------------------------------------------
+ID: m59hq0f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You're welcome :)
+That's nice to hear.
+----------------------------------------------------------------------------------------------------

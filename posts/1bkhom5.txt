@@ -1,0 +1,36 @@
+POST ID: 1bkhom5 / POST TITLE: Blue teamer looking at the other side
+====================================================================================================
+
+I’ve been working in a SOC for last 2 years. Doing IR and recently started getting into detection engineering. As I see how vulnerabilities are exploited, I’ve gotten even more curious about the other side. Before starting in SOC I aspired to be a network Pentester lol. 
+I’ve done some THM (all basic offensive/defensive stuff) and been through portswigger academy too. 
+
+A developer friend of mine asked me to their web application which is in production. I am excited as this is the first real world thing i’ll do but want to be careful at the same time so i don’t break anything.
+I went through https://github.com/infoslack/awesome-web-hacking but I’m unable to find a starting point and it’s quite overwhelming. 
+
+So far, I just did some recon using nmap and found that it’s behind an aws elb. The web page opens to a login page. I am stuck but I really want to push through this and learn something new. 
+
+This might sound stupid, but I find it hard to relate my offensive learning so far in the real world. I am a self taught person about everything but for this I feel like if I could sit besides a pentester and listen to their thought process live, it would help me the most. Unfortunately I don’t have that privilege right now. I would appreciate if you guys could point me in direction about how to get started. I know it is highly subjective but any help in the context which have provided above will be appreciated. 
+
+
+ 
+
+POST COMMENTS:
+====================================================================================================
+ID: kvyrfxf # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So you’re testing unauthenticated? Start with Burp scan, sqlmap, nikto, ffuf, try to create an account, OSINT for breached creds if in scope, user enumeration through error messages, test password reset functionality, check how sessions are handled (Some forms of JWT can be cracked). If you haven’t done these before you can practice some of these attacks on OWASP juice shop.
+----------------------------------------------------------------------------------------------------
+ID: kvyrqr7 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start building a methodology and take notes on everything you’ve learned. It’s impossible to recall every command and tool from memory. I like to structure my notes based on level of access but do whatever works best for you
+----------------------------------------------------------------------------------------------------
+ID: kvz28ex # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This.
+----------------------------------------------------------------------------------------------------
+ID: kw3cxkc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey is it possible you share those notes? Im a beginner in offensive security and try to acquire as much info as i can:)
+----------------------------------------------------------------------------------------------------
+ID: kw4p323 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My notes have company info and personal data but here is a good baseline to start with. Select the port/service from the menu on the left: https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh
+----------------------------------------------------------------------------------------------------
+ID: kwm9rdg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks alot
+----------------------------------------------------------------------------------------------------

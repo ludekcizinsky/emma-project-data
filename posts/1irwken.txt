@@ -1,0 +1,20 @@
+POST ID: 1irwken / POST TITLE: Automating Tenable Vulnerability Management Findings into Jira Tickets Help
+====================================================================================================
+Hello sorry for the burner! I am a new addition to my organizations vulnerability management program and a new grad. We are looking into automating the creation of tickets from [tenable.io](http://tenable.io) vulnerability management to Jira Cloud. How should this automation be setup? 
+
+Context:
+
+Currently we have a Jira project we own where the tickets are placed and then they are automatically created and linked in the resolving teams' queue based on keywords in the summary. The issue is we don't have a great standard way to identify what vulnerable assets belong to what team. Tickets will be manually created for a specific vulnerability with a grouping of assets per resolving team that is responsible for the chunk of assets. A typical ticket will be assigned to the resolving teams project and have the CVE, information about the vuln, and a table with the effected assets. We don't have a CMDB, one is getting implemented by EOY but I am skeptical on its efficacy and how well it will be as a source of truth. We are a large organization with tens of thousands of assets often fluctuating. The asset tags in tenable seem like a straight forward method of determining ownership which would simplify the script and workflow but I question its scalability and need to often edit the tags. 
+
+Vision:
+
+I am looking into utilizing machine learning to determine the proper ownership project as part of the automation workflow. I have no cloud experience but it seems like AWS lambda, sagemaker, and an s3 bucket are what I will need. I plan to utilize our Jira tickets as the data to train the model and potentially also tenable. Then incorporate our CMDB once it's finally running. It would be nice to use this and verify or retrain the model based on assets ownership predictions. 
+
+
+
+What do you think of the AWS ML approach? What are things I should keep in mind? Are any other people doing something similar and how is it working for you? Are there better strategies I should be considering?
+
+
+
+POST COMMENTS:
+====================================================================================================

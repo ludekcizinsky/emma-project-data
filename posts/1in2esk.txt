@@ -1,0 +1,6 @@
+POST ID: 1in2esk / POST TITLE: Pen testers for containers
+====================================================================================================
+Looking for recommendations for pen testers that test containers and K8s in cloud native environments to add to my tester pool. Prefer US, UK, EU, but open to mostly anywhere. Thx. 
+
+POST COMMENTS:
+====================================================================================================

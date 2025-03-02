@@ -1,0 +1,23 @@
+POST ID: 1amst7d / POST TITLE: Looking for quality courses
+====================================================================================================
+Hello, can you recommend the best ethical hacking and cybersecurity courses that you know, I am looking for options to obtain good certifications. 
+
+
+PS: It has to be in Spanish because they are actually for my dad and he doesn't speak English.... 
+
+Thank you 😋😋😋😋
+
+POST COMMENTS:
+====================================================================================================
+ID: kpo3eee # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme and tcm academy are great places to start learning. Not sure if they have translated lessons but you can always run the text through a translator till he learns more English.
+----------------------------------------------------------------------------------------------------
+ID: kpo3lng # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If just starting CompTIA certs like A+ Net+ and Sec+ are where he should start.
+----------------------------------------------------------------------------------------------------
+ID: kq2zbl2 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kq5dypj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a low effort post or something you can google, post has been removed for rule violations.
+----------------------------------------------------------------------------------------------------

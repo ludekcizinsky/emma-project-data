@@ -1,0 +1,19 @@
+POST ID: 1innpug / POST TITLE: Pen Testing Low-Code/No-Code applications
+====================================================================================================
+Hello,
+
+With the rise of low-code/no-code applications, companies are building applications faster than ever.  
+As pen testers, we know that security risks don’t just disappear because coding is abstracted away.
+
+I’m curious: How do you approach pentesting low/no-code applications?
+
+* Have you done it before?
+* What kind of vulnerabilities have you found? (Common ones? Any crazy/interesting ones?)
+* How does your methodology change compared to traditional web apps?
+* What are the biggest challenges in testing these platforms?
+* Are there specific tools or techniques that work best?
+
+Would love to hear from those who have experience with it, or even just thoughts on how we, as Pen Testers, should tackle these evolving tech stacks. Looking forward to your insights!
+
+POST COMMENTS:
+====================================================================================================

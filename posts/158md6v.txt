@@ -1,0 +1,11 @@
+POST ID: 158md6v / POST TITLE: Windows Server Exploitation
+====================================================================================================
+Aimed at beginners, this video teaches the basics of Enumeration, Nmap and Metasploit usage. Performed on Optimum on Hack The Box. Please subscribe if you find it useful.
+
+https://youtu.be/3DqhLFI4cDk
+
+POST COMMENTS:
+====================================================================================================
+ID: jvga4cv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cool thanks for video 👍
+----------------------------------------------------------------------------------------------------

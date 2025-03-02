@@ -1,0 +1,15 @@
+POST ID: 1du7f09 / POST TITLE: Gained root access - now what? (Beginner)
+====================================================================================================
+Hi everyone, beginner here. I very recently succeeded in gaining shell access for the first time in a machine (Kioptrix 1). What now? Do I have to do anything else or is this already the end of the hacking process and it's time to move on to other machines and delete this VM?
+
+POST COMMENTS:
+====================================================================================================
+ID: lbf2744 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you shout: “I’m in!”?
+----------------------------------------------------------------------------------------------------
+ID: lbf0bjk # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ingest a rootkit? Cover your tracks?
+----------------------------------------------------------------------------------------------------
+ID: lbj90nt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you have # or $ because shell doesn't always = root. If you have $, you need to escalate privileges and gain root aka #. After that, or if you have #, you need to establish persistence and defuse anything you set off in the process, i.e. cover your tracks, remove / disable alerts, alarms, and any history from logs.
+----------------------------------------------------------------------------------------------------

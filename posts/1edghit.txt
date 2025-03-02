@@ -1,0 +1,26 @@
+POST ID: 1edghit / POST TITLE: Why is WSL denied even though I am the highest authority?
+====================================================================================================
+https://preview.redd.it/dqdwupscd2fd1.png?width=546&format=png&auto=webp&s=e1a1989b4338e0532140e838f5a23d90cfdc67c2
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: lf7pa4k # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What happens if you try with a standard user? 
+
+Googling your error produces several recent threads with the same issue, along with possible fixes. There is also an open issue on github regarding WSL and Ubuntu. 
+
+What solutions have you tried already?
+----------------------------------------------------------------------------------------------------
+ID: lfa845o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I tried changing user from authority to the user that works that's about it
+----------------------------------------------------------------------------------------------------
+ID: lkjo69k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lkjo6bq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

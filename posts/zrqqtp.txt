@@ -1,0 +1,26 @@
+POST ID: zrqqtp / POST TITLE: Pentest tutorial
+====================================================================================================
+Is anyone with a lot of experience willing to show me how to perform one pentest from start to finish? I am currently doing a Udemy course, and while it is helping a lot, I need to see the process from start to finish, and i think I'll be able to figure it out from there. My company is aware that I don't have pentesting skills and they're giving me some time to learn it. Tips, tricks, and tools will help. Thanks, everyone
+
+POST COMMENTS:
+====================================================================================================
+ID: j14d2jl # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hackthebox has 5 tutorial machines that help a lot, and I think actually doing them would be beneficial. 
+
+If you need more you could google for a walkthrough of one of the machines. The nice thing with this is you can follow along.
+
+You can also find lots of exactly what you're looking for on https://infosecwriteups.com/
+
+This one might be a good start, from my very minimal research https://infosecwriteups.com/basic-pentesting-1-walkthrough-vulnhub-4dac91b416ff
+----------------------------------------------------------------------------------------------------
+ID: j15r5zg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah absolutely if you wanted to join and learn send me a Dm. A fee of us work together on environments and have a personal Hack lab etc.
+----------------------------------------------------------------------------------------------------
+ID: j14d8e7 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you I appreciate this 🙏
+----------------------------------------------------------------------------------------------------
+ID: j14em40 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for taking the time to post this information! 
+
+Good stuff!
+----------------------------------------------------------------------------------------------------

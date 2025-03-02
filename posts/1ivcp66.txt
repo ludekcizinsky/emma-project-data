@@ -1,0 +1,214 @@
+POST ID: 1ivcp66 / POST TITLE: Quantum Computing vs. Cybersecurity
+====================================================================================================
+A lot of you are likely aware of Microsoft's recently announced Majorana 1  Topological Core quantum computing chip. This has re-ignited my interest in Quantum Computing and I've recently been wondering what dangers would arise if malicious 'hackers' gained access to a quantum computer. How easy would it be to completely break through most security systems, with the sheer processing ability that a quantum chip would have? How difficult would it be to counter such a thing? All kinds of questions honestly, I just need like a general gist of what might happen. (Also sorry if they're dumb questions, I'm not the most knowledgeable  in Cyber or Quantum Computing fields)
+
+POST COMMENTS:
+====================================================================================================
+ID: me4k95y # OF UPVOTES: 139.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Two thoughts here. One is that the MSFT chip only achieved about 8 physical qubits. One needs a thousand or more logical cubits, comprising maybe 10,000 physical qubits, to effectively perform Grover or Shor’s algorithm. So they’ve some work to do. Not impossible, but not inexpensive either. Current state of the art is about 100 logical qubits, comprising a few thousand physical qubits and some amazing error correction technology.  
+
+Secondly, the cryptographic community has been active in developing and deploying “quantum safe” protocols since (I believe) about 2017. Last year, NIST standardized on ML-DSA (aka, Dilithium) and ML-KEM (aka, Kyber) as replacements for classic protocols such as RSA and ECDSA which might fall over in the presence of a so-called “cryptographically relevant quantum computer.”  If you check in with Cloudfare, I believe the adoption of these new protocols appears in about 25% of their HTTPS traffic, so … change is happening.  
+
+Not suggesting it isn’t a cat versus mouse race. Just saying there are both cats and mice on the board.  
+
+Edit: added state if the art. Also should mention I work professionally in the field of quantum-safe hardware.  
+
+Edit 2: turns out I don't work in the field of spelling...
+----------------------------------------------------------------------------------------------------
+ID: me4wmk2 # OF UPVOTES: 40.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Post quantum encryption already exists. In August 2024 NIST has finalized 3 post quantum crypto standards: [https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
+
+Nobody knows if they will hold yet, however, because there are no sufficiently fast quantum computers to test against.
+
+The fact that quantum resistant encryption already exists should be pinned somewhere, because this question comes up every 2 days and nobody uses the search function.
+----------------------------------------------------------------------------------------------------
+ID: me4rk5t # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would expect that the government has some kind of agreement with companies pursuing quantum computing that if they get in the ballpark of being able to break real-world encryption, it will be treated like top secret military technology.  The implications of you being able to decrypt internet traffic and your adversaries not being able to are pretty crazy.  Even if people have shifted to post-quantum cryptography by then, they have giant data stores of historical internet traffic that are waiting for this, and who knows what information could be in there.
+----------------------------------------------------------------------------------------------------
+ID: me4l7d3 # OF UPVOTES: 20.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: There's a few points to keep in mind here:
+
+1. You could presently fit every person reasonably capable of using a quantum computer to any usable degree in a rural elementary school out in the middle of fuckass Kansas right now. The amount is *outstandingly small*. Not nearly enough to be able to teach any sort of APTs or what have you how to use it. 
+
+2. Much like LLMs, Quantum Computers are built with mind-bogglingly specific use cases in mind. At this moment in time, a regular-ass TI-84 you could buy from Target is more powerful, purely due to the fact that it can actually *do stuff.*  
+
+3. The overwhelming majority of companies still struggle with the same basic security principles that were becoming best practice circa 1995. Quantum computing is step 74 in cybersecurity maturity, most companies haven't even gotten to step 3 yet.
+
+4. Consider Stuxnet for a moment. Stuxnet made headlines because it targeted nuclear powerplants. While scary and extremely noteworthy, it's also worth pointing out that nuclear powerplants were a technology for almost **80 fucking years at that point.** Nuclear powerplants are also built on Operational Technology, a subfield of IT so laughably insecure that you can have a network-isolated OT environment DDOS itself if you turn on a computer at the wrong moment, and they also happened to be *globally available.* How many quantum computers are available? Not very fucking many. Certainly not enough for any sort of APT to gain any sort of meaningful access to one beyond intending to destroy it.
+
+5. Lastly - Consider the fact that the overwhelming majority of security breaches don't happen because some ridiculously advanced nation-state attacker utilized multiple, highly advanced zero-days to enact a breach. It's Barbara in accounting clicking on a fucking phishing email for the third time this quarter. It's Robert in marketing downloading something stupid to his personal device that just so happens to have Slack access. It's Tim leaving a default password on an admin-enabled service. It's Diane accidentally leaving a port open on a public-facing server. It's a bunch of ridiculously stupid, basic shit that, frankly, quantum computing at its zenith is not really going to meaningfully alter the attack surface of in any way if a kid with a cell phone in fucking Australia or India is capable of pulling it off with greater efficiency.
+----------------------------------------------------------------------------------------------------
+ID: me5arol # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: One thing to add that I haven't seen mentioned yet -- the only known real risk currently is to key exchange, i.e. public keyI/asymmetric cryptography.
+
+The existing encryption algorithms (AES) are still believed to be quantum resistant.
+
+Palo Alto's guidance:
+
+"Because of AES-128 bit encryption's vulnerability to Grover's algorithm, use AES-256 bit encryption, which Grover's algorithm will not be able to break in the near or mid-term future. To help safeguard hash functions, use SHA-384 at a minimum."
+----------------------------------------------------------------------------------------------------
+ID: me5fcg7 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As long as we can't get our systems patched in time or hardened properly I think it is pointless to worry about attacks on crypto. Most attacks rely on intercepting the data in transit and decrypting it later. This is very unlikely even for APTs to pull off on scale or in a very targeted manner. And I would argue that there are many easier ways to get a hold on the data in an unencrypted format. Since it needs to be used somewhere...
+So identify where the data flows, successfully intercepting it, storing it until quantum computers are ready and then cracking it using a quantum computer really isn't something I would put very high on my threat matrix and the I also don't see any major change in the years to come.
+
+Especially since the intelligence lifespan of information is not that high and most of the data becomes somewhat irrelevant after a few years.
+----------------------------------------------------------------------------------------------------
+ID: me5qs5e # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I honestly wouldn't even bother with any of it, it's unclear if there will ever be an actual working quantum computer at all. I am aware that people are getting closer with individual qbits, but those are all very experimental research devices. I honestly wouldn't expect an actual proper quantum computer that a company or a person could buy and use to be available in the next 20 years or so. I remember when I was studying science and quantum computing was a hot topic, and that was now nearly 20 years ago. It's nice that it's got to the point that Microsoft and Google have any kind of chip at all, but it's simply not an actual computer at this point.
+----------------------------------------------------------------------------------------------------
+ID: me6kyza # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: My understanding is if a malicious actor accessed a quantum computer without authorization... They could then spend the next 6-18 months researching how to program their first compute, if they ever figured it out. 
+
+The biggest risk is encryption cracking, and we *think* we've made considerable progress on quantum proof algorithms. The next step is to test, implement and retest. 
+
+Right now quantum computers are more similar to the large hadron colider than to a password cracking lab.
+----------------------------------------------------------------------------------------------------
+ID: me75qmq # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: > How difficult would it be to counter such a thing?
+
+The problem with elliptic curve cryptography up to this point has been that if you know the seed (as an author of the paper/standard/specification), you can crack it.
+
+These things are kind of hard to prove if it's a well-guarded secret, and SIKE (or SIDH / supersingular isogeny key exchange) tried to combat it with some mechanisms in place to find isogeny between two elliptic curves.
+
+Turns out, that at least the SIKEp434, p610 and p751 curves were easily crackable on a 10 year old laptop because two researchers didn't know how the curves worked, so they built a plotter and realized that the diamond configurations are plottable/predictable. See [their paper](https://eprint.iacr.org/2022/975.pdf) for more details on this, it's amazing how they went from building a simple plotter to holy shit this can be cracked real fast. Suffice it to say, SIKE has been revoked in any crypto library after that.
+
+So in terms of post-quantum cryptography we're basically back to zero and have to start all over again.
+
+The current NIST standardizations from 2024, namely Crystals Dilithium and Sphincs still need the test of time. Note that SIDH needed around 12 years for somebody to find this by absolute coincidence. The researchers that found those flaws weren't even trying to crack it.
+
+Perfect forward secrecy is really really really hard to implement, and my opinion on that is that we won't have that with the current generation of chips. Even if we have that on a mathematical level, good luck trying to design a CPU that can't be circumvented through a sidechannel attack, a backdoored bus system or whatever else they come up with these days. Looking at you, TPM, too.
+
+We also know what Intel ME does, how to remote-exploit it, how to even decompile and analyze its code, yet the NSA still denies the existence of that backdoor to this day. I'm mentioning this because a lot of cryptographers from the NSA play a huge role in the committees of NIST standardization process, and given their history of the agency, aren't really trustworthy to do the right thing in my opinion.
+
+Personally, I'd probably trust Bruce Schneier's opinions on algorithms and other people from the EFF and Tor project more than NISTs standardization and peer review process at this point.
+
+edit: Here's some talks by the authors and the people behind the SIDH attack, they're really worth watching.
+
+- [Talk by Wouter Castryck](https://www.youtube.com/watch?v=_eNv7An3Qj0)
+
+- [Talk by Thomas Decru](https://www.youtube.com/watch?v=jQ5KkrNsKe0)
+
+- [Talk that shows a practical attack on SIDH step by step](https://www.youtube.com/watch?v=Az3qAdX3e40)
+----------------------------------------------------------------------------------------------------
+ID: me5ei73 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I think you have a very simplistic understanding of quantum computing.  The risk isn't pure power, it is very different operations.  Quantum computing, with specific algorithms, like Shor's, can break certain types of encryptions commonly used, particularly elliptical curve.  In most online encryption systems, the two endpoints use elliptic curve to create an asymmetric encrypted tunnel and then exchange a symmetric key, as asymmetric encryption is very resource intensive.  Shor's algorithm can solve the mathematics in the EC part of that connection easily (once you have enough qubits), which would then allow the extraction of the symmetric key from the stream, and the resulting decryption.  
+
+What quantum can't do is break passwords faster, I'm not aware of any gains in regards to X.509 certificates or other methods, and in the end, the system you're attacking isn't going to respond any faster in brute force attacks or other forms, not is quantum going to help an attacker find a vulnerability easier.  There is a real risk to encrypted traffic, but quantum safe methods are already available and more are being developed, as some of the early methods are not easily done, so it needs to be made more "retail" to get out of the nation state space, but that is a natural evolution of technology.
+----------------------------------------------------------------------------------------------------
+ID: me5ianh # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Scott Aaronson's comments on the recent Microsoft announcement:
+
+* https://scottaaronson.blog/?p=8669
+
+As to your question, quantum hardware to defeat cryptography doesn't exist. At this point no one knows if it could *even* exist. For a while we thought that error correction could be the answer, but now we know that we are 1-2 orders of magnitude away from a noise performance that would even make error correction a possibility. So we have no idea what would be possible for malicious hackers until we know how the threat could exist. It's all science fiction at this point.
+----------------------------------------------------------------------------------------------------
+ID: me7d853 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I would recommend you listen to an episode of Hacked where Quantum Computing is discussed. From the research I’ve read on the topic, the developments in that area aligns with the information presented in the podcast. Any hype regarding development/breakthrough in Quantum Computing is a vehicle to separate gullible investors from their money.
+Here’s the link to podcast episode:
+https://podcasts.apple.com/us/podcast/hacked/id1049420219?i=1000688062957
+
+https://open.spotify.com/episode/5Y3YSLwVDOJf3dFoi17s1c?si=62EWbyxrRDG4pb3iRz_BWQ
+----------------------------------------------------------------------------------------------------
+ID: meb533n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It depends what security level you want. If you want military grade encryption and forward secrecy, you should have doubled your symmetric cryptography keys and switch to post quantum secure public private keys & signature schemes yesterday.
+
+Though, it seems that in the cybersecurity world we like to leave things first get hacked and then work on fixing the problem.
+----------------------------------------------------------------------------------------------------
+ID: me6ohl1 # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Microsoft cant even make an OS. I doubt theyll have quantum computing any time soon. And i know they shouldnt.
+----------------------------------------------------------------------------------------------------
+ID: me6byre # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for that detailed answer! I’m someone who’s enthusiastic about quantum for many reasons and am trying to learn more. 
+
+
+Follow up question. Does blockchain technology have a real path towards quantum safe hardware? Will this quantum safe requirement change the functionality and requirements of blockchain and maybe even alter its use cases and value?
+----------------------------------------------------------------------------------------------------
+ID: me6hrdq # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In true quantum fashion, there are cats and mice in infinite quantities running the race at the same time, but we only find out the winner when we observe the finish line
+----------------------------------------------------------------------------------------------------
+ID: me6c4qv # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sorry just saw the answer below, no need to respond if you have nothing different to add!
+----------------------------------------------------------------------------------------------------
+ID: me88v8j # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Beyond the practical side of things (what's the state of the art, how far are we from a useful quantum computer, where are the quantum safe algorithms at), I think it's important to take a step back and consider what quantum computers can and cannot do. Or, more correctly, what we know they can do, and what we don't know they can do. And what that means. (I know you know this, u/CalmCalmBelong, btw, I’m just explaining for OP).
+
+In order to that, we need to go back to complexity. To simplify, complexity is a measure of the, well, complexity, of a problem in terms of "if my input is this size, how many steps does it take to get the result"  The complexity of a algorithm solving a problem is how many steps it takes. The complexity of a problem is that of the _best possible_ algorithm that solves it.
+
+There’s basically three classes of complexity:
+
+- the trivial: the size of the input doesn’t matter - they’re not very interesting because they don’t do anything.
+
+- the exponential: you can always solve a problem by trying every possible solution, so that’s always an option. The complexity is exponential to the size of the input. Because they grow so fast, it’s always possible to come up with a problem that is effectively impossible to solve. That is what crypto relies on.
+
+- in between, we have the polynomial. It can also grow fast, but it remains within the realm of “if you want it hard enough”. They’re “possible” to solve. It might take a long time and a lot of money, but it’s “possible”. 
+
+Without quantum computers, things stand as such:
+
+- symmetric cryptography (e.g. AES) and (good) hashes are thought to be exponential
+
+- public key cryptography, e.g. RSA and EC are also thought to be exponential
+
+Quantum computers are “faster”. “Faster” is a hazy concept, though. 10 times faster, a million time faster, wouldn’t matter to exponential problems. We know that, using Grover’s algorithm, they can speed up breaking symmetric encryption and hashes quite dramatically. In effect, halving the size of the problem. But they remain exponential problems. Double the size, and you’re back where you started. No problem, _that we know of_.
+
+The problem is that quantum computers, _for RSA and EC_, are known to _reduce the complexity class_ from exponential to polynomial (that’s Shor’s algorithm). And that’s not something that can be fixed by increasing the key size. Which is why we need different algorithms for public-key cryptography and signatures (which rely on public-key cryptography).
+----------------------------------------------------------------------------------------------------
+ID: me8tqan # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The issues quantum computers pose to cryptography are so interesting, I appreciate the comprehensive answer from a professional! The cat and mouse aspect is what makes cybersecurity so interesting to me and this issue is a fascinating example to watch develop in real time. Glad to hear so much of that internet traffic is already being proactive.
+----------------------------------------------------------------------------------------------------
+ID: me4xphd # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This article also has some great insights 
+
+https://www.firecompass.com/ai-in-cybersecurity-bruce-schneier/#:~:text=While%20quantum%20computers%20could%20eventually,cryptographic%20algorithms%20that%20organizations%20can
+----------------------------------------------------------------------------------------------------
+ID: me9bebx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Use large key size and you are pretty much safe.  Sha512 aes512 and it’s not going anywhere
+----------------------------------------------------------------------------------------------------
+ID: me6n5zv # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't mean to "actually" you here, but the Google Willow chip had a recent breakthrough that's pretty interesting:  
+ https://blog.google/technology/research/google-willow-quantum-chip/  
+
+It's "only" 105 logical qubits right now (not enough to be "cryptographically relevant"), but the breakthrough was in error correction. My understanding is that they discovered a way where adding more physical qubits didn't increase the decoherence rate. Meaning that it appears to be a "scalable" path forward. MSFT's announcement is obviously far behind Willow, but their point too is that their path appears scalable.
+----------------------------------------------------------------------------------------------------
+ID: me8f6mv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Eeh, Shor's can break both RSA and EC.
+
+The only security passwords rely on these days over the internet is that they're transmitted over TLS. Which relies on RSA or EC. Break that, and your passwords are plaintext. It's up to the server to hash them before checking them. Things like Scram never caught on. Because why would you?
+----------------------------------------------------------------------------------------------------
+ID: me5p5jv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Defintly Brute force will be quicker.
+----------------------------------------------------------------------------------------------------
+ID: me6lqb4 # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I didn't see an answer to this below, let me stab at it ... I know a little about the Bitcoin blockchain: it uses SHA256 for the proof of work function, which is currently considered a quantum-resistant protocol. However, it also uses Elliptic Curve for the signatures. In principle, an adversary with a large enough CRQC could recover/regenerate anyone's private key, and then use that key to authorize/sign new transactions. Nakamoto's stake is about 1M coins, worth about $90B right now. So ... let's say there exists deep motivation.  
+
+I expect Bitcoin will fork to ML-DSA signatures in our lifetimes. I don't know enough about the protocol to know how much of a mess that will be.
+----------------------------------------------------------------------------------------------------
+ID: me8vf7x # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This was a great additional explanation, thank you for writing it out.
+----------------------------------------------------------------------------------------------------
+ID: me8zhho # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yep, I’m definitely hopeful for useful quantum computers to exist in the world someday, just …. not until cryptography is ready for it. Here’s [the link](https://radar.cloudflare.com/adoption-and-usage) to the Cloudflare “usage and adoption” showing that about 35% of HTTPS is using quantum-safe protocols nowadays.
+----------------------------------------------------------------------------------------------------
+ID: me4y9ul # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: While its true that quantum computers will not pose a threat for some time (maybe decades), there is no need to postpone implementing quantum resistant encryption. To quote the NIST article:
+
+>“There is no need to wait for future standards,” he said. “Go ahead and start using these three. We need to be prepared in case of an attack that defeats the algorithms in these three standards, and we will continue working on backup plans to keep our data safe. But for most applications, these new standards are the main event.” 
+----------------------------------------------------------------------------------------------------
+ID: me8yek0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Didn't think about RSA, but my point was really against the statement "completely break through most security systems"  While encryption is key, it is one part of security as a whole.
+----------------------------------------------------------------------------------------------------
+ID: me7c1y9 # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is exactly the kind of explanation I needed. Thank you!
+----------------------------------------------------------------------------------------------------
+ID: me5da6u # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: One of the problems with rolling out quantum resistant encryption is cost - if business leaders are hearing it’s not pressing then it will be an uphill battle to do much now. 
+----------------------------------------------------------------------------------------------------
+ID: me95elb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah, that's fair enough.
+
+People do tend to think that when "quantum computers", all current security measures are void. And that is not the case. What's broken by quantum computers is current public-key encryption. RSA and EC. And that's it.
+
+Having said that, it's a also a key part, arguably, _the_ key part, of the current internet security infrastructure.
+----------------------------------------------------------------------------------------------------
+ID: me5k298 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: if you ask me, quantum computers will happen like AI. One day they don't exist outside a lab and then they are everywhere within a year and very powerful. If you are unprepared in this scenario, it'll be a lot more expensive than investing now.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+POST ID: 103jvvy / POST TITLE: just got my CEH, want more practice
+====================================================================================================
+Is hackbox a good source? Would like more opinions and other resources
+
+POST COMMENTS:
+====================================================================================================
+ID: j30dwyn # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes it is, so is Tryhackme as well
+----------------------------------------------------------------------------------------------------
+ID: j2zisrz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. Yes it is.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+POST ID: 1cxn0hd / POST TITLE: Ethical hacking live streams?
+====================================================================================================
+Anyone know of some? Or long videos on youtube. Just some going through the process of doing those challenges on the internet or something like that. 
+
+POST COMMENTS:
+====================================================================================================
+ID: l57479x # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just search “Hackthebox walkthrough” on YouTube and pick a creator that you like. There’s a ton. ippsec is a great one for example.
+----------------------------------------------------------------------------------------------------
+ID: l57zq9e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cyber Mentor
+----------------------------------------------------------------------------------------------------
+ID: l57a3d5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can also look up ctf content one run is usually about an hour
+----------------------------------------------------------------------------------------------------
+ID: l57sxcd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Lookup Tyler Ramsby. He does a lot of htb/thm machines live.
+----------------------------------------------------------------------------------------------------
+ID: l57u0k6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Look up Jason Haddux on YouTube… He has some awesome stuff on methodology on bug bounty.
+----------------------------------------------------------------------------------------------------
+ID: l56vbyv # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No. Look up what ethical hacking is first and what a scope and limitations agreement is. 
+----------------------------------------------------------------------------------------------------
+ID: l570bfp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I searched it up and if i understand correctly what you're saying is not showing the process of the actual job and confidential info. How i got to the question is, there are some coding competitions by google, facebook etc. and there are some guys on youtube just sharing their thought process while doing the challenges. I thought maybe there's something similar with ethical hacking.
+----------------------------------------------------------------------------------------------------
+ID: l5713c0 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical hacking is a profession known as penetration testing, you'd be breaking a confidentiality agreement by broadcasting hacking into that company for the whole world to see and would be on par with corporate espionage. If you are looking into completions then look into coding competitions, those are not part of ethical hacking, or look into bug bounties.
+----------------------------------------------------------------------------------------------------
+ID: l57348t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the recommendation, I've already found some interesting ones on bug bounties. Would you recommend tryhackme as a learning tool, if you're familiar with it? Thanks again for the time
+----------------------------------------------------------------------------------------------------

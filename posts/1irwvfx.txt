@@ -1,0 +1,14 @@
+POST ID: 1irwvfx / POST TITLE: Need Fresh Sources for Thesis on WordPress Security – Any Recommendations?
+====================================================================================================
+Hi everyone,
+
+I'm currently working on my thesis, which I'm doing as a project for a client. The practical part involves creating a WordPress website for them, while the theoretical focus of the thesis is on WordPress security.
+
+In my research, I plan to cover topics such as user management, vulnerabilities in themes and plugins, and more. I'll also be conducting penetration tests and other practical security assessments.
+
+Does anyone have recommendations for good, up-to-date resources that could help with this? I'm looking for things like lectures, videos, articles, interviews, or any other material that dives into WordPress security.
+
+Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================

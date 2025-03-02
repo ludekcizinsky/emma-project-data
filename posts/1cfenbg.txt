@@ -1,0 +1,18 @@
+POST ID: 1cfenbg / POST TITLE: Udemy
+====================================================================================================
+Is getting a udemy course to learn ethical hacking a good way please give your opinions if anyone has taken the udemy course to learn hacking?
+
+POST COMMENTS:
+====================================================================================================
+ID: l1pmox1 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There's actually a nice list of a couple of udemy courses that are highly recommended in the stuck thread: [https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested\_in\_joining\_the\_ethical\_hacking/](https://www.reddit.com/r/ethicalhacking/comments/lkso1z/interested_in_joining_the_ethical_hacking/)
+----------------------------------------------------------------------------------------------------
+ID: l1psdlt # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, but the techniques they teach you have been patched or mitigated. It is still a great way to learn the basics of EH.
+----------------------------------------------------------------------------------------------------
+ID: l2o2zeo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I suggest Internshala Ethical Hacking Traning
+----------------------------------------------------------------------------------------------------
+ID: l2pv2ac # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are so many free courses out there. I would go with them first. Learn if it's for you or not then pay for a course if you still want to
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+POST ID: 13krwgt / POST TITLE: Path to pentester from beginner
+====================================================================================================
+hi community. I am 17 years old.  My goal is to become a pentester/ethical hacker.  For this I am going to university in a year to start a bachelor's degree in computer science.  I would like to know what I can do/learn in the meantime (while waiting for university) that will help me in my career.  Learn python?  linux?  Tryhackme?
+
+POST COMMENTS:
+====================================================================================================
+ID: jkn5ril # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: HacktheBox Academy
+----------------------------------------------------------------------------------------------------
+ID: jkowoeg # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: One high level language: Python, Ruby, JavaScript, Go, Swift
+
+One low level language: C, C++, Rust, C#, Java
+
+Both OS Scripting Languages: Bash, PowerShell
+
+Sysadmin for Linux & Windows:
+Be comfortable enough with Linux that you loop back around. 
+
+Essentially, if you're telling people you use Linux (or Arch Linux) regularly and looking to remove Windows from your personal computer - you're at the halfway point of learning enough. You want Linux to become trivial - just another part of your tool chain - to the point where you forget you even use something different. 
+
+For Windows, you'll need to understand AD, Hybrid AD and M365 on a deep level. If you don't have a domain controller at home yet - keep going. 
+
+Learn every layer of the OSI model. Understand networking at a deep level.
+
+Id also reccomend learning how to deploy infrastructure as code, and becoming familiar with how stuff is done on Azure, AWS, GCP/Firebase.
+
+Finally, make a website. Not a public one, just make one on your PC. Use some new web stack tech - right now I'd say use Next.js, but either way - you should be comfortable enough with a modern web stack to push out a simple app where you click a button and stuff happens. You should know how API's work, general design patterns, routes, permissions, webservers, load balances, etc.
+
+If that sounds like a lot - it is, but you have 4 years to learn it. Pace yourself.
+----------------------------------------------------------------------------------------------------

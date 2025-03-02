@@ -1,0 +1,10 @@
+POST ID: 1ituqn3 / POST TITLE: Hardware firewall for electronic patient record?
+====================================================================================================
+Hello there, 
+
+I'm in a psychotherapeutic practice in Germany, and we're debating whether to invest in a dedicated hardware firewall—especially with the electronic patient record (ePA) on the horizon. We connect to the Telematics system via a software-based link to a data center called RISE TIaaS Client, not through a local connector. Would a hardware firewall offer substantial benefits over standard router or software solutions, particularly for protecting sensitive patient data? Any experiences or insights would be greatly appreciated.
+
+Thank you!
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,21 @@
+POST ID: 1iunkwc / POST TITLE: EU Cyber Resilience Act - Applicability to existing products
+====================================================================================================
+As discussed in this [post](https://www.reddit.com/r/cybersecurity/comments/1dwkgjm/cra_eu_question), I would like to open the discussion about the applicability of existing products again since there seems to be no consistent interpretation at the moment.
+
+While the CRA is applicable to all "products with digital elements" [Article 69](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_69) says the following:
+
+* *Products with digital elements that have been* ***placed on the market*** *before 11 December 2027 shall be subject to the requirements set out in this Regulation only if, from that date, those products are subject to a substantial modification.*
+
+From the [definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3):
+
+* *‘placing on the market’ means the first making available of a product with digital elements on the Union market;*
+
+In my view, this means a product that is available on the European market today and will continue to be sold after 11 December 2011 does not need to comply with the CRA unless it is "substantially modified" after 11 December 2027. We had exchanges with several companies and consultancies, and there are different opinions: the same as mine but also that existing products also need to be "adjusted" to meet the CRA requirements.
+
+Does anybody have any input on that?
+
+POST COMMENTS:
+====================================================================================================
+ID: me8h6mm # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You need to speak to a specialist legal firm to advise you. It’s all down to interpretation of the law but the approach we are taking is if we know we are going to market after Dec 2027 then it needs to comply anything before that is fair game. Given that CRA covers the whole lifecycle of devices there isn’t much excuse to not start building devices securely now.
+----------------------------------------------------------------------------------------------------

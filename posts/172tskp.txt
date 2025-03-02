@@ -1,0 +1,46 @@
+POST ID: 172tskp / POST TITLE: Certified Ethical Hacker
+====================================================================================================
+I am about to complete my Bachelors degree in Cyber Security. I am looking anyone getting my CEH. Is the E Council a good choice for getting this certification or should I go with a a local college that provide one?  ( I do have a college that does have this training)
+
+POST COMMENTS:
+====================================================================================================
+ID: k45zg5t # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Don't go for the CEH don't waste you precious timeand money!!! I took it and it's worth nothing. Go for the ejpt or the cpts from. HTB. If you Want to become a pentester.
+----------------------------------------------------------------------------------------------------
+ID: k4dzd27 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Opting for a local college that provides a comprehensive understanding of the cybersecurity industry may be a more valuable investment of your time and money than pursuing a Certified Ethical Hacker (CEH) certification.
+
+ In college, you gain not only theoretical knowledge but also real-world insights and practical experience. The exposure to industry-specific examples and hands-on learning can be immensely beneficial. 
+
+This holistic approach ensures you're better prepared to tackle the dynamic challenges of the field.
+----------------------------------------------------------------------------------------------------
+ID: k40yswu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why CEH and not another cert?
+----------------------------------------------------------------------------------------------------
+ID: k49thb1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I believe they are reputable scammers.
+----------------------------------------------------------------------------------------------------
+ID: l4fc108 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Dm me please
+----------------------------------------------------------------------------------------------------
+ID: k41cl75 # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have a list of certs I am going after, CEH is just the one I want to get first.
+----------------------------------------------------------------------------------------------------
+ID: k42accf # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: IMO , Ceh is not a good choice. It doesn’t hold the clout it once did.  I think most employers are leaning toward practical exams that demonstrator your ability to do the work. Certs like the oscp, pnpt and ine’s offerings are the ones I see most often requested. The only one that gets a pass are the giac courses.
+----------------------------------------------------------------------------------------------------
+ID: k42afx8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Which certs are you going after and what is your end goal?
+----------------------------------------------------------------------------------------------------
+ID: k438eek # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Comptia Network+, Linux+, Server+,PenTest+
+
+Those are a few I was thinking about.  (I understand that CEH and PenTest+ are similar but Comptia seemed a better route).
+
+My end goal is to be a knowledgeable, efficient and successful as I can to meet the end goals of whatever company I work for.
+----------------------------------------------------------------------------------------------------
+ID: k445un9 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Skip Net+, I have it, the ccna is better. Pentest+ does nothing. Ceh is more recognizable so if you’re dead set on one of those, then by all means, go ahead and get one, but if you’re looking for an entry level hacking cert the eJPT or Pjpt are miles ahead of them (seriously, miles ahead). 
+Are you looking to be a sysadmin? Not sure why you’d want Linux+ if you’re not. Linux+ is a great cert but it’s kinda a niche cert. 
+If I was looking to be a generalist and was just starting out, I’d get a ccna, sec+ and so some thm, HTB to get comfortable on the CLI and then focus on a specialization. But maybe that’s just me.
+----------------------------------------------------------------------------------------------------

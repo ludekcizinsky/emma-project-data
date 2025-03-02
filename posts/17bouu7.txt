@@ -1,0 +1,8 @@
+POST ID: 17bouu7 / POST TITLE: netcat pt.2
+====================================================================================================
+1)what would be a way of getting the target to downloading any files or software (netcat in this case so a reverse shell could work (using net cat))
+
+2) what would be a way of getting them to run the listener commands (could be done by a batch file sure but i think it could be done more professionally)
+
+POST COMMENTS:
+====================================================================================================

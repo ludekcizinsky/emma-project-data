@@ -1,0 +1,12 @@
+POST ID: 1in9yh8 / POST TITLE: New Article Alert: "IoT Sob Ataque: Uma Análise de Vulnerabilidades e um Framework de Segurança com IA para Proteção em Tempo Real"
+====================================================================================================
+Hello community!
+
+I just published a deep dive into one of the most pressing issues in IoT: **IoT Sob Ataque: Uma Análise de Vulnerabilidades e um Framework de Segurança com IA para Proteção em Tempo Real**. If you're into IoT, cybersecurity, or AI, this is for you!
+
+The idea of ​​the article is to give you an idea of ​​what I'm thinking of designing as my final project at university. So the things written are more like ideas to throw out there that will be expanded upon and tested in practice later on. The initial idea is just to post it so that people can see it and give their opinions, respectfully, and for those who are curious about the subject as well
+
+📖 Read the full article [here](https://medium.com/@mrbispo/iot-sob-ataque-uma-an%C3%A1lise-de-vulnerabilidades-e-um-framework-de-seguran%C3%A7a-com-ia-para-prote%C3%A7%C3%A3o-em-097f5560b9f5)
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,322 @@
+POST ID: 1fvayj6 / POST TITLE: /r/netsec's Q4 2024 Information Security Hiring Thread
+====================================================================================================
+**Overview**
+
+If you have open positions at your company for information security professionals and would like to hire from the /r/netsec user base, please leave a comment detailing any open job listings at your company.
+
+We would also like to encourage you to post internship positions as well. Many of our readers are currently in school or are just finishing their education.
+
+Please reserve top level comments for those posting open positions.
+
+**Rules & Guidelines**
+
+Include the company name in the post. If you want to be topsykret, go recruit elsewhere. Include the geographic location of the position along with the availability of relocation assistance or remote work.
+
+* If you are a third party recruiter, you must disclose this in your posting.
+* Please be thorough and upfront with the position details.
+* Use of non-hr'd (realistic) requirements is encouraged.
+* While it's fine to link to the position on your companies website, provide the important details in the comment.
+* Mention if applicants should apply officially through HR, or directly through you.
+* Please clearly list citizenship, visa, and security clearance requirements.
+
+You can see an example of acceptable posts by [perusing past hiring threads](https://www.reddit.com/r/netsec/search?q=Information+Security+Hiring+Thread&sort=new&restrict_sr=on).
+
+**Feedback**
+
+Feedback and suggestions are welcome, but please don't hijack this thread (use moderator mail instead.)
+
+POST COMMENTS:
+====================================================================================================
+ID: lqzd93q # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: # Caesar Creek Software
+
+*Software Reverse Engineer*
+
+## Job description
+
+Caesar Creek Software works with various government agencies to perform cyber research into major operating system platforms (Windows, Android, iOS, Linux, etc.), software security products, personal computers, cell phones, and networking equipment. We specialize in offensive information operations, reverse engineering, vulnerability analysis, and exploit development. We have a robust Internal Research and Development program that lets us do cool stuff on our own. If it has a processor, we love taking it apart to see what makes it tick. Our company motto:  "We void warranties!"
+
+We offer a highly competitive compensation package including one of the best benefit packages in Ohio. United States citizenship is required for all positions, as well as the ability to obtain a high level security clearance.
+
+## Current open positions:
+
+
+* **Software Reverse Engineer (Miamisburg, OH)** – Vulnerability research on software systems. Full-time position. All experience levels.  Qualifications are listed below.
+## Additionally, we are always looking for candidates skilled in the following areas:
+
+* Reverse Engineering
+* Vulnerability Analysis
+* Exploit Development
+* Cyber research and development
+* Software development
+
+These are all full-time, salaried positions. All work is done at either our Miamisburg, Ohio facility or our Woburn, MA facility. We also offer internships!
+
+## Skills & Requirements
+
+**Qualified candidates must have the following:**
+
+* A BS, MS, or PhD in Computer Science, Computer Engineering, or Electrical Engineering. Other majors will be considered for the candidate with the desired skill set.
+* U.S. citizenship
+* Ability to obtain a high-level security clearance.  A current Top Secret security clearance is highly desired!
+
+**For Reverse Engineers, experience in the following areas is a strong plus:**
+
+* Exploit development
+* IDA Pro, Binary Ninja, Ghidra or other reverse engineering tools
+* Security vulnerability R&D
+* Code obfuscation, polymorphism, and anti-debugging techniques
+* Malware analysis
+
+## FAQs
+
+**Where is the position located?**
+
+Miamisburg, OH (near Dayton)
+
+**Is telecommuting permissible?**
+
+No.
+
+**Does the company provide relocation?**
+
+Yes, we offer relocation benefits up to $10,000.
+
+**Is it mandatory that the applicant be a citizen of the country in which the position is located?**
+
+Yes, U.S. citizenship is required.
+
+**If applicable, what is the education / certification requirement? Is a security clearance required? If so, at what level?**
+
+A BS, MS, or PhD in Computer Science, Computer Engineering, or Electrical Engineering. Other majors will be considered for the candidate with the desired skill set.  All positions require the willingness and ability to obtain a high-level security clearance.  A current TS security clearance is highly desired!
+
+**How should candidates apply for the position?**
+
+Head over to the [Careers Portal](https://careers.cc-sw.com/welcome) on our website and check out our reverse engineering challenges and programming quiz! You can also find us on [LinkedIn](https://linkedin.com/company/cc-sw).
+
+## Other benefits we offer:
+
+* We are 100% employee-owned.
+* We make an annual stock contribution equal to 15% of the employee’s annual earnings into an ESOP and/or 401(k).
+* We provide 100% company-paid health, dental, vision, life, and disability insurance coverage.
+* We provide a company-funded Health Savings Account (HSA) ($7,100 family, $3,550 single).
+* We offer overtime pay.
+* 11 Paid Holidays per year
+* We offer four weeks of paid time off per per year, increasing to five weeks after five years, and six after ten years.
+* We offer full tuition reimbursement with no limitations.
+* We offer relocation benefits up to $10,000.
+* We offer company-paid attendance at the Black Hat and DEF CON conferences in Las Vegas.
+* We offer a casual working environment and flexible work hours.
+* We provide each engineer a superior working environment (including individual private offices) and equipment.
+* We provide a membership to a nearby fitness facility
+* We celebrate with an end-of-year party.
+* We provide free soda, fruit, and snacks including fresh popcorn!
+----------------------------------------------------------------------------------------------------
+ID: luhkvdx # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Senior Security Response Engineer @ Cloudera (Third Shift Primary; US Citizenship Requirement)
+
+Hey [r/netsec](/r/netsec/), we have been able to hire some great staff, and are back again with an additional role in Q4.
+
+Cloudera has an opening available as a Senior Security Response Engineer for Remote-US resources (Not all locations listed in the job posting)
+
+Important: Please note these roles are currently being hired into our overnight shift hours (more details in the HR Description)
+
+What security means to us:  
+Driven by security value  
+Continuously pursue forward thinking and unique solutions to security challenges  
+Automating the basics to focus on the interesting
+
+What you have:  
+Know what cybersecurity is and what it truly means for an organization  
+Experience in Security Incident Response  
+Passion for forward-thinking security  
+Critical thinking and self-starter skills  
+US Citizenship Requirement
+
+Good to haves:  
+Specific Security And/Or Infrastructure Domain Knowledge (Full list of “good to haves” in HR job description)
+
+What you would be doing:  
+Deep-Dive Technical Security Monitoring, Coordination, and Analysis  
+Develop and Implement new processes and solutions (Have an actionable security idea that fits? Let’s implement it)  
+Promote security awareness and collaboration with internal teams  
+Etc…
+
+What We Offer:  
+Great Benefits  
+Skill Building Opportunities  
+Forward Thinking Security Environment
+
+Apply Here: [https://cloudera.wd5.myworkdayjobs.com/External\_Career/job/US-Michigan-Remote/Sr-Security-Response-Engineer\_241238-1](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Michigan-Remote/Sr-Security-Response-Engineer_241238-1)
+
+Learn More About Cloudera:https://www.cloudera.com/about.html
+----------------------------------------------------------------------------------------------------
+ID: lq9qifq # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: # Red Team Operator
+
+**About CovertSwarm**
+
+Our goal is simple: We aim to compromise our clients, constantly. Our Hives – a specialist team – ‘swarm’ around our targets, always looking for a new way to compromise them. As a result, we provide security insights and advice based upon our client’s technological controls and mitigating solutions, and propose improvements that can be made from a training, process, and physical control perspective.
+
+**The role**
+
+We are looking for individuals with demonstrable Red Team capabilities who are driven to find new or different ways to breach organisations, are capable or desire to find new zero-day vulnerabilities, can adapt attacks to bypass controls, and are relentless at finding novel methods to compromise a target.
+
+The Red Team does not perform penetration tests, and the work we do is not focused on delivering a list of vulnerabilities in a specific application or service. Instead, we emulate the real-world tactics, techniques, and procedures (TTPs) of threats that are most relevant to clients, challenging their perimeter security, people, processes, and more.
+
+The position is remote based as we strive to compromise our clients in as realistic scenarios as possible. On rare occasions there may be a need to visit clients in person, such as to deliver physical security or social engineering attack vectors.
+
+**Responsibilities**
+
+* Act as a business contact for CovertSwarm clients, fostering and maintaining relationships with key stakeholders and business partners, ensuring client communication throughout the engagement and contract.
+* Propose, plan, and execute Red Team Operations based on realistic threats bespoke to each client to replicate an Advance Persistent Threat (APT).
+* Automate attack techniques, creating custom tooling for specific operations and contributing to general-purpose open source tools
+* Create high quality actionable, threat-based, reports on security assessment results, which the client is debriefed on fully following the completion of any assessments.
+* Consult with application developers, systems administrators, and management to demonstrate security assessment results, explain the threat presented by the results, and consult on remediation.
+* Communicate security issues to a wide variety of internal and external “customers” to include technical teams, executives, risk groups, vendors, and regulators.
+* Stay informed on current security trends, advisories, publications, and academic research that is relevant our organization
+
+**What we are looking for**
+
+Whether you have a broad knowledge of all-things cybersecurity, or if you are specialised in certain areas, then we want to hear from you. Some of the key areas to note are:
+
+* Network security, including Linux and Windows infrastructure
+* Application security, mobile applications, APIs, thick clients, etc.
+* Social engineering with phishing, vishing, and in-person engagement experience
+* Coding, scripting, reverse-engineering & debugging
+* Deploy and managing attack infrastructure for stealth operations
+* Teach and mentor other engineers, within the Red Team and beyond
+* An adversarial mindset - you must be able to put yourself in the mind of the attacker
+* Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner
+
+We are always looking to speak to great people. If you seem like a great fit, we will invite you to a call, even if there aren't any openings as we are growing and will be looking to bring people in over the coming months. So, if you're interested in joining, please reach out! We look forward to getting to know you!
+
+**Benefits**
+
+Aside from working with some of the most talented and passionate people in the industry we can also offer you:
+
+* A fully remote (working from home – ‘anywhere in the world’) role with only the need to travel to client sites when in-person meetings are required, or we are running our quarterly meetups.
+* You will not have to use a word processor for report writing – we deliver the results of our endeavours through our bespoke online portal.
+* A culture born of vulnerability research. Reporting missing HTTP headers and SSL/TLS weaknesses, and outdated software patch versions is just ‘noise’ in our view. We focus on the actual point of compromise and continually look for new ways to breach our clients.
+* Work when you want – That does not have to be a 9-5, but we ask that the job is done well, and core meetings are attended online.
+* Software, hardware, and research materials are not bound by strict limits. If you need a resource to deliver to the best of your ability, we will aim to accommodate this.
+* Unlimited Training – If it is relevant and will help you, your Hive team, and CovertSwarm to better breach and educate our clients, then you can do whatever training you need to fulfil this.
+* Unlimited Holiday – We all need downtime, take it, whenever you need it. There are no prizes for burnout. You work to live, not live to work.
+* Private Medical Insurance.
+* Company Pension.
+* Access to our Electric Vehicle salary sacrifice scheme (UK residents only).
+* If you present at a major infosec event/hacker conference, then we will pay your expenses and give you a bonus to reflect this. We want to give back to this great community that continues to help us all.
+* No corporate politics – The continued growth of CovertSwarm as a business, the team, and the quality of our services depends upon us being radically candid with one another. Always.
+
+We pay good salaries, have a brilliant culture, and some of our Board are hackers, too! However, if you are just chasing the biggest pay packet, or are driven by your ego, then we are not for you, and you are not for us.
+----------------------------------------------------------------------------------------------------
+ID: lr8gygo # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: # Penetration Tester - RedTeam Pentesting GmbH - Aachen, Germany (on-site)
+
+# About RedTeam Pentesting:
+
+Founded in 2004 RedTeam Pentesting helps numerous national and international companies in performing penetration tests for a wide variety of products, networks, websites and applications. By focusing solely on penetration tests RedTeam Pentesting is able to provide high technical skill and impartial advise to our customers.
+
+# Your Job:
+
+In challenging and varied projects for our customers you and a team of experienced penetration testers will uncover new vulnerabilities in classical IT systems and new technologies. Creativity and unconventional approaches are part of your job. You present the results of the penetration tests to our customers and advise developers and management in how to deal with the uncovered vulnerabilities. The location of the job is Aachen, Germany.
+
+*Please note that we can only consider candidates with both excellent written and spoken German skills, as we need to be able to precisely explain technically complex vulnerabilities and the resulting consequences to our clients, who may not even speak English at all.*
+
+# What we offer:
+
+* Very diverse projects
+* Extensive preparation for your new role
+* Working in a team with experienced penetration testers
+* Active involvement in decisions
+* Pleasant and modern work environment
+* Insights into varied technologies and companies
+
+For more information on working for RedTeam Pentesting visit our [website](https://jobs.redteam-pentesting.de).
+
+# How to Apply:
+
+**Apply directly** [**here**](https://jobs.redteam-pentesting.de/#start)
+
+If you have any questions prior to applying feel free drop us an email or just give us a call.
+----------------------------------------------------------------------------------------------------
+ID: lrvbixx # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: At Doyensec we are looking for one more **Application Security Engineer** for our team**:**
+
+-100% remote, **based in US or EU (mandatory)**
+
+- apply here: [https://www.careers-page.com/doyensec-llc](https://www.careers-page.com/doyensec-llc)
+
+Our clients are some of the global brands in the tech and startup communities. We help them secure their software and systems by providing information security consulting services (pentesting, reverse engineering, product security design and auditing). 
+
+We are looking for a highly experienced security engineer to join our consulting team. We perform gray-box security testing on complex web and mobile applications. We need someone who has proven testing skills across multiple languages and environments and can hit the ground running. If you are good at crawling around in the ventilation ducts of the worlds most popular and important applications, you probably have the right skillset for the job. Experience developing code and tools is highly desirable, along with the ability to support the growth of fellow engineers.
+
+We offer a competitive salary in a supportive and dynamic environment that rewards hard work and talent. We are dedicated to providing research-driven application security and therefore invest 25% of your time exclusively to research, where we build security testing tools, discover new attack techniques, and develop countermeasures.
+
+**Responsibilities:**
+
+* Security testing of web, mobile (iOS, Android) applications
+* Vulnerability research activities, coordinated and executed with Doyensec's founders
+* Partnering with customers to ensure the projects objectives are achieved
+* Leading projects and supporting engineer growth
+* Conduct cloud based audits on popular cloud platforms
+* Provide support and guidance for clients concerning app and cloud security configuration, hardening and industry best practices
+
+**Requirements:**
+
+* Ability to discover, document and fix security bugs
+* Your are passionate about understanding complex systems and can have fun while doing it
+* Top-notch in web security. Show us public research, code, advisories, etc.
+* Eager to learn, adapt, and perfect your work
+
+**We offer:**
+
+* Remote work, with flexible hours
+* Competitive salary, including performance-based bonuses
+* 25% research time (really!)
+* Access to high-visibility security testing efforts for leading tech companies
+* Possibility to attend and present at various security conferences around the globe
+* Paid time off (32 days/year in total)
+* Company retreats, get together budget, Co-working budget
+* Health insurance (in US only)
+----------------------------------------------------------------------------------------------------
+ID: lr5h6uz # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: **Microsoft, Senior Security Engineer**
+
+*Azure AI Platform Security*
+
+
+The Azure AI Platform security team is seeking a Senior Security Engineer to help us safely usher in the next frontier in AI technology. If you have experience performing security assessments, penetration testing, threat modeling in cloud computing environments, and you are eager to secure the future of AI, we would love to speak with you! 
+
+ 
+In this role, you'll partner with product engineering teams to assess the security of their services and ensure that we live up to our security promises. You'll plan and manage your own security engagements, from enumerating the attack surface, setting up a test environment, evaluating the design and testing the implementation for security deficiencies, and providing your findings and recommendations for remediation. As you discover systemic issues and anti-patterns, you will be empowered to propose and drive solutions that raise the security bar across multiple services by eliminating entire vulnerability classes. 
+
+ 
+You should be comfortable reading and understanding code to analyze implementations for potential security vulnerabilities and inform your penetration testing. Familiarity with common web penetration testing tools such as Burp Suite or other intercepting proxies will be necessary. As you dive deep into a given service, you will examine all layers of the OSI stack for the service, ranging from the web UI, the API, the cloud environment, cluster orchestration, and Linux-based nodes and containers. You'll have the opportunity to amplify your impact by suggesting product improvements that provide customers with a paved path to security by default. 
+
+ 
+Because of the breadth and depth of this role, we do not necessarily expect candidates to have deep experience in all relevant dimensions of the security stack, and security engineers new to the AI space are encouraged to apply. We seek well-rounded individuals, and we leverage each other as appropriate to create a well-rounded team. While technical fundamentals are important, the ability to navigate both technical and organizational ambiguity, go deep in unfamiliar domains, independently develop subject-matter expertise, and build trust with partner teams will be required to succeed in this role. 
+
+
+*Qualifications*
+
+
+* 5+ years experience performing security assessments and penetration testing 
+* 3+ years experience securing cloud computing environments
+* 3+ years experience with one or more of C#, Python, Rust, or JavaScript, PowerShell 
+
+
+The typical base pay range for this role across the U.S. is USD $117,200 - $229,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $153,600 - $250,200 per year.
+
+
+Note that this is only base salary - you will also receive an equity grant in the form of RSUs and an annual bonus.
+
+
+If you're interested, you can send me a direct message on reddit, or apply directly via our [careers site](https://jobs.careers.microsoft.com/global/en/job/1774365/Senior-Security-Engineer).
+
+
+This job is open to remote candidates, but you must be based in the US, willing to align to roughly PST timezone working hours, and have existing authorization to work in the US. Visa sponsorship is not available for this role. If you prefer to work in the office either full or part time, relocation to the Redmond, WA area is available.
+----------------------------------------------------------------------------------------------------
+ID: luislq0 # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: this looks great opportunity for me - just sent an application!
+----------------------------------------------------------------------------------------------------

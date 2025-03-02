@@ -1,0 +1,41 @@
+POST ID: 1es50r1 / POST TITLE: RCE in Windows IPv6 Stack (CVE-2024-38063)
+====================================================================================================
+> An unauthenticated attacker could repeatedly send IPv6 packets, that include specially crafted packets, to a Windows machine which could enable remote code execution.
+
+POST COMMENTS:
+====================================================================================================
+ID: li50nol # OF UPVOTES: 7.0 SUBREDDIT: netsec
+COMMENT TEXT: And no, windows firewall will not mitigate.
+----------------------------------------------------------------------------------------------------
+ID: li4bplj # OF UPVOTES: 7.0 SUBREDDIT: netsec
+COMMENT TEXT: Disabling IPv6 or installing the new Windows patches released yesterday will mitigate this.
+----------------------------------------------------------------------------------------------------
+ID: li82apl # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Is any POC available?
+----------------------------------------------------------------------------------------------------
+ID: li63y2a # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Anybody found a article with a patch diff analysis?
+
+I’m suspecting it’s a IPv6 to IPv4 format conversion size length issue but would like confirmation.
+----------------------------------------------------------------------------------------------------
+ID: li9x2p8 # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: what about router
+----------------------------------------------------------------------------------------------------
+ID: li68bjj # OF UPVOTES: 3.0 SUBREDDIT: netsec
+COMMENT TEXT: Review this MS article for a few of the issues that disabling IPv6 on special types of Windows Servers can cause.
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/configure-ipv6-in-windows
+----------------------------------------------------------------------------------------------------
+ID: li8acxv # OF UPVOTES: 3.0 SUBREDDIT: netsec
+COMMENT TEXT: They explicitly did not release a PoC at this time.
+----------------------------------------------------------------------------------------------------
+ID: liza5by # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Someone on Twitter was able to reverse engineer it using information available: 
+
+https://x.com/RobelCampbell/status/1824134678317580561
+
+Though he only provided rough description, not POC. I'd imagine anyone with good knowledge of IPv6 implementation would be able to do the same.
+----------------------------------------------------------------------------------------------------
+ID: licmlis # OF UPVOTES: 0.0 SUBREDDIT: netsec
+COMMENT TEXT: Hopefully. But one machine compromised inside the network, and they all go.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+POST ID: 11ffxex / POST TITLE: Russia’s Viasat Hack Exposed Satellite Industry’s Security Flaws
+====================================================================================================
+https://www.bloomberg.com/features/2023-russia-viasat-hack-ukraine/
+
+Interesting read on an OT hack. VPN misconfiguration. Paywall.
+
+POST COMMENTS:
+====================================================================================================

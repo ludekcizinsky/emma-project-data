@@ -1,0 +1,21 @@
+POST ID: 17ia9iz / POST TITLE: How do i start learning about cybersecurity.
+====================================================================================================
+Right now i am in my first year of engineering by seeing the demand and my interest in technology i had made my mind to start learning about cybersecurity.
+I want to know that what things should i understand before learning cybersecurity and from where.
+And where i can get knowledge and build skill which is essentially in cybersecurity , and which is the best certs to go for to become a professional cybersecurity expert. 
+Help me to find my way to get a good decent job as a cybersecurity expert.
+
+POST COMMENTS:
+====================================================================================================
+ID: k6szuz4 # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn in depth networking all the layers( CCNA is a good course and Jeremy’s IT lab does a good job of teaching it.) learn Linux, learn scripting, learn assembly. That should keep you busy for a year or more.
+----------------------------------------------------------------------------------------------------
+ID: k6taznx # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Visit Tryhackme.com. Select the absolute beginner path and start there. You’ll need to pick a specialization for specific career advice/certifications. If you are positive this is what you wanna do a Computer Science degree is recommended if you’re just starting school.
+----------------------------------------------------------------------------------------------------
+ID: k6y1bcq # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme.com is a good start. They have a learning section that will introduce you to all fields in cybersecurity. Give details of what you would do and what your day to day job would be like. Then it has more advance sections. Note you will have to put in a good bit of time into them. Cyber security in general isn't easy and there is a lot of material you will have to learn. But as the comment says above, learning networking, TCP/IP model, and how information traverses through a network is a MUST. I am a year and 7 months into my journey. Everyday there is something new to learn. Whether it be a new tool, a new vulnerability, or even a different way to gain elevated privileges on a compromised system. Oh yeah, if you haven't started yet, you need to know linux!!!!
+----------------------------------------------------------------------------------------------------
+ID: k75p08g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your valuable reply bro. I will definitely work upon this.
+----------------------------------------------------------------------------------------------------

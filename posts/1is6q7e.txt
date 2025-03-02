@@ -1,0 +1,26 @@
+POST ID: 1is6q7e / POST TITLE: Exploit Found in Elon Musk’s X Allows Unauthorized Access to Grok-3 AI
+====================================================================================================
+A newly discovered exploit in Elon Musk’s X platform allows users to bypass access controls and gain unauthorized access to Grok-3 AI by manipulating client-side code.
+
+**How the Exploit Works:**
+
+* A JavaScript snippet modifies the window object in the browser, searching for references to "grok-2a" and replacing them with "grok-3".
+* Running the script in the browser console before starting a new chat tricks the system into granting access to Grok-3 features.
+* The exploit takes advantage of poor client-side security, bypassing intended restrictions.
+
+**Security Violation:**
+
+This attack violates [Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/), one of the most critical security flaws. Instead of enforcing access restrictions server-side, the system relies on client-side controls, making it vulnerable to manipulation.
+
+**Why This Matters:**
+
+* Unauthorized users gain access to restricted AI features.
+* Client-side security flaws expose vulnerabilities in X’s AI platform.
+* Proper access control should be handled server-side to prevent exploitation.
+
+*Exploiting this vulnerability may violate X’s terms of service and pose security risks.*
+
+👉 **Full details and discussion:** [Original Post](https://x.com/singIemode/status/1891264835855196508)
+
+POST COMMENTS:
+====================================================================================================

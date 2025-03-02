@@ -1,0 +1,38 @@
+POST ID: 1148zmc / POST TITLE: certification question
+====================================================================================================
+am looking to get into ethical hacking as a career. what certifications will i need besides ceh to get a job. what would be the best ones to have on resume
+
+POST COMMENTS:
+====================================================================================================
+ID: j8v2rnc # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Comptia's A+, Net +, Sec + would be a great start. they also offer more advanced stuff like CASP + and/or Pentest + would also be helpful. some past interviews i've done they asked about CISCO certifications, I don't know any at the top of my head and don't have any myself.
+
+a quick edit: another certification to look into CISSP, which is another cert i've been asked if i had in past interviews.
+----------------------------------------------------------------------------------------------------
+ID: j8v2y2h # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP is probably the most respected one. You'll have to actually be able to exploit different machines for it. CEH reputation has gone down recently
+----------------------------------------------------------------------------------------------------
+ID: j8vw439 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Personally I wouldn't want to do CEH as its not really practical. I am just about to graduate from uni and during my studies I did the ejpt cert and OSCP. ejpt Is definitely a good starter and I recommended it to everyone on my course, with these certificates I was able to have a job lined up for when I finish uni so they definitely would get your foot in the door atleast for an interview. I would like to take the PNPT by tcm security but it's not as well known yet but there course material is very good and I know they have a new certification that includes mock job interviews and is all about careers in cyber as well as actually doing a mock pentest
+----------------------------------------------------------------------------------------------------
+ID: j9bp3ri # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would suggest any day to go for CEH. Not just latest tools and techniques, but you'll learn even to think like a hacker from one of its outcomes. And I did read the latest version comes with CTF's more labs than any other training program. And, its a great cert to get the attention of any hiring managers to get you a job soon as you you Certify. OSCP is a great cert, but OSCP is specialised in penetration and CEH for ethical hacking; there is a difference between the two. So CEH wide range will explore you to allow for multiple job roles.
+----------------------------------------------------------------------------------------------------
+ID: j96nm6x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah right now i am just starting out learning it basics then will be getting into the hacker and pentest stuff. Would a hacking and pentest certification be enough to land a job or will i also need some comptia certs?
+----------------------------------------------------------------------------------------------------
+ID: j9gelw8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Be prepared to remortgage or sell a liver or a kidney to fund it though
+----------------------------------------------------------------------------------------------------
+ID: j9gemcp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Be prepared to remortgage or sell a liver or a kidney to fund it though
+----------------------------------------------------------------------------------------------------
+ID: j96o4wv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: was looking into the tcm courses, seems like they would be good but unsure if they would be enough to get job.
+----------------------------------------------------------------------------------------------------
+ID: j9bpl83 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Couldnt agree more, bro! go for CEH.
+----------------------------------------------------------------------------------------------------
+ID: j9d33hm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: its always good to have additional certs. you don't want only CEH, or Pentest +. having multiple certs shows a well rounded and well experienced person.
+----------------------------------------------------------------------------------------------------

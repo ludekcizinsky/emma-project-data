@@ -1,0 +1,22 @@
+POST ID: 11v9xyw / POST TITLE: need help assigning zombie port to host
+====================================================================================================
+Hello all, I am on the path to becoming a certified ethical hacker and am learning how to set up a botnet. My goal is to infect my laptop with my desktop and mess around with it remotely. I have a RAT and need help setting up the port. Attached are the directions for the RAT and the prompt when i run it. I have the zombie file but do not understand what port to use and how to set it up. I probably sound very new; that is true and why I am here. Thanks in advance!  
+
+
+\----  
+Command Prompt: Please Enter Your Listening Port:
+
+\----
+
+RAT Instructions:  
+
+
+When starting the server, it will prompt you for a listening port. This is the port that you need to use in the command-line for infectedfile.exe (im renaming that).   
+When run, it searches for the first two arguments (IP & Port). If neither is provided, the program doesn't run. With that being said, make sure you provide the  server's IP and Port in the command-line arguments. Example: infectedfile.exe 127.0.0.1 27015  
+\---
+
+  
+
+
+POST COMMENTS:
+====================================================================================================

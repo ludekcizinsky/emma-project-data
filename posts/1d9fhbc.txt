@@ -1,0 +1,39 @@
+POST ID: 1d9fhbc / POST TITLE: Help on evaluating the cost of a bug for a bug country program 
+====================================================================================================
+Hello all! 
+
+I recently discovered a bug on a platform with over 6mil users with over 500k followrs in one social , 250 million impressions, 190 million accounts interactions, 2mil followers in tiktok etc, they're a startup that couples months ago raise 3 million in seed funding and they're been features in new york times and have a big network of investors like celebrities and top VCs. 
+
+The platform is basically a fully trained chatbot comnected with chatgpt and couple other tools for all website & all social media. So through several  command promts (although they had mechanisms to prevent that and it took me a while), I made it mention, the whole workfollow by detailed step by step guide even where and what node.js code , the exact pieces of code used,, all the platforms involved tools and like everything step by step and how each tool is used and what code is used on each step. Like if a competitor can access it they can replicate in exact whole startup technical wise.
+
+Basically this is their whole product / USP and they depend on that
+
+The startup offers 200€ to reward for this bug as their bountry program and wanted to know based on your experience if this a fair reward for the above bug? I'm asking cause I'm a CS & Computer Engineering student and this would be my first bug bountyr program that I'll participate.
+
+
+Thank you all looking forward to your reply!
+
+Edit: I meant country program in thr title, sorry its bad autocorrect
+
+POST COMMENTS:
+====================================================================================================
+ID: l9adj4k # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Congrats on the find! I'm in my first year of CS and can't wait to be in your boat >:) 
+
+I think (my inexperienced opinion) negotiation compensation is absolutely fair. This would go for tradesmen, labourers and any money for service job where a discovery could make the job harder, or in your case, the findings to be much more serious then expected. 
+
+You could've potentially saved the entire company.
+----------------------------------------------------------------------------------------------------
+ID: l7gkx3i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In my experience, the fair reward is the one that the company is offering.  If the bug is that big of a deal, they'll recognize it and possibly award more for reporting it.  The ethical thing is to \*not\* turn a bug bounty report into a negotiation, you most certainly can though if that's how you choose to do things.
+
+The couple of times I've found something substantial, my report has (always) included the severity and the possible implications if exploited, and I was compensated fairly without my trying to put a price to it or even asking for a higher bounty.
+----------------------------------------------------------------------------------------------------
+ID: l9ahchc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I hope you finding a bug too! Just keep messing around with stuff :)
+
+At least that's how I found it lol
+----------------------------------------------------------------------------------------------------
+ID: l7hrlq2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I see thanks for the feedback!
+----------------------------------------------------------------------------------------------------

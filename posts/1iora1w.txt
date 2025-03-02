@@ -1,0 +1,15 @@
+POST ID: 1iora1w / POST TITLE: Entra ID Enterprise App Admin Consent scope options
+====================================================================================================
+Hi,
+
+At my company we have received a number of software reciew requests for Entra ID Enterprise apps each of them asking us to Grant Admin Consent for various permissions to read directory, files etc. 
+
+Most of the apps will only be used by small number of people. We can restrict which users will be able to access the application but, correct me if I'm wrong, that does not impact the permissions  defined when granting admin consent, the app would still have acess to all user data for example if that permission were defined.
+
+When granting app/api/graph permissions can you scope for a defined set of users?
+
+Thanks for reading, appreciate any help here.
+
+
+POST COMMENTS:
+====================================================================================================

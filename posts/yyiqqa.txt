@@ -1,0 +1,28 @@
+POST ID: yyiqqa / POST TITLE: How do you discover new and upcoming pentesting tools?
+====================================================================================================
+Looking to stay relevant and discover new tools that aren't industry known. Anything to test and poke around with. I'm looking for blogs, users and subreddits to follow, GitHub repos, anything!
+
+POST COMMENTS:
+====================================================================================================
+ID: iwxlvrk # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can't rely on others to do the research for you. Use your OSINT skills and automate alerts to your self on new repos.
+
+Mine goes to an ELK stack, along with all the other info I constantly scrape the web for.
+----------------------------------------------------------------------------------------------------
+ID: ixbk6t1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: infosec.exchange mastodon server is pretty good
+
+Prior to that, I'd say twitter.
+----------------------------------------------------------------------------------------------------
+ID: ixmktct # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: ixcerma # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Never heard of the mastodon server until now. Thank you for that!
+----------------------------------------------------------------------------------------------------
+ID: iynxpt0 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is exactly what I was looking for. I appreciate it!
+----------------------------------------------------------------------------------------------------
+ID: ixchs25 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Very welcome! It’s a pretty recent thing
+----------------------------------------------------------------------------------------------------

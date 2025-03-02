@@ -1,0 +1,29 @@
+POST ID: 1divk0h / POST TITLE: Tips for beginners 
+====================================================================================================
+Hello! I'm in school right now for networking and cybersecurity, but I think I'm leaning towards becoming an ethical hacker. 
+
+I am very new to pretty much everything regarding computers. Right now I'm just working as a technician, which is honestly really easy (I just started about a month ago so I'm on pretty simple stuff like downloading OS and accessing bios) 
+
+Are there any tips for beginners, along with some tools I might need later on? 
+
+I also have never hacked before, and have a small background in programming. Does anyone have YouTube videos suggestions that give tips, maybe walk throughs? I have some books I'm reading, but I'm more of a visual learner. 
+
+POST COMMENTS:
+====================================================================================================
+ID: l97bd66 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The first piece of insight I share with people. Anyone in cyber wants to be an ethical hacker. It’s fun, exciting, and you run along the line of crime and law. Start with being familiar with data laws, Ferpa, HIPAA, NIST standards. My long term goals are to become a Cybersecurity Threat Researcher. But my general opinion is, start at the bottom and work your way up. You can’t breach a server without understanding the systems they have in place. What is Apache vulnerable to? How is it configured, what OS? How can this impact its security architecture? What about ssh, how is it configured, what if telnet is open and used(please no, but I’ve seen it)? How can you get around a FMC? If you want to go the more traditional Social Engineering route, how do you collect employees data, how to set them up? What leading questions to ask? How about CIS benchmarks, build a secure system and run your own tests on yourself. But my biggest recommendation, start with networking, learn how packets work, how firewalls work, how antivirus works, why things DONT work. And how can they be leveraged to be exploited. If your more hands on, I’d say read something like BlackHat Python, or even Linux Security Hardening books. These tools will give you granular details on exploitation and how it can be prevented. Think around that and find a way to bypass the preventions. And work both ends to learn the most on security configurations and then how they may be breached (hint. End users will NOT be the ethical hackers best friend. It’s a common stipulation that social engineering is out of scope for bug bounties.
+----------------------------------------------------------------------------------------------------
+ID: l96vc9x # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.codelivly.com/so-you-want-to-be-a-hacker/
+----------------------------------------------------------------------------------------------------
+ID: l96jt74 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Strat on tryhackme. It’s free
+----------------------------------------------------------------------------------------------------
+ID: l9ak757 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Being on reddit is already a good thing. I started a little ago and i use CTFs like tryhackme but reading some reddit posts i also a good practice from my point of wiew. Good luck!
+----------------------------------------------------------------------------------------------------
+ID: l9b9m0o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have some knowledge of networking (we did ipv4 last semester, now we're on ipv6) but tbh I struggle a bit to wrap my head around it all. I definitely need to sit down and really go through it all, since I know that plays a big part in pentesting. 
+
+But this was all super helpful information! I'll have to add everything to my list to go through
+----------------------------------------------------------------------------------------------------

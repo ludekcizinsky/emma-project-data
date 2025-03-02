@@ -1,0 +1,21 @@
+POST ID: 1fpx916 / POST TITLE: Cybersecurity from scratch?
+====================================================================================================
+Hello , I am currently pursuing my second year of B.Tech in Computer Science. I am not enjoying my college life at all. The 9 to 4 college routine, the teachers, and my classmates are all demotivating me. It is not because of the subjects because I enjoyed studying the same subjects during my diploma in CS. I am interested in the cybersecurity field and want to learn everything from scratch about cybersecurity while somehow managing my B.Tech degree. I am feeling dumb while doing B.Tech. Please help me; what should I do?
+
+POST COMMENTS:
+====================================================================================================
+ID: lp18nl8 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start with networking concept first then make a move to next step
+----------------------------------------------------------------------------------------------------
+ID: lpchba0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go to the Cisco learning site. You will find cybersecurity free course. Start from the basics.
+----------------------------------------------------------------------------------------------------
+ID: lpmsvgy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi. https://academy.hackthebox.com/ … if you have a .edu email you can sub for 8 usd month. Just research in youtube about it .. its all hands on learning, with labs !
+----------------------------------------------------------------------------------------------------
+ID: lvee3h3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Immerse yourself in everything that has to do with ethical hacking: Linux, Python, Networking, HTTP basics, Windows Command prompt. Take it a step at a time. Keep learning. Keep moving forward. Soon, you will know more than you know now. You can only go up.
+----------------------------------------------------------------------------------------------------
+ID: lqqu7k7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yup! Remember to get get a vm on a separate computer, just to be safe! As others have said, proxy chaining is useful as well but takes time to set up effectively.
+----------------------------------------------------------------------------------------------------

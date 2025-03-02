@@ -1,0 +1,14 @@
+POST ID: 165vjku / POST TITLE: Competition questions
+====================================================================================================
+I hope this is the right place to ask a question like this! I have been in cybersecurity and IT for a number of years professionally, mostly on blue team but as of late have acted in more of a purple team role. Pentesting has always been quite fun for me, and as of late I’ve been feeling the desire for competition and community. This has lead me to discover there are pentesting/ethical hacking competitions and teams. However, my question is this something mostly for students and younger members of the field, or is there any such competition for normal 8-5 workers trying to get into this side of things?
+
+POST COMMENTS:
+====================================================================================================
+ID: jyibmww # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you go to ctftime.org you'll find pretty much every hacking competition going on globally. A lot of them will have prizes specifically for kids and students, but there are also usually prizes for best team/individual.
+Having a full time job does cut into the time you can spend on the competition (I'm in the same situation), but there are many that last for a couple of days, Down Under CTF for example starts tomorrow and goes through to Sunday, so you'll be sure to find something that will fit your timetable
+Hope this clears things up a little, happy hacking!
+----------------------------------------------------------------------------------------------------
+ID: jyibpv0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you so much for your help!
+----------------------------------------------------------------------------------------------------

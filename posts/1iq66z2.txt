@@ -1,0 +1,8 @@
+POST ID: 1iq66z2 / POST TITLE: Wiz Defend, Cortex Cloud: Who handles detection & remediation?
+====================================================================================================
+Who is looking at these new products? What are you considering them for? SaaS apps or IaaS/containerized? What’s the workflow for handling & remediation? Alerts in the SOC > dev teams? IT ops?
+
+Just curious who the intended audience is for these products and how you might be considering using them in your org.
+
+POST COMMENTS:
+====================================================================================================

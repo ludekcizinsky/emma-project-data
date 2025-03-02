@@ -1,0 +1,28 @@
+POST ID: 17htdfx / POST TITLE: Solo freelance hacking jobs?
+====================================================================================================
+Hi there everyone,
+
+For anyone that does solo freelance jobs in hacking, what are your go-to sites to find jobs? Are there any employment sites that you had bad experiences, and advise against? I'm speaking specifically about people who don't work on a team of course. Preferably easier, novice-intermediate jobs.
+
+&#x200B;
+
+If you feel inclined, you can also describe your experience as a freelance hacker vs teams or full-time employment. Which do you prefer?
+
+&#x200B;
+
+Thank you so much!
+
+POST COMMENTS:
+====================================================================================================
+ID: k6wgu46 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I contract for a company that contracts for Rapid7. Works well for me.
+----------------------------------------------------------------------------------------------------
+ID: kbzeyih # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: How has your experience been with Rapid7? I've recently discovered it on a network and have been trying to study it a bit.
+----------------------------------------------------------------------------------------------------
+ID: kc4qjgx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pretty good overall. They have well established policies so when I do tests for them just need to follow suit. The reporting process is harsh but makes you a better tester.
+----------------------------------------------------------------------------------------------------
+ID: kc5bjux # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting. Thanks for the response.
+----------------------------------------------------------------------------------------------------

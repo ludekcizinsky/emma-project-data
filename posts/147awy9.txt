@@ -1,0 +1,73 @@
+POST ID: 147awy9 / POST TITLE: Non tech guy here
+====================================================================================================
+I am new here and just curious about making a career in ethical hacking.
+Commerce bg having basic computer knowledge. BBA graduate. What are the things I need to follow up with as to make a career in this field? 
+Im confident i can do atleast coding basics and other components but not sure where to start from. Any books, sites, courses?
+How many years till I start earning?
+Is CEH certification tough??
+
+Sorry for asking alot! 🫡😅
+
+POST COMMENTS:
+====================================================================================================
+ID: jnuxb78 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CEH is a trash certification. You need foundational knowledge in Computer OS, networking (especially this), and a security fundamental background. EC-Council’s CEH cert may get you through HR but any competent hiring manager will likely pass you over with only a CEH.
+
+Start with you A+, though you can skip this if you have some basic computer knowledge, but focus on the Network+ and the Security+.
+----------------------------------------------------------------------------------------------------
+ID: jnwhha8 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As mentioned previously I'd start with A+ certification to get an understanding of how computers work. Them maybe network+ or security+
+
+There are plenty of free content on YT also.
+----------------------------------------------------------------------------------------------------
+ID: jnwxvxl # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm an absolute beginner myself trying to transition from the physical security domain to cybersecurity, with penetration testing being the goal in a couple of years.
+
+You may want to take a look at The Cyber Mentor's "the cheapest path to becominig an ethical hacker" video. He literally just uploaded it about three hours ago. And there are many more videos on "how to become an ethical hacker" or titles such as "ethical hacker roadmap" on YouTube. I found "So you want to be an Ethical Hacker Roadmap 2023" really helpful - again by The Cyber Mentor.
+
+If you are a beginner, you may also want to take a look at (ISC)² Certified in Cybersecurity, but it's very basic.
+
+I find TryHackMe a lot of fun for learning. Hack The Box is rather hard for me, but their HTB Academy is also a great place to learn.
+
+I'm not A+, Network+ or Security+ certified, but have these on my list. Not necessarily all the certifications, but picking up the knowledge. In the end, it's about the learning.
+----------------------------------------------------------------------------------------------------
+ID: jnut6ce # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey! Commerce student here too, look out for institutions near your place that offer diploma in cyber security.
+Those institutions offer to teach you CEH, bug bounty hunting and more with study material so it will help you.
+Other than that all the ceh online courses like udemy etc are useless imo .
+----------------------------------------------------------------------------------------------------
+ID: jo8h0cn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I wouldn't worry about not having amazing tech skills.
+
+I recently did a job involving some forensic analysis of a bunch of systems trying to recover passwords and credentials. I was working with some, supposed, heavy hitters who had been at the boxes for a week and they found nothing.
+
+I rocked up and did a search across the file index for "password" and up popped about a dozen files containing passwords.
+
+Dudes spent so long thinking the machines belonged to Moriarty that they forgot the basics.
+
+Half the battle with cybersecurity is common sense.
+
+Its important to think like a hacker not a techie. Especially don't think like a techie who thinks he's a hacker that thinks like a techie. :)
+
+Most of the time you'll be dealing with pretty unsophisticated stuff.
+
+That said, I started out as a security enthusiast, let's say, in my teens (over 20 years ago)...then a lot of stuff in the space that made money became illegal (like finding open hotspots and knocking on doors), so I became a techie and now I'm a security analyst.
+
+Half of the problems we have todah, like a massive shortfall in experts, is due to ham fisted dumbassery back in the day that made shit dubious from a legal standpoint.
+----------------------------------------------------------------------------------------------------
+ID: jnxevfh # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Good luck on your journey to PenTesting. I’ve spent the better of three years studying and sharping my skills specifically for pentest; and I’ve been turned down on nearly 40+ applications as a PenTester.
+
+TryHackMe is a great resource for learning the basics, and HackTheBox is definitely a challenge. Keep at it and keep learning; just don’t get discouraged if you keep getting shut down on the interview process.
+----------------------------------------------------------------------------------------------------
+ID: jnyltxy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This cleared everything. Thanks buddy. ❤️
+----------------------------------------------------------------------------------------------------
+ID: jnylwao # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would follow.  Thanks
+----------------------------------------------------------------------------------------------------
+ID: jo6xkeu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot, MilesDEO. All the very best to you, too. It seems to be a rough journey. At the moment, I have the luxury of treating it as a hobby, although I would love transitioning to it professionally and getting paid for what I'm interested in and enjoy doing. I think that's what a lot of us beginners strive for.
+
+Best of luck! You'll succeed in the end.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+POST ID: zd9u4n / POST TITLE: "Minority Report" attack risks
+====================================================================================================
+I am sorry if this is something completely stupid, I am an IT worker but not a security / pentesting specialist so please ignore if you like or enlighten me if you can. Also, spoilers alert about Minority Report film, sorry for that, could not find a better analogy.
+
+Today I've connected to an account of mine with a new device. A few minutes after I've seen a standard e-mail from the service I was using that said "A new connection detected. If it was you, please ignore, bla bla". Very common thing, right? I've assessed the situation, said to myself that all is ok and deleted the said e-mail and continued my day. 
+
+But what if it was the "minority report" kind of message? For those who are not familiar with it: a minority report in the eponym book / film is the message that is a duplicate message that might usually be safely deleted since it doesn't contain any useful information. However, such a message might be something else and being mistaken for a duplicate.
+
+So, let me imagine a bad scenario: someone manages to have my password, waits for me to request a connection from a new device, proceeds to a connection at the same time, it generates an e-mail notification which feels legit. E-mail is removed and an attacker remains connected longer than they would otherwise.
+
+Is this something completely unrealistic or just something difficult to set up so it cannot be used in the real life?
+
+POST COMMENTS:
+====================================================================================================

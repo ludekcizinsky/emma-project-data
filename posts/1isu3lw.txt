@@ -1,0 +1,18 @@
+POST ID: 1isu3lw / POST TITLE: Need advice on selecting a SIEM/MDR solution - Looking for questions to ask vendors & recommendations
+====================================================================================================
+Hey everyone,
+
+I work as a junior security engineer at a sports clinic with a headcount of about 1,600 people in Midwest. Currently, I'm the only security person on the team along with our deputy CISO, and I’ve been tasked with bringing in a SIEM (as well as MDR) solution for our org. We do work with an MSP for SOC but we want to build out our own space as well.
+
+We’ve been looking at the usual big names in the space like Crowdstrike, Rapid7, ArcticWolf, and Splunk. However, as someone with limited experience in rolling out security products for an organization, I'm not entirely sure what I should be focusing on or what questions I should be asking these vendors during scoping calls.
+
+It’d be super helpful if anyone here can share what kind of questions you asked or what things I should absolutely be looking for in a SIEM and MDR solution.
+
+Also, if any of you have worked with these vendors (or others), it’d be great to hear about your experiences and what you would recommend. If you’ve worked with a similar-sized company or had to wear multiple hats like I am, any advice would be much appreciated!
+
+Thanks in advance, I’m excited to learn from all your experiences.
+
+**TLDR:** Junior security engineer tasked with selecting a SIEM and MDR solution for a 1,600-person clinic. Looking for vendor recommendations (Crowdstrike, Rapid7, ArcticWolf, Splunk) and key questions to ask during scoping calls. Any advice or experience would be greatly appreciated!
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,44 @@
+POST ID: 1c0hxrq / POST TITLE: Privilege Escalation with SSH Non-Root Account cannot execute /bin/bash when Sudo Su is ran
+====================================================================================================
+I'm currently working on a school assignment and trying to gain root access in SSH so that I can complete it properly. I have access to a non-root user, but when I do sudo su, it claims it cannot be executed. What are any workarounds for gaining root access? Or, what files and information should I look for? The target's only open ports are FTP, SSH, and Apache. I used msfconsole to enter the vulnerable version of FTP to gather the user. I then ran a brute-force password list assault to obtain access to the non-root account for my assignment. Once signed in, I'm required to gained root access. I'm just not sure what to try. I've tried browsing through files and watching web videos to figure out what steps to take to gain root access, but so far my efforts have yielded no results.
+
+POST COMMENTS:
+====================================================================================================
+ID: kzc0j6o # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://gtfobins.github.io/gtfobins/less/
+----------------------------------------------------------------------------------------------------
+ID: kywpdyr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s many, many things you can try. You need to do enumeration. Linpeas is a great enumeration tool for this if you have access to internet on the machine and automates a lot of the checks. You will however need to understand the output https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS.  Here’s is a good checklist you can follow. Since it’s for school it’s likely something simple to exploit: https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist
+----------------------------------------------------------------------------------------------------
+ID: kywt5br # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [Unix PrivEsc Check](https://gitlab.com/kalilinux/packages/unix-privesc-check) is a good one if the machine has Internet access, I usually just get the script and execute it and check the output for any warnings.
+----------------------------------------------------------------------------------------------------
+ID: kzc49of # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you I figured it out from all the comments and help!
+----------------------------------------------------------------------------------------------------
+ID: kywpm9i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If I had to guess, you probably have sudo access to a vulnerable binary that can be leveraged for privesc given the right input. Try “sudo -l” to see what you have sudo access to
+----------------------------------------------------------------------------------------------------
+ID: kywtq53 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ll be sure to check this out I haven’t heard of this thank you!! I’ll let you know if I’m able to figure it out with it this definitely helps though!!
+----------------------------------------------------------------------------------------------------
+ID: kywtnrs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I ran sudo -l earlier I’ll send you my output that I got when I get back to my computer in about 20 minutes but my access seemed pretty restricted I came across linpeas earlier when research and plan to attempt that next thank you!!
+----------------------------------------------------------------------------------------------------
+ID: kywx1li # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: See if any are in this list https://gtfobins.github.io/
+----------------------------------------------------------------------------------------------------
+ID: kyyhxc4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I tried using linpeas and anything I could understand and attempt unfortunately did not work I tried most of the exploits and checking the files the scan presented any thing specific you believe I should look for.
+
+also here's what sudo -l provides me
+
+Matching Defaults entries for rick on ctf470pro:  
+env\_reset, mail\_badpass, secure\_path=/usr/local/sbin\\:/usr/local/bin\\:/usr/sbin\\:/usr/bin\\:/sbin\\:/bin\\:/snap/bin, use\_pty  
+  
+User rick may run the following commands on ctf470pro:  
+(ALL) NOPASSWD: /usr/bin/less
+----------------------------------------------------------------------------------------------------
+ID: kyz1qdq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The answer is right in front of you. Refer to the link you responded to for gtfobins
+----------------------------------------------------------------------------------------------------

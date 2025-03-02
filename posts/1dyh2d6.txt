@@ -1,0 +1,144 @@
+POST ID: 1dyh2d6 / POST TITLE: AUTOMOD IS IN EFFECT
+====================================================================================================
+Good news everyone, We have the automoderator up and running. currently its set to delete posts from brand new users (that are like less than a day old, we may adjust this), users with 0 or negative karma, remove comments and posts that contain some banned keywords (who remembers that time we were getting spammed with crypto bullshit? yeah, no more).
+
+in addition to post and comments that are attempting to look for, hire, or offer the services of a hacker in any kind of way, based on keywords will be removed. if any slip through please message the moderator team so we can look at it and refine the list
+
+another auto mod removal feature, is it will remove posts with just a title only and nothing in the body, we consider this being lazy, put some effort into your posts as giving more information will allow us as a community to help you better, (most regular users here don't have to worry about this).
+
+  
+If any of your posts or comments were removed, and you feel it was done in error please message the moderator team so we can take a look at it and see if it was a valid removal or if it was done in error. this also applies if you have any additional feedback on how we can refine the automod, such as adding rules or lessening the restriction on others let us know.
+
+POST COMMENTS:
+====================================================================================================
+ID: lc8ikgk # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if anyone wants a list of the banned keywords,
+
+- "$zks"  
+  - "airdrop"  
+  - "airdropping"  
+  - "ape"  
+  - "apecoin"  
+  - "coin"  
+  - "ethereum"  
+  - "facebook"  
+  - "insta"  
+  - "instagram"  
+  - "nft"  
+  - "porsche"  
+  - "rolls royce"  
+  - "sea token airdrop"  
+  - "token"  
+  - "ig"  
+  - "fb"  
+  - "btc"  
+  - "bitcoin"  
+  - "₿"
+
+- "hire hacker"  
+  - "hire ethical hacker"  
+  - "need hacker"  
+  - "need ethical hacker"  
+  - "looking for hacker"  
+  - "looking for ethical hacker"  
+  - "offering hacker services"  
+  - "offering ethical hacker services"  
+  - "hacker for hire"  
+  - "ethical hacker for hire"
+
+  
+
+(this next set is more pertaining to comments advertising hackers, so it may need to be refined a little bit)
+
+- "message"  
+  - "dm"  
+  - "hacker"  
+  - "hack services"  
+  - "hack"  
+  - "ethical hacker"
+----------------------------------------------------------------------------------------------------
+ID: lc8lx8i # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hopefully this will be a game changer 🧐
+----------------------------------------------------------------------------------------------------
+ID: lc8l36l # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: About damn time.
+----------------------------------------------------------------------------------------------------
+ID: lc945py # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not gonna lie when I saw facebook and instagram keywords are banned I got a little hot and bothered
+----------------------------------------------------------------------------------------------------
+ID: lc9daju # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Noice!
+----------------------------------------------------------------------------------------------------
+ID: m1c7d87 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: m8kxk8i # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hacking service
+----------------------------------------------------------------------------------------------------
+ID: lc982dt # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks!  I'm curious what caused those two car brands to make the list.
+----------------------------------------------------------------------------------------------------
+ID: lmkfsp8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lmly1xf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lm8o7qn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Looks like it changed it for you today 🤣
+----------------------------------------------------------------------------------------------------
+ID: lc8pt2m # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah its taken a bit of time, there is only 3 mods and we all have our own personal lives.
+----------------------------------------------------------------------------------------------------
+ID: lcat78k # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeeeaaaahhhh as you can see the automod is pretty sensitive for those words lol. we're hoping it will cut down on the "oh can someone help me get "my" account back?!" posts.
+----------------------------------------------------------------------------------------------------
+ID: lcaohk4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You and me both, u/_sirch!
+----------------------------------------------------------------------------------------------------
+ID: lcab1fj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why’s that? (for feedback purposes)
+----------------------------------------------------------------------------------------------------
+ID: m1dc623 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This post is not related to ethical hacking and has been removed.
+----------------------------------------------------------------------------------------------------
+ID: lc9lb4k # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Crypto currency was being named after them and it was being spammed in this subreddit last year. Took like a week for us to get it all blocked.
+----------------------------------------------------------------------------------------------------
+ID: lmkfspx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lmly1z0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lm8r3of # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 😂
+----------------------------------------------------------------------------------------------------
+ID: lc8pxat # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if it wasn't for you guys this place would've been a **skids** playground.
+----------------------------------------------------------------------------------------------------
+ID: lcaba9h # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Poor choice of words I meant it in a good way! I’m so sick of seeing those posts, yall are doing great work.
+----------------------------------------------------------------------------------------------------
+ID: lm8r4h5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 🤣🤣
+----------------------------------------------------------------------------------------------------
+ID: lc8qdhg # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah, thats one of the reasons why i applied to moderate this subreddit. even after its like 10-20 posts a week of people looking for hackers. we will probably still see a few of them, and if you do let us know so we can refine the automod code a little bit to catch them better.
+----------------------------------------------------------------------------------------------------
+ID: lcabecv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh ok lol just making sure!
+----------------------------------------------------------------------------------------------------
+ID: lc8qjg0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I always report one when i see it. don't mind me, just keeping this sub alive.
+----------------------------------------------------------------------------------------------------
+ID: lc8qn2h # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: appreciate it!
+----------------------------------------------------------------------------------------------------
+ID: lc8qz20 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Very much welcome. A few months ago, this sub was actually useful. I gained some knowledge from it. Some advice, some tutorials, some useful tools, etc etc... but now it is full of people asking to give their socials back.
+----------------------------------------------------------------------------------------------------

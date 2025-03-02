@@ -1,0 +1,26 @@
+POST ID: 13u3oz2 / POST TITLE: Tutorial Request: Creating an Access Point on macOS using Python - Ethical Hacking
+====================================================================================================
+Hey fellow hackers and tech enthusiasts,
+
+&#x200B;
+
+I've been diving into the world of ethical hacking lately, and I'm interested in learning how to create an access point (AP) using Python on macOS. Specifically, I want to set up an AP named “Faculty” with the password “test1test2”. Additionally, I'd like to log any attempted passwords from users who try to connect with a different password. To ensure security, I also want to automatically stop everything after one minute.
+
+&#x200B;
+
+If any of you have tried something similar or know of any GitHub repositories or tutorials that cover this topic, I would greatly appreciate your guidance and insights. 
+
+&#x200B;
+
+I'm excited to learn more about this specific aspect of ethical hacking and understand how to set up an access point on macOS using Python. I believe it will be a valuable skill to have in my ethical hacking toolbox.
+
+&#x200B;
+
+Looking forward to your recommendations, and suggestions, and if you prefer, feel free to teach me directly. Thanks in advance for your help!
+
+&#x200B;
+
+Happy hacking!
+
+POST COMMENTS:
+====================================================================================================

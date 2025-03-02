@@ -1,0 +1,57 @@
+POST ID: 19df6e2 / POST TITLE: Where to start with no experience in red/blue/purple hat ?!
+====================================================================================================
+I know this has to be the most asked question, but I would like to know what is the Dr. Suess/Old Mc Donald class of cybersecurity I can take , book to read or video to watch that would help me understand of any of those hats , when I am watching cyber forensic videos on YouTube I’m so confused , even tools like nmap confuse me cause I don’t understand the open tcp stuff , I just need a sense of direction that would help me from a kindergarten level lol
+
+POST COMMENTS:
+====================================================================================================
+ID: kj5ny36 # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 0 experience in the IT world? A+ to Network+ to Security+/CySA+ in terms of CompTIA courses/certifications.
+
+If that's not your jam, then find beginner networking courses, because you need to be able to understand the fundamentals of how systems are connected and what security devices exist out there.
+
+First and foremost, check out the stickied thread in the sub, because there's info there that is *exactly* what you're looking for on how to start entering the realm of cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: kj5k4it # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme has free beginner lessons
+----------------------------------------------------------------------------------------------------
+ID: kj67sje # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start learning the basics. For example about networks, layers and stuff. 
+
+There is zero chance of being successful, if you do not know the basics.
+----------------------------------------------------------------------------------------------------
+ID: kjb3m7p # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I like the Five Pillars of Information Security from dfirmadness as a starting point:
+https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+----------------------------------------------------------------------------------------------------
+ID: kj82nm7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey thanks , yes I have zero experience in the IT field, I thought it was as easy as those YouTube tutorials say it is, I just know it’s for clicks now , I have a couple of computers that I put Kali and parrot on the hardware and another one that I only use for VM’s but outside that I have no understanding of what I’m looking at and what I should be looking for . I’m so green lol
+----------------------------------------------------------------------------------------------------
+ID: kj832pm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks , I just made an account today, do you believe the beginner lessons on Tryhackme are geared towards non experienced people or no ?
+----------------------------------------------------------------------------------------------------
+ID: kj83fpi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey thanks , I’m going to start a playlist looking for those few suggestions.
+----------------------------------------------------------------------------------------------------
+ID: kj8cizm # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Get some easy to hack OS and install them on virtual drives to get a lab environment. You can use old win systems like unpatched XP or something like Metasploitable, which is a intentionally vulnerable Ubuntu. 
+
+You can start in the network and learn about nmap to gain some information about the network and connected devices. Just as an example.
+----------------------------------------------------------------------------------------------------
+ID: kj85qmr # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Absolutely. It’s the best place to start out of any material I’ve ever seen. You can build a solid foundation just off this site then go off other places and start to get certs
+----------------------------------------------------------------------------------------------------
+ID: kj89rps # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s also a beginner path you can start there
+----------------------------------------------------------------------------------------------------
+ID: kj9uc4c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is your opinion about Metasploitable 2 on VM ? , I recently saw a video on it , but I don’t trust rapid 7 or sourceforge sites , i downloaded the file and gave up afterwards I been having trouble with the Zip files on windows 11 , I had signed up for the windows zip 30 day promo , 3 days in to having this un-zipper and I still wasn’t able to extract it to my files to add to my VM , instead it wanted me to purchase the year subscription , is it any other alternative 7zip file I can use ?
+----------------------------------------------------------------------------------------------------
+ID: kj9uctr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is your opinion about Metasploitable 2 on VM ? , I recently saw a video on it , but I don’t trust rapid 7 or sourceforge sites , i downloaded the file and gave up afterwards I been having trouble with the Zip files on windows 11 , I had signed up for the windows zip 30 day promo , 3 days in to having this un-zipper and I still wasn’t able to extract it to my files to add to my VM , instead it wanted me to purchase the year subscription , is it any other alternative 7zip file I can use ?
+----------------------------------------------------------------------------------------------------
+ID: kj9uls2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you I very much appreciate your help , once I get off work I’m definitely going to set everything up and post my questions and my solutions
+----------------------------------------------------------------------------------------------------
+ID: kjbgjw7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I don't know. But there is also Damn Vulnerable Linux.
+----------------------------------------------------------------------------------------------------

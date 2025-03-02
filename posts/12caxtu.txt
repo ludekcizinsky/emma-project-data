@@ -1,0 +1,27 @@
+POST ID: 12caxtu / POST TITLE: ways to hack a computer
+====================================================================================================
+I'm new to the cyber security field and on the way of gaining knowledge 
+
+So correct me if I'm wrong because it will also help me gain more knowledge
+
+Theugh my understanding i understood that these are the following ways through which we can gain access or hack the computer
+
+1. Through services
+2. Through user's by social engineering
+3. Through os
+4. Through kernel
+
+
+As I said I'm a rookie I'm looking for your help
+
+POST COMMENTS:
+====================================================================================================
+ID: jf1kd7j # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There’s a pinned thread at the top of this subreddit called “Resources for Beginners”. You should start there.
+----------------------------------------------------------------------------------------------------
+ID: jf265ym # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are a lot of factors that help you get access of the victim's computer. The stages you have mentioned may come into play all together.
+----------------------------------------------------------------------------------------------------
+ID: jf5h8wb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can I get a rough guess of these factors
+----------------------------------------------------------------------------------------------------

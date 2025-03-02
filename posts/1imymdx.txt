@@ -1,0 +1,10 @@
+POST ID: 1imymdx / POST TITLE: Are there any Public Domains to do Web App Pentest Legally?
+====================================================================================================
+Hey guys, so I’m a fresh Grad in Cybersecurity. I want to do something to not have a gap in my cv, post grad.
+
+I’m thinking of doing freelance work to small companies on their websites, or maybe I can do my own web app pentest on public domains that are legal to pentest. Any suggestions?
+
+Also platform like hackerone, buggcrowd can it be also utilized by us grads? Or is it only for experienced people?
+
+POST COMMENTS:
+====================================================================================================

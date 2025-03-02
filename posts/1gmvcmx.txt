@@ -1,0 +1,9 @@
+POST ID: 1gmvcmx / POST TITLE: Networking through an upcoming event
+====================================================================================================
+To the point: I am a senior communications engineer student and my University is hosting a small ethical hacking event. In this event, students are encouraged to do a showcase in which they demo a specific kind of attack. I wish to demo -in a sandbox environment with WSL and VMs- a LotL attack to simulate data exfiltration, ideally I would like to use Mitre's CALDERA tool to be professional, all this in the spirit to cause a good first impression to recruiters and break into the scene. 
+
+  
+What could be a specific setup and TTPs for this kind of showcase I hope to perform? Also, once my showcase is done, I still have to be part of the event, what tips would you guys give me to ease into the recruiters and network correctly?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,16 @@
+POST ID: 1ini6fx / POST TITLE: Bypass all DLP Data Protection from the CrowdStrike browser extension - Edge
+====================================================================================================
+Currently as of todays date:
+
+You can egress files and copy and paste protected clipboard data to any site that you have opened up in the edge sidebar
+
+Bypassing all DLP Data Protection from the CrowdStrike browser extension
+
+This is likely possible in other sidebar extensions in chrome
+
+Edge Sidebar appears to circumvent security measures that CrowdStrike try and implement
+
+So if you use this feature be sure to disable sidebar in Edge via GPO  as they make no note of it at Crowdstrike (Even after I raised the issue to them)
+
+POST COMMENTS:
+====================================================================================================

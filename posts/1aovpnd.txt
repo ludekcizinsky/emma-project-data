@@ -1,0 +1,23 @@
+POST ID: 1aovpnd / POST TITLE: Wanting to start practicing Ethical Hacking at home.
+====================================================================================================
+I want to sharpen my ethical hacking skills by doing some at home labs n my spare devices. I’ve been doing some research and the most important thing I see when getting started is making sure my computer has a good processor, enough ram, hard disk space, and Linux. I was thinking about buying a Dell precision 3660 and was wondering would I be able to conform that to a fully Linux system and I how would I go about doing that. Would it be better to do Kali Linux, Red Hat, Ubuntu, or Majara? Thank you in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: kq38mxc # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No need for a new computer. VMware player with the custom Kali Linux image. Your time would be better spent on a site like tryhackme, hackthebox, proving grounds, metasploit unleashed, picoctf, virtual hacking labs, etc. TCM academy has a class/free video where you build an AD lab then attack it that is also fantastic.
+----------------------------------------------------------------------------------------------------
+ID: kq2z4hv # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kq7ecfi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What? You don't need a computer with good processor, much RAM etc. Linux runs almost everywhere. You can use a pi for example or any old netbook. Who told you that you need such a good PC?
+
+Depending on what you are going to do you may need some better hardware. Or just more time.
+----------------------------------------------------------------------------------------------------
+ID: kq3lsgu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wowww THANK YOU FOR THIS. I currently have hack the box and try hack me but I have yet to hear of the other recommendations. Thank you
+----------------------------------------------------------------------------------------------------
+ID: kq5du6g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: post has been removed for rule violations.
+----------------------------------------------------------------------------------------------------

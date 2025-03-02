@@ -1,0 +1,39 @@
+POST ID: 1029cn3 / POST TITLE: Advice about potential career shift
+====================================================================================================
+Hi there !  
+I'm a self taught web developer with 2 years of experience in startup (mainly javascript / react / front-end stuff).  
+I figured it out 3-4 month ago that web dev is not what I really like, particularly front-end dev (I also tried back-end but it seems so boring).  
+
+
+My question is is it worth to take a look at ethical hacking ? I mean, web dev doesn't excite me a lot but  it's easy to find a new job, the pay is good, I can work from my home ( I never worked at an office).  
+Will I be able to find a job only with certificate and as a self taught ?
+
+I'm looking for advice from people that already are in the business and also if some of you are self taught or ex web developer, it would be really nice to leave me your feeling about ethical hacking  
+
+
+Thanks a lot !
+
+POST COMMENTS:
+====================================================================================================
+ID: j2s7lym # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi, I am self taught in ethical hacking without experience in web dev. This is defenetaly an asset for you. Certifications are a plus if you are self taught. I got my job as self taught but it was not easy especially as a junior. The competition is really high. Also, are you sure you want to work as an ethical hacker? The idea is cool but you need to put in a lot of effort and work. Learning will never stop. Many people when they hear 'learning never stops' think it is easy. It is not.. You can try it and decide if it is for you or not. If not you can go back to web dev.
+----------------------------------------------------------------------------------------------------
+ID: j2tjkgl # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hacking is one of those things that you're generally better off if you're born with that type of mentality. It's not to say that you can't learn the tools or how to use them, but to stand out you have to think like a hacker. Just the fact that you're asking for other people's advice tells me that it's not already something that's in your personality currently. My advice would be to first find out what it is that inspires you. And then pursue that goal.
+----------------------------------------------------------------------------------------------------
+ID: j2vstwh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hi, thanks for your reply !  
+I do not aim for a job as ethical hacker only because it is cool.  
+I'm looking for something that I can put many efforts in to achieve great things. Web dev seems quite limited in those terms in my opinion.
+
+I feel like web dev is level 1 of programing/tech, the entrance ticket in this world but if you are too much curious and ambitious, you will need to swap. (again, in my opinion)
+
+I'm also used to learn 24/7, web dev and my self taught background gave me this habits !
+----------------------------------------------------------------------------------------------------
+ID: j2vt73s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for your reply !  
+My goal isn't to just learn tools and use them, this looks quite boring !  
+I'm a curious person and I want to learn.
+
+I'm asking people's advice because with my experience as a self taught, I know that the best resource you can get from far is from person who are already in the business. Also, I didn't asked for courses, cert or other things I can find in 2 words on google, I was looking for experiences return from experienced people to get their opinion on this job (something I can't just google)
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,88 @@
+POST ID: 1itcu4f / POST TITLE: Earning Thousands, Yet Still Struggling to Land a Job!
+====================================================================================================
+I've been a BB hunter and freelance pentester since 2022, earning over $10,000 in bounties, along with additional rewards from directly reporting to companies.
+
+Just a few days ago, I made $1,000 by reporting an SQL injection vulnerability directly to a company.
+
+I’ve made many Python scripts and BurpSuite plugins and have solid experience with popular pentesting tools like BurpSuite, Metasploit, Nmap, and SQLMap. To top it off, I’m even ranked top 1 in a public HackerOne program.
+
+Despite all this, I haven’t secured a SINGLE interview, let alone a position at a company.
+
+Shouldn’t these skills be enough for (at least) a junior pentester role? I just wanna know what I’m doing wrong.
+
+I was mostly applying to remote jobs, but even after applying to small local companies, I was also ignored lol.
+
+What made me write this post is seeing people on twitter landing jobs like it's nothing. Is it the certificates, connections, or they're just better?
+
+[Here's my CV](https://i.ibb.co/zVj4PJcW/nnnnnnn.png), which ChatGPT said was good enough.
+
+POST COMMENTS:
+====================================================================================================
+ID: mdo2b2d # OF UPVOTES: 289.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: - You don't have 3 years of professional experience so should update that section to accurately reflect your experience and what you're looking for. 
+
+
+- Work experience should be above the list of competencies. 
+
+
+- Include a section with personal projects such as links to CVEs, research, public disclosures, or open source tools you've worked on. Those would be a big advantage if you're trying to move from bug bounty to corporate job 
+
+
+- Be more explicit in what you've done and what the result was. "Automated things with Python" doesn't tell a hiring manager much; "Wrote Python tool to automate detection of X vulnerability, resulted in Y findings/fixes" is more effective.
+
+
+
+
+The combination of red team, entry level, if you need remote work or a work visa also make it harder no matter how good your resume is.
+----------------------------------------------------------------------------------------------------
+ID: mdod2j8 # OF UPVOTES: 69.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The number of available red team roles vs. the number of people who want to get into it is _very_ lopsided against you. 
+
+When some folks say “cybersecurity is hard to get into”, they mean exactly this. Cybersecurity as a _whole_ is in demand, but mostly on the blue team side, which is not “exciting”.
+----------------------------------------------------------------------------------------------------
+ID: mdo2w98 # OF UPVOTES: 56.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: ChatGPT isn't a recruiter or hiring manager. Your experience bullet points are far too vague. They read more like "this is the description of my role, rather than "these are the things that I've accomplished". Most of the details you have written down can be inferred by the hiring manager/recruiter by just reading your title. This is a relatively common mistake in more junior CVs.
+
+
+Instead, use those bullet points to outline the impact of the findings that you've made. You found a SQL injection vulnerability, reported it, and got a successful payout, but I see no mention of that here. *Include that*. Don't name the company, but what kind of data was in that database? PII? PCI? Health records?
+
+
+As a non-pentester, a rough example could be, "Identified vulnerable, publicly accessible database containing *X* entries of customer PCI data. Reported through appropriate company channels receiving payout and remediation confirmation" reads much better than "Identified and reported high-impact vulnerabilities on multiple platforms".
+
+
+Your resume/CV should be marketing YOU, not your job description.
+----------------------------------------------------------------------------------------------------
+ID: mdo06xz # OF UPVOTES: 67.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Honestly, your first bullet on the CV isn't true, so I'd immediately toss it and move on to the next.
+
+  
+\*edit for positive spin\* You do clearly have the skills to be in the security field, please keep trying, I think it is just your CV and applying to the right roles.
+----------------------------------------------------------------------------------------------------
+ID: mdo91v4 # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You're only real selling point, aside from your degree, is bug bounty hunting. Unfortunately, whilst almost everyone in the industry is aware of BB, far fewer are familiar enough with it to have a clue whether your bounty achievements are noteworthy or mediocre. Recruiters and hiring managers, often faced with 100s of CVs at the first sift, like candidates that are easy to quantity. Experience is easy to work with. The organisation(s), role(s) and length of service give them a good measure of the candidate. Same with reputable certifications. BB is in the same league as home labbing. It could mean a great deal or very little. It could be the cherry on top for a candidate that is already in the running but on it's own it's just not enough. If you could demonstrate you are an exceptional bounty hunter (e.g. top X% on a major program) things might be different, though 10k over 2 or 3 years doesn't make it sound like you're a hot shot. 
+
+The other issue with BB is that it's very much a one (wo)man in their bedroom activity. It gives no assurance you have many of the attributes employers value like work ethic, interpersonal skills etc.
+
+Long story short, you're simply not the attractive candidate you think you are. Get some actual professional experience, even if it's general IT rather than security, and pick up a select few reputable certs.
+----------------------------------------------------------------------------------------------------
+ID: mdo29da # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As others pointed out, you need to get some real experience before calling yourself a professional. While the freelance stuff is cool and speaks to your skills, your resume shows that you haven’t had a job, where as plenty of people have that freelance experience AND a day job, which will make them the preferred candidate.
+----------------------------------------------------------------------------------------------------
+ID: mdodzox # OF UPVOTES: 9.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Some tips:
+
+- Put "DAST" and "SAST" in your skills list, lots of recruiters look for those keywords.  
+-  Instead of web application security testing, just put application security testing.  Since most testers are doing both API and web app testing.  Unless you don't have experience testing API's.  
+- Under language proficiency, just list English and Arabic.  By mentioning Arabic is your native language, companies may assume you need sponsorship.  If looking for US jobs.  
+- Mention burpsuite under tools.  
+
+Plus what others have mentioned already.
+----------------------------------------------------------------------------------------------------
+ID: mdo1t78 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You sound like you have some great skills. Even better you’ve applied them I. The real world with success. 
+I’d expand on this, if you’ve successfully submitted bug bounties did any of them have a cve issued? 
+Your resume needs work. Apologies if you feel it’s good enough but it does need some work. 
+I suggest finding your nearest cyber meetup, industry event or trade show and go to it. Look for workshops that can help with your resume. 
+You’ll not only get help on making yourself look good on paper but you’ll also build your network of people. 
+The latter is invaluable in our industry. Trust.
+----------------------------------------------------------------------------------------------------

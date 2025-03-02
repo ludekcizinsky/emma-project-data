@@ -1,0 +1,16 @@
+POST ID: 1f0okpm / POST TITLE: Internal default credential list viewable to all; 'serious issue' or no?
+====================================================================================================
+I work for a relatively large company that uses SharePoint. Recently someone on the IT side of things accidentally did something that resulted in a company wide email, lately I have been getting a lot of phish test emails so when I encountered this latest one I poked around a bit and discovered that it was a legitimate accident, however while doing so I found that SharePoint showed some recent files that the individual has access to, one of which being a spreadsheet containing first/last names, email addresses, and default passwords for some of the online tools we use, I sent in a support ticket to IT to tell them about it, and for now that is where the story ends.
+
+Is something like this anything to sneeze at, or am I just a jumpy idiot who played with a leet haxxor distro one too many times and sees flaws that aren't actually a problem? My logic is that while sure, a handful of company email addresses probably is a non-issue, there are also many personal addresses listed and they're probably getting used all over the place by the owner. The form is also accessible to everyone in the company; I don't do anything even remotely related to IT and I can't see any reason why they wouldn't lock down the permissions any tighter on something like this. Is the Principle of Least Privilege as big as the THM courses would have you think, or is the application far more nuanced in practice? 
+
+POST COMMENTS:
+====================================================================================================
+ID: ljtxjl9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: ljtxjmy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

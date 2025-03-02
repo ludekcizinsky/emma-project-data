@@ -1,0 +1,17 @@
+POST ID: 12erprg / POST TITLE: Neewb PY question..
+====================================================================================================
+So I've written my first keylogger in python, to get a password to our own equipment that  the original installer wants to charge 400 dollars an hour remotely for "out of warranty assistance".
+
+So I am able to run it through the code editor, and it works fine, I just want to run it in the background where when they log in remotely the won't be able to tell its running.. How do I go about finding out how to do this? 
+
+Thanks for the help!
+
+POST COMMENTS:
+====================================================================================================
+ID: jfcotoz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why do they still have access to your equipment if you’re out of warranty?
+
+I’m pretty sure there are laws against locking you out of products you own, so either you lie or they’re breaking laws.
+
+https://www.cyberciti.biz/faq/linux-hide-processes-from-other-users/
+----------------------------------------------------------------------------------------------------

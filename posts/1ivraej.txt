@@ -1,0 +1,48 @@
+POST ID: 1ivraej / POST TITLE: Automotive company - Cyber security certification
+====================================================================================================
+Hi everyone,
+I want to open a company in automotive engineering services to work for OEMs and engineering companies.
+I know that I need to be cyber security certified to be allowed to work with them.
+
+I want to have a rough idea of how much it will cost me to have a cyber security certified IT infrastructure.
+
+Can one of you help me ? 
+
+POST COMMENTS:
+====================================================================================================
+ID: me83d1t # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What certificate is required?
+
+Wait is this a certificate to prove you are qualified, or a certificate to prove the business meets industry standards?
+----------------------------------------------------------------------------------------------------
+ID: me8o0ts # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I suggest looking at ISO 21434 if you are targeting the automotive sector.
+----------------------------------------------------------------------------------------------------
+ID: meai9a4 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Where are you hearing these specific requirements? Have you spoken with potential customers in the space and heard directly from them that these are hard requirements?
+----------------------------------------------------------------------------------------------------
+ID: me87dmp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's a certificate to prove the business meets industry standards. 
+I know the requirements include at least the following standards:
+Iso 27001
+Iso 27017
+Iso 27018
+ISAE 3402 
+SOC2
+----------------------------------------------------------------------------------------------------
+ID: me8nhwx # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks.
+What do your customers and regulatory authorities require? This might be in contracts, or their due diligence questionnaires they perform. You may be able to get by with just good processes and no actual certification for a while. 
+
+ISO27001 surveillance audits and certs can be up to £15,000 for the initial audits for a small to medium. Business... As they'll do readiness reviews and then the audits which can take a few days. Smaller companies may be less but it's severals days of audits. The first audit is the most expensive. 
+
+Theres two Soc2... Type 1 and 2. 2 is expensive and long but type one may cost around £5,000 per TSC audit. I assume you'll want only one (security) first. 
+
+This is only for audits....actually doing them requires staff or consultancy. 
+
+Sounds expensive yes? Figure out what your customers actually require of you. As a small business you might not need all of it straight away and can possibly build a plan or roadmap and that might satisfy your customers. They may also offer help and guidance as apart of their supply chain. 
+
+There are cheaper first steps. Both the US and UK govts have a Cyber Essentials scheme... Go see CISAs cyber Essentials for a self attestation you can do.
+
+Edit: consultancies may be able to tell you they can get you an ISO for £2k but usually that's just a cheap consultancy who gives you a cookie cutter style set of policies and a handful of Excel spreadsheets. It doesn't cover the cost of the audits, nor the time you and your staff will need to spend preparing and with the audits, or the audits themselves.
+----------------------------------------------------------------------------------------------------

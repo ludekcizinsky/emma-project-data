@@ -1,0 +1,11 @@
+POST ID: 1e3wo2m / POST TITLE: I'd like to get into the hacking industry 
+====================================================================================================
+I'm a 18 year old and thinking what to do ahead...my options are CS or game development but I'd like to introduce myself to hacking... I'd love some suggestions as to where should I start... I'd really appreciate some tips if you guys can give me...🤠
+
+POST COMMENTS:
+====================================================================================================
+ID: lkjoyva # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depending on what type of "hacking" you want to do.  If it is hardware hacking, electrical engineering would be useful. Computer Science would be a better choice then game development if you want to go into cyber security. Depending on the CS classes, you maybe able to pivot to game development if you don't like cyber security.  If the CS class includes programing languages.
+
+There are websites, tryhackme or hackthebox to name a couple, which can give you an starting point with hacking.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+POST ID: 12nh5em / POST TITLE: Crafting broadcast packets that will return me all MAC & associated IP addresses through CLI?
+====================================================================================================
+Hey guys!
+
+I'm in the middle of getting my first offensive cyber certification and I'm really loving it already. I had a question though and was stuck. Is there any way, through the command line, that I can quickly build up my MAC/IP address cache by sending out a single broadcast request? I was think that maybe this might be possible through hping once I had gained local access to the network? This would specifically for network mapping purposes.
+
+I don't want to use a tool because some tools utilize specific signatures that usually set off the internal IDS/IPSs or antivirus. I want to avoid detection at all costs. What would be appropriate here in a completely black box environment? Thanks in advance!
+
+Edit: I realize that I could try and target the router's cache because it would have all ongoing connections. Would this be applicable to my problem? Really just trying to collect information on all active systems in the network. 
+
+POST COMMENTS:
+====================================================================================================
+ID: jgel6qs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: By all mac addresses you mean all the mac addresses of hosts on that specific network? If so, you probably want create (or download) an ARP scanner
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,138 @@
+POST ID: 1dk6lxj / POST TITLE: My progress... What you all think?
+====================================================================================================
+I first heard about ethical hacking by listening to some YouTube video interviewing Jack from DarkNetDiaries podcast. And I was very interested. This was back in Nov 2023.
+
+I tried doing the Google Pro Cyber Security Analysis course and thought I'm a genius and failed miserably as I just went right into the quiz tests.. I moved on with that.
+
+I jumped on my PC that same day and started to search through a site I used a lot and that had a bug bounty program.
+I found a vulnerability within the first 2 hours of my hacking journey and made $2K after my report was triaged and validated.
+
+I then started to listen to NetworkChuck and follow most of Kali Linux tutorials. S3 bucket vulnerabilities and how to use Bash scripting, Nmap and scanning the network, Google Dorking.
+
+I moved back to web application and started to search through more sites and got more vulnerabilities validated.
+
+I had no knowledge of hacking at all before November 2023. Today marked my $8K earning since then in bug bounties. I have done a few VDPs and found very high confidential findings. Again I submitted many ridiculous reports that later I read again and understand how stupid I am 😂 
+
+I listened to all the DarkNetDiaries episodes. I am now going through CriticalThinking podcast and research a lot of what I don't understand.
+I watched and follow NahemSec tutorials and how he hacks.
+I watched ars0n live hacking and sometimes use his framework.
+
+I enrolled last month on the Google Pro Cyber Security Analysis course and have reached to Course 4 of 8 and didn't even flinch. My grades are in the 90's so far. I'm only doing this to quit my boring job that has no relations in computers and at least in anything with computers. I even created a mobile app related to the course that has quiz for networking and everything I need to revise on. Actually use it all the time and it's the best! I even created tcpdump  example scenarios where I have to analyse and answer.
+
+I always wonder am I still far behind everyone? Or am I ahead of time? I have done some ctfs, hack the box, NahemSec. TryHackMe.
+
+I created my own Burp extensions I use myself through chatgpt. I created python scripts that run and analyse website changes. 
+
+The motivation all comes from doing one of the boringest jobs in my life. I'm 36 and work in a forklift job and hate how I'm stuck with thick minded people who have no respect.
+
+My question is... I've done all this in the last 7-8 months while married and got kids and doing a full time job. 
+How do you think I'm going? Should I push more on learning specific things or need to improve or focus somewhere else?
+
+
+Edit:
+Here is my notes for anyone who is interested what I have been writing down on Keep a Google product which is a very good text editor and syncs from PC to mobile in seconds.
+Question marks are what I thougbt I heard but wasn't sure what the speaker is saying sorry you need to do some research.
+
+
+Episode: All You Need To Know
+Check out: Caido - Done
+
+Learn on PortSwigger .
+Website Academy 
+Hacker101
+HackTheBox
+TryHackMe
+PentesterLab
+PicoCTF
+
+Tools:
+Tomnomnom GitHub
+-kss by TomNomNom
+Or Buipe extension Reflector
+Nuclei 3.2...
+JSluise
+
+Due Courses:
+CEH
+Learn JavaScript 
+Google Certified Web Hacking
+
+Hacker101 Learn CTF.
+PEN-TESTER LABS - bug bounties of examples what hackers found.
+
+EVERY BLOG POST I FIND ABOUT BUGS OTHER HACKERS FIND FOR HACKERONE ETC.. 
+
+Learn XSS? -> HTML injection: _testme123 inside iframe
+RCE? $20k-$30k
+Payloads?
+Springboot?
+Content Discovery
+Recon
+Manual hacking 
+Scripts - header (common short words host calling..)
+Subdomain - local IPs. Unrestricted URLs
+XSS hunting 
+Blind XSS
+Turbo Frames and Turbo Streams? 
+Regex DOS
+DomPurifyer
+Use burp to get url pages and then export out & see parameters differences & create a word list.
+Cookie stuffing?
+Post Message tracker
+
+Burp Extension:
+Autorising -
+OnFox - Multi containers in FireFox.
+AutoRepeater - 
+JsMiner - Grab endpoints
+GraphQL - (GraphQL Rider..)
+
+
+Mobile Apps:
+Knox - adb, bridge between laptop & phone
+Freeda?
+Burp suite. 
+(All three above for dynamic testing)
+Decompiling:
+APK Studio
+Device security information stored on device? Is it stored in plain text, shared preferences, cache folder, app folder,
+Msdg guide insights on the device itself.
+Rooted device how to work around - backup the app, put it on another phone. The data extracted can it be accessed. Usually it's only available to the root which can be submitted then.
+
+• Make a node > chatgpt to add info and reflect where it goes and info like the recon folder
+• Crunchbase to find info (don't have to use it) trying to find acquisition of the company 
+• bgp.he.net (find info IP assigned to companies if they get big enough)
+• 
+Automation
+• Metabigor - By J3sieJJJ - To fetch ASN data from bgp.he.net & asnlookup
+• ASNlookup - By Yassine - To fetch data from maxmind.com database
+(Note: Searching for Tesla using the tools above could show up IPs of companies who have Tesla in their name)
+
+
+Bug bounty Programs
+bbradio.io
+
+POST COMMENTS:
+====================================================================================================
+ID: l9icwtx # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Honestly, it sound to me you're waaay ahead than anybody I've read so far but this is coming from someone who currently trying to get into the basic from Alison.com. just to be double sure if this is something I'm into.
+
+And the fact you got 2k from a bounty, I'm jealous lol
+----------------------------------------------------------------------------------------------------
+ID: l9ixlso # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It sounds like you're super far ahead! I'm also going to save this since I am a beginner, and I feel like there's a lot of helpful tips in here! I work as an "engineer" at a computer recycling place (I would barely consider it an engineer position though), but I really want to get into hacking!
+----------------------------------------------------------------------------------------------------
+ID: lf93t3d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: l9kmwoz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check out my original post. I added some very helpful notes and things to research. It's everything I've written while on this journey and it helped a lot
+----------------------------------------------------------------------------------------------------
+ID: l9kmdr4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Great! I'll update my original post so everyone can read and get more tips
+----------------------------------------------------------------------------------------------------
+ID: lf93t51 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

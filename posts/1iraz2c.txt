@@ -1,0 +1,20 @@
+POST ID: 1iraz2c / POST TITLE: A question about AI and the adaptation in the field? Is it comparable now to the way Google was 20 years ago?
+====================================================================================================
+I am entering the industry and I want to know what professionals who have been around in cyber have seen over the last 5 or so years.
+
+I am interested in what has changed in your roles, and what those roles are. I would also really be interested to know what you have noticed in the behavior of threat actors and malicious software/hardware e.c.t.
+
+I believe that while A.I will drive a change in the industry, it will not drive a change in the amount of human involvement needed to maintain systems, but it will change what the involvement is.
+
+As we get access to tools and features for the best interests those same tools can be abused by others and I believe that just as much as google allowing faster access to information merely changed how we work, AI will be the same. But I could be wrong, I am not seasoned at this so I would like to know what you all think about that point of view.
+
+Aswell as that, do you think that it is worth my time to master skills I can get AI to do, such as the deconstruction of code, networks and patterns. Or do I learn to hone a new approach to the profession using AI as in integral part of my toolset, much the same as Google has become an integral part of the industry today.
+
+In your experience, has AI changed the field so much that I am better off learning how to use it and master it, arguably becoming skillful in a "new" way. Or do I learn how to navigate the field without needing to use it.
+
+I don't want to seem as if I am asking "can I use AI, and not my brain". I really want to know what more experienced eyes have seen surrounding the adaptation of AI, and if I should save time moving past certain areas that I can use AI for, and instead focus on things that AI can not be used for. Or if that will hinder me in the long run.
+
+I don't know if that makes sense or not, I am not the greatest at explaining myself but hopefully you all can understand what I am asking?
+
+POST COMMENTS:
+====================================================================================================

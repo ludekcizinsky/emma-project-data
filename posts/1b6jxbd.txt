@@ -1,0 +1,13 @@
+POST ID: 1b6jxbd / POST TITLE: Hyper-V running Kali Linux, Using Win11 as Mainsystem and have Malwarebytes running, will it cause issues?
+====================================================================================================
+ 
+
+Should I encounter any compatibility or functionality issues if I install Malwarebytes Lifetime Premium on my Windows 11 host machine while utilizing Hyper-V to operate Kali Linux for penetration testing purposes? Would you recommend the implementation of Malwarebytes Lifetime Premium in this scenario, or is it advisable to forgo its installation?
+
+note: Pen testing purposes ethically and legally only ofc, student learning, hoping to get job in this profession
+
+POST COMMENTS:
+====================================================================================================
+ID: ktvfsr6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To answer your primary question, no, your AV isn't going to affect your kali vm. To answer your 2nd question about installing MBAM as an AV, no, simply because you don't need to spend money on an AV when you have Defender.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+POST ID: 15zgyrf / POST TITLE: Pentest cert under 700$ to get interviews for pentest job
+====================================================================================================
+I already did eJPT and i am looking for junior or entry pentest job so i need to make another good cert for my CV so i can have a chance to get interviews
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: jxi5xsd # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So pentest+ will get you no where. It's a joke and I havent heard a single company ask for or even hire someone with it. I went and did TCM PNPT for $300 and that got me a job as a junior pentester plus time in cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: jxh9uyf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What all certs do you have?
+----------------------------------------------------------------------------------------------------
+ID: jxmg5p4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You are going nowhere. Certs get you a call, then they hear how dumb you sound, then no interview.
+----------------------------------------------------------------------------------------------------
+ID: jxi7p0r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i prefer hands on certs much better like pnpt yeah but i am seeing that market asks so much for pentest+ even is not hands on cert is just answer some qsts, my goal is oscp and then look for osce3 i really like off sec cert, also can u tell me where r u from?
+----------------------------------------------------------------------------------------------------
+ID: jxhac0s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Only eJPT at this moment
+----------------------------------------------------------------------------------------------------
+ID: jxjid1h # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm from the US. I'm telling you you need one of the following to get hire in this field, PNPT, OSCP, maybe the HTB cert but haven't seen it much. I did PNPT first and I'm about to do OSCP finally and I have found the Active Directory part a complete breeze for the labs. PNPT is much more in depth with AD which has helped me greatly in my job as a pentester.
+----------------------------------------------------------------------------------------------------
+ID: jxhb306 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jxhch0g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What about Pentest+
+
+It’s like $400
+----------------------------------------------------------------------------------------------------
+ID: jxk8dli # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Okey i can see your points, same as me about AD is really impotant for the job, thanks a lot for your help bro i am not from usa also in my country cyber sec jobs doesn't exist here so i have to work remotly or look for sponsor after maybe doing oscp much better
+----------------------------------------------------------------------------------------------------
+ID: jzwnpgw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pnpt all the way! The eCPPT is another good option since you’ve already finished the eJPT and are used to INE training.
+----------------------------------------------------------------------------------------------------
+ID: jxhblsz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If i could pay for +1500$ i will do oscp for sure but i am on 700$ budget
+----------------------------------------------------------------------------------------------------
+ID: jxhcn2j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah i was thinking about it to
+----------------------------------------------------------------------------------------------------
+ID: jxljjus # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I wish you the best of luck!
+----------------------------------------------------------------------------------------------------
+ID: jxhcphg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That would be my solution and comptia is widely recognized.
+----------------------------------------------------------------------------------------------------
+ID: jxhcrxp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: CEH is obviously the big one but later down the road you can get it.
+----------------------------------------------------------------------------------------------------
+ID: jxhcu92 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah for the moment pentest+ is my first solution
+----------------------------------------------------------------------------------------------------
+ID: jxhfb7r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That should help get in the door.
+----------------------------------------------------------------------------------------------------

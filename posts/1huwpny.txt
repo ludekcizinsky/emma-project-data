@@ -1,0 +1,6 @@
+POST ID: 1huwpny / POST TITLE: Argo Workflows - Uncovering the Hidden Misconfigurations
+====================================================================================================
+Over the past year, during our Active Cloud Security Penetration Testing engagements, we have consistently identified a pattern of recurring misconfigurations in our clients' environments, particularly in their Argo Workflows instances. These misconfigurations have created exploitable conditions, allowing us to compromise clusters, escalate privileges, and conduct lateral movements - ultimately gaining Kubernetes Cluster-Admin access.
+
+POST COMMENTS:
+====================================================================================================

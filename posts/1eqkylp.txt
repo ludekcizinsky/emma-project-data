@@ -1,0 +1,19 @@
+POST ID: 1eqkylp / POST TITLE: Need Help with NGROK
+====================================================================================================
+I have created a simple ngrok link to track android device or any device that opens that link.
+
+Now is it possible to somehow create a new link that automatically redirects it to the link I created?
+Or is it possible to merge it in a file discreetly so that when the user downloads the file the link gets open automatically?
+
+Can anybody help me with this ?
+
+POST COMMENTS:
+====================================================================================================
+ID: lhwaddh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can use Link Shorten to create a custom Url where the victim is most likely to click or if you want someone to be redirected to your link after they open a file or soo, I guess you have to create your own file or modify an existing file and add your code that will redirect the victim to your link. Eg : something like a javascript function or a python function that will redirect once the file is open.
+
+Edited : How did you create that link to track someone ?
+----------------------------------------------------------------------------------------------------
+ID: liot0fg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I needs that
+----------------------------------------------------------------------------------------------------

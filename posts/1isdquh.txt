@@ -1,0 +1,10 @@
+POST ID: 1isdquh / POST TITLE: Application Security Engineer responsibilities
+====================================================================================================
+Hi, so I’d like to understand what’s in demand for App Sec jobs these days. I was an app sec engineer for past 6 years with core software development 3 years before that, I was solely responsible for pushing things in my domain. I set up the SAST, SCA, DAST in our CICD Pipeline and reviewed ASVS checklists, security readiness checklists and performed some design reviews here and there. What I didn’t particularly focus on was ISO 27001, Threat Modeling, penetration testing or mobile app security. Purely because my company never showed interest in those things, penetration testing was taken care of by an external vendor. 
+
+Now the dilemma is, my company laid off most of the workforce last month, I’ve been applying to new jobs but there hasn’t been a lot of response, it feels like every JD out there wants an all rounder cyber security person with extensive experience in app security and penetration testing along with deep knowledge of those standards like ISO NIST PCI DSS. And I’m having a tough time catching up with all that. 
+
+Any thoughts or advice for me?
+
+POST COMMENTS:
+====================================================================================================

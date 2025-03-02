@@ -1,0 +1,23 @@
+POST ID: 1c6pzo5 / POST TITLE: Attacking DVWA on Ubuntu from attacker app on Kali Linux?
+====================================================================================================
+Hey guys, a bit of a beginner here. I’m currently doing a project for a Cybersecurity course that requires us to conduct a penetration test. I’m using DVWA as my vulnerable application on Ubuntu. My attacker is Burp Suite and I’m using Burp Suite on Kali Linux. I’m struggling to intercept the login whenever I log into DVWA. It just won’t show up on my Burp Suite.
+
+ Seen a lot of guides online and a lot of them have DVWA and Burp Suite open on Kali Linux but for this project my DVWA is open on Ubuntu and I’d like to conduct an attack from my Burp Suite on Kali. Made sure my Kali Linux virtual machine and my Ubuntu virtual machine are able to ping each other. If anyone can assist me in trying to intercept DVWA on Ubuntu from my attacker application on Kali Linux it would be much appreciated! :) and if this isn’t the right place to discuss or ask for help please guide me to the right direction to get assistance!
+
+
+POST COMMENTS:
+====================================================================================================
+ID: l02v1x9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you load the DVWA web page from Kali Linux? If not it’s a firewall/port forwarding issue. If you can then it’s a proxy issue. You have two options. Use the burp browser to intercept requests which is easier. Or use foxyproxy plugin for Firefox and configure your proxy to whatever port burp is set to.
+----------------------------------------------------------------------------------------------------
+ID: l056l07 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If your kali and Ubuntu can communicate as youve mentioned, run a quick portscan for whichever port is serving DVWA from the Kali machine. Can you see the port open just to confirm connectivity.
+If all is well here, most likely your proxy settings within your browser or burp. In the browser proxy settings need to point to the IP and port that burp is listening on. Within burp, ensure that you are listening on the correct port and the correct network interface. Set or to * instead of local host only for example.
+----------------------------------------------------------------------------------------------------
+ID: l2o3bq6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Set your network proxy to 127.0.0.1 with port 8080 
+
+Refer here; https://portswigger.net/burp/documentation/desktop/external-browser-config/check-browser-configuration
+
+It's a bit outdated article but the method remains the same
+----------------------------------------------------------------------------------------------------

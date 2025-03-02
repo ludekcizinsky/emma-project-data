@@ -1,0 +1,12 @@
+POST ID: 1ism465 / POST TITLE: Auth0 log volume question
+====================================================================================================
+Hey all, 
+
+I’m trying to do some data volume planning for Auth0. 
+
+I’m wondering if anyone can give any insight into their data volume or log size consumption. I understand it’s based on various variables however just wanting to get some data. 
+
+Thanks all. 
+
+POST COMMENTS:
+====================================================================================================

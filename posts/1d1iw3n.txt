@@ -1,0 +1,21 @@
+POST ID: 1d1iw3n / POST TITLE: A little problem
+====================================================================================================
+I am a noob here, I started ethical hacking yesterday, so please help me. I am using hashcat bruteforce attack on my generated hash.
+
+if i use ?l?s?d 
+does it mean that the special character will be tried only on second place and digits will be tried only on third place??
+
+What if I only know that there is only one special character exist in the string but I don't know the place of the string.
+
+What is the command for that one??
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: l5vbx3d # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Read the documentation it’s very straightforward
+----------------------------------------------------------------------------------------------------
+ID: l5vffoq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Use crunch
+----------------------------------------------------------------------------------------------------

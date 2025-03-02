@@ -1,0 +1,17 @@
+POST ID: 1fgj17p / POST TITLE: Learning about ARP poisoning
+====================================================================================================
+Hi all, I've recently started a cybersecurity course and, after a few introductory lessons, I've been randomly assigned with simulating an ARP poisoning attack on GNS3 + Wireshark. They don't expect me to actually bring anything, as we have not tackled the various types of attack yet, but I don't really want to go empty handed as I think it's their way to start assessing the participants since we're all from an IT background.
+
+I have already found a few examples of ARP poisoning code, but I would really appreciate if someone could direct me to some in-depth sources and/or documentation about how it works and possible countermeasures.
+
+POST COMMENTS:
+====================================================================================================
+ID: ln2sl9x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is really easy to google there’s tons of info about it. Here’s 2 links I found that answer your question: 
+https://www.okta.com/identity-101/arp-poisoning/
+
+https://www.varonis.com/blog/arp-poisoning
+----------------------------------------------------------------------------------------------------
+ID: ln2us0k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes I just wanted to be thorough just in case someone had something that I haven't looked at yet, thank you nonetheless for confirming these are valid
+----------------------------------------------------------------------------------------------------

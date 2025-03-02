@@ -1,0 +1,8 @@
+POST ID: 1iswfj8 / POST TITLE: Threat Intel question
+====================================================================================================
+How long realistically should you find an IoC like a domain or IP truly malicious? 
+
+Say you only have a certain amount of IoCs to ingest what’s the best way about making sure you’re cycling them properly? 
+
+POST COMMENTS:
+====================================================================================================

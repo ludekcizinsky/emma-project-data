@@ -1,0 +1,12 @@
+POST ID: 1023wlr / POST TITLE: Code wich encrypt everything after wrong password
+====================================================================================================
+ is there any c++ code or python code for windows, for example if folder password is wrong to encrypt everything like wannacry wirus wich cannt be decrypt, for example bitclocker function when it lock D drive file and need password. if that password will we wrong make virused all files which cannt be recovered is there any way to do this?
+
+POST COMMENTS:
+====================================================================================================
+ID: j2smynp # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You mean like ransomware?
+----------------------------------------------------------------------------------------------------
+ID: j64nfru # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes
+----------------------------------------------------------------------------------------------------

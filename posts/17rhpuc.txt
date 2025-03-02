@@ -1,0 +1,19 @@
+POST ID: 17rhpuc / POST TITLE: What are some must have tools?
+====================================================================================================
+What are some must have tools for ethical hacking? Both software and hardware (e.g. most used Adapters)
+
+POST COMMENTS:
+====================================================================================================
+ID: k8kgorx # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A Decent Laptop with a pentest distro. 
+Hackrf one. 
+Crazyradio. 
+Lock picks/door tools.
+Badge cloner. 
+That covers 99% of use cases.
+
+The best tool is knowledge/training.
+----------------------------------------------------------------------------------------------------
+ID: k8jth9e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 👀
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+POST ID: 1iqycw1 / POST TITLE: How to approach network protocol fuzzing
+====================================================================================================
+Hi I'm trying to fuzz iot protocols for getting into security research.I don't have any experience in security research but know my way around networks and security (seedlabs,exploitedu).I don'tknow how to fuzz protocols to find vulnerability,  how do I approach this as a research topic? My approach wos just read papers but that isn't getting me anywhere.Also what are the prospects in fuzzing research like what can I research by fuzzing iot protocols ,what are possible research areas , what is the chance of me finding a vulnerability using fuzzing approach and what can I infer as research worthy conclusions
+
+POST COMMENTS:
+====================================================================================================
+ID: md418rb # OF UPVOTES: 5.0 SUBREDDIT: netsec
+COMMENT TEXT: Consider starting with Forshaw’s book on the topic - https://nostarch.com/networkprotocols
+----------------------------------------------------------------------------------------------------
+ID: md4pwuw # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: Get your hands dirty, look at boofuzz for example, you could pick a specific protocol and try to write a fuzzer for it. Read the specifications and implement the logic to generate valid requests, then try to mutate them.
+----------------------------------------------------------------------------------------------------
+ID: md7tk6a # OF UPVOTES: 0.0 SUBREDDIT: netsec
+COMMENT TEXT: Very Sexy!
+----------------------------------------------------------------------------------------------------
+ID: md9jh03 # OF UPVOTES: -6.0 SUBREDDIT: netsec
+COMMENT TEXT: \[redacted\]
+----------------------------------------------------------------------------------------------------
+ID: mddfvkd # OF UPVOTES: 3.0 SUBREDDIT: netsec
+COMMENT TEXT: You absolutely do fuzz network protocols looking for vulns.
+
+If a protocol defines a given two-byte field `payloadLength` as the number of following bytes to read in as the payload, then any implementation of this protocol had better be doing bounds checking on that read operation. Failure to do so would be a classic buffer overflow condition.
+
+How you go about that fuzzing can vary, of course, but typically you would target the function doing the read or whatever in a test harness and throw payload modifications at it until you get a crash. From there you can build a reliable exploit.
+----------------------------------------------------------------------------------------------------
+ID: mdeuu51 # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Uhh… fuzzing network protocols is how you most vulnerabilities are found in them.. the hell you talking about ?
+----------------------------------------------------------------------------------------------------
+ID: mddkycc # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: I assume the confusion here is that "fuzzing" is a term adopted by web path dictionary brute forcers (dirb, wfuzz) and such.
+
+Coverage guided fuzzers with protocol specific corpus or lexers are excellent at finding critical bugs. They very often boil down to DOS, but a remote DOS vector is also quite bad.
+----------------------------------------------------------------------------------------------------
+ID: mddpo1e # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: I don’t think the person read the post before replying, honestly. It says “iot protocols” in the first sentence, and nowhere in the post does it mention web apps. It seemed pretty clear what was being asked.
+----------------------------------------------------------------------------------------------------

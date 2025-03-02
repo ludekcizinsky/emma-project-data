@@ -1,0 +1,97 @@
+POST ID: 1exl5l6 / POST TITLE: Using Aircrack Without A Wifi Card In Kali Linux?
+====================================================================================================
+Using Aircrack Without A Wifi Card?
+
+Is there any decent way to use Aircrack or other wifi based pen testing tools without having a wifi card? 
+
+The current one in my laptop isn’t capable of monitor mode.
+
+POST COMMENTS:
+====================================================================================================
+ID: lj6nqmx # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Im... what? 
+
+You want to interact with wifi without a wifi card or adapter?
+No. 
+
+You can buy them for very cheap. 
+TP-LINK AC600 is cheap and offers monitor and injection mode. 20 bucks, is dual band and has decent range. 
+
+Or the Alfa adapters. Most have monitor mode.
+----------------------------------------------------------------------------------------------------
+ID: lj9lb61 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just buy an external wifi card which allows monitor mode and maybe injection mode for the desired frequency.
+----------------------------------------------------------------------------------------------------
+ID: lj6mskn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bruhh..
+Buy an adapter , don't use aircrack use hcxdumptool + hashcat / ewiltwin /wps
+----------------------------------------------------------------------------------------------------
+ID: ljlfakn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I didn’t realize I was lucky, but my intel WiFi chip does have monitor and it’s like a 15 year old Toshiba satellite. I guess maybe for business users they thought of that, idk. Didn’t realize it was a luxury. Still got the Alfa though because duh. They’re so cheap just pick one up.
+----------------------------------------------------------------------------------------------------
+ID: ljwf2of # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lj6nvk9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks. I should rephrase. I have a wifi card in my laptop but it doesn’t have monitor
+----------------------------------------------------------------------------------------------------
+ID: lj9ln94 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: lj6no9t # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m still relatively new to this. What is hcx dump tool?
+----------------------------------------------------------------------------------------------------
+ID: ljwf2q6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lj6o164 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Jeah, few offer that. 
+
+Buy an adapter. You can look on aircracks website which work. Or google for which have monitor. 
+
+I'd go with the TP-Link for a start.
+----------------------------------------------------------------------------------------------------
+ID: ljaor2a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Maybe one with detachable antenna, so you can use whatever antenna you want. 
+
+If you do not need long distance, just stick to the mini usb stick. AC600 is fine.
+----------------------------------------------------------------------------------------------------
+ID: lj7rcl7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: listen..
+i don't mean to be rude or anything but since you're new to this, you should start developing a habit of searching the internet for literally everything that you need, and getting really good at knowing somewhat, what the issue is.
+do not rely so much on people.. i mean if they were able to learn all that, just by themselves(assuming), and searching around, then surely, you can do it too.
+
+or.. if you're a bit more lazy, you can simply ask ChatGPT. with the right context given to gpt,
+IT WILL TELL YOU EVERYTHING!
+
+and read documentations of the stuff that you use, like: "man <the shell program>"
+
+good luck mate :)
+----------------------------------------------------------------------------------------------------
+ID: lj9l9r2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lj6o6wg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate it! Trying to understand this all gets confusing tbh.
+----------------------------------------------------------------------------------------------------
+ID: ljaragq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I appreciate it
+----------------------------------------------------------------------------------------------------
+ID: lj9evm2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Appreciate it!
+----------------------------------------------------------------------------------------------------
+ID: lj7rcno # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lj9l9ub # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lj9lmi9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Why?
+----------------------------------------------------------------------------------------------------

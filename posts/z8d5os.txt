@@ -1,0 +1,20 @@
+POST ID: z8d5os / POST TITLE: Hacked Phone
+====================================================================================================
+A few days ago I received a phishing text stating that my pixel was trying to be accessed by a different IP address. It prompted short codes, which I entered and from there it went to hell. It is redirecting any personal messages to them while  sending out hundreds of scam texts. I am getting the individuals responses as they are doing exactly what I did. I looked up the code and trace logs and it does show it is being redirected. I just cant find the damn file... Any suggestions would be immensely appreciated and is it possible to remove this?
+
+POST COMMENTS:
+====================================================================================================
+ID: iyb43k3 # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1. Factory reset your device
+2. Go and get your number changed and I'd even go as far as getting a new SIM
+3. Change any and every passwords for every account you have. I ***strongly*** advise you to use a password manager.
+----------------------------------------------------------------------------------------------------
+ID: iyfnn7e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pretty vague when you say “it prompted short codes” can you elaborate?
+----------------------------------------------------------------------------------------------------
+ID: iyb62hu # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've had this phone number since I had a cellphone... I'm just going to go back to a simple flip phone.
+----------------------------------------------------------------------------------------------------
+ID: iybcci2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Possibly someone on here with more experience than I could chime and give you alternative options without changing your number. I know the process of it all is a pain in the ass but that’s what I would ultimately do. Yeah, I’ve thought about going back to a flip phone myself.
+----------------------------------------------------------------------------------------------------

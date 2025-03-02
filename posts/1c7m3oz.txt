@@ -1,0 +1,37 @@
+POST ID: 1c7m3oz / POST TITLE: If someone takes advice to private forums, they're a scammer
+====================================================================================================
+I keep seeing things like this, especially on subreddits like this one. 
+
+Someone makes a post about providing advice, or being new to this and "learning together". They suggest making a group chat, forum, or frequent conversations in DMs to collaborate/coach/assist. 
+
+What they're really trying to do is take you away from public forums (like this subreddit) where people who are actually experienced in the field could see when it's an obvious scam or they're manipulating people. Once they're in an unmonitored forum, they can take any number of approaches. 
+- Suggesting paying for classes. 
+- Screenshare sessions so they can steal your information. 
+- Social engineering you for your details. 
+- Sending you a malicious link to click on. 
+
+They people who are new to ethical hacking / penetration testing, who don't know how to properly guard themselves online yet. Unless you're an industry expert, trust me, you don't know how easy it is to get tricked. Many of them are smarter than beginners. You don't know all the different ways they can get your IP, credentials, or information.
+
+At worst, they're new and they'll teach you bad practices or illegal techniques. You know, like "Yeah go try a brute forcing attack on this public website, why would that be a problem? As long as you don't actually steal any info, it's fine. Its easier than setting up your own site or labs." 
+
+If they're new, they're not qualified to teach you. If they're taking it private, they probably don't want to anyway. 
+
+The first thing you should know about ethical hacking is: It's a dangerous field. Stay safe, stay on public forums, and watch some YouTube videos. Don't fall for this. 
+
+POST COMMENTS:
+====================================================================================================
+ID: l098r1i # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: THANK YOU! 💯💯💯💯I thought it might be me overreacting and being overly cautious, as we (those of us interested in EH) tend to be…. But damn! If you can’t see through the poorly-written posts pulling you OFF this public forum and into a private group chat elsewhere…to “learn together and help each other out,” then perhaps anything with the word “hacking” in its title isn’t for YOU, after all. 🤦 
+
+Like come TF on. 
+
+Didn’t you come to this subreddit for help? Yes? So then why do you need a private group??? And the fact that they’re pulling you over to IG didn’t tip you off?! We talk ALL THE TIME in these forums about hacking social media accounts or using OSINT tools to gather info on ppl from their SOCIAL MEDIA USERNAMES…and then you willingly hand a total stranger exactly that same info on YOU? 🚩🚨🚩🚨🚩🚨🚩🚨
+
+If I’m calling you out HARD in this comment, then hacking probably isn’t the field of interest for YOU.
+----------------------------------------------------------------------------------------------------
+ID: l0en0ih # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: pinning this for awareness.
+----------------------------------------------------------------------------------------------------
+ID: l4mq3ch # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Right on points and your sexy.
+----------------------------------------------------------------------------------------------------

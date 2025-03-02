@@ -1,0 +1,261 @@
+POST ID: 1iuuda8 / POST TITLE: Was offered a job as a jr SOC Analyst with unfinished degree and zero job experience at all.
+====================================================================================================
+I live in Eastern Europe and the working schedule is 1/3(24h work, 3 days off). The requirements are not sky high, they are:
+1. technical professional education, including final-year students;
+
+2. knowledge of network technologies (TCP/IP stack, OSI model, DNS, DHCP, NAT);
+
+3. understanding of the operation of information security systems (Antivirus, IDS/IPS, Proxy, Firewall, SIEM, security scanners, Sandbox, TI, IRP);
+
+4. understanding of the main vectors of attacks on infrastructure;
+
+5. experience in analyzing OS logs.
+
+
+Should I go for it? Any advice on it? They're not specifying much, not even what SIEMs they use, does that mean they will teach me later? I cannot take COMPTIA exams due to sanctions in my country, but I still have a BTL1 cert, minor coursera certs, B2 English cert, my github with python projects attached, and my TryHackMe to which I was subbed for two years. And, if that matters, I'm twenty years of age. 
+
+POST COMMENTS:
+====================================================================================================
+ID: me0k5xw # OF UPVOTES: 149.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sounds like a great Junior role. You got all the SOC basics in there. If you don’t have any experience, I would strongly consider it.
+----------------------------------------------------------------------------------------------------
+ID: me0ldwn # OF UPVOTES: 56.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: no reason not to go for it if you have zero job experience
+----------------------------------------------------------------------------------------------------
+ID: me1jvec # OF UPVOTES: 46.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That work schedule is pure insanity. Given the lack of clarity, and rock-bottom expectations, expect it to be a complete meatgrinder.
+
+24 hour long shifts once every 3 days may sound fine, but you will be making a **lot** of mistakes after staring at a screen for >12 hours. You'll also find that those 3 days off are realistically 1 day since you'll be sleeping off/sleeping for your next shift a majority of the other two days.
+
+> Should I go for it?
+
+If you do this, have a plan to move to something more sane as soon as possible. If you have the option to take a more sane position, opt for that instead.
+
+> does that mean they will teach me later?
+Inform? Yes. Teach? Who knows. Good question to ask during an interview.
+
+I also want to call out your note around nursing/security shifts. This is absolutely not the case in most places - they may have 24 hour _on-call_ schedules, but it is not a 24-hour straight shift unless shit is hitting the fan. More often these are 12-14 hour shifts with something like a 4 on/3 off schedule (or similar variation of extended breaks between).
+----------------------------------------------------------------------------------------------------
+ID: me1wpzf # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey,   
+SOC analyst here with currently 24hour shifts.(Europe)  
+
+I am not sure about how it is in other places but i will tell you how this works in my workplace. 
+
+We have freedom on when we dont want to work, so basically our boss does the schedule each month based on our choices.
+
+For us we need to work the same hours as some who does 5x8 office time. It means for the last year i have been working 6-7-8 days a month, the point is that in a 3 month period, our hours should be the same as an office time worker, if we have more, we have that paid off of course. 
+
+If you calculate that, if you work lets say 6-7 days a month, that means you will mostly work 1-2 days a week, but that means we only work 1 day a week, we often have 7-8-9 days off. 
+
+Not saying that 24 hour shifts are not demanding, they are, but for us luckily we mostly have our high load when the office time workers do their job, and after that, and the nights are mostly peaceful compared to the dayloads. ( we have only clients from our country, so no difference in working timelines) 
+
+For some this means unbelievable freedom, such as myself, but for some, it doesnt work, it depends on your current state of life. 
+
+(And of course the elephant in the room, you can "rest", when there is not much to do, we use sound alerts if any critical alert pops up, so with this "rest" it can even be easily managable) 
+
+I am not saying this will definitely be your case, considering the horror stories you can read here in reddit, about how much load and pressure people are under in the US industry for example., but for me it was a dream coming true.
+
+Being said that, i just accepted an engineer role ( just after 1 year), so this means i will go for the old office time position because at a certain point you just cant learn anything new as an analyst. ( I have colleagues who would never leave this position, because of the freedom) 
+
+So make sure, you really get all the information about the workign arrangements. Good luck!
+----------------------------------------------------------------------------------------------------
+ID: me0nhu1 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sure , many people I know haven't completed their undergraduate degree.
+----------------------------------------------------------------------------------------------------
+ID: me1gey4 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 24 hour in one shift? Surely that's illegal.
+----------------------------------------------------------------------------------------------------
+ID: me0q4dk # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Sounds good. In the end if you don't like it you can just leave it.
+----------------------------------------------------------------------------------------------------
+ID: me0mksi # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Do you understand the type of work you will be doing?  For some people I would imagine it’s torture.  I would enjoy it.
+
+Just be ready for the job mentally is all I’m saying.
+----------------------------------------------------------------------------------------------------
+ID: me253if # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Absolutely go for it. I was in a similar position 3 years ago, and I've been promoted twice. you see a job that you think youre 15% qualified for, apply for it! there's no harm, and if nothing else, you get quality interviewing experience, and get your name out there.
+----------------------------------------------------------------------------------------------------
+ID: me3zz87 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Job experience is significantly better than a degree, in most cases. 
+
+You can always finish your degree, you won’t always get an opportunity like this
+----------------------------------------------------------------------------------------------------
+ID: me1dqxl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Get the experience OP!
+----------------------------------------------------------------------------------------------------
+ID: me1ke7b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Go for it!
+----------------------------------------------------------------------------------------------------
+ID: me1l8vz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Congrats
+----------------------------------------------------------------------------------------------------
+ID: me267cf # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 1. No harm in trying.
+
+2. If you haven’t worked before, 24hr shift is tough. But you’ll learn whether you like that sort of schedule. Some people love it, some people cannot handle not having daily down time and normal weekends.
+----------------------------------------------------------------------------------------------------
+ID: me2s65a # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I worked 24-hour shifts for about 5years, it takes a toll on you. We got a 3 hour (sometimes more) "break" so people would not hallucinate. I noticed that after about 2200 people would become a lot less efficient, myself included. Definitely pack a rebull. Watch your sleep. Don't sleep all day after a shift, no matter how tired. Eat a healthy meal and drink coffee or something, anything to stay up. Then you're gonna hit the bed early, around 7pm or 8pm if you're okay. It sucks but being exhausted for a few hours beats fucking up your sleep schedule. Sleep will be sacred. You will form your life around sleep if you want to be successful.
+
+Stay healthy, man. You'll get used to it, but it will take some adjusting. This is a massive lifestyle change, but I would say it is worth it to get a job you really want. You'll learn a lot about yourself and your body.
+----------------------------------------------------------------------------------------------------
+ID: me4duzr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: honestly its better than other junior it roles and probably pays better too
+
+with experience companies will literally throw money at you
+----------------------------------------------------------------------------------------------------
+ID: me4eiox # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Junior Soc analyst role can be a great gateway for getting hands on experience and to help inform future career choices. Don't be afraid to jump into things that others don't want to...especially new tools or technologies...develop skills that make you valuable.
+----------------------------------------------------------------------------------------------------
+ID: me4i4ot # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Tell Elon thanks, but no thanks, lol.
+----------------------------------------------------------------------------------------------------
+ID: me54mvv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: what's the pay? or give me a range atleast
+----------------------------------------------------------------------------------------------------
+ID: me5x7zt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Somewhat off topic, I guess,  but what's the benefit to a company to have 24hr shifts? Like obviously some places need to be staffed 24/7, buy why have one person work 24hrs straight? The only thing I can think of is if maybe it takes a long time to get from clocking in to the actual job site? Like of you have to clock in, then go through a 2 hr security process or something ridiculous, but is that even a thing? 
+----------------------------------------------------------------------------------------------------
+ID: me60ay1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Get the experience. Practical is always better than theoretical.
+----------------------------------------------------------------------------------------------------
+ID: me6qu3g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What is the hesitation for, you want to finish school?
+
+Job experience is worth more than a college "education" in this field Imo.
+----------------------------------------------------------------------------------------------------
+ID: me6x16h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Take it
+----------------------------------------------------------------------------------------------------
+ID: me7zjq3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Heres an advice I dont hear often, I do it myself - search some ppl on linkedin with filter of current/past job in thet company, lok for someone with security/annalyst position, someone seeming enough relatable or understanding of your situation, foe example younger junior, to sent them a message and connect asking how is work there, just cause you got offer and you are considering it :), you can learn a lot on day to day culture that way
+----------------------------------------------------------------------------------------------------
+ID: me0pi5c # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: wdym by 24h work, 3 days off? are you talking about a shift that lasts for 24 hours at a time??
+
+if that is the case, definite no.
+----------------------------------------------------------------------------------------------------
+ID: me1x0p6 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Where in Eastern Europe is a 24 hour shift legal lol
+----------------------------------------------------------------------------------------------------
+ID: me0swmt # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They shouldn’t be cagey with what stacks and systems they are using in a job application situation. It makes sense for them to align with applicants who know it already, or see potential of people who might have experience with similar or see learning potential from scratch.
+
+That’s the only red flag that jumps out at me.
+
+Maybe also if they ask you to end your studies specifically, maybe that too.
+----------------------------------------------------------------------------------------------------
+ID: me1lqhg # OF UPVOTES: 13.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Very useful, thank you. I looked at the job application one more time. So, the things i will do at my job are: 
+
+1. full cycle of support and primary processing of typical information security incidents in 24/7 mode (registration, analysis, processing, filtering out false alarms, response to standard threats, delegation, closure, notification of those responsible);
+
+2. participation in investigations of non-standard incidents;
+
+3. search for information on new threats and development of scenarios for their detection;
+
+4. 24\\7 monitoring of the operability of SOC technical means.
+
+Its weird they're saying ''24/7" when I just get to work two times per week, though. The things I will do sound decent, but surely working 24 hours sounds very intimidating. I think I will get to do other things meanwhile, I should ask people who had experience with this.
+----------------------------------------------------------------------------------------------------
+ID: meany0v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Any shift that requires 16+ hours is a shit show.  After 12hrs, concentration and focus are out the window.  After 16 hours productivity is cut down to less than 40%.  Compared to the first 15 hours.  After 20 hours, communication starts to deteriorate along with attitude.  This is also unsafe to drive. 
+
+Fuck any org that requires 24 hour shifts.
+----------------------------------------------------------------------------------------------------
+ID: me1w3ya # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: In Eastern Europe?
+----------------------------------------------------------------------------------------------------
+ID: meaoang # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’ll take years off your life.  Imagine taking 2 days off your life for every 24 hour shift you work.  
+
+There’s no good reason to not have staffing rotate every 12 hours.
+----------------------------------------------------------------------------------------------------
+ID: me6e2vt # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The average salary in my country is 600 dollars per month. I dont know for how much to ask yet considering I dont have job experience or a degree. 
+----------------------------------------------------------------------------------------------------
+ID: me1quq7 # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't think this person understood the job profile properly. Its likely 24hr coverage with individual  team members working 12hrs each day.
+----------------------------------------------------------------------------------------------------
+ID: me0qlee # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is how nurses work sometimes, or security guards.
+----------------------------------------------------------------------------------------------------
+ID: me4rgfo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's the norm to not share what tools you use until the person signs NDA. 
+----------------------------------------------------------------------------------------------------
+ID: me18g42 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Why advertise the stacks in use in a public fashion? It only makes it easier for attackers to find potential exploits or understand how to breach security layers.
+----------------------------------------------------------------------------------------------------
+ID: me1vbk3 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It can't hurt to apply and ask them for clarifications very early in the interview process.
+
+I also want to call out that if this isn't a remote position you need to consider that you're going to be transiting home from work after being awake for > 24 hours. If you're driving that's just wildly dangerous and irresponsible, and by any other means is a decent way to get hurt.
+----------------------------------------------------------------------------------------------------
+ID: me7r5rg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Well what State really ? Some people consider States in Central Europe for Eastern, whereas they are proper non-slave regulated when it comes to work conditions.
+----------------------------------------------------------------------------------------------------
+ID: me0tq8x # OF UPVOTES: 16.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: doesnt matter. its extremely unhealthy and in EU and many other regions, it would be completely illegal, even for nurses and security guards.
+
+it increases your stroke risk and screws up your sleep schedule. its only worth it if it pays a small fortune.
+
+ps.: honestly, if this is common where you live, i strongly suggest to move to a different country because this is a strong sign that your government really doesnt give a shit about you at all.
+----------------------------------------------------------------------------------------------------
+ID: me0xtvb # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Don’t listen to this guy. I would say do it for 1-2 years max. For now u have to get experience by any means necessary
+----------------------------------------------------------------------------------------------------
+ID: me1ui5f # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: None of the things he listed are going to really benefit a hacker, and fwiw are pretty generic requirements. If someone has the capability to infiltrate this company, they’re not gonna need a job posting to bolster their analysis of vulnerabilities. Maybe in rare niche instances, but most of that shit for those high level hackers isn’t going to be of use. It’s like saying why is google advertising a computer engineer role needing the person to understand python, C++, and Java script, don’t they know that they just showed an attack surface??????? Most of that shit is just generic “you need to know these methodologies as a bare minimum to be able to function when you onboard”.
+----------------------------------------------------------------------------------------------------
+ID: me2drvv # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: So if you went for an interview, and they could reveal nothing more than the most utterly generic conceptual and technical information; Wouldn’t that send some alarm bells off?
+
+You would take a job with a company who gave you no concrete information in an interview, thats when you start getting into criminal recruitment and scams.
+----------------------------------------------------------------------------------------------------
+ID: me1qgur # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yes because moving is so easy to do.
+----------------------------------------------------------------------------------------------------
+ID: me15wkc # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: feel free to work yourself to death if you value your life so little, but please stop suggesting anyone else to do it.
+
+there is a reason why shifts like these are illegal in so many countries...
+----------------------------------------------------------------------------------------------------
+ID: me21qw3 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: For #2, if the routing protocol was listed would be a huge benefit to injecting man in the middle routes. Depending on what DHCP info was listed, you could get creative with IP helper spoofs.  
+\#3 Knowing the EDR platform is massive knowledge for knowing which exploits cant be detected by their systems. Same with firewalls, IDP, etc. An attacker doesnt need to try multiple vectors if they know the door to open.
+
+What is listed by OP is generic yes, but I replied to someone stating the job poster should divulge specifics or consider it a red flag. If you don't agree with my assessment, so be it, but there are reasons we dont publish our security purchases in financial data.
+
+  
+Edit to add: In your example of programming, I wouldn't have a problem with languages required, but I would certainly withhold the IDE in use, the change control platform in use, etc. The candidate would need to be aware of these things, and you could certainly ask them which IDE's are you familiar with, or which change control platforms have you used in the past, without giving away any details and gauge their experience at the same time.
+----------------------------------------------------------------------------------------------------
+ID: me2kxfy # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: As someone who sits of several interview panels per year, specifically for the IT department, I would say I put much less weight on technical answers than I do the candidates ability to relay their understanding of the subject matter. I used routing in another comment, so I will use routing here as an example as well. 
+
+Rather than asking "what to enter in the CLI on a Windows Server to configure a static route", I would ask "under what circumstances would you need to configure a static route on an individual server"? In the second, I haven't divulged the OS of the server(s) in question at all. 
+
+The candidate's answer to the latter tells me more about how a candidate thinks, rather than how much they have memorized. So no, it wouldn't necessarily set off alarm bells for me, unless the questions are completely irrelevant/idiotic. 
+
+As for me taking a job, I don't think I've ever applied to a company in which I didn't already research beforehand. I certainly wouldn't expect any cybersecurity position to divulge which systems, specifically, they utilize. If they did, I would have looming questions regarding how they currently operate, and if a cybersecurity position would be overwhelming due to the lack of controls currently in place. 
+
+For what it's worth, this is standard practice in my industry to NOT divulge specifics. There have been documented bad actors applying for positions for the sole purpose of gaining information during the interview process and/or getting hired outright as an insider threat.
+----------------------------------------------------------------------------------------------------
+ID: me2nwmb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I guess that’s where we differ. When I took my current job with a manufacturing multinational, I was told of the primary technologies I’d be working with - to gauge my competence.
+
+I then had to pass a Europol background check before, and a military intelligence one during my probation period.
+
+Maybe it’s different in usa, and ITIL roles rather than cybersecurity specific specialisms.
+----------------------------------------------------------------------------------------------------
+ID: me4fll9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm with you...when I'm interviewing, we do not divulge specific products if we can help it...opsec 101 type stuff really. Don't make it easier for the bad guys if you can help it. I also prefer to ask questions that demonstrate how an applicant thinks and not "what they know"... especially for a junior soc analyst level role. If it were for a specific tool sys admin or SME, then yeah it'd make sense to gauge an applicants direct experience with said tools.
+----------------------------------------------------------------------------------------------------
+ID: me2onz8 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We certainly still perform a variety of background checks upon hire, but it's those who aren't trying to get hired in which you have to show resilience when it comes to keeping your systems secure. 
+
+From a manufacturing perspective, it could be do you know G/M code vs Fanuc vs Ladder Logic rather than divulging makes and models. Or can you explain the difference between Profinet vs Profibus without specifying which is being utilized. 
+
+I could be miles off from your line of work, those were simply parts of the OT industry I'm familiar with.
+----------------------------------------------------------------------------------------------------

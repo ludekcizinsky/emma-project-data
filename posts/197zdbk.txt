@@ -1,0 +1,6 @@
+POST ID: 197zdbk / POST TITLE: Help with getting a binary from a netcat link
+====================================================================================================
+I am solving a CTF which involves pwntools, I was just provided with a "netcat link port" and possibly perform binary exploitation. Please help me extract or download the binary hosted on the netcat link to get that into Ghidra.
+
+POST COMMENTS:
+====================================================================================================

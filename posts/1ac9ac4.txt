@@ -1,0 +1,25 @@
+POST ID: 1ac9ac4 / POST TITLE: Pentesting job market
+====================================================================================================
+Hi guys
+
+I'm asking for people here from europe, How is the job market for Junior penetration testers?
+
+Part of me wonders whether ethical hacking will ever be a career path or just a hobby?
+
+My situation now is that. I am unemployed and looking to upskill during my time away from work. So I don't know whether I should pursue Ethical hacking Or just upskill in my current area of cloud engineer?
+
+I'm just looking for feedback not really answers.
+
+Thanks guys
+
+POST COMMENTS:
+====================================================================================================
+ID: kjtwpzh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you still enjoy cloud engineering I would upskill there and try to cover AWS, MS and Google.  Maybe try to expand into AI.  Everyone wants to be a pentester and this is one of those jobs among many with potential to change significantly as the cyber security industry continues to harness AI to augment and automate.  I think you're in a better position as an Engineer than a junior pentester.
+----------------------------------------------------------------------------------------------------
+ID: kju3wwo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks so much for the advice  Do you mean I'm in a better position as a engineer to become a pentester or its a better career movd to be a cloud engineer?
+----------------------------------------------------------------------------------------------------
+ID: kjzkjv8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I personally think cloud engineering is going to be more stable and lucrative.  But if you decided to get into pentesting your cloud engineering experience is definitely going to be beneficial.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+POST ID: 18bsnz8 / POST TITLE: Is infoga still used?
+====================================================================================================
+Cloned the repo and had a hard time running it. Apparently it runs on python2.7 which is EOL. 
+
+The repo I pulled from hasn’t had a commit in 6 years. Does anyone still use infoga?
+
+What are some alternatives?
+
+POST COMMENTS:
+====================================================================================================

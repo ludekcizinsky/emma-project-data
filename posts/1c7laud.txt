@@ -1,0 +1,32 @@
+POST ID: 1c7laud / POST TITLE: What should do for learning 
+====================================================================================================
+Hello, I'm seeking guidance on my journey to become a cybersecurity and ethical hacker. While I have a background as a network technician and some programming skills, I acknowledge they need improvement. I've heard that certifications are crucial for success in this field, such as CISSP, OSCP, CEH, CompTIA Network+, and CompTIA Security+. Despite knowing it will be a significant investment, I'm deeply committed to learning.I've been actively immersing myself in cybersecurity literature, watching tutorials on YouTube to understand different tools, and learning to navigate Kali Linux. However, I've hit a roadblock and feel stuck in my progress. Any advice on how to overcome this hurdle would be immensely appreciated
+
+POST COMMENTS:
+====================================================================================================
+ID: l09yrn7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: could you please elaborate on the roadblock you faced?
+in my opinion you should be going on the right track!
+----------------------------------------------------------------------------------------------------
+ID: l09zm8q # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm not sure which certification to start with, and I'm having trouble finding affordable study options. I prefer learning without relying too much on tools, but I still take notes when watching YouTube tutorials. Any suggestions?
+----------------------------------------------------------------------------------------------------
+ID: l0qtrsv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For learning, do the EC Council’s Ethical Hacking Essentials course. It’s one of the FREE courses they offer and it’ll get you going in the right direction for sure.
+----------------------------------------------------------------------------------------------------
+ID: l0a0t2d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: see for learning you can try almost-free platforms like "hackthebox" and "tryhackme" they are the most popular and pretty good platforms.
+as for certification you can start with OSCP or CEH whichever you want. hope i helped 😁
+----------------------------------------------------------------------------------------------------
+ID: l0a1c5r # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Should I use my real namn or my hacker namn? 🤣
+----------------------------------------------------------------------------------------------------
+ID: l0a1j2v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: whichever you like 🤭
+----------------------------------------------------------------------------------------------------
+ID: l0a1q10 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But do you think I can put the certifications on LinkedIn? Seems strange use fake namn 😊 thanks for your help
+----------------------------------------------------------------------------------------------------
+ID: l0a2g0t # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes sure do certifications are a big accomplishment and you can definitely show them off on your profile ✔️
+----------------------------------------------------------------------------------------------------

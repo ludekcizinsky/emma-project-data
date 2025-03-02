@@ -1,0 +1,47 @@
+POST ID: 1ivkrii / POST TITLE: ISC2 CC
+====================================================================================================
+Hi All
+
+I am preparing for my ISC2 certified in cybersecurity exam, and was wondering if there are any website for test exams.
+
+I tried some test exams on Udemy, but i  feel like some of the answers are inconsistent or most of the questions are what is the Most correct answer, and some of them are not related and there were some questions that had vocabulary not found in the course. 
+
+Please if you have any advice for this exam or anything that may help from your experience or some exam questions , please share them with me.
+
+
+
+POST COMMENTS:
+====================================================================================================
+ID: me6cnux # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: They have free self paced training. It took me one week of training before I felt confident. It’s much easier than the Sec+
+
+https://www.isc2.org/landing/1mcc
+----------------------------------------------------------------------------------------------------
+ID: me705lv # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I used the Certified in Cybersecurity study guide from Sybex as my main study material. Passed, but thought I’d failed before I got the score.
+----------------------------------------------------------------------------------------------------
+ID: me8sijp # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check the ISC2 sub (r/isc2) - most posts there are from people about the CC, including those who have taken the exam.
+----------------------------------------------------------------------------------------------------
+ID: me6qra9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have done the questions of the pre assessment and final assessment, my question is that is the actual exam similar to those assessments in difficulty?
+----------------------------------------------------------------------------------------------------
+ID: meb8bwi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: me6svbj # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s very similar to the material. If you’re getting high scores on the practice tests, you should be ready.
+----------------------------------------------------------------------------------------------------
+ID: me7dlne # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks man, i wanted to check this, because the test exams have some topics or focus on stuff that weren’t deeply mentioned in the course. 
+
+So in conclusion, the exam is similar in topics to the self paced training and assessments?
+----------------------------------------------------------------------------------------------------
+ID: me85p0u # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The practice exams are very close the real exam from what I remember. I don’t remember the classes but I do remember as soon as I started taking the real exam, I felt like I was prepared from the practice exams.
+----------------------------------------------------------------------------------------------------
+ID: me8a7nk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks again, so i will double check and take the practice test for each domain in the self paced course, and i will take the pre-assessment and final assessment again. 
+
+Thanks!
+----------------------------------------------------------------------------------------------------

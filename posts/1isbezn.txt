@@ -1,0 +1,6 @@
+POST ID: 1isbezn / POST TITLE: Free/Cheap Options for SOAR Practice
+====================================================================================================
+Looking to expand my skillset to include SOAR. Anyone have any recommendations on open source or cheap SOARs? I am experienced with SIEMs, EDRs, etc. and hoping to build out playbooks that aren’t just incident response related. 
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,119 @@
+POST ID: 17ab6mb / POST TITLE: Learning and struggling with basic test
+====================================================================================================
+Hello, I have been wracking my brains over this for days - my supervisor has set me 30 old 'capture the flag' type questions from Hack the Box and others.    
+
+
+On one of them, I know the logic of what i need to do, but I don't have the experience yet to do it.  Please can you help and guide me?
+
+I have 3 buttons (URLs have been removed as it's company policy) and I need to swap the placeholder text for one of them to produce the text file: 12345678910111213141516.txt 
+
+Am i overthinking this? I've tried modifying the 'ipsum' requests but it doesn't seem to work.  
+
+
+    
+    <html>
+        <head>
+            <title>Generate Your Placeholder Text</title>
+            <script src="js/jquery-3.4.1.min.js"></script>
+            <script>
+                $(document).ready(function() {
+                    $("#cheese-ipsum").click(function(e) {
+                        e.preventDefault();
+    
+                        $.ajax({
+                            type: "POST",
+                            url: 'http?',
+                            contentType: 'application/json',
+                            data: JSON.stringify({
+                                'ipsum': "cheese.txt"
+                            }),
+                            success: function(res){
+                                $("#output").empty().append(res);
+                            },
+                            error: function(err){
+                                console.log(err);
+                            }
+                        });
+    
+                    })
+                    $("#office-ipsum").click(function(e) {
+                        e.preventDefault();
+    
+                        $.ajax({
+                            type: "POST",
+                            url: 'http?',
+                            contentType: 'application/json',
+                            data: JSON.stringify({
+                                'ipsum': "office.txt"
+                            }),
+                            success: function(res){
+                                $("#output").empty().append(res);
+                            },
+                            error: function(err){
+                                console.log(err);
+                            }
+                        });
+    
+                    })
+                    $("#corporate-ipsum").click(function(e) {
+                        e.preventDefault();
+    
+                        $.ajax({
+                            type: "POST",
+                            url: 'https?',
+                            contentType: 'application/json',
+                            data: JSON.stringify({
+                                'ipsum': "corporate.txt"
+                            }),
+                            success: function(res){
+                                $("#output").empty().append(res);
+                            },
+                            error: function(err){
+                                console.log(err);
+                            }
+                        });
+    
+                    })
+                });
+            </script>
+        </head>
+        <body>
+            <h1>Generate Your Placeholder Text</h1>
+            <!-- Note To Self: The flag is in 12345678910111213141516.txt -->
+            <form>
+                <input type="submit" id="cheese-ipsum" value="Cheese Ipsum" type="button" />
+                <input type="submit" id="office-ipsum" value="Office Ipsum" type="button" />
+                <input type="submit" id="corporate-ipsum" value="Corporate Ipsum" type="button" />
+            </form>
+            <div id="output"></div>
+        </body>
+    </html>
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: k5ea71m # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: taking part in an active CTF and getting others to do the work for you, we see you bruh ;)
+----------------------------------------------------------------------------------------------------
+ID: lmukvmg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Anyone figure this out?  Currently doing a ctf that revolves around a similar ipsum concept. Was hoping to get a decent explanation for this challenge that could help with mine.
+----------------------------------------------------------------------------------------------------
+ID: k5edrsi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If this is an active CTF then I’m being asked the same thing! Which CTF is it for please?
+----------------------------------------------------------------------------------------------------
+ID: lmxtuta # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No, came across this looking for the same thing. :p
+----------------------------------------------------------------------------------------------------
+ID: k5eh0jc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: SANS HM Gov.
+----------------------------------------------------------------------------------------------------
+ID: k5ehivm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That’s helpful thanks! I know we’ve got 4 staff doing that in the wider team this week…
+----------------------------------------------------------------------------------------------------
+ID: k5emvbl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: no probs
+----------------------------------------------------------------------------------------------------
+ID: k5en44n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m still interested in the ‘how to’ bits, but no problem if you want to wait for the event to be over (Friday?) :)
+----------------------------------------------------------------------------------------------------

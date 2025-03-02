@@ -1,0 +1,31 @@
+POST ID: 12746kn / POST TITLE: Creating self-hosted LTE/GSM
+====================================================================================================
+I am recently working on a project regarding creating my own LTE/ GSM server. I am aware of the fact that this requires a budget (might be high). After doing a bit of research, I found out that, I will need an SDR(LimeSDR is considered) and few software applications such as srsLTE/ openBTS. I was wondering if it would be possible to use my own LTE/ GSM server to do SMS Authentication such as GoogleAuth etc.  
+
+
+And to what extent is it legal?
+
+POST COMMENTS:
+====================================================================================================
+ID: jedmeeo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Some companies I work with use ethernet to LTE modems, I think so they can have increased range over wifi. Are you interested in these solutions? I could try to find the brand they use.
+----------------------------------------------------------------------------------------------------
+ID: jefo3w7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >And to what extent is it legal?
+
+if its for personal use it shouldn't be too big of an issue. but if it transmits or allows external phones that you do not own to connect to it you may have to consult with the FCC (if you are american, if not, you will have to consult with your countries equivalent).
+----------------------------------------------------------------------------------------------------
+ID: jeg3v7t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So here is the case:
+
+    1. I get a SIM card
+
+    2. Fully program it (that I still do not know how)
+
+I want it to be fully usable, including opening accounts with it. So my question is:
+
+Would it be possible to use a self-programmed sim card for everything? Would it be possible for example to open a google account where it requires a 2FA SMS?
+----------------------------------------------------------------------------------------------------
+ID: jeg3mgx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thanks for the response
+----------------------------------------------------------------------------------------------------

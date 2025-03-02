@@ -1,0 +1,9 @@
+POST ID: 17kpt5j / POST TITLE: Need help for demonstrating a ethical hacking project
+====================================================================================================
+Hi, I have to demonstrate a DDoS attack using the hping3 command on kali linux and wanted to know some sources for the same and how to demonstrate it on a server.
+
+POST COMMENTS:
+====================================================================================================
+ID: k798f6a # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: One of the easiests ways to demonstrate is probably to setup a web server like nginx with a relatively low `worker_connections` to a value like 10 and have it run on a separate machine or VM and then use hping3 to overload it (which should be fairly easy with such low max worker settings).
+----------------------------------------------------------------------------------------------------

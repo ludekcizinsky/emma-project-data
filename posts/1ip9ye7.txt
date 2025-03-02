@@ -1,0 +1,8 @@
+POST ID: 1ip9ye7 / POST TITLE: Guidance for Letters of Volatility?
+====================================================================================================
+Is there guidance on what needs to be included in a statement of volatility for certain applications? [IE: Classified systems treated as unclassified in certain conditions (like being powered off with drives removed), data diodes, and Cross-Domain Solutions]
+
+Background: Our security team requires Statements of Volatility for certain applications, but gives no guidance on acceptability criteria--it seems like a "check-in-the-box". I want to make sure I'm doing right by the customer. 
+
+POST COMMENTS:
+====================================================================================================

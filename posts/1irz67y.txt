@@ -1,0 +1,10 @@
+POST ID: 1irz67y / POST TITLE: Approving external CA and signing certificates externally
+====================================================================================================
+Hi guys.
+
+Currently we have a request at work from a customer who wants to use their own ceriticate signing instead of the certificate signing authority built into our application. The customer wants to use a API gateway in between and essentially use there own configuration.
+
+Essentially what im trying to ask is what is the risk of letting our customer use they're own CA for certificate signing which we will have to trust certificate signing externally?
+
+POST COMMENTS:
+====================================================================================================

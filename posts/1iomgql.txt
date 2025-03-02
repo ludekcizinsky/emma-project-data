@@ -1,0 +1,18 @@
+POST ID: 1iomgql / POST TITLE: Securing Sensitive Data in Generative AI by AWS
+====================================================================================================
+I've just reviewed an insightful piece by Amazon Web Services (AWS) on data authorization in generative AI applications. What stood out to me was the comprehensive approach to security across multiple touchpoints.
+
+‣ LLMs don't make authorization decisions - this must be handled at the application level
+
+‣ RAG implementations require careful data filtering before sending content to LLMs
+
+‣ Metadata filtering provides granular control over data access in vector databases
+
+This matters because as organizations adopt generative AI, protecting sensitive data becomes increasingly complex. Improper implementation could expose confidential information across departments.
+
+Source: https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications-part-2/
+
+If you’re into topics like this, I share similar insights weekly in my newsletter for cybersecurity leaders (https://mandos.io/newsletter)
+
+POST COMMENTS:
+====================================================================================================

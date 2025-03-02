@@ -1,0 +1,93 @@
+POST ID: 18txfl8 / POST TITLE: multi code running script concept
+====================================================================================================
+    import multiprocessing
+    
+    class Microprocessor:
+        def __init__(self):
+            self.code = ""  # Placeholder for code
+    
+        def execute_code(self):
+            # Simulate execution of code
+            print("Executing code:", self.code)
+            return self.code
+    
+    class Chip:
+        def __init__(self):
+            self.microprocessors = []  # Store microprocessors in the chip
+    
+        def add_processor(self, processor):
+            self.microprocessors.append(processor)
+    
+        def replicate(self):
+            new_processor = Microprocessor()
+            self.add_processor(new_processor)
+            return new_processor
+    
+        def execute_code(self, processor_index):
+            processor = self.microprocessors[processor_index]
+            return processor.execute_code()
+    
+        def replicate_code(self, code, num_replicas):
+            processes = []
+            for _ in range(num_replicas):
+                process = multiprocessing.Process(target=self.execute_code, args=(0,))
+                process.start()
+                processes.append(process)
+    
+            for process in processes:
+                process.join()
+    
+    # Initial chip
+    main_chip = Chip()
+    main_chip.add_processor(Microprocessor())  # Add initial microprocessor to the chip
+    
+    while True:
+        command = input("Enter a command: ")
+    
+        if command == "execute code block":
+            processor_index = int(input("Enter processor index: "))
+            code_output = main_chip.execute_code(processor_index)
+            print("Code output:", code_output)
+    
+        elif command == "replicate":
+            new_processor = main_chip.replicate()
+            print("Replicated! New processor created.")
+    
+        elif command == "save code block":
+            processor_index = int(input("Enter processor index: "))
+            new_code = input("Enter code to save: ")
+            main_chip.microprocessors[processor_index].code = new_code
+            print("Code block saved to processor", processor_index)
+    
+        elif command == "program":
+            code = input("Enter the Python code: ")
+            num_replicas = int(input("Enter the number of replicas: "))
+            main_chip.replicate_code(code, num_replicas)
+            print(f"Programmed {num_replicas} replicas with the code.")
+    
+        elif command == "save":
+            # Your save logic here
+            pass
+    
+        elif command == "execute":
+            # Your execute logic here
+            pass
+    
+        elif command == "exit":
+            print("Exiting the simulation.")
+            break
+    
+        else:
+            print("Invalid command. Available commands: 'execute code block', 'replicate', 'save code block', 'program', 'save', 'execute', 'exit'")
+    
+
+&#x200B;
+
+POST COMMENTS:
+====================================================================================================
+ID: kfgtgvc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: hey man if you are going to be posting your codes here you are going to need to provide a bit more detail than the code itself.
+----------------------------------------------------------------------------------------------------
+ID: kfk52ov # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------

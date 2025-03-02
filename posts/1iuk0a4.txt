@@ -1,0 +1,73 @@
+POST ID: 1iuk0a4 / POST TITLE: Amazon's Security Engineer Internship Interview
+====================================================================================================
+Hi Reddit!
+
+I have two one-hour interviews with Amazon coming up for the security engineer internship role. I was wondering if anyone has gone through the process before and have any advice on how to prep for the interview / type of questions you were asked.
+
+I'd really appreciate it!
+
+POST COMMENTS:
+====================================================================================================
+ID: mdy4c2v # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: For the love of God make sure you always explicitly state your role in everything and avoid using We. Make sure you always specify what YOU did and not what your team did.
+----------------------------------------------------------------------------------------------------
+ID: mdy1w4a # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Study their leadership principles. They want things in the STAR format. So be prepared to have examples of a time when…<insert whatever situation they want to see one of their leadership principles used). 
+
+As for the tech interview, it’s going to be fairly standard stuff but with open ended questions to push how deep your knowledge goes. Some of it will likely also lace in leadership principles. 
+
+
+Think out loud. They don’t expect you to know everything but they want to see how you think.
+----------------------------------------------------------------------------------------------------
+ID: mdymu5o # OF UPVOTES: 6.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: i read a feedback from someone who did amazon security eng interview recently, heres what to expect:
+
+usually 2-3 rounds after initial screen:
+
+* coding: mostly focused on security concepts. expect stuff like input validation, authentication flows, encryption. they love asking abt handling sensitive data n security best practices
+* system design: all abt secure system architecture. like how would u design a secure login system or implement zero trust architecture. make sure u can talk abt threat modeling, access controls etc
+* behavioral: standard amazon leadership principles but w security focus. be ready w examples of times u found vulns, handled incidents, or improved security practices
+
+btw if ur nervous, lots of great security engineers out there who've interviewed at amazon. a mock interview could help u get specific feedback!
+
+good luck!
+----------------------------------------------------------------------------------------------------
+ID: me0emwe # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I had a similar experience, I was asked about the many products aws/amazon supported. Cloud services, s3 , e2. The barebones of the aws service model. To many to mention in this post since I’m leaving for work. Good luck. Btw I didn’t get the position. Please post what went on and what was asked.
+----------------------------------------------------------------------------------------------------
+ID: me0x2y7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I got the same interview for the same role.
+First interview was technical and there where two main task:
+- review and analyze code, specifically for vulnerabilities 
+- write a simple python script to exploit and IDOR
+Interviewer also asked some leadership principles questions
+Second one was more behavioral with a lot of leadership principles and STAR format, also some basic security/networking/cryptography concepts. 
+To prepare I recommend try hack me and this:
+https://github.com/gracenolan/Notes
+
+good luck!
+----------------------------------------------------------------------------------------------------
+ID: me2kock # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Make sure you know how to code, even if it’s not directly related to the role. For whatever reason Amazon believes if you have a technical role, you must be a developer as well.
+----------------------------------------------------------------------------------------------------
+ID: mdy2m5s # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thank you for your response! Do you know if there will be coding?
+----------------------------------------------------------------------------------------------------
+ID: me5zziy # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: “Think out loud. They don’t expect you to know everything but they want to see how you think.”
+
+^This is a key thing I look for in every interview. I give a complex problem.  I don’t expect a clean answer, but a reasoning around how you might go about doing it.
+----------------------------------------------------------------------------------------------------
+ID: me8ic5k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hi, I also have an interview lined up for the same role. If you don't mind me asking, what exactly was the code given and in which language? What were the vulnerabilities present and the difficulty level?
+
+Also, can you provide more details of the python script for IDOR?
+----------------------------------------------------------------------------------------------------
+ID: mdy3vro # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’m not as familiar with the intern interview process to be honest. For an FTE position yes probably. Two one hour interviews feels like one will be tech And the other behavioral. Tech could touch on coding. But not likely that deep because they’ll want to cover other areas too.
+----------------------------------------------------------------------------------------------------
+ID: me8qqv5 # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The code review was Java and there were various functions, I don’t remember exactly the code but it was basically some user authentication, log user activity, doGet to check existing cookies and doPost to handle login submissions. I recommend checking the owasp page and see common vulnerabilities. And regarding the difficulty level for me it was difficult because I wasn’t to prepared for that lol 
+
+And the python script they gave me a url where they exposed user ids and try to exploit it, pretty siimple.
+----------------------------------------------------------------------------------------------------

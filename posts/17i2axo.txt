@@ -1,0 +1,14 @@
+POST ID: 17i2axo / POST TITLE: Why is this app so cheap all the time?
+====================================================================================================
+Hello! I have been wanting to learn programming or hacking for a while and I came across this app just called Ethical Hacking by Programming Hub. I haven't started yet, and would like to get the "pro" version to access all the courses, but I would like to know if it's even any good and why it always seems to be on sale for $15 instead of $260!
+
+Has anyone else used this app or know anything about it?
+
+POST COMMENTS:
+====================================================================================================
+ID: k6rurbu # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Man, you can learn coding and whatnot for free on YT, search Codebro and FreeCodeCamp.org, both awesome channels, I suggest you start with python
+----------------------------------------------------------------------------------------------------
+ID: k6ro3pv # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to learn programming w3 schools has a deep dive into programming. It's also free to use last time I checked. I've looked into the programming hub your talking about before and the fact it's always on sale doesn't sit right with me plus the information I saw in it is basic information you can find easily for free anywhere else.
+----------------------------------------------------------------------------------------------------

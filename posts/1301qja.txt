@@ -1,0 +1,43 @@
+POST ID: 1301qja / POST TITLE: PassGAN configuration
+====================================================================================================
+*  I am trying to use PassGAN and I have clone the git file, while running requirements txt file I got an error: 
+
+ The following required packages can not be built:
+
+\* freetype, png \* Please check [http://gnuwin32.sourc](http://gnuwin32.sourc)
+
+\* [eforge.net/packages/freetype.htm](https://eforge.net/packages/freetype.htm) for instructions
+
+\* to install freetype \* Please check [http://gnuwin32](http://gnuwin32)
+
+\* .sourceforge.net/packages/libpng.htm for
+
+\* instructions to install png
+
+\[end of output\]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+
+error: subprocess-exited-with-error
+
+× Getting requirements to build wheel did not run successfully.
+
+│ exit code: 1
+
+╰─> See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+
+POST COMMENTS:
+====================================================================================================
+ID: ltbdif9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i m also trying to use paasgan but i dont know how can i use it 
+
+i flow following steps 
+
+step 1 - pip install tenserflow 
+
+step 2 - i don't know 
+
+please help me how can i use paasgan
+----------------------------------------------------------------------------------------------------

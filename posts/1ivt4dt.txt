@@ -1,0 +1,197 @@
+POST ID: 1ivt4dt / POST TITLE: GRC tools?
+====================================================================================================
+What is everyone having success with on the GRC side? Not looking for a quick compliance solution. (We already have SOC 2, ISO, etc) but looking to streamline the process for the future. 
+
+POST COMMENTS:
+====================================================================================================
+ID: me9vinc # OF UPVOTES: 22.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I hate all the grc solutions
+----------------------------------------------------------------------------------------------------
+ID: meacrlj # OF UPVOTES: 28.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: How has no one mentioned the tool we all know we use for this. Excel.
+----------------------------------------------------------------------------------------------------
+ID: me9xmrw # OF UPVOTES: 11.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Stay away from Archer.   It sucks.
+----------------------------------------------------------------------------------------------------
+ID: meaenax # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We're on ServiceNow. It's not the best GRC tool, but it's an enterprise omniplatform and it is somewhat helpful to have direct access already to things in our enterprise such as the CMDB and ITSM data.
+----------------------------------------------------------------------------------------------------
+ID: me8ez5v # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Try CISO Assistant, they have a free Community Edition which you can self host or buy their SaaS
+----------------------------------------------------------------------------------------------------
+ID: mea5zps # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Auditboard has good features, its more of a tool for a dedicated internal audit function, though
+----------------------------------------------------------------------------------------------------
+ID: meahyxf # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Eramba, and it won’t cost you an arm and a leg
+----------------------------------------------------------------------------------------------------
+ID: me8pe13 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just testing mycompliancevision from a small outfit in Cornwall, UK.
+
+So far so good. It's like it's design by cyber security experts who got pissed with all the expensive shit out there and actually designed a good system.
+
+Otherwise in the past I've used Eramba, but that's for proper compliance nerds... It's "free" but a bit labour intensive.
+
+At the moment we use Sharepoint and Lists... Can't wait to drop it. I had an ex colleague who used Azure DevOps but I never saw how that worked... Not really designed for it but it's just a load of connections and work flows in the end.
+----------------------------------------------------------------------------------------------------
+ID: me98vdr # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: When it comes to GRC, it's more Crg (imagine the g as a subscript). People think it's three overlapping circles, but it's more like three concentric circles with COMPLIANCE surrounding Risk surrounding governance. If you really want to do GRC right, then it's not just about compliance.
+----------------------------------------------------------------------------------------------------
+ID: me8hmuq # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: TRAC from SBS has helped organize a lot of the information for our organization.  It’s got a lot of various modules like risk assessment for IT, vendor management, policy building, and business continuity.  It’s not a silver bullet but it makes our GRC guy’s life a little easier.  Especially when PCI and OCC audit seasons come around.
+----------------------------------------------------------------------------------------------------
+ID: me90qug # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cybersecurity risk foundation is incredibly useful
+----------------------------------------------------------------------------------------------------
+ID: mea0y26 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: LogicGate has been helpful for our group. It’s not perfect but better than Archer and some of the other solutions I have tried.
+----------------------------------------------------------------------------------------------------
+ID: meaiitk # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Kaseya GRC is pretty intuitive……
+----------------------------------------------------------------------------------------------------
+ID: meaksav # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’ve heard good things about a company called Sprinto. Compete directly with Vanta & Drata. I’m not associated with them at all but have done quite a bit of research into the platform.
+----------------------------------------------------------------------------------------------------
+ID: mean4ja # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Anecdotes is really nice
+----------------------------------------------------------------------------------------------------
+ID: meao7l7 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: We use Hoenbill for our service desk, document manager, collaboration and our GRC . We use it for ISO 277001 (and other ISO inclusing 27108)
+
+
+We add all the controls , associated all polices, risks and evidence, and then can easily see what is covered.
+
+For internal audits it then is just case of running through the controls and checking and during external the auditor asks show us 12.3.6 etc we can quickly look up what we had for this and show the correct doc and it's evidence.
+
+
+Before it was all spreadsheets and wiki pages and no idea if we had missed something , now I go into audits knowing I have everything (Last year I got 1 opportunity for improvement which was only due to moving from 2013 to 2022 standard and the year before that which was the final year of 2013 standard a clean report with no OFIs )
+----------------------------------------------------------------------------------------------------
+ID: meati3g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: SOXHUB. Workiva.
+----------------------------------------------------------------------------------------------------
+ID: meb3kgx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: CISO Assistant 🔝
+----------------------------------------------------------------------------------------------------
+ID: meb4drz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Theres only 100 of them... ive worked on Archer before...
+
+How many on the GRC Team?
+
+Just wrapped up one this past December... testes OneTrust, CentralEyes, and anecdotes grc...
+----------------------------------------------------------------------------------------------------
+ID: meb75so # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've worked with a number of "solutions" - they all have good and bad points but, in my experience, building out your own system with the tools you already have is unbeatable.
+
+SharePoint/Google drive (or Dropbox?!)
+Excel/Google sheets
+RMM solution (Intune/Atera/NinjaONE/Kanji...)
+
+...you get the idea.
+
+Every "solution" is bloated in some way or other and you'll spend more time fighting it than it will solve for you.
+
+Find a decent consultant (e.g. https://www.adlconsulting.co.uk) and spend your money on them rather than a "solution" - you'll have a MUCH better outcome and less ongoing expense.
+----------------------------------------------------------------------------------------------------
+ID: meb8euo # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Following, as each GRC tool we’ve experienced appears to be just as much effort as using excel.
+----------------------------------------------------------------------------------------------------
+ID: mebbavl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: !remindme 5 hours
+----------------------------------------------------------------------------------------------------
+ID: me8dfbx # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If you want the best for integrations, evidence collection automation, and process flows I would say anecdotes and hyper proof are the best in the space. If you have a ton of money then you could build out some stuff in service now.
+----------------------------------------------------------------------------------------------------
+ID: me975di # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Vanta. The audits are so much less effort and we share the evidence collection with a lot of other departments now. It also simplified vendor questionnaires, both incoming and outgoing. The time savings is worth it alone.
+
+They have a list of auditing firms that are used to the product so that made it easy and of course they were pretty quick.
+
+Overall, compared to the old method of tracking everything on spreadsheets, this is much better for our organization.
+----------------------------------------------------------------------------------------------------
+ID: me9l2ek # OF UPVOTES: -3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Find a good VAR you trust. I am one, if you want advice. I have done multiple GRC projects.
+----------------------------------------------------------------------------------------------------
+ID: meau5vu # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You have to send so much time aligning the controls, and then you are fucking married to the tool. I won't work with compliance automation tools they are pretty garbage.
+----------------------------------------------------------------------------------------------------
+ID: meak189 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I wouldn’t know.  Still loading…
+----------------------------------------------------------------------------------------------------
+ID: mebefvb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I work for a company that makes risk management platform with basically all GRC dedicated stuff.  
+
+ServiceNow pops up as one of our competitors but we don't directly compete with them and we had some customers going with it because there were new management employees who used that so they switched to what they know after taking over the reigns.  
+
+So yes people do use ServiceNow but also there are dedicated tools that would be worth checking out.
+----------------------------------------------------------------------------------------------------
+ID: me91vlq # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: how did I not know about this? Super cool project, thanks for mentioning it!
+----------------------------------------------------------------------------------------------------
+ID: meacjgl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’ve used it for compliance and managing external audits. It works.
+----------------------------------------------------------------------------------------------------
+ID: meb75r1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What's the pricing looking like?
+----------------------------------------------------------------------------------------------------
+ID: me9ndvi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Just want to make sure I understand what you're saying correctly. You are saying that if you're doing compliance, you also have to work with risk and governance, meaning you can't just focus only only compliance without working with the other two as well. Is that correct?
+----------------------------------------------------------------------------------------------------
+ID: me9u56j # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Anecdotes has probably the worst UX I've ever seen. Nothing is intuitive, but everything takes multiple clicks. It's definitely not good for running an audit out of (to actually use the automated evidence gathering). It's also slow as hell and sometimes it doesn't even load an update until you refresh
+----------------------------------------------------------------------------------------------------
+ID: me9b8w9 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: how does this work when undergoing external audits? do the firms validate and inspect any connection configurations to ensure the evidence is true and hasn’t been modified? does vanta produce csv/jsons of configurations, or is it screenshots with date stamps?
+----------------------------------------------------------------------------------------------------
+ID: mebcbi5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: £2k per year for 100 main users (as in people who will actually make changes) and you get a thousand or so contributors... People like asset owners who may confirm they've done a access review or report that an improvement action has taken place.
+
+It's hosted on the Web.
+----------------------------------------------------------------------------------------------------
+ID: me9qxdz # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That's correct. They should work in harmony with one another, but oftentimes, GRC is all about Compliance and not about Governance or Risk. Governance creates the structures that align with the goals of the organization. Risk evaluates the choices that the organizations make to achieve those goals. Compliance ensures that we adhere to policies that align with those goals. (Note that not all best practices captured in various security compliance frameworks align with those goals.)
+----------------------------------------------------------------------------------------------------
+ID: me9ubmx # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'm pretty sure it's the latter. They build in completeness and accuracy checks by showing the queries used etc
+----------------------------------------------------------------------------------------------------
+ID: mearzd0 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Auditors can see if the control is passing or failing, and can export the raw data (in csv format). 
+
+They can also see the test source data which can be viewed in browser or downloaded as JSON: https://help.vanta.com/hc/en-us/articles/21632359204756-Test-Source-Data
+
+Which is the specific request being made via API and the results.
+----------------------------------------------------------------------------------------------------
+ID: mebgbic # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Is that the lowest tier on offer? Or does it slide up or down per seat needed?
+
+This is the right company?
+
+https://www.mycompliance.vision/
+----------------------------------------------------------------------------------------------------
+ID: me9tewt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Makes sense. I'm a "Compliance Analyst", I work with NIST 800-171 and CMMC. When doing assessments and consulting for clients I noticed that the framework includes risk management/assessment, and the organization adhering to CMMC/NIST 800-171 requirements is the governance part. So it seems like my role actually involves all three compliance, risk, and governance, even though my title only has the compliance part. Do you have any advice for someone in my role for progressing in the GRC specialty? I've only been doing this for around 6 months, and tbh could use any advice i get.
+----------------------------------------------------------------------------------------------------
+ID: mebh7js # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Yeah that's the one. I think that's the lowest tier but they have a pricing section. 
+
+You can negotiate with them of course. Got a company of 5 people? Sure I'm sure they'll help.
+
+They also have an older tool just called my compliance (without the word vision) which is cheaper, but frankly is designed in a way it's less adaptive to the needs of a larger and more dynamic business which needs more modularity.
+
+It's also extremely good value compared to many other systems I've seen.
+
+They do also have some decent customers according to their website.
+----------------------------------------------------------------------------------------------------
+ID: meacagr # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Most “GRC” analysts start with Compliance because it’s easy to “check the box” and see if someone is strictly meeting a particular requirement. However, advancement comes when that analyst understands the underlying reason for the requirement and can make risk-based decisions on whether it is appropriate to meet a particular requirement or to consider other compensating controls or to accept the risk of not having a control. This ability to understand the business tradeoffs and make good decisions comes from experience, and that’s the next step towards leveling up.
+----------------------------------------------------------------------------------------------------
+ID: mebhl1x # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cheers for the info. 👍
+
+Just so used to companies having a "contact us for a quote" on their website. You make contact and all looks good and once you get to being quoted a price it becomes obvious you're in two different ball parks.
+----------------------------------------------------------------------------------------------------
+ID: mebhl40 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cybersecurity) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

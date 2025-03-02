@@ -1,0 +1,47 @@
+POST ID: 1i74ajl / POST TITLE: I hacked into an ISP (Internet service provider)
+====================================================================================================
+This is my first blog post. Feedback is much appreciated. Please read till the end and let me know if i should write about the other vulnerabilities i found.
+
+[Link here](https://infosecwriteups.com/how-i-discovered-a-critical-vulnerability-in-an-internet-service-providers-software-56c6cc00f338)
+
+PS. This was a ethical hack which was responsibly disclosed to the company and was fixed before this report was live. 
+
+POST COMMENTS:
+====================================================================================================
+ID: m8mud53 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice read.
+----------------------------------------------------------------------------------------------------
+ID: maugi17 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Amazing Article 🔥
+----------------------------------------------------------------------------------------------------
+ID: m8iiljg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: amazing article. Pleasant to read and entertaining. Related metioned too, to cool 😎. Ethical and caring.
+just sad that you had to keep technical details for later, especialy for the IDOR, as i think local router/box from ISP seem, in general, not design with security. So i may want to try it too one day, sparing time for doing it ony home ISP box.
+----------------------------------------------------------------------------------------------------
+ID: m8k27yf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Amazing Article 🔥
+----------------------------------------------------------------------------------------------------
+ID: m8kp9lb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: m8mu36x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Please edit your post to make it clear that this was LEGAL and Ethical as it seems kinda click baity especially with a random link.
+----------------------------------------------------------------------------------------------------
+ID: m8nhehg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you :)
+----------------------------------------------------------------------------------------------------
+ID: mauirj5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you :)
+----------------------------------------------------------------------------------------------------
+ID: m8ije4q # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah. When it comes to disclosure a lot of it is controlled by vendor. So did not expose much. But wanted to post this for the story. For my other posts will definitely include :)
+----------------------------------------------------------------------------------------------------
+ID: m8k2cf4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you. Really appreciate the feedback :)
+----------------------------------------------------------------------------------------------------
+ID: m8kpccs # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you :)
+----------------------------------------------------------------------------------------------------
+ID: m8nh6sm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Definitely will do that
+----------------------------------------------------------------------------------------------------

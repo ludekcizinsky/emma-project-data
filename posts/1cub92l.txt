@@ -1,0 +1,9 @@
+POST ID: 1cub92l / POST TITLE: Mac Computer for Reverse Engineering
+====================================================================================================
+I intend to study macOS Internals based on Jonathan Levin's excellent books on the subject (see link). It seems that a Mac Mini will suffice. What flaws exist in my thinking?
+
+POST COMMENTS:
+====================================================================================================
+ID: l54vlxi # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://objective-see.org is a great ref
+----------------------------------------------------------------------------------------------------

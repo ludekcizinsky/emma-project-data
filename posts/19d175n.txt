@@ -1,0 +1,18 @@
+POST ID: 19d175n / POST TITLE: Suggestions
+====================================================================================================
+Starting new career from self employed no experience look to get into cyber. Where to start ? Compt tia CCNA?
+
+POST COMMENTS:
+====================================================================================================
+ID: kj2qhz9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m still a novice myself but spending a few months delving into Linux has given me some solid fundamentals. I use hack the box which is fun and give you hands on experience with the tools you will be using such as nmap and burpsuite.
+----------------------------------------------------------------------------------------------------
+ID: kj3eoo4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: comptia doesn't have a CCNA cert as CCNA is through CISCO. you'll want to start with A+ and NET + and SEC+.
+----------------------------------------------------------------------------------------------------
+ID: kj3hio6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I recommend tryhackme to get started and understanding some concepts. From their trying to get some basic certifications like eJPT, Security+. I also recommend TCM academy, I used this while I was studying in University and found it very helpful and it ended up allowing me to pass my OSCP
+----------------------------------------------------------------------------------------------------
+ID: kj67bpl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Good luck! I guess you will need it.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+POST ID: 1io61p7 / POST TITLE: I used AI to make an app that uses AI to explain complex threat intel
+====================================================================================================
+Hi, I've been in cybersecurity for a while, both as a consultant and as a practioner. Like everyone in tech, I've been playing with AI tools and picked up developing mobile apps during the Christmas break. I made a Cybersecurity-focused app from a personal need. I'm biased but I think the app has come out pretty good and I thought I'd share it to get some feedback.
+
+The webserver essentially takes known exploited vuln, runs it through an AI LLM, maps it to NIST, MITRE, Attack Surface, Threat Intel, Regulatory and Exec Summary lenses. The mobile app then presents all this in a clean way, with the option to export as PDF.
+
+I used the same concept for intel blogs from Mandiant, Unit42 and Microsoft.
+
+Would love to hear feedback! Can be downloaded for iPhone, the Android version is available on the Play Store as a closed test (Google some crazy requirements for independent app devs to release their app on the store. The instructions for both iOS and Android are on [cyberprism.app](http://cyberprism.app) 
+
+POST COMMENTS:
+====================================================================================================

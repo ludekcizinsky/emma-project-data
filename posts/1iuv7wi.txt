@@ -1,0 +1,8 @@
+POST ID: 1iuv7wi / POST TITLE: Does Chainguard have real benefits beyond compliance?
+====================================================================================================
+I've been considering joining them in a technical role, and have done a lot of research on their product and overall business. While I'm pretty aware of the compliance benefits of their containers like zero CVEs for FedRAMP, I'm not sure I see some of the softer benefits they tout in their marketing and documentation. It looks like they are having a successful run right now, but based on my conversations with people at other organizations, it seems to be almost entirely on the back of compliance needs. I'm not sure how much potential that has long term, especially for a VC-backed business like that.
+
+Is their minimal approach to containers and software in general truly better? Compliance aside, is there enough there with Chainguard to be a successful business?
+
+POST COMMENTS:
+====================================================================================================

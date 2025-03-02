@@ -1,0 +1,21 @@
+POST ID: 1g4e19z / POST TITLE: Brute force not working while using dnsenum.
+====================================================================================================
+i was using diff tools like host, dig in kali which i have installed in virtualbox  
+while using dnsenum, its getting stuck on the brute force part.  
+can anyone say why its happening and how to remedy it
+
+POST COMMENTS:
+====================================================================================================
+ID: lt2sj23 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 
+Some DNS servers implement rate limiting or block repeated queries, which could cause the brute force process to slow down or get stuck..Still you can try adjusting the timing between requests to bypass the limitings.
+Also it might be due to firewall. Check whether the target domain has any protections in place. Use NMAP for that, if simple scan does not work as it does not accept ping probes it’s because of firewall. Then try using -pn and if it shows ports filter and workable ones its probably Firewall indeed.
+For dnsenum try using -t and -w to reduce performance.
+But dont use too much tools. Use the most useful ones. Suggest doing full nmap -sS -sV -A scan and then see what options you have from there. And then implement metasploit scripts if possible. Or if you find some special directory over that domain you work on , just use zaproxy for more manual lookout and spider scans
+----------------------------------------------------------------------------------------------------
+ID: m5wq87t # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Interesting
+----------------------------------------------------------------------------------------------------
+ID: lt86wxp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thanks
+----------------------------------------------------------------------------------------------------

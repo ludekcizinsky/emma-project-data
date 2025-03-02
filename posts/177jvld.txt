@@ -1,0 +1,104 @@
+POST ID: 177jvld / POST TITLE: Will a degree in IT allow me to get jobs as a professional cyber security ?
+====================================================================================================
+I just finished my Alevels, the only university I can afford does not have a degree specialised in cyber security, instead they have a degree in IT. if I do my bachelors in IT and self learn cyber security, will I have a hard time getting hired as a cyber security?
+
+POST COMMENTS:
+====================================================================================================
+ID: k4tg3u1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends. I myself graduated with an IT associates. Cyber security can be broken up into many things from knowing how to manage a network to understanding how threat actors propagate to carrying out security audits. I myself am an in "IT Support" that happens to focus on managing common troubleshooting, network management, and hardware/software security.
+
+
+The degree can be helpful however you will need additional certifications and schooling if intending to  become a penatration tester, white hat hacker, or any other cyber security role. It doesn't hurt to apply for said positions, but you want to be realistic (Which role can I apply with your education). Do some research on your own time as well if you're truly interested.
+
+Also: knowing how networking works is a requirement
+----------------------------------------------------------------------------------------------------
+ID: k4whxmg # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: In general, other than over-worked SOC jobs, cybersecurity really requires experience and is a poor entry-level field.  You’re also competing for jobs with every other new, underqualified graduate of the plethora of degree programs and bootcamps specifically in cybersecurity.  It can be done, but the likelihood is very low.
+----------------------------------------------------------------------------------------------------
+ID: k4tync7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Depends where you are and what kind of IT job you want. For some reason entry level remote jobs want a degree and and compita certifications, some places you can get away with not a degree. I’ve probably applied to 50 remote jobs desperately trying to get my foot in the door and haven’t gotten a single reply back because I don’t have a degree yet, still in college. I’m finding it very hard especially because I’m the only one in my house bringing in money at the moment and the only jobs near me that don’t require a degree only pay like $14 an hour and im making $21 as a mechanic right now so a $7 an hour pay cut isn’t possible for me. Really it depends how much money you need to make to get by.
+
+My advice, study your ass off and start piling up compita certifications and maybe do some home labs and fill your resume up with home made servers and compita certifications, then maybe you’ll get lucky.
+----------------------------------------------------------------------------------------------------
+ID: k4w1icm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It’s a good foundation, however you need to decide what aspect of cybersecurity you want to go for, cybersecurity is very broad. Here are some potential fields
+
+Penetration tester, 
+Information security officer, 
+GRC consultant, 
+Devsecops, 
+Red teaming, 
+Security researcher
+
+And many more 
+
+Once you have decided which area you want to specialize in, then research the best certificate for those areas and work on getting them.
+
+I’ve worked as a Penetration tester(current role) , as a devsecops engineer, a general cybersecurity consultant, and red team.
+
+I had my degree in computer networks and cybersecurity minor 
+
+Right now I have the following certifications
+
+CompTia Network +,  security +, penTest + and I’m working on some OSCP Certs 
+
+Will be happy to answer more questions if you have any
+----------------------------------------------------------------------------------------------------
+ID: k53spki # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Go for CSE thn and start learning web application, networking thn dive to penetration testing web application. 
+Portswigger web academy's lab and articles will help you to learn. I would recommend collecting knowledge from multiple sources.
+In cyber security certification is a paper which will help you to get invitation for interviews. But you need skills to pass.
+----------------------------------------------------------------------------------------------------
+ID: k570j93 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bro these jobs are looking for candidates like crazy now. Especially after Russia/Ukraine war. No question if you have a Bachelors (and maybe some certs) you'll for sure find high paying 6 figures
+----------------------------------------------------------------------------------------------------
+ID: k4tgsb8 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you said I need additional certification and schooling. My question is can I do that externally ( self taught ) via boot camps and courses online or do I need a certification from a university to get jobs as a professional ethical hacker ?
+----------------------------------------------------------------------------------------------------
+ID: k4wd3xj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I hope you get accepted for the jobs you’re applying for. So you mean to say I will have a hard time landing a job without a degree in cyber security ? if it makes it any different, I’m in Dubai
+----------------------------------------------------------------------------------------------------
+ID: k4wcnqo # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Firstly, thankyou for the reply. Second, do you think you could’ve landed these jobs without your degree? Third, which field in cyber security is the best paying ?
+----------------------------------------------------------------------------------------------------
+ID: k58jq90 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bro my question is will I find jobs without the bachelors
+----------------------------------------------------------------------------------------------------
+ID: k4th5q8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Some certifications can be done through schooling or at the very least prepare you for a certification. Most others are paid exams that you can find online such as Microsoft certifications or a CompTIA A+ certification. You'll probably want to research the certifications required by the jobs you are looking for (if any. More is better)
+----------------------------------------------------------------------------------------------------
+ID: k4wkhnn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am having a very hard time without a degree but I’m in the US, honestly couldnt tell you how it would be in Dubai, I wish you the best of luck though, there’s a lot of really smart people in the industry that makes it hard for people that aren’t to get in.
+----------------------------------------------------------------------------------------------------
+ID: k4wegvm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes I landed many of the jobs before my cybersecurity degree, my first degree was in law. I just got my Certs. In  my opinion the cybersecurity field cares more about experience and Certs which can be substituted for experience to get foot in the door than a degree.you’ll be fine as long as you have a degree, mine was in law before I got the second one with the cybersecurity minor 
+
+In my experience penetration testing and red teams generally  doesn’t pay as much as cybersecurity engineers  and dev secops. Both are blue side jobs. 
+
+Now you may ask why I am a pentester when I could be getting paid more in the blue side.  I spent some time in the blue side a devsecops engineer. I loved writing code to secure code, iac security, CI/CD pipelines, all that. But I hated the meetings, the heavy work schedule, I was very overworked.
+
+For me it’s about doing what I love and stress free work. As a pentester sometimes I don’t have any engagements for 2 weeks at a time and when I do, I work at my own pace and at my own hours, I just have deadlines. That’s more important pay to me.
+
+So generally blue pays more than red.
+
+Blue is devsecops, general cybersecurity engineer attached to a company or consultant.
+
+Finally the technical jobs generally pay more than grc and information security specialty
+
+Also you want to look into government contracting, if you can somehow get a security clearance, landing jobs is easy as a pie on clearance jobs
+----------------------------------------------------------------------------------------------------
+ID: k4tifji # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot. so basically the exams are acceptable as a certification and I don’t need a bachelors degree in cyber security yes ?
+----------------------------------------------------------------------------------------------------
+ID: k4zf1e2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks a lot once again, any tips for landing my first job / internship since I have 0 experience? I will ask you more questions in the future
+----------------------------------------------------------------------------------------------------
+ID: k4zhftd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I don’t really have any experience with internship, I’ve never done one because While I was in school, I was working. But to land a job with zero experience I’d suggest you get some certifications. CompTia A+, Network + and Security + in that order is a good route to go
+----------------------------------------------------------------------------------------------------
+ID: k5ntx0i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey I really need some advice urgently and you’re the only experienced one I know in this field can I please message you
+----------------------------------------------------------------------------------------------------
+ID: k5of2t5 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah you can
+----------------------------------------------------------------------------------------------------

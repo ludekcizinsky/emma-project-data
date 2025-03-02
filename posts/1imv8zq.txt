@@ -1,0 +1,15 @@
+POST ID: 1imv8zq / POST TITLE: Actively Exploited Physical Apple Vulnerability - CVE-2025-24200
+====================================================================================================
+A physical attack may disable USB Restricted Mode on a locked device.
+
+Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals.
+
+ This issue is fixed in iPadOS 17.7.5, iOS 18.3.1 and iPadOS 18.3.1.
+
+* [https://cyberalerts.io/vulnerability/CVE-2025-24200](https://cyberalerts.io/vulnerability/CVE-2025-24200)
+* [https://cyberinsider.com/apple-patches-zero-day-exploit-targeting-locked-iphones/](https://cyberinsider.com/apple-patches-zero-day-exploit-targeting-locked-iphones/)
+
+
+
+POST COMMENTS:
+====================================================================================================

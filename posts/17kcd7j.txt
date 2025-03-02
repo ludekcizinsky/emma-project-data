@@ -1,0 +1,9 @@
+POST ID: 17kcd7j / POST TITLE: hacking RTSP
+====================================================================================================
+How to install RTPSBrute in kali linux
+
+POST COMMENTS:
+====================================================================================================
+ID: k778opj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Looks like a python script.. you don't need to install anything. Why you want to use that over other apps, I have no idea.
+----------------------------------------------------------------------------------------------------

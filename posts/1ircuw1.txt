@@ -1,0 +1,10 @@
+POST ID: 1ircuw1 / POST TITLE: First steps into cybersecurity!
+====================================================================================================
+Hands-on project about: creating an attack-defense lab, carrying out ethical hacking tests, and applying defensive measurements.
+
+Are you missing something? What do you consider that would be a good project for a beginner? Configure a firewall at home?
+
+#kali #linux #metasploitable
+
+POST COMMENTS:
+====================================================================================================

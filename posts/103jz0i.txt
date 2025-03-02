@@ -1,0 +1,21 @@
+POST ID: 103jz0i / POST TITLE: help!!
+====================================================================================================
+hi, im currently studying IT and security . On my down time i would like to experiment by hacking my IOT devices. Im trying to learn how to hack my Blink cameras since i hear they are easy to hack but have no clue where to start or even where to look. can someone guide me?
+
+POST COMMENTS:
+====================================================================================================
+ID: j2zirjn # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Google is your friend. Find what protocols they use, read white papers about IoT devices. There's so much research nobody is going to link it all.
+----------------------------------------------------------------------------------------------------
+ID: j2zgts0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If u get somewhere lmk otherwise chats gonna get crazy with why u thinking about doin this
+----------------------------------------------------------------------------------------------------
+ID: j32sbp1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I agree with previous comments. I am doing through the same and I get lost with all the informative sites, tons of tutorials and also a lot of technology sites will have some learning/educational platforms as well.
+----------------------------------------------------------------------------------------------------
+ID: j31w9w5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I agree..google and YouTube are your best friend as an hack ETHICAL hacker
+----------------------------------------------------------------------------------------------------
+ID: j4bc9mb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you 🙏 will do
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+POST ID: 130pkjp / POST TITLE: Problem with betterCAP
+====================================================================================================
+Hey whats up, im new and try to learn bettercap.
+
+It just doesn't look like nowhere in the internet. When I launch bettercap I cant run commands and the modules dont start up. (Screenshot below).
+
+I use alfa network adapter in managed mode.
+
+&#x200B;
+
+https://preview.redd.it/jagzp2x2yfwa1.png?width=824&format=png&auto=webp&s=f71bdbec4b131cf123ca3d13deee8e5dade7e096
+
+POST COMMENTS:
+====================================================================================================

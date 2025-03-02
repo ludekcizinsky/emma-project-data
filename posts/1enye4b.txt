@@ -1,0 +1,67 @@
+POST ID: 1enye4b / POST TITLE: What online classes should I take to learn more about ethical hacking? 
+====================================================================================================
+What qualifications would I need to land a job in this field? Preferably a penetration tester
+
+POST COMMENTS:
+====================================================================================================
+ID: lh9rfxo # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Offsec has a new entry level course OSCC
+https://www.offsec.com/courses/sec-100/
+----------------------------------------------------------------------------------------------------
+ID: lhbo6ls # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Youtube and CTF's are best.
+----------------------------------------------------------------------------------------------------
+ID: lh9nwnl # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Imo, the best thing you can do when starting out in this field is mastering your information gathering skills. Become a black belt in google-fu. 
+
+All of the answers you seek are out there,  they are also everywhere in this sub.  Do a little reading to find what interests you the most,  then check out some of the courses on tryhackme.com.
+----------------------------------------------------------------------------------------------------
+ID: lhbsu9q # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I would recommend PNPT course it has fantastic videos explaining different technics, tools and how to use them.
+----------------------------------------------------------------------------------------------------
+ID: lhasdd7 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I need some help with something anyone with hacking experience can reach out? 
+----------------------------------------------------------------------------------------------------
+ID: lhkajvl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any free offsec certificate available?
+----------------------------------------------------------------------------------------------------
+ID: liulbtg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you have any links for yt?
+----------------------------------------------------------------------------------------------------
+ID: lhe4b14 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I like that someone downvoted you for literally the #1 best skill for this industry: Researching skills.
+
+If you don't know the answer to something, start searching for it.  The chances that you're the first person asking the question is incredibly slim, meaning there's already resources laid out somewhere.  That literally applies to quite almost every facet of infosec, no matter what your role.
+----------------------------------------------------------------------------------------------------
+ID: lhc5jiu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No free courses
+----------------------------------------------------------------------------------------------------
+ID: lhe395k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you have legit questions about a process or how something is done, then you'll want to make a thread about it.  Folks will have answers.
+
+Looking for someone with 'hacking experience' to get back into one of your accounts somewhere? Not what this sub is for.
+----------------------------------------------------------------------------------------------------
+ID: liuigg7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Take a look at tryhackme certification, it's not expensive
+----------------------------------------------------------------------------------------------------
+ID: lsq09wd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: cyber mentor  
+hackersploit  
+bitten tech
+
+network chuck
+
+david bombal
+
+liveoverflow
+
+john hammond
+----------------------------------------------------------------------------------------------------
+ID: lheb3lf # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah,  I guess people think I'm being dismissive.  
+
+I truly believe it is the greatest skill.  It's a great skill for any IT field. This is not an industry where someone can know everything. Information is constantly changing.  The only way to keep up is to have excellent information gathering skills.
+----------------------------------------------------------------------------------------------------
+ID: liullml # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Even for free rooms?
+----------------------------------------------------------------------------------------------------

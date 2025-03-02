@@ -1,0 +1,32 @@
+POST ID: 14fmz9d / POST TITLE: Any Projects For Ethical Hacking?
+====================================================================================================
+Hi, I recently been experimenting some python projects for hacking like, IP logger by a downloadable file or by a link and a cookie logger, and I would like to continue experimenting this field, so if you have any Projects that I could try please say it to me(no Linux I want to use windows for now).
+
+POST COMMENTS:
+====================================================================================================
+ID: jp100u5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Getting into platforms such as Hack the Box and Try Hack Me is a good start, they provide machines for you to attempt to Hack into, as well as guides and tutorials.
+----------------------------------------------------------------------------------------------------
+ID: jp1r183 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://github.com/kurogai/100-redteam-projects
+----------------------------------------------------------------------------------------------------
+ID: jp3eueu # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try making a Windows remote access trojan that logs keys and atuff- you can use the win32api package for a lot, and maybe do use something like github or twitter for C2
+----------------------------------------------------------------------------------------------------
+ID: jpzc5o4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: jsl1scf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Vulnerability scanner
+Vulnerability exploit
+Trojan
+Keylogger
+Enumeration tool
+Web frameworks detection...
+----------------------------------------------------------------------------------------------------
+ID: jp10ca1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: But I will point out, getting into Ethical Hacking you will need to get some Linux skills, knowing your way around Linux and the basics is always good knowledge
+----------------------------------------------------------------------------------------------------
+ID: jq2e0hy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your post has been removed. Do not attempt to hire a hacker here. Any further attempts will be met with a ban.
+----------------------------------------------------------------------------------------------------

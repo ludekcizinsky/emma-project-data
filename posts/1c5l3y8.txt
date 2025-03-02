@@ -1,0 +1,30 @@
+POST ID: 1c5l3y8 / POST TITLE: Everything that is wrong with Bug Bounty
+====================================================================================================
+Everything that's wrong with bug bounty in a single image. 
+No matter how much effort you invest or how objectively severe the vulnerability you find is, you can always be brushed off with a "We believe is  is not that serious" or "Someone else has already reported it." 
+Essentially, you're blindly trusting companies to pay you after you did the job and reported to them, with no kind of contract backing the employment relationship.
+
+It's no coincidence that the prices for this kind of information on the dark web are much higher than on official bug bounty platforms: 
+demand is greater, opportunity cost is lower and market equilibrium is more genuine. 
+We need bigger incentives if we want to stay ahead in the cybersecurity war.
+
+
+POST COMMENTS:
+====================================================================================================
+ID: kzutnmt # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can't agree more
+----------------------------------------------------------------------------------------------------
+ID: kzyq3ln # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: lol. really it's painful after knowing that your found bug already been discovered by someone but they didn't fix that it means they don't wanna pay you
+----------------------------------------------------------------------------------------------------
+ID: kzuxxwi # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, companies like trend micro are bad for that. Or they will find D0's or hold your company essentially hostage unless you pay them to fix the pentration. Otherwise they'll outsource the bug on some online platform for free use.
+----------------------------------------------------------------------------------------------------
+ID: l9jjnnb # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It really amounts too “thanks for informing us we’re going to now fix it and lie about someone beating you to the punch. Kick rocks 🪨 and have a nice day. 
+
+P.s. feel free to keep giving us more info on bugs we “should” and “could” pay for but instead will just lie and again give credit to another mysterious “ghost hacker”.
+----------------------------------------------------------------------------------------------------
+ID: lag8gom # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can’t agree more they just don’t wanna pay and want the info for free
+----------------------------------------------------------------------------------------------------

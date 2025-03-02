@@ -1,0 +1,18 @@
+POST ID: 1iutkti / POST TITLE: CEH vs Job market
+====================================================================================================
+I want to know how the Certified Ethical Hacker certification is seen by the job market and recruiters. Can it help me, in terms of jobs and salaries, to advance my career in the offensive security field? Is it "easier" to get pentesting jobs with it?
+
+
+
+I know that the exam is not practical and is not the best to acquire knowledge, I spent a lot of time on HTB modules, labs, and in other CTF platforms. Even so, where I live (Brazil), CEH is highly valued by HR and recruiters.
+
+
+
+I need to know if it is worth spending money on the voucher, considering that I will need to save part of my income for this, intending to boost my career and get better positions and salaries. 
+
+
+
+Thanks.
+
+POST COMMENTS:
+====================================================================================================

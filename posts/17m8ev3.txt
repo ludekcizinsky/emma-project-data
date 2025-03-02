@@ -1,0 +1,31 @@
+POST ID: 17m8ev3 / POST TITLE: What tools do you use? What do you recommend to learn?
+====================================================================================================
+Hey people 
+
+I'm in the process of shifting my career and knowledge to pentesting, I have an idea of some tools I need to learn/master and gain experience with to be able to focus on this career.
+
+Metasploit, JohnTheRipper, BurpSuite, Wireshark, Cobalt Strike, Nessus, Kali Linux, Python 
+
+what tools do you use? what tools would you recommend? 
+
+any responses are appreciated, and thank you for your time x
+
+POST COMMENTS:
+====================================================================================================
+ID: k7jhxys # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Burpsuite and MS Office. Cover about 95% of workload
+----------------------------------------------------------------------------------------------------
+ID: k7o6ikf # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: k7k4lzy # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm in the process of learning burp, it's quite straight forward but alot to learn so I'm using tryhackmes pathway of learning it
+Once I get the basics down I'll move to watching more videos etc 
+
+Ms office?
+----------------------------------------------------------------------------------------------------
+ID: k7ouwyq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: nmap is something I'm really practicing atm along with burpsuite
+
+net cat and masscan I haven't touched yet
+----------------------------------------------------------------------------------------------------

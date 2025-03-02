@@ -1,0 +1,8 @@
+POST ID: 1iuawyr / POST TITLE: NailaoLocker Ransomware Hits Healthcare Organizations in Europe
+====================================================================================================
+Orange Cyberdefense has released a [report](https://www.orangecyberdefense.com/global/blog/cert-news/meet-nailaolocker-a-ransomware-distributed-in-europe-by-shadowpad-and-plugx-backdoors) detailing a new strain of ransomware, NailaoLocker, that targeted healthcare organizations across Europe from June to October 2024.According to the researchers, this ransomware attack was delivered using ShadowPad and PlugX- two notorious backdoor malware strains often associated with Chinese espionage activities. The intruders exploited a vulnerability in Check Point Security Gateways (CVE-2024-24919) that had already been patched in May 2024.
+
+While NailaoLocker encrypted files, it's considered unsophisticated and poorly designed - suggesting it wasn't necessarily meant for full encryption or causing extensive damage. However, it still managed to disrupt operations in the sector, where data protection is critical. 
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,123 @@
+POST ID: 19ddabf / POST TITLE: How to Start
+====================================================================================================
+Good night, everyone! 
+
+I'm currently 18 and I'm very interested in topics like cybersecurity and hacking, but I have no idea where to start. I have knowledge on Python and nowadays I'm learning javascript.
+
+I thought about learning Assembly and Reverse Engineering, but I'm unsure if that's the best start.
+
+Any tips?
+
+Thanks in advance.
+
+POST COMMENTS:
+====================================================================================================
+ID: kj5njz0 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme beginner lessons are free and you can pick paths that interest you
+----------------------------------------------------------------------------------------------------
+ID: kj69tdv # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just start with the basics. The basics are very important. Otherwise you will lack important knowledge. 
+
+For example you should know much about networks, protocols, layers. Hacking / Cybersecurity without basic knowledge does not make much sense.
+----------------------------------------------------------------------------------------------------
+ID: kj7p0kn # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you very much sir.
+
+Just saw the website and I see there's a lot of interesting content, even better for being for free.
+----------------------------------------------------------------------------------------------------
+ID: kj7ofx1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I see, right now I don't even have the basics, I'll study more about it.
+
+Thanks for the tip, I appreciate it.
+----------------------------------------------------------------------------------------------------
+ID: kj8730b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For example regarding network and internet communication: Learn about the OSINT layer model. Very important for understanding of communication via the internet! Then you should know about protocols and the reffering layers.
+
+Python is a very useful language. Javascript, too. What about your bash skills? The bash is powerful and you can write scripts to do whatever. If you want to hack you should definitely learn and master bash. It's not that comfortable like a real program language, but worth the effort.
+
+But of course you can have some fun in parallel. Do you own a Raspberry Pi? It's a nice hobby and sometimes useful for hacking. You can use it to fake an AP or plug it into an ethernet wallet and gain access from outside or whatever.
+
+Offsec offers a free book and course, KLCP, and you can even get a certificate, but this costs idk about 150€ I guess? But the online book is free. You will learn about linux, file system and how to install Kali Linux on a virtual machine or raspberry pi etc. [https://kali.training/](https://kali.training/) You can even install Kali Linux on top of Android. It is called Nethunter. But I would say this is not easy if you never flashed a smartphone before.
+
+Do you know about Arduino or ESP8266 etc? A digispark for example can also be used as a cheap Rubber Ducky alternative. Just google Rubber Ducky.
+
+However, there is a lot. Regarding hardware tools, the Hak5 website is nice to get an overview of what nice tools one can buy. Also, check out the Flipper Zero.
+
+What fields are you interested in cybersecurity? Do you know about SQL injections or maybe click hijacking, brute force, dictionary attacks etc?
+----------------------------------------------------------------------------------------------------
+ID: kjc649a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Got advice for someone trying to get better at website security, iam currently managing wordpress websites
+----------------------------------------------------------------------------------------------------
+ID: kjdaxwy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have an idea of ​​what a Raspberry Pi is, but I've never used one yet. But the other hardware tools you've mentioned, I've never heard about them before. 
+
+About Linux and Bash skills, I lack a lot. Only time that I've used Linux was on college. Rn I'm trying to install Linux on my pc. 
+
+The fields I'm more interested in cybersecurity are about data protection, malware analysis, hacking and penetration skills. About the attacks you mentioned, I know what they are and how they work in theory, but I don't really have the technical knowledge.
+
+Since I'm lacking the basics, I think I will use this opportunity to  learn about them as I do the coursework on TryHackMe. Rn I don't have money to buy the course (I live in Brazil, so the price is 5 times more expensive), but I will have a look on the online book of KLCP.
+
+And I'm genuinely curious, is it better to learn about this field by books than the internet? I imagine that both options are valid and provide good info, but on my experience the content of books tends to be more centralized, and on the internet it is more widespread.
+
+Also, thanks for the info! There were a lot I didn't know.
+----------------------------------------------------------------------------------------------------
+ID: kjdw8l3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >I have an idea of ​​what a Raspberry Pi is, but I've never used one yet.
+
+Since it is a mini computer with Ethernet, Wifi, USB and GPIO (Interface), you can do a lot with it! The OS is installed on a SD card and you can install Linux (e.g. Raspbian or today called Raspberry Pi OS). I would at least recommend it if you like to play with hardware, too, since you can connect sensors, LED etc. to it. I have one in my garden which recognizes bird songs and identifies the species. This project is called birdnet-pi. However, this has nothing to do with hacking, I just wanted to say that it can be used for a whole lot of stuff.
+
+>But the other hardware tools you've mentioned, I've never heard about them before.
+
+[https://flipperzero.one/](https://flipperzero.one/)
+
+[https://hak5.org/](https://hak5.org/)  [https://shop.hak5.org/products/usb-rubber-ducky](https://shop.hak5.org/products/usb-rubber-ducky) 
+
+[https://www.kali.org/docs/nethunter/](https://www.kali.org/docs/nethunter/)
+
+&#x200B;
+
+>About Linux and Bash skills, I lack a lot. Only time that I've used Linux was on college. Rn I'm trying to install Linux on my pc.
+
+There are several ways to use Linux, you can install it on a pendrive and boot from it, install it as second OS beside Windows, install it in a virtual machine or install it on a Raspberry Pi. How to do this is explained in "Kali Linux Revealed", which is btw also available as printed book. But the online book is for free.
+
+A very basic bash course: [https://learn.microsoft.com/en-us/training/modules/bash-introduction/](https://learn.microsoft.com/en-us/training/modules/bash-introduction/)
+
+If you prefer videos: [https://www.youtube.com/watch?v=tK9Oc6AEnR4](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+
+>The fields I'm more interested in cybersecurity are about data protection, malware analysis, hacking and penetration skills.
+
+Well, data protection. You should learn about confidentiality, integrity and availability (CIA triad):
+
+[https://www.splunk.com/en\_us/blog/learn/cia-triad-confidentiality-integrity-availability.html](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
+
+I cannot tell much about malware analysis.
+
+"Hacking" can be everything. I define hacking as a creative use of technology which enables the hacker to misuse technology.
+
+Pentesting. Like I said before, knowledge of network basics are important. You need to understand what you are going to do. Of course you can simply use a script to do stuff, for example wifite. But this way you become a script kiddie not a hacker. However, scripts are handy because you do not need to do every step manually. If you can just write code to do what you want, that would be perfect.
+
+&#x200B;
+
+>About the attacks you mentioned, I know what they are and how they work in theory, but I don't really have the technical knowledge.
+
+You should try to understand how it works. And how to protect against it. Example SQL injection. SQL is search query database. MySQL databases were widely used to store data, for example for a web service. Let's say there is a form on a website to add a dataset. If the PHP code is not protected well, you may be able to inject code. A user should not be able to use certain characters, which will allow injection of malicious code.
+
+>Since I'm lacking the basics, I think I will use this opportunity to  learn about them as I do the coursework on TryHackMe. Rn I don't have money to buy the course (I live in Brazil, so the price is 5 times more expensive), but I will have a look on the online book of KLCP.
+
+In theory you could use a VPN to seem to be somewhere else. ;)
+
+>And I'm genuinely curious, is it better to learn about this field by books than the internet?
+
+Well, I guess you will have both, a few books and internet ressources. For example there are books for those who want to become IT specialists. I think it cannot harm to have a book where all the basics about networks and stuff are explained. But it's a personal decision.
+
+>Also, thanks for the info! There were a lot I didn't know.
+
+You are welcome.
+----------------------------------------------------------------------------------------------------
+ID: kjig2pt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I see, just installed Linux on my pc, I'm going to start studying right away. 
+
+About using a VPN, I'll give it a try and see how it works out. 
+
+Once again, thanks for the fonts and guidance!
+----------------------------------------------------------------------------------------------------

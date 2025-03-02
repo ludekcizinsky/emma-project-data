@@ -1,0 +1,46 @@
+POST ID: 1iw0wyh / POST TITLE: 🔍 I Built a Web Crawler for Pentesting – Link Dumper! 🚀
+====================================================================================================
+# Hey r/cybersecurity👋
+
+I recently built **Link Dumper**, a Python tool that **crawls websites** and extracts important files like and sensetive data::  
+✅ **JavaScript files (.js)** – Can contain API keys, sensitive endpoints, etc.  
+✅ **Extract Sensetive info:**– APi keys ,version numbers..  
+✅ **Recursive crawling** – Finds deeper links & assets  
+✅ **Multi-threaded for speed** – Faster enumeration for large sites
+
+🔗 **GitHub Repo:** [https://github.com/walidzitouni/Link\_dumper](https://github.com/walidzitouni/Link_dumper)
+
+This is My linkedin: [https://www.linkedin.com/in/walid-zitouni-634809299/](https://www.linkedin.com/in/walid-zitouni-634809299/)
+
+💡 **Why is this useful?**
+
+* Helps **bug bounty hunters** find hidden attack surfaces 🔥
+* Great for **recon & OSINT** to map out websites
+* Automates **subdomain enumeration & endpoint discovery**
+
+# How to Test It?
+
+You can try it on:
+
+* **Your own site or localhost** (`python3 -m http.server 8080`)
+* **Bug bounty programs** (Check scope!)
+* **Deliberately vulnerable apps** (e.g., OWASP Juice Shop)
+* **Test sites like** [http://testphp.vulnweb.com](http://testphp.vulnweb.com)
+
+💭 **Would love feedback & ideas for new features!**  
+What would you add to improve it? 🤔
+
+\#CyberSecurity #BugBounty #OSINT #PenTesting #EthicalHacking #Python #RedTeam🔍 I Built a Web Crawler for Pentesting – Link Dumper! 🚀Hey r/cybersecurity👋I recently built Link Dumper, a Python tool that crawls websites and extracts important files like and sensetive data::  
+✅ JavaScript files (.js) – Can contain API keys, sensitive endpoints, etc.  
+✅ Extract Sensetive info:– APi keys ,version numbers..  
+✅ Recursive crawling – Finds deeper links & assets  
+✅ Multi-threaded for speed – Faster enumeration for large sites🔗 GitHub Repo: https://github.com/walidzitouni/Link\_dumperThis is My linkedin: https://www.linkedin.com/in/walid-zitouni-634809299/💡 Why is this useful?Helps bug bounty hunters find hidden attack surfaces 🔥  
+Great for recon & OSINT to map out websites  
+Automates subdomain enumeration & endpoint discoveryHow to Test It?You can try it on:Your own site or localhost (python3 -m http.server 8080)  
+Bug bounty programs (Check scope!)  
+Deliberately vulnerable apps (e.g., OWASP Juice Shop)  
+Test sites like [http://testphp.vulnweb.com💭](http://testphp.vulnweb.com💭) Would love feedback & ideas for new features!  
+What would you add to improve it? 🤔#CyberSecurity #BugBounty #OSINT #PenTesting #EthicalHacking #Python #RedTeam🔍 I Built a Web Crawler for Pentesting – Link Dumper! 🚀
+
+POST COMMENTS:
+====================================================================================================

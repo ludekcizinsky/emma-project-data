@@ -1,0 +1,28 @@
+POST ID: 1doagpb / POST TITLE: Conferences and expos
+====================================================================================================
+I know of defcon as like the big one to go to for hackers, but I live in western/upper ny so going there isn't realistic for me right now, especially as a beginner. I was wondering if anyone knew of a similar convention near western NY at all, or how I might find them. 
+I've tried Googling, and found I had missed one at a college near me, but other than that I feel they're hard to find
+
+POST COMMENTS:
+====================================================================================================
+ID: laaxren # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As a beginner, cons like Defcon and Black Hat are more about eye candy.
+
+If you legit want to learn and end up with something more beneficial (connections), attend local cybersecurity networking groups.
+
+The ISC2 has a couple of NY chapters: [https://isc2chapter-liny.org/](https://isc2chapter-liny.org/)
+----------------------------------------------------------------------------------------------------
+ID: lal7qw8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can yall recommend one in California ?
+----------------------------------------------------------------------------------------------------
+ID: laazof8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you! 
+
+And yeah, I figured it wasn't really what I was looking for, but it's the only one I've ever heard of.
+----------------------------------------------------------------------------------------------------
+ID: lab09cn # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well and don't get me wrong, if you ever get the chance, get your ass to Vegas to go to Defcon.  It's definitely a blast.  More of a blast if you can get work to pay for the whole trip, lol
+----------------------------------------------------------------------------------------------------
+ID: lab37q8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I definitely want to go at least once! I feel like it'll be fun to see!
+----------------------------------------------------------------------------------------------------

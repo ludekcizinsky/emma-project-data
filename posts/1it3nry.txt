@@ -1,0 +1,12 @@
+POST ID: 1it3nry / POST TITLE: Internal & External Penetration tests
+====================================================================================================
+Hi everybody! 
+
+I’ve been assigned a task at work to figure out & run penetration tests on our external IPs and some internal servers. I haven’t really done any sort of pen testing before so this is completely new to me. I know this is not easy and not really recommend for someone new to run pen tests but I’ll need to figure it out. 
+
+I’d really appreciate if you all could guide me to some great resources, methodologies, tools or anything that will help me in carrying out these tests. It’s a great learning curve for me so I’m excited for it. 
+
+Thanks! 
+
+POST COMMENTS:
+====================================================================================================

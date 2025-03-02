@@ -1,0 +1,8 @@
+POST ID: 1inuhm2 / POST TITLE: Personal VPN mitigation at the workplace
+====================================================================================================
+A considerable number of our users are using personal VPNs when connecting to company systems, and it's causing headaches in triaging OCONUS logins. 
+
+Just polling the community, how have you guys mitigated personal VPN usage at your company?
+
+POST COMMENTS:
+====================================================================================================

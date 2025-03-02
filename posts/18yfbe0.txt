@@ -1,0 +1,47 @@
+POST ID: 18yfbe0 / POST TITLE: Is keeping data risk for myself?
+====================================================================================================
+Hi all,
+
+first of all: I'm not a hacker and don't know much about it.
+Last year I found a security breach on the website of a big company and reported it to them. There were lots of internal documents accessible and also some customer data with address, phone number,...
+It wasn't easy to talk to someone who cares about what I've found. After few days I got a mail by some manager and we had a nice call afterwards.
+The IT closed this breach on the same day.
+
+I recently saw that I still have some internal data I downloaded on my storage.
+I'm now wondering if I could get in trouble if I would be hacked or sth :D
+Am I responsible if some data that was accessible to publicity gets stolen from me?
+Just wondering not that I'm planing to share something:D
+
+POST COMMENTS:
+====================================================================================================
+ID: kgal2lk # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just delete it
+----------------------------------------------------------------------------------------------------
+ID: kgazbc5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Even if it was "accessible to the public", it was an unauthorized access, and thus illegal. Therefore, any party damaged by your actions could seek compensation in court, from you as the prepretrator and from the company for failing to secure the information. You might also be criminally liable depending on the type of information divulged (medical, etc.).
+----------------------------------------------------------------------------------------------------
+ID: kgh3hbv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yes you can very much get into trouble by keeping that data. if it is not your data and you downloaded it without permission you just committed theft, its also possible for them to see the data was downloaded and where too.  you are very much responsible for it.
+----------------------------------------------------------------------------------------------------
+ID: kgap92x # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's a solution but not the answer to my question.
+I will delete it but wanna know the legal situation.
+----------------------------------------------------------------------------------------------------
+ID: kgb8r59 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the explanation. I didn't even know accessing this data might be illegal.
+
+Knowing that, I also understand that any further damage could be considered as my responsibility.
+
+Probably it even would have made sense to report it anonymously to that company.
+----------------------------------------------------------------------------------------------------
+ID: kgc4hxh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just curious, why did you find it necessary to download them in the first place? Don't have to answer. I'll respect that.
+----------------------------------------------------------------------------------------------------
+ID: kgcg7vq # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I wanted to buy a product by a brand and heard rumours that there's going to be a successor upcoming soon.
+That's why I searched with some keywords in different search engines, hoping there will be some piece of information maybe hidden in HTML of their website.
+In the end I stumbled over documents of an internal reporting portal and knowledge database that were stored in unsecured directories of several subdomains. It had some details about supply chain, purchasing prices, sales figures and so on. 
+It just made me curious and I didn't want to report it in the first place. But when I found files with customer data I knew the leak was too sensitive to not tell 'em about it.
+
+By the filenames you couldn't tell what information is stored in these files. So it was just randomly clicking on search results in Bing and getting surprised by the contents.
+----------------------------------------------------------------------------------------------------

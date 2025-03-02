@@ -1,0 +1,26 @@
+POST ID: 1iu0hgt / POST TITLE: Looking for clarification on DORA requirements for Microenterprises
+====================================================================================================
+TL;DR: Looking for clarification on which requirements of DORA apply or not for Microenterprises, and if someone anywhere has written it down in a way my smooth brain can understand.
+
+I have started working with DORA quite recently, and ended up being confused by the text of the regulation. I have some background with PCI-DSS and ISO27001, but the regulation format is being a challenge for me.
+
+I am trying to map DORA requirements for microenterprises using the regulation text and Advisera "List of documents required by the DORA regulation" but looking more into the regulation text I'm getting some inconsistences. 
+
+For example, Advisera lists all requirements for Resilience Testing program for all categories/sizes of companies. But, in articles 24, the text seems to exempt microenterprises entirely from creating and maintaining a resilience testing programme, then article 25(3) lays out requirements on how microenterprises should perform the resilience tests (So, they are required to have a program, right?).
+
+Searching for more information I found that, in the [eur-lex.europa.eu](http://eur-lex.europa.eu) "Summaries of EU legislation for Digital operational resilience for the financial sector", it says:
+
+>Digital operational resilience testing
+
+>Financial entities, **other than micro-enterprises**, shall:
+
+>\- establish, maintain and review a sound and comprehensive digital operational testing programme \[...\]
+
+And its the same confusion with the ICT risk management section. eux-lex also states that microenterprises are exempted.
+
+Look, it is quite possible I am the one not understanding it. I am not used to work with documents like this, totally out of my element. Any insight would be helpful. 
+
+Thanks a lot
+
+POST COMMENTS:
+====================================================================================================

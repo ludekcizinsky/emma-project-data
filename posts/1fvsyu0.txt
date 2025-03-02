@@ -1,0 +1,55 @@
+POST ID: 1fvsyu0 / POST TITLE: Rockyou.txt couldn't crack my network's wifi password, I'm surprised. Suggest some better alternatives please
+====================================================================================================
+Bruteforce would take ages. (I've the captured handshake file) 
+
+POST COMMENTS:
+====================================================================================================
+ID: lq9kz92 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try rockyou.txt with a rule list.
+
+And if you know your WiFi pw you can just look if you find it in the rockyou.txt. Grep ftw.
+----------------------------------------------------------------------------------------------------
+ID: lqcjlwg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try using wordlists like **SecLists** or **Weakpass** 
+
+Another option is to generate custom list with **Crunch**, and use **Hashcat** for mask or hybrid attack
+----------------------------------------------------------------------------------------------------
+ID: m6lbecr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If rock you did not crack u have to use the custom generated pass list for the specific user
+----------------------------------------------------------------------------------------------------
+ID: lq9l4o7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a good idea! Lemme check and update if it's in the list
+----------------------------------------------------------------------------------------------------
+ID: lq9lc7l # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Alright, I checked and didn't find it in it. What to do now?
+----------------------------------------------------------------------------------------------------
+ID: lq9lg1x # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I mean, you can just put your PW in the list and run it again. This time the password cracking should be successful.
+
+Edit: In a real world engagement you could also try a rule list. This will basically run your password list and changes the password based on the rules defined in the passwordlist.
+----------------------------------------------------------------------------------------------------
+ID: lq9lo15 # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I don't intend to do that. I want a way which will let me open any password. Like what's even the point of cracking my own password if I know it? Bruteforce is for example a sureshot way but it takes very long
+----------------------------------------------------------------------------------------------------
+ID: lq9mb5a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well any password is a little over the top. On a good day we usually get close to 70% with huge lists and cracking stations (6 server + 4 RTX 4080).
+----------------------------------------------------------------------------------------------------
+ID: lq9mmdh # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 😭 seems I should call off my plans for wifi hacking then. In anycase what's the next thing to try? I'm pretty new here and I've played over the wire bandit games till level 11 so far. I was thinking playing those solely is boring so tried this
+----------------------------------------------------------------------------------------------------
+ID: lq9mure # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is exactly where I started. You might look into TryHackMe and HackTheBox!
+
+Web pentesting is a good "beginner" skill and from there you can start to get into network, windows, linux pentesting.
+----------------------------------------------------------------------------------------------------
+ID: lqaxe11 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You should start learning python. Python can come in handy in almost every field in ethical hacking.
+
+Then go ahead and start with some easy ctf like hack the box and over the wire and progress from there
+----------------------------------------------------------------------------------------------------
+ID: lqa47ib # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Overthewire natas is also fun, I went till level 28. I came also recommend picoCTF and picogym. Owasp juice shop is also fun. And of course TryHackMe, hackthebox and hextree.io are really good.
+----------------------------------------------------------------------------------------------------
+ID: lq9myxv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Aight! I'll proceed on it then. And if I need help would dm you, thanks!
+----------------------------------------------------------------------------------------------------

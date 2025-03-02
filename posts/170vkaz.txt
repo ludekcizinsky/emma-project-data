@@ -1,0 +1,24 @@
+POST ID: 170vkaz / POST TITLE: hydra
+====================================================================================================
+im on the course of becoming a new ethical hacker (everything i do is on my private home network) and i have been trying to learn the tool Hydra but i dont have a single clue of what i need to put on the ip address section. Could anyone help me please?
+
+POST COMMENTS:
+====================================================================================================
+ID: k3n3kdp # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The IP address field in Hydra is for the target system you’re trying to attack. Since you are working on your own network, ensure you only target devices you own. For your own machine, you can use ‘localhost’ or ‘127.0.0.1’.
+----------------------------------------------------------------------------------------------------
+ID: k3nms01 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I highly recommend doing the Starting Point machines (using the guides/walkthroughs) on HackTheBox to learn the basics of several popular tools (nmap, hydra, sqlmap, etc) and get a chance to try them against a "real" target.
+----------------------------------------------------------------------------------------------------
+ID: k3op8j6 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've done a video on the basics of Hydra, hopefully it'll be a help to you https://youtu.be/UAp7nOj6gnQ?si=UJi9P3a0LGGG9dCj
+----------------------------------------------------------------------------------------------------
+ID: k3u1inq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It depends what you are trying to brute force but if it’s a web domain you need to specify a username/password or wordlist, the domain ip, the http form, and directory/login parameters. If it’s anything else then it’s pretty much the same if not more simplified. (Ex. hydra -u Admin -P [wordlist] ssh://[IP])
+----------------------------------------------------------------------------------------------------
+ID: k3n4uyz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thank you so much for replying. So Hydra works for bruteforcing and using dictionary attacks against Systems, not web servers? for exaple if i want to brute force my laptop from my pc i should put the ip address of my laptop?
+----------------------------------------------------------------------------------------------------
+ID: k3n5393 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hydra can be used for both systems and certain web services. It’s versatile. If you’re trying to brute force your laptop from your PC, yes, you’d use your laptop’s IP address.
+----------------------------------------------------------------------------------------------------

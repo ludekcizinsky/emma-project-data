@@ -1,0 +1,25 @@
+POST ID: 11olh5l / POST TITLE: Legality in the Cyber Kill Chain
+====================================================================================================
+I’m not gonna play dumb, everything after weaponization and exploitation is illegal, without written permission of course.
+
+However, how illegal is doing OSINT? Or passive reconnaissance? And where is active reconnaissance on this spectrum? 
+Even identifying targets and vulnerabilities without acting on them?
+
+The reason I’m asking is that I want to practice reconnaissance and possibly footprinting but don’t know the legality of doing this without permission.
+
+Thanks in advance!
+
+POST COMMENTS:
+====================================================================================================
+ID: jbtyuba # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jbuebs8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://cwsisecurity.com/what-is-open-source-intelligence-osint/#:\~:text=OSINT%20is%20completely%20legal%20because,information%20available%20from%20public%20sources.
+----------------------------------------------------------------------------------------------------
+ID: jbwdxmk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You don't wanna be nmap-ing random addresses. It's like a robber coming to check the locks and entry points of a house
+----------------------------------------------------------------------------------------------------
+ID: jbtzelu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Alright, that is what I expected. I can imagine active reconnaissance being risky yeah
+----------------------------------------------------------------------------------------------------

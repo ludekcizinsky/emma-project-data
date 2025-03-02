@@ -1,0 +1,24 @@
+POST ID: 12lcozf / POST TITLE: Android payload failed
+====================================================================================================
+Iam learning hack beginner & I make a payload as per instructions but I don't know whats wrong i did does Payload work only in lan
+
+POST COMMENTS:
+====================================================================================================
+ID: jg73i52 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You should set LHOST
+----------------------------------------------------------------------------------------------------
+ID: jg8avsc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: First, you don't have to hide your private IP. I'm assuming it's 192.169.1.x. Anyway you can share the configuration in metasploit with "show options" and share the msfvenom line you used to make the payload.
+----------------------------------------------------------------------------------------------------
+ID: jga6fe7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Or tour target is not vulnerable to this exploit, try another for the version of the android
+----------------------------------------------------------------------------------------------------
+ID: jgbw8j1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: r/hackerman
+----------------------------------------------------------------------------------------------------
+ID: jg7ld8d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did not working
+----------------------------------------------------------------------------------------------------
+ID: jg7nnbf # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try a new payload.
+----------------------------------------------------------------------------------------------------

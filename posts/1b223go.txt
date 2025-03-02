@@ -1,0 +1,29 @@
+POST ID: 1b223go / POST TITLE: Bug Bounty Hunter.
+====================================================================================================
+I'm a bca 1st year student. I have learned basic Linux, Python and C programming language and basic queries of sql. I want to become a bug bounty hunter please provide me a roadmap to become a bug bounty hunter and also suggest me resources for bug bounty hunting.
+
+POST COMMENTS:
+====================================================================================================
+ID: ksijkvh # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Task 1: Find it on your own.
+----------------------------------------------------------------------------------------------------
+ID: ksl18qi # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sounds like a decent GPT prompt... 
+
+Portswigger academy
+
+... And... Go....
+----------------------------------------------------------------------------------------------------
+ID: kswxy0a # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Google, PortSwigger, HTB Academy
+----------------------------------------------------------------------------------------------------
+ID: kw1ob8c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I don't understand, did you see some guy making thousands and you want to hop on it? Bug bounty is tough. If you know nothing about hacking then I think you shouldn't aim to make a career out of bug bounty as it's pretty unstable if you are mediocre.
+
+Start by learning basics and seeing if you are actually willing to spend your time on it. Use tryhackme or portswigger for example. 
+
+It will take you a couple of years of 5h average daily to get the basics down though, not to discourage you but if you want to make a living out of something at least you should have an understanding of what's being done there so it gives me the impression that you are blinded by the money you saw somebody earning.
+----------------------------------------------------------------------------------------------------
+ID: l4zobvh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's not the case. I didn't find any other legal method to actually hack and find real vulnerabilities. Tryhackme and portswigger guide you how to do it and provide labs but they don't have real world scenarios and pretty vulnerable.
+----------------------------------------------------------------------------------------------------

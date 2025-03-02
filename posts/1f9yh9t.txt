@@ -1,0 +1,38 @@
+POST ID: 1f9yh9t / POST TITLE: What laptop do you use? 
+====================================================================================================
+What laptop do you use that’s best compatible with any software you use? 
+
+Like Wireshark and Hashcat? 
+
+POST COMMENTS:
+====================================================================================================
+ID: llp4yol # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: MacBook Air M2
+----------------------------------------------------------------------------------------------------
+ID: llpc6rc # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: MSI ROG with a 4060
+----------------------------------------------------------------------------------------------------
+ID: llre013 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For tools like Wireshark and Hashcat, I’d suggest a laptop with a fast processor (like Intel i7 or Ryzen 7), at least 16GB RAM, and a good graphics card. This setup handles heavy tasks well. Also, using an SSD makes the laptop much faster.
+----------------------------------------------------------------------------------------------------
+ID: llxlcxh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Zephyrus G14 2023 with 4060 and 32gb ram, I am a newbie tho
+----------------------------------------------------------------------------------------------------
+ID: llprd89 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey man! May I ask if you are using any linux distro  using VMware or Parallels? How’s the performance?any issues?
+----------------------------------------------------------------------------------------------------
+ID: lp7t1eq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Out of general curiosity how do you use a MSI ROG. Just thinking to myself that MSI does not make a ROG model that is Asus .. Personally use a Asus ROG with a 4080 but the 4070 is nice as well... although the 4060 if I'm gaming or doing graphics worry about that part
+----------------------------------------------------------------------------------------------------
+ID: lp7u55j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agreed..I normally would say stick with that baseline ..personally would say 32gb ram but just my opinion...I normally run kali for most tasks on a VM
+----------------------------------------------------------------------------------------------------
+ID: llpsa6b # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I run Kali via Parallels.   No issues at all.
+----------------------------------------------------------------------------------------------------
+ID: lp830fa # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My last laptop was an ROG, this one is a Raider. I misspoke.
+----------------------------------------------------------------------------------------------------
+ID: llpyffy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cool!Thanks
+----------------------------------------------------------------------------------------------------

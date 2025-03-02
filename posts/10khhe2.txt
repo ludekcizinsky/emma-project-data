@@ -1,0 +1,28 @@
+POST ID: 10khhe2 / POST TITLE: Looking for a Tutorial on how to create keylogger detecting software
+====================================================================================================
+Hello,
+
+I've been searching here, other subreddits, google and youtube for tutorials on creating keylogger detection or monitoring software. I have not been successful. I've only found tutorials on how to create a keylogger. I am interested in creating detection software for my job.  Is it possible? If yes, does anyone know of a tutorial?
+
+&#x200B;
+
+Thank you
+
+POST COMMENTS:
+====================================================================================================
+ID: j5rdkau # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can probably try and create a tool to monitor the usage of specific windows API functions like 
+
+GetKeyboardState()
+
+GetAsyncKeyboardState()
+
+GetRawInputData()
+
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getasynckeystate
+
+https://www.antionline.com/showthread.php?267745-The-Art-Of-Keylogging-Implementation-and-Detection
+----------------------------------------------------------------------------------------------------
+ID: j5rjttl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cool, thank you!!
+----------------------------------------------------------------------------------------------------

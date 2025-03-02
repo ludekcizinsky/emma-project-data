@@ -1,0 +1,26 @@
+POST ID: 18kuzi4 / POST TITLE: ParrotOS or Kali (for general ethical hacking/pentesting) ? Beginner
+====================================================================================================
+I wanted to run Parrot, it took ENORMOUS effort to make it run, had multiple issues, but it's Linux so I'm mostly used to it. I intended it for my old laptop but on that one I couldn't run any edition, nothing. Ubuntu for example installs with no issues... I have no idea. Ended up installing it on my new laptop, couldn't dual boot either due to some error, had to wipe the drive... bummer.
+
+I really like the concept of ParrotOS, a 'hacking' distro that also can be used as a daily OS fairly easily. Plus I love parrots, I couldn't resist. Was happy that I got it working.
+
+But very quickly my network driver broke (correction: I broke it, but failed to find a way to fix it). I used it maybe for an hour? Now it's reinstall time. There is community support for Parrot and these guys are trying, but I can clearly tell there aren't enough of them. Kudos for trying, though.
+
+Should I switch to Kali, then?
+
+POST COMMENTS:
+====================================================================================================
+ID: kdtud1c # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Stay on Ubuntu, get comfy. Install your own tools as time progresses. Use VM od docker for kali/parrot, or even better: Start with Arch and get to know how is Linux working. Pentesting distros are not as reliable. I’d vote for Arch, you will have all the newest pentesting tools of your choice at your disposal.
+----------------------------------------------------------------------------------------------------
+ID: kf55ouz # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: An easy to use Network Manager you can use in Parrot 
+
+sudo apt-get install plasma-nm
+----------------------------------------------------------------------------------------------------
+ID: kdw49ku # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Arch is the one that you kind of build from the ground up, isn't it? I've been tempted yeah. But isn't it a bit too much for a beginner? Any advice on arch?
+----------------------------------------------------------------------------------------------------
+ID: ke23pex # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thats why I mentioned that you can stay on Ubuntu. Just use the system that works good with your hardware. For Arch… everything is on arch wiki pages: https://wiki.archlinux.org/title/installation_guide Read carefully trough the wiki and install proces and you will learn a lot. Or not, and fall back to Ubuntu. Good luck!
+----------------------------------------------------------------------------------------------------

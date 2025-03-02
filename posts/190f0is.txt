@@ -1,0 +1,41 @@
+POST ID: 190f0is / POST TITLE: How can I identify the owner of a public ip address?
+====================================================================================================
+I have identified a public ip address, that has critical OT ports open on the Internet. I would like to contact the owner/company to warn them of the vulnerability. How can Indo this?
+
+POST COMMENTS:
+====================================================================================================
+ID: kgnwenr # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just because ports are open to the Internet does equal a vulnerability.
+
+Open ports are necessary for communications from outside.
+
+If you want to try to identify the owner, start with this:
+
+https://ping.eu/ns-whois/
+----------------------------------------------------------------------------------------------------
+ID: kgnvzaw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: whois
+----------------------------------------------------------------------------------------------------
+ID: kgp0zfu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Try sending a message to that IP address directly instead of trying to identify the owner
+----------------------------------------------------------------------------------------------------
+ID: kgzvjk2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You don’t do anything.   You did not have permission to scan.   Unauthorized port scanning is pretty far from ethical.
+----------------------------------------------------------------------------------------------------
+ID: kgo4ilp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Doesn’t that only work on organizations though?
+----------------------------------------------------------------------------------------------------
+ID: kgo4gaa # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That doesn’t work on individuals
+----------------------------------------------------------------------------------------------------
+ID: kgo58ao # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It works on IPs - could be individuals, could be companies, could be the government, could be the ISP.
+
+You have to do the lookup to determine.
+----------------------------------------------------------------------------------------------------
+ID: kgo6i13 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It's not supposed to. For an individual, their ISP likely owns that IP address if there is an issue with a port being open, you reach out to the ISP via proxy to notify their customer.
+----------------------------------------------------------------------------------------------------
+ID: kgo5dtn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’ve never gotten an individual name before. I’m fact most of the time it’s random unreliable info
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+POST ID: 1ion6e4 / POST TITLE: File type restriction
+====================================================================================================
+For all Cortex XDR or MS EDR experts out there, is there any way on Cortex XDR to block specific file types? So we have requirement to restrict users to download list of file types from Internet. I know this can be achieved through PA decryption rules and then assign file policy but is there any way to achieve this through XDR? appreciate all the help.
+
+POST COMMENTS:
+====================================================================================================

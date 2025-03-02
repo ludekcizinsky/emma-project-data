@@ -1,0 +1,11 @@
+POST ID: 1636t9q / POST TITLE: YouTube channels for in depth hacking and programming | Flipper zero
+====================================================================================================
+I am looking for YouTube channels that specialize in hacking and programming. I am interested in bad USB and ducky scripts. I am using hack a box, try hack me, over the wire. I also just bought a flipper zero am interested in in-depth analysis of all of flipper zero. There are a lot of channels but I am infested in in depth analysis on how to do these things so I can code it myself.
+
+ 
+
+POST COMMENTS:
+====================================================================================================
+ID: k0zh5tf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There aren't many, YouTube has draconian rules that aim to prevent it.
+----------------------------------------------------------------------------------------------------

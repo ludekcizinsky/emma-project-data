@@ -1,0 +1,35 @@
+POST ID: 1g54u9z / POST TITLE: I need some help
+====================================================================================================
+So i am new to cyber security and im trying to learn ethical hacking. i purchased a wireless adapter- tplink archer t2u plus and ive followed multiple guides and downloaded the drivers on kali. But i cannot connect to any wifi networks using that adapter. Kali keeps connecting to wifi using my inbuilt wificard in the laptop. Because of this, i cannot use the monitor mode or ap or injection. please help me out
+
+POST COMMENTS:
+====================================================================================================
+ID: ls8c6oy # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you running Kali in a VM or bare metal?
+
+If it’s bare metal I’m not so sure.
+
+But if it’s in a VM, I had a similar issue.  It was to do with how I had configured the virtual machine on setup, the solution for me was to make sure that the networking was set up in “bridged mode”
+
+https://docs.vmware.com/en/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-BAFA66C3-81F0-4FCA-84C4-D9F7D258A60A.html
+----------------------------------------------------------------------------------------------------
+ID: ls8rqn4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can’t use monitor mode or injection when you are in managed mode. Show your commands you are running and the output of the command where you get stuck. If drivers are correctly installed you should have 2 wlan interfaces.
+----------------------------------------------------------------------------------------------------
+ID: ls8ttye # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Bare metal. I'm using a hard disk as a liveboot
+----------------------------------------------------------------------------------------------------
+ID: ls92hbe # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It does show two wlan interfaces but I am unable to connect to any wifi networks using the adapter. It doesn't let me click on the available networks thingy at all. I can only connect with the internal wificard.
+----------------------------------------------------------------------------------------------------
+ID: ls979ke # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you’re only just getting into ethical hacking you might want to consider using a VM. It’s like a computer condom
+----------------------------------------------------------------------------------------------------
+ID: ls97jfq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you been able to get this external adapter to work on a different machine? Perhaps one with a more “standard” operating system?
+
+You could just have a lemon
+----------------------------------------------------------------------------------------------------
+ID: lsbh9nw # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes it works fine on windows.
+----------------------------------------------------------------------------------------------------

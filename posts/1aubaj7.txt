@@ -1,0 +1,55 @@
+POST ID: 1aubaj7 / POST TITLE: Trying to learn
+====================================================================================================
+Hey all,
+
+So I just started down this path, I'm a blue collar guy so tech isn't my strong suit, but I'm able to learn, it's a skill like anything else. Anyway I'm trying my hand at running a simple bash script that I've been following from "The cyber mentor" on YouTube. (His free 15 hour course) 
+At this point I'm writing a simple loop titled "ipsweep. Sh"
+Anyway I'm trying to run the script  ./ipsweep.sh 
+I've tried it as kali, sudo and root all with different  issues. As kali I get "zsh: permission denied: ./ipsweep.sh"
+
+
+As sudo  it's command not found
+
+
+As root I'm unable to ls -a find the file (perhaps I'm not in the right directory though)  but it does exist on Kali in the dir (~) when I ls -a
+
+Any hints would be appreciated. I've made sure my spelling is correct though.
+
+POST COMMENTS:
+====================================================================================================
+ID: kr2ywij # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is the output of the ‘ls -l’ command in the directory where the ‘ipsweep.sh’ script is located? 
+
+However, based on the information already provided, it the error messages you're getting could indicate that the script does not have the necessary execution permissions, or it might not be found in the expected directory.
+
+Here's how you can address this:
+
+When you receive a "permission denied" error, it typically means that the script does not have execute permissions. To fix this, you need to change the file permissions to make it executable. You can do this with the following command:
+
+bash chmod +x ./ipsweep.sh
+
+This command grants execute permissions to the user. If you want to be more restrictive and only give execute permission to the file owner, you can use:
+
+bash chmod u+x ./ipsweep.sh
+
+If you're getting a "command not found" error when using ‘sudo’, it could be because the script is not in the ‘sudo’ environment's path. Try running the script with its full path, like so:
+
+bash sudo /path/to/ipsweep.sh
+
+If you cannot find the file when logged in as root, it's likely that you are in a different directory. Ensure that you navigate to the directory where the script is located before running it. You can find the script using the ‘find’ command:
+
+bash find / -name ipsweep.sh 2>/dev/null
+
+This command will search the entire filesystem for `ipsweep.sh` and ignore permission errors. Once you find the script, navigate to that directory and run it.
+
+- If you're using a system with ‘zsh’ as the default shell, and you're sure about the script's correctness, you can run it with ‘zsh’ explicitly:
+
+bash zsh ./ipsweep.sh
+----------------------------------------------------------------------------------------------------
+ID: kr4bjnm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: chmod +x chmod 777  2 useful commands.
+----------------------------------------------------------------------------------------------------
+ID: kr33ain # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you!!!! 
+Didn't have x permissions set. I must have missed or glazed over that part of the video.
+----------------------------------------------------------------------------------------------------

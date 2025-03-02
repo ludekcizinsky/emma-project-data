@@ -1,0 +1,15 @@
+POST ID: 1iw207y / POST TITLE: Security engineering interviews @ Google
+====================================================================================================
+A lot of sec engineering posts here. My exposure to scripting has mainly been power shell in a Microsoft heavy environment. I know of the Nolan resource on Security engineering. However, are there any other resources or books you'd recommend? Entry level sec eng role that is. 
+
+POST COMMENTS:
+====================================================================================================
+ID: meakmfl # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: PowerShell skills are transferable, but you'll need to adapt to Linux/Bash. Focus on Python (start with Python Crash Course by Eric Matthes), Bash scripting (Bash Pocket Reference by Arnold Robbins), and networking fundamentals (TCP/IP Illustrated by Kevin Fall). Nolan's resource is great, but also explore 'Security Engineering' by Ross Anderson and 'Hacking: The Art of Exploitation' by Jon Erickson. Practice with CTFs (e.g., Hack The Box, TryHackMe) and contribute to open-source security projects. Google's own security engineering guides and blogs are also a must-read. Good luck
+----------------------------------------------------------------------------------------------------
+ID: meauw2s # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Brush up on GoLang, At least conceptually.  Practice using the STAR method for the interview, this is key to avoid curve balls and ensure you are on track with what they’re asking.  Good luck.
+----------------------------------------------------------------------------------------------------
+ID: mebfdci # OF UPVOTES: -1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I don't think u should worry about coding. U should understand how to prompt and use AI to create and vet each other's code. As a human security. U need to understand what is zero trust and how to set it up, audit and understand what is security controls and how to and where to implement ids and ips. 
+----------------------------------------------------------------------------------------------------

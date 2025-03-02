@@ -1,0 +1,26 @@
+POST ID: 1iogcak / POST TITLE: Advice on SOC Certifications
+====================================================================================================
+Hi,
+
+I’m looking for some advice on which SOC certifications would be most beneficial for my career.
+
+A bit of background about me, I’ve been working as a SOC Analyst for the past three years, and I’m considering leaving my current company. Before I do, I’d like to take advantage of the certification opportunities my employer provides.
+
+I want to focus on certifications that will make my CV stand out and enhance my skill set. Based on my research, I’ve come across the following options:
+
+CompTIA CySA+
+
+OSCP
+
+Security Blue Team Level 2
+
+OffSec Defense Analyst (OSDA)
+
+Hack The Box Certified Defense Security Analyst (HTB CDSA)
+
+Which of these would you recommend, and are there any others that you think would be particularly valuable for someone in my position?
+
+Thanks in advance for your guidance!
+
+POST COMMENTS:
+====================================================================================================

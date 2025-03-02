@@ -1,0 +1,36 @@
+POST ID: 1bx0cjt / POST TITLE: Hacking Simulation Game
+====================================================================================================
+So, I made a hacking simulation game a while back, it's quite crude. All it involves is some password cracking practice with an external password cracking tool, and some (really crappy) chatbots for practicing social engineering. 
+
+I have a general idea for a kind of sequel, though right now I'm working on a completely different project, an ai chatbot. Just to throw out some questions to help boil this project that's currently on the backburner...
+
+&#x200B;
+
+If you were playing a hacking simulation game to help hone your ethical hacking skills, what kind of topics and features do you feel it should cover? How do you feel about a realistic ai to serve the purpose of practicing social engineering, complete with varying levels of trust to either land or fail your mission? How difficult should it be, should you be able to completely fail your current mission and have to start it over from the beginning?
+
+&#x200B;
+
+For the demo, so far my idea is that you will have a coffee shop that raised the price on your favorite drink. You will have to: hack the coffee shop wifi with simulated wifite -> Scan their network with simulated nmap -> Hack their main coffee shop computer with simulated metasploit -> Download their shop prices database file -> Edit the file to change the price back to the original -> Upload the newly edited file -> Go to the coffee shop in person to buy the drink at the old price -> Success
+
+These are the main ideas behind the demo, but I'm sure it can be expanded into more complex missions for the full version.
+
+&#x200B;
+
+I think any input will help for this future project, so don't feel afraid to shell out whatever ideas you can think of. It will probably be awhile until I actually get to coding it, due to college and this other ai project, but I have plenty of plans for it to be interesting. Thanks if you respond.
+
+POST COMMENTS:
+====================================================================================================
+ID: kyasui9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That looks like an interesting game, do you plan on releasing it here?
+----------------------------------------------------------------------------------------------------
+ID: kyeow5p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I can, either way it will be a freely available game. I figure I can do all the things I do due to freely available software, so it's my way of paying that forward.
+
+The reason for my game is simple... As I've been learning hacking skills in a purely ethical way, I've come across a problem. I can hack my own home network and all the connected devices all I want, but that's very limited for any realistic examples of hacking. I don't want to breach the legal gap and practice on other networks, so I feel limited in learning. This seems to call for a legal and realistic way to practice hacking, which seems to answer the call with a simulated game. I want to give people a legal way to practice hacking to hone their ethical hacking skills, which seems to be possible with a hacking simulation game. I feel I am not the only one who has reached these boundaries in practice, so a game might be necessary to be able to practice these skills to get better.
+
+As stated earlier, any input on what they think will help this project will be greatly appreciated. I can release this project on here, but it will likely be a good while from now. All I can offer you is my past project along these lines with my youtube account, given here: [https://youtu.be/6B6qKZj58ak?si=dTCI4xRJ6Iy7UwSF](https://youtu.be/6B6qKZj58ak?si=dTCI4xRJ6Iy7UwSF)
+
+&#x200B;
+
+I know sharing my youtube leaves my open to attackers and conflict, but whatever, it's all good. Here's hoping it leads somewhere positive... XD
+----------------------------------------------------------------------------------------------------

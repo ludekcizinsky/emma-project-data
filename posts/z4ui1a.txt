@@ -1,0 +1,46 @@
+POST ID: z4ui1a / POST TITLE: Remote HTTP execution script, written in PHP
+====================================================================================================
+**I just found my old repository few days ago,** which i created for my plain & old infrastructure. And i thought maybe this script will be useful for someone.  
+
+
+**Here's how it works in nutshell**  
+
+
+[Simple topology](https://preview.redd.it/11ful3mm172a1.png?width=932&format=png&auto=webp&s=04b937f67e68872161e460a0a74f82611886ece7)
+
+**We have required 2 parameters in headers:**  
+
+
+1. **shell** (Shell command)
+2. **key** (Private key)
+
+&#x200B;
+
+**Files Structure**  
+
+
+1. **allowed.dat** (list of allowed shell cmds)
+2. **key.dat** (generated private key)
+3. **whitelist.dat** (whitelist for allowed ip)
+
+&#x200B;
+
+So first of all we can generate our secret key using my simple script
+
+    #!/bin/sh
+    key=$(date | base64 | base64)
+    echo $key > .config/key.dat
+    echo -[ DONE ]-
+    echo $(date)
+
+After we should start the main script
+
+    php -S localhost:9000 # You can set different port
+
+  
+
+
+**Check source code** [**here**](https://github.com/webgtx/rservice.control)
+
+POST COMMENTS:
+====================================================================================================

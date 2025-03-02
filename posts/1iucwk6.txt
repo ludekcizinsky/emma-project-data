@@ -1,0 +1,238 @@
+POST ID: 1iucwk6 / POST TITLE: Update to the Cisco Breach from Oct 6, 2024
+====================================================================================================
+**FOR IMMEDIATE RELEASE**
+
+**Cybercrime Advisory**
+
+**Executive Summary**  
+
+On October 14, 2024, the owner of BreachForums, operating as IntelBroker, offered a database allegedly stolen from the American multinational technology company Cisco Systems, Inc. In the forum post, the TA claimed that the breach was performed with the help of other threat actors EnergyWeaponUser and zjj on October 06, 2024.
+
+**Risk Score: Critical**  
+
+**TLP Rating: AMBER**  
+
+*Threat Actors: IntelBroker, EnergyWeaponUser, zjj*  
+
+**Impacted Organization(s): Cisco Systems Inc.**  
+
+**Industry Group: Technology**  
+
+**Type of Industry: Technology**  
+
+**Impacted Country/Region: United States**  
+
+**Reliability of Threat Actor: B - Usually reliable**  
+
+**Credibility of Threat Actor’s Claims: H - Possibly true**  
+
+**Observation and Analysis**  
+
+>According to IntelBroker, the compromised data contains GitHub projects, GitLab projects, source codes, certificates, hard-coded credentials, customer SRSs, confidential documents, Jira tickets, API tokens, AWS private buckets, Docker builds, Azure buckets, public and private keys, and SSL certificates.  
+
+>In the forum post, the TA also listed 1158 Cisco's customers (864 Unique customer names) affected from data breach. The list included various high net-worth corporations such as Microsoft, Apple, AT&T, Verizon, Barclays, SAP, Bank of America, Equinix, and Vodafone (The entire list of customers can be found in the Appendix). The TA also shared a screenshot from the list revealing following additional details about each customer: “customer name, TAS contract, valid, main cisco contact, BDM, LA, region, country, metal, sku, deliverables, booking number, contact, end date”. Open-source research on the names present in the “main cisco contact” column confirmed that most of the users were employed at Cisco. As proof of compromise, the TA also shared screenshots demonstrating their access to a Barclays’ portal for managing services. The screenshots displayed service logs. The TA also shared screenshots captured from customer requirement documents prepared for Barclays, Dignity Health, DT Autlan NSO, and Itential. The TA also shared a screenshot demonstrating email notification on a successful build of Jenkins. The email exposed the build URL pertaining to Cisco.  
+
+>Moreover, the TA also shared a few sample records from the user database containing personally identifiable information (PII) of Cisco’s employees with the following data fields: “Id, username, auth key, hashed password, email, status, created at, updated at, role, status code, approve id, last login time, login attempts, is password changed” Threat actor and the current owner of BreachForums, operating as IntelBroker, is involved in offering compromised access, databases, and customized malicious tools on cybercrime forums. The TA is actively engaged on the forum and has posted a total of 299 threads, sharing compromised databases and unauthorized access. TA was awarded 4522 reactions for being a reliable user. On Cracked Forums, the TA operates using the alias ‘criminal’. IntelBroker has developed and used the "Endurance" ransomware, a C#-based malware that acts primarily as a wiper. It overwrites files with random data, renames them, and then deletes the originals. The publicly available source code for Endurance on a GitHub repository is believed to be associated with IntelBroker. The TA often targeted exposed Jenkins servers, exploiting vulnerabilities for initial access and movement within victim networks. In some instances, such as the disputed breach involving T-Mobile (which the company denies), IntelBroker may have compromised a third-party service provider to gain access to the target organization's network. Based on the activities of the threat actor on the forum, we assess the reliability of the threat actor as B - Usually reliable. Based on the overall analysis of the information on the incident and proof of compromise revealing multiple references to Cisco, we assess the credibility of the threat actor's claims as H - Possibly true.  
+
+>This section includes our researchers/analysts' assessment based on NATO's admiralty code rating system. This rating system provides our researchers with a standard method to assess the reliability of the Source or Threat Actor/group being covered in cybercrime advisory, the credibility of information or threat actor's claims derived from our sources. The following table is referenced by researchers while assigning the ratings:  
+
+>1. Reliability of Source/Threat Actor  
+
+>A - Completely reliable: No doubt of authenticity, trustworthiness, or competency; has a history of complete reliability  
+
+>B - Usually reliable: Minor doubt about authenticity, trustworthiness, or competency; has a history of valid information/claim most of the time  
+
+>C - Fairly reliable: Doubt of authenticity, trustworthiness, or competency but has provided valid information/claim in the past  
+
+>D - Not usually reliable: Significant doubt about authenticity, trustworthiness, or competency but has provided valid information/claim in the past  
+
+>E - Unreliable: Lacking in authenticity, trustworthiness, and competency; history of invalid information/claim  
+
+>F - Reliability cannot be judged: No basis exists for evaluating the reliability of the source/actor  
+
+>2. Credibility of Information/Threat Actor's Claims  
+
+>G - Confirmed by other sources: Confirmed by other independent sources; logical in itself; Consistent with another information/claim on the subject  
+
+>H - Probably True: Not confirmed; logical in itself; consistent with other information/claim on the subject  
+
+>I - Possibly True: Not confirmed; reasonably logical in itself; agrees with some other information/claim on the subject  
+
+>J - Doubtful: Not confirmed; possible but not logical; no other information/claim on the subject  
+
+>K - Improbable: Not confirmed; not logical in itself; contradicted by other information/claim on the subject  
+
+>L - Truth cannot be judged: No basis exists for evaluating the validity of the information/claim.  
+
+The following is a list of companies affected by the breach:
+
+* Argentina:
+* Absa Bank Limited
+* Alestra
+* AMX Claro Argentina
+* Banco Santander - Produban Argentina
+* Orange Evita
+
+* Australia:
+* Australian Red Cross Blood Service (ARCBRS)
+* Brazil:
+* Banco Santander - Produban Brazil
+
+* Canada:
+* Rogers Cable
+
+* China:
+* Agricultural Bank of China
+* Agricultural Development Bank of China
+* Alibaba
+* Baidu Inc
+* Banco de China
+* PingAn Group
+* PingAn Security
+* POSCO ICT
+* Czech Republic:
+* O2 Czech Republic
+
+* France:
+* IPRAN OBS Managed CPE France
+* Orange Business Service
+* Orange HCS/UCCX France
+* OVH
+
+* Germany:
+* Allianz/ Accenture
+
+* India:
+* rcom
+
+* Italy:
+* OTT T2
+
+* Japan:
+* NTT docomo xGSN
+* NTT East
+* NTT Europe
+* NTT Holdings
+* NTT NEOMEIT
+
+* Mexico:
+* Alestra
+* AT&T Mexico
+* Audi Mexico SA de CV
+* Axtel
+* Axtel-Banamex HCS
+
+* Netherlands:
+* Allianz/ Accenture
+
+* Peru:
+* Banco de Credito del Peru
+* Philippines:
+* PLDT MSA
+* PLDT MSA TSA
+
+* Poland:
+* Orange SLOVENSKO
+
+* Portugal:
+* Portugal Telecom
+* Police Federal
+
+* South Korea:
+* POSCO ICT
+
+* Spain:
+* Banco Santander - Produban Spain
+* Banco Santander-Produban Spain
+
+* Thailand:
+* AIS Thailand
+
+* Turkey:
+* Odeabank
+
+* UK:
+* O2 UK
+* Orange Business Services Security
+* Orange HCS/UCCX International
+* Orange IT
+* Orange SLOVENSKO
+* RBS EMEAR
+* RBS EMEAR
+* RBS UK
+
+* United States
+* Aetna
+* [Amazon.com](http://Amazon.com)
+* Amazon-Fulfillment Center
+* [Amazon.com](http://Amazon.com) \[team calls it AWS\]
+* American Express (AMEX)
+* Anthem
+* Apple
+* Army, Air Force Exchange Service (AAFES)
+* Ascension Health Inc
+* Autodesk
+* AT&T
+* AT&T DirecTV
+* AT&T ERSC
+* AT&T MNS
+* Autodesk
+* Axiata
+* BAC Costa Rica
+* Banco Santander - Produban UK
+* Banco Santander-Produban UK
+* Barclays
+* CR S FTS
+* CVS Health
+* Dell
+* Google
+* HPE
+* IBM
+* Intel
+* Microsoft
+* NYC Health and Hospitals Corporation
+* Office of Secretary of Defense
+* Oracle (renewal)
+* Oracle America, Inc.
+* Partners Healthcare
+* PayPal Inc
+* PNC Bank
+* Procter and Gamble
+* Procter and Gamble - HPE
+* Qualcomm
+* Queens Hospital
+* Regeneron Pharmaceuticals
+* RBS C&IB US
+* RBS EMEAR
+* RBS UK
+
+* Other:
+* Andorra Telecom
+* ARTERIA Networks Corporation
+* AstraZeneca
+* Autodesk
+* AXA APAC
+* AXA EMEAR
+* AXA US
+* Baidu Inc
+* CR S FTS
+* IPRAN OBS Managed CPE France
+* OTT T2 [SINA.COM](http://SINA.COM)
+* Pacnet
+* PCCW Global
+* PCCW SDNET
+* Perth Children Hospital
+* PingAn Group
+* PingAn Security
+* Police Federal
+* POSCO ICT
+* Portugal Telecom
+* Qualcomm
+* Queens Hospital
+* Regeneron Pharmaceuticals
+* RBS C&IB US
+* RBS EMEAR
+* RBS UK
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,23 @@
+POST ID: 1irdjm6 / POST TITLE: New Java Reverse Engineering Tool at runtime I've been working on for quite some time
+====================================================================================================
+If you've ever delved into Java reverse engineering, you'd know there are a lot of static analysis tools such as Recaf and JD-GUI that allow you to decompile & disassemble bytecode statically and go from there.   
+However, I noticed that there isn't much material for for dynamic analysis, and static tools fall short when you deal with more sophisticated malware and protection.
+
+Just as tools such as JD-GUI & Recaf can be compared to IDA and Ghidra in assembly, my end goal is for this tool to fill in the gaps of tools such as x64dbg. 
+
+I'd like to introduce JDBG, a runtime java reverse engineering tool I've been working on for quite some time. It leverages an injected dll along with the JNI and JVMTI interfaces to analyse Java programs at runtime.
+
+  
+Some of the cool features it has includes
+
+  
+\- Analyse bytecode & decompiled code at runtime, useful for when programs attempt to hide and dynamically load classes.  
+\- Set breakpoints at runtime and analyse values of stack locals and the stack trace.  
+\- Pick a class and analyse all instances of the class, including field values.  
+\- Analyse a heap graph that details the relationships between objects. For example, you could filter Strings by value and quickly determine the relationships for that String, such as its originating field, and other information such as if it was in an Arraylist, etc.  
+  
+More information in the Github! I'd be willing to answer any questions you may have.  
+[https://github.com/roger1337/JDBG](https://github.com/roger1337/JDBG)
+
+POST COMMENTS:
+====================================================================================================

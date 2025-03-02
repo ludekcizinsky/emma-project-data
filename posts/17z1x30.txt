@@ -1,0 +1,18 @@
+POST ID: 17z1x30 / POST TITLE: Social Engineer Toolkit Web Harvesting with popup loging forms
+====================================================================================================
+Hello everyone!
+
+I'm actually doing an Ethical Hacking course (I'm new in this world), and one of the exercises is to try to clone the twitter loging page (now X) using the credential harvester app inside Social Engineer Toolkit, but I think it's impossible.
+
+First of all, the loging page is a popup. And, the username and password input fields are in separate pages.
+
+I tried to use the loging url that the brower shows when I click in the loging link, but, besides the web is cloned, the popup doesn't work.
+
+I also tried to retrieve the real popup url using the browser console and some javascript commands, but as I've read in Stack Overflow, it's not allowed for the browser to show that url.
+
+I wan't to know if the teacher is making us doing something impossible. Maybe the loging page was modified when changing to [X](https://X.com), and the exercise is outdated.
+
+Thank you. Regards.
+
+POST COMMENTS:
+====================================================================================================

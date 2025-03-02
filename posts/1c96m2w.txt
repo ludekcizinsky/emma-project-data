@@ -1,0 +1,20 @@
+POST ID: 1c96m2w / POST TITLE: EC Council CEH certification 
+====================================================================================================
+Good day everyone. As a college student, I wish to express my progress in completing 75% of CEH course from another sources. Unfortunately, I currently lack the prerequisites for the exam, either two years of industry experience or purchasing the course directly. Given these constraints, I respectfully seek guidance on alternative entry-level certifications that I could pursue at this point in time. Your assistance would be greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: l0km3a1 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I actually wouldn't consider the CEH entry level, but that's just me.
+
+For entry level, you'll want to look at the CompTIA line - Net+, Sec+, CySA+
+----------------------------------------------------------------------------------------------------
+ID: l0jlk4d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The initial Cert or CEH Master?
+----------------------------------------------------------------------------------------------------
+ID: l0kot50 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Alright. Thanks for info
+----------------------------------------------------------------------------------------------------
+ID: l0jmpu9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Initial
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+POST ID: 1it1ie7 / POST TITLE: Working with a mediocre tech stack in Incident Posture Management, career perspectives?
+====================================================================================================
+Hello Community,
+
+I’m currently working as a consultant in a cybersecurity company for a large corporation, specifically in Incident Posture Management. My role mainly involves data analytics work on security-related data.
+
+However, I’m starting to feel like this may not be a great career move. Most of my work revolves around Excel and PowerPoint, rather than standard data analytics tools, which makes me worry that I’m moving away from the broader data analyst/scientist career path. While I enjoy cybersecurity, I’m not sure I’m actually developing valuable skills in this role. I don’t do much technical work—mainly ETL (with Excel!) on SOAR/SIEM data, some investigations, and a lot of slide decks that aren’t particularly exciting.
+
+I wouldn’t mind transitioning into a more managerial role in the future, but does this path actually lead me there? I feel like time is passing, and I’m not making meaningful progress in my career.
+
+Has anyone been in a similar situation? Any advice on whether this experience is valuable long-term or if I should start looking for other opportunities?
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,14 @@
+POST ID: 155vxfw / POST TITLE: HackTheBox Line | Hints/Help
+====================================================================================================
+Hello,
+
+I am stuck at [HackTheBox Line](https://app.hackthebox.com/challenges/247) challenge which is part of printer exploitation path.
+
+Tried all commands with lpd\*\*\*\*.py in PRET but with no luck.
+
+Any ideas?
+
+Thanks
+
+POST COMMENTS:
+====================================================================================================

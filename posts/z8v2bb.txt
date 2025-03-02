@@ -1,0 +1,81 @@
+POST ID: z8v2bb / POST TITLE: Not sure how to bypass SOP in XSS - CTF
+====================================================================================================
+Hello everyone, I am new to cybersecurity but really wish to improve and participate more in this community, so first and foremost please tell me if it is ok for me to post this here and if not where could I?  
+So this is an extra ctf challenge I got at college and doesn't count to the final grade, it's just for those wishing to practice a bit more.
+
+In this CTF I can inject some html into the code like for example "<script>alert(1)</script>". I guess the idea is that with some JS I can click the "give the flag" button and it will give me the flag. Although, as you can see, it operates in a different port and I have no direct way of accessing it and can't emulate its action by using a POST request with "[http://ctf-fsi.fe.up.pt:5005/request/329bef94a24e8c0e3cd2dc2170cbe6c3414d4151](http://ctf-fsi.fe.up.pt:5005/request/329bef94a24e8c0e3cd2dc2170cbe6c3414d4151)/approve" because it returns a 403 error message. And I suspect it is due to Same-Origin Policy since the port is different. Also tried using an iframe to access its content but with no success as well. After all of this considered, I would really appreciate if you could lead me in the right direction because I've been stuck in this problem for 4 days.  
+
+
+Thank you in advance!  
+
+
+[Input field where i can xss](https://preview.redd.it/rfuu414g043a1.png?width=1448&format=png&auto=webp&s=24461c700b19230b10786adf883ebdb2008d0179)
+
+[link to which the first one leads me to](https://preview.redd.it/o4jkw3km043a1.png?width=1448&format=png&auto=webp&s=2fc465b36bedd0adacd4e3e1af7f5ddbb3b32234)
+
+[another port where we have the give flag button](https://preview.redd.it/vduwp98k043a1.png?width=1448&format=png&auto=webp&s=2653ea1a58becdfee5a7bd59008588e9a79c721f)
+
+POST COMMENTS:
+====================================================================================================
+ID: iydh1ko # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you tried looking at what JS runs when the approve button is clicked? Maybe you call it from the script tag
+----------------------------------------------------------------------------------------------------
+ID: iyeo8xk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you checked the CSP? If it is configured correctly?
+----------------------------------------------------------------------------------------------------
+ID: j1ghu6g # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To bypass the Same-Origin Policy (SOP) in this situation, you can try using a technique called "reverse tabnabbing". This involves creating an iframe on your own website that points to the target website (in this case, the CTF website running on port 5005). Then, you can use JavaScript to manipulate the iframe to change the location of the iframe to the "give the flag" URL. This will cause the "give the flag" action to be performed within the context of your own website, bypassing the SOP.
+  
+
+  
+Here is an example of how you might implement this technique:
+  
+
+  
+Create an iframe on your own website that points to the CTF website:
+  
+
+  
+<iframe src="http://ctf-fsi.fe.up.pt:5005/" id="myiframe"></iframe>
+  
+Use JavaScript to change the location of the iframe to the "give the flag" URL:
+  
+
+  
+document.getElementById('myiframe').src = 'http://ctf-fsi.fe.up.pt:5005/request/329bef94a24e8c0e3cd2dc2170cbe6c3414d4151/approve';
+  
+The "give the flag" action will be performed within the context of your own website, allowing you to access the flag.
+  
+I hope this helps! Please let me know if you have any further questions or need more assistance.
+----------------------------------------------------------------------------------------------------
+ID: iydhy2r # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: When the button is clicked it does the following: send a form with a post request to "[http://ctf-fsi.fe.up.pt:5005/request/{id}/approve](http://ctf-fsi.fe.up.pt:5005/request/{id}/approve)" but if I try it from inside the script tag it returns a 403 error
+----------------------------------------------------------------------------------------------------
+ID: iyfge4p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Actually no I did not even though it makes sense. Although, since it is out of the courses scope I guess they wouldn’t include it in the challenge. This one is XSS specific. But I will surely look it up
+----------------------------------------------------------------------------------------------------
+ID: iydik2b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you had a look into what a 403 is? My best guess would be you’re sending the web request without any cookies so the server doesn’t know if you’re logged in or not. Can you take the cookies from the script tag too?
+----------------------------------------------------------------------------------------------------
+ID: iyln5du # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Have you found a solution? Just curious!! If yes can u share it?
+----------------------------------------------------------------------------------------------------
+ID: iydizn8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes I know what's a 403 but I suspected it could be due to the Same-Origin Policy. Yes i can get it with document.cookie. I get some wp cookies and one called session. I thought it could mean something I'm actually a bit clueless on what I could do with it.
+----------------------------------------------------------------------------------------------------
+ID: iym2n2w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nope, still haven’t found it. Since I’m sending the cookies in the request and bypassing CORS, I can’t figure out what could it be
+----------------------------------------------------------------------------------------------------
+ID: iydk2jo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: From My experience a same origin policy won't come up as a 403 but I can see why you're expecting that sort of error 😀  
+I'm not sure where best to direct you from here, but I'd try and keep in mind that your server currently won't let you in because you're not authenticated, and you've got session cookies. It might be worth checking something like this out [Stackoverflow link](https://stackoverflow.com/questions/49121396/using-authorization-header-in-javascript). Can't promise it will help but wish you the best of luck in your ventures :)
+----------------------------------------------------------------------------------------------------
+ID: iydl2c9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Sure! I'll dive deeper into the topic but it was already a good help. Thank you anyways. Just one last curiosity, what kind of error would SOP give me? 401?
+----------------------------------------------------------------------------------------------------
+ID: iydnp51 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: My understanding is that it won’t return an error code. The way I understand it is that SOP is enforced on the client side, so it can return errors and stuff, but there won’t be a server response error code about it, because the server has no issues with serving the information, it’s just that the client doesn’t trust it.
+----------------------------------------------------------------------------------------------------
+ID: iyhb8u6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: After reading everything in about the topic you sent me I suspect it is CORS. When I send a POST request, the pre-flight request is missing an Access-Control-Allow-Origin header but I can't figure out how to forge the pre-flight
+----------------------------------------------------------------------------------------------------

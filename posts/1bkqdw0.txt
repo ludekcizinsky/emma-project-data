@@ -1,0 +1,59 @@
+POST ID: 1bkqdw0 / POST TITLE: Ethical question, is it even possible
+====================================================================================================
+Don't know if this post will make any sense or a correct post, hopefully someone will understand. Is it possible to create a fake access point and hide a key logger in it? For an example, if the user was to enter their password, would the attacker be able to see the keys that are pressed or would the attacker have to install the key logger in person to make it work. Is it even possible and if it was, would the password be in plain text or encrypted. If it is possible to do, how can I create the process and prevent it from happening in a virtual machine. So down the line I am able to prevent this from happening to others. 
+
+POST COMMENTS:
+====================================================================================================
+ID: kw01tu7 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You don't need to use a keylogger when the target enters the password in a web form you can just write the output to a text file or database.
+
+For example the wifi pineapple has a captive portal module that does this automatically.
+----------------------------------------------------------------------------------------------------
+ID: kw007oj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, yes, yes, plain text, create an SSID with captive portal or clone whatever login page you are trying to capture, prevention is more a matter of security awareness training and education.
+----------------------------------------------------------------------------------------------------
+ID: kw1od0z # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What is the context? Are you asking if you can use a fake AP to capture key strokes or are you asking if you can install malicious files/create a remote session, which almost always includes the ability to log key strokes, through a fake AP for later access? Either way, sure. #1 preventative for anyone with an external device will be awareness training.
+----------------------------------------------------------------------------------------------------
+ID: kwmz4hv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wouldn't the browser warn them that they are not on https?
+----------------------------------------------------------------------------------------------------
+ID: kwmzk2u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As for the post https is encrypted so the only data the attacker should be able to see would be the destination not the content of the packets. Right or am I mistaken?
+----------------------------------------------------------------------------------------------------
+ID: kw00k6w # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So it's possible to send a key logger wireless?
+----------------------------------------------------------------------------------------------------
+ID: kw1opt2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Using a fake AP to capture keystrokes
+----------------------------------------------------------------------------------------------------
+ID: kwpdilp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The browser shows a slash on a padlock in the top left hand corner If the server is not using a certificate.
+----------------------------------------------------------------------------------------------------
+ID: kwp6xvw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: That's true for a man-in-the- middle attack but if the attacker is hosting a captive portal page which is just a phishing page then it does not matter.
+----------------------------------------------------------------------------------------------------
+ID: kw1jm3v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Logging keys sent to a device you control and installing a keylogger to a host you don’t control are two different things
+----------------------------------------------------------------------------------------------------
+ID: kw1ujg7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So this actually sounds like the goal is not to use a proper key logger but to intercept/capture network traffic, which would include anything between the connected device and the network. Assuming the victim/web app has no protective measures in place, this could lead to a tremendous amount of information being unintentionally revealed in the traffic, including passwords and other credentials. If an attacker wanted to literally capture every key, they would typically need extra steps.
+----------------------------------------------------------------------------------------------------
+ID: l4fbw9b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Hey man message me dm
+----------------------------------------------------------------------------------------------------
+ID: kw1xhzd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So it's not possible to hide a keylogger within a fake access point?
+----------------------------------------------------------------------------------------------------
+ID: kw1zybk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes? However, serious question real quick. Do you know what a keylogger is or just what it is designed to do?
+----------------------------------------------------------------------------------------------------
+ID: kw20m41 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: A basic understanding of what it does. It records the keystrokes that is being typed.
+----------------------------------------------------------------------------------------------------
+ID: kw26igm # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Coolio. This is probably where the confusion is and why people are saying an actual keylogger wouldn't be required. Keyloggers can be physical or file based and are typically delivered to a device manually or via some module or download. They then live in that device and send keystrokes back to the attacker remotely or capture the info locally for later retrieval. A rogue access point can be a method to assist in the delivery of a keylogger but if the goal is just to steal an unencrypted password off of a premade portal, a keylogger isn't required to do that.
+----------------------------------------------------------------------------------------------------
+ID: kw299nt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you for the information, I appreciate it.
+----------------------------------------------------------------------------------------------------

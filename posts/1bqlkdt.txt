@@ -1,0 +1,31 @@
+POST ID: 1bqlkdt / POST TITLE: How do I grow my connections and online presence?
+====================================================================================================
+Hello! I’m fairly new to the cybersecurity/ethical hacking space. Like, Network+ new.   
+I’m trying to get a career in it but I’ve also heard from a fair bit of people that having good connections with people is helpful in the long run but I don’t necessarily know how to do that. (without using discord.)  
+Along with the fact that I should try and grow an online presence in the cyber space.   
+If anyone has any tips on how I could achieve either it would be appreciate, thank you. :)
+
+POST COMMENTS:
+====================================================================================================
+ID: kx3ld1c # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Start a GitHub and add everything you can to it. Go to local hacker meetups. Join discords. Contribute to open source projects. Help people newer than you
+----------------------------------------------------------------------------------------------------
+ID: leiren3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: lezmjrj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: kx3z4av # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the advice.
+----------------------------------------------------------------------------------------------------
+ID: leireo7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------
+ID: lezmjss # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your comment has been removed because it contains banned keywords. If you believe this is a mistake, please message the moderator team to contest this removal.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethicalhacking) if you have any questions or concerns.*
+----------------------------------------------------------------------------------------------------

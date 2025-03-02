@@ -1,0 +1,15 @@
+POST ID: 10aed7l / POST TITLE: Small questions
+====================================================================================================
+Wireshark’d and did some recon on my school internet  because I was bored. Found that a 172.///.///./// server from California was sending tons of quic packets to our school. Was wondering if it was a massive download or an underpowered ddos. I reported it to IT, and did some research on quic packets and found that it was pretty intense on the network. Just wondering what I could have done to investigate further?
+
+POST COMMENTS:
+====================================================================================================
+ID: j44kv88 # OF UPVOTES: 6.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: >as wondering if it was a massive download or an underpowered ddos. 
+
+most likely some server side stuff.
+
+> Just wondering what I could have done to investigate further?
+
+not much else without explicit permission from your school. i'd even be wary about doing passive scans.
+----------------------------------------------------------------------------------------------------

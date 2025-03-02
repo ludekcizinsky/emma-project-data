@@ -1,0 +1,12 @@
+POST ID: 1inwa3m / POST TITLE: 10 years in CySec and never dealt with SOC2, now I'm interviewing for a job that it's a main feature.
+====================================================================================================
+I know absolutely nothing about SOC2 Type 1/2 audits because no organization I've been a part of were aiming for SOC 2 compliance. NIST/CMMC I have experience but nothing from SOC 2. 
+
+I recently applied to a new job that nowhere in the description did they mention SOC 2 but that was every interview question, so it's safe to say I fell on my face. They liked my attitude, other experience, and approach to the work so I'm getting a 2nd interview, but not knowing about SOC2 feels like the nail in my coffin.
+
+I'm curious from your perspectives, is SOC 2 something that can be picked up quickly? What educational resources are the best to use right now so I look like less of a fool for the 2nd interview?
+
+I'm open to any insight available, thank you a ton!
+
+POST COMMENTS:
+====================================================================================================

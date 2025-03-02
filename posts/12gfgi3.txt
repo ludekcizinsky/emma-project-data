@@ -1,0 +1,110 @@
+POST ID: 12gfgi3 / POST TITLE: Free resources to learn Ethical Hacking
+====================================================================================================
+Here are a few YouTube channels where you can start learning ethical hacking for free (almost as good as paid courses).
+
+1. PhD Security 
+2. The Cyber Mentor 
+3. John Hammond 
+4. SecurityFWD
+5. IppSec
+6. Rana Khalil 
+7. David Bombal 
+8. Loi Liang Yang
+9. InsiderPhD
+10. freeCodeCamp.org
+
+POST COMMENTS:
+====================================================================================================
+ID: jfkbxi8 # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just wanna add that Tryhackme is also free for the beginner lessons and interactive.
+----------------------------------------------------------------------------------------------------
+ID: jfn6k3h # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: pwn.college is a good resource too, not necessarily pen-testing but hacking nonetheless
+----------------------------------------------------------------------------------------------------
+ID: jfkka3g # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I have been watching a lot of cyber mentor as well as the free versions of some online course material. I am looking to get some certs and move from my sales role to either a red team or a blue team. 
+
+I wanted to ask- how difficult are the CompTia certs? Specifically, networking +, security +, and Pentest +? Is it realistic to think I can get all of the knowledge i need from youtube and online courseware? 
+
+It seems they do a really good job and i have already made lots of progress, but i cant help but think there are important details left out of the free versions....
+----------------------------------------------------------------------------------------------------
+ID: lrth1pl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: !remindme 1 days
+----------------------------------------------------------------------------------------------------
+ID: jfoigcu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: David Bombal?
+----------------------------------------------------------------------------------------------------
+ID: jfznnhl # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: !remindme 20 days
+----------------------------------------------------------------------------------------------------
+ID: jj39ll2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: !remindme 1 day
+----------------------------------------------------------------------------------------------------
+ID: jfkcuoa # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Right. Also a great place to start.
+----------------------------------------------------------------------------------------------------
+ID: jfydpap # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I tried TryHackMe today. It didn’t let me move on after the first interactive course. I was kind of upset tbh
+----------------------------------------------------------------------------------------------------
+ID: jgmubsn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is it completely free?
+----------------------------------------------------------------------------------------------------
+ID: jfz4y7h # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Professor messer has free classes for Net+ and Sec+ on his website
+----------------------------------------------------------------------------------------------------
+ID: lrth59e # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I will be messaging you in 1 day on [**2024-10-15 02:18:37 UTC**](http://www.wolframalpha.com/input/?i=2024-10-15%2002:18:37%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/ethicalhacking/comments/12gfgi3/free_resources_to_learn_ethical_hacking/lrth1pl/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethicalhacking%2Fcomments%2F12gfgi3%2Ffree_resources_to_learn_ethical_hacking%2Flrth1pl%2F%5D%0A%0ARemindMe%21%202024-10-15%2002%3A18%3A37%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%2012gfgi3)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+----------------------------------------------------------------------------------------------------
+ID: jfznqr4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I will be messaging you in 20 days on [**2023-05-02 17:59:44 UTC**](http://www.wolframalpha.com/input/?i=2023-05-02%2017:59:44%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/ethicalhacking/comments/12gfgi3/free_resources_to_learn_ethical_hacking/jfznnhl/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethicalhacking%2Fcomments%2F12gfgi3%2Ffree_resources_to_learn_ethical_hacking%2Fjfznnhl%2F%5D%0A%0ARemindMe%21%202023-05-02%2017%3A59%3A44%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%2012gfgi3)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+----------------------------------------------------------------------------------------------------
+ID: jkgro4i # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm really sorry about replying to this so late. There's a [detailed post about why I did here](https://www.reddit.com/r/RemindMeBot/comments/13jostq/remindmebot_is_now_replying_to_comments_again/).
+
+I will be messaging you on [**2023-05-07 14:14:39 UTC**](http://www.wolframalpha.com/input/?i=2023-05-07%2014:14:39%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/ethicalhacking/comments/12gfgi3/free_resources_to_learn_ethical_hacking/jj39ll2/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fethicalhacking%2Fcomments%2F12gfgi3%2Ffree_resources_to_learn_ethical_hacking%2Fjj39ll2%2F%5D%0A%0ARemindMe%21%202023-05-07%2014%3A14%3A39%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%2012gfgi3)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+----------------------------------------------------------------------------------------------------
+ID: jfyh9w2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you mean it asked you to pay or the website wouldn’t work? All the really beginner stuff was free last time I checked. Maybe you are selecting more advanced courses. If the website is not working try disabling any ad/script blockers.
+----------------------------------------------------------------------------------------------------
+ID: jgnhzim # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: For the beginner lessons yes
+----------------------------------------------------------------------------------------------------
+ID: jfyjret # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I chose introduction to CS. I completed the intro to OS and then tried to click the Intro to DS. Brings me to a page to buy
+----------------------------------------------------------------------------------------------------
+ID: jfyog1y # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The first lesson in intro to DS is called intro to Digital Forensics and is free. Also $10 a month is negligible for the amount of organized info and lessons. Also there’s a student discount that makes it only $6 a month.
+----------------------------------------------------------------------------------------------------
+ID: jfz5c7y # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you. I’m considering it. I wanted to test if I’d be interested in the field. Surprisingly, the more I practice, the more I’m interested! I never thought I’d find such an interest in pen testing
+----------------------------------------------------------------------------------------------------
+ID: jfziv4b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It’s a ton of fun. For me it’s like solving a puzzle and when you study you’re learning about all the puzzle pieces. There’s also a bunch of subcategories such as internal and external network, web application, mobile, phishing, social engineering, physical penetration testing, etc. Some people like them all and some specialize. Web application and cloud testing are probably the highest demand at the moment from my experience but to me internal network testing is the most fun.
+----------------------------------------------------------------------------------------------------

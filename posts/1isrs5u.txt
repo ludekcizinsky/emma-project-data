@@ -1,0 +1,8 @@
+POST ID: 1isrs5u / POST TITLE: MSRT in addition to Crowdstrike
+====================================================================================================
+We run Crowdstrike Falcon on our endpoints, but I've been testing rolling out MSRT to those endpoints also, and automating a full MSRT scan once/week on every endpoint. This would be supplemental protection and from my tests it doesn't interfere with crowdstrike.
+
+Does anyone have any experience running multiple EDR's on their endpoints? Thank you in advance for your help.
+
+POST COMMENTS:
+====================================================================================================

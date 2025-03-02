@@ -1,0 +1,28 @@
+POST ID: 1ct1t7n / POST TITLE: JtR, the jumbo
+====================================================================================================
+Documentation of John the Ripper refer frequently to literally “-jumbo”.   What does “-jumbo” string stand for?  For the jumbo version of JtR rather than, for instance, john command line option?
+
+POST COMMENTS:
+====================================================================================================
+ID: l490zii # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: John the Ripper Jumbo refers to a special edition of the software that significantly expands its capabilities. Here's what  John the Ripper Jumbo offers:
+
+* **Extended Hash Support:** The standard version of John the Ripper supports a decent range of password hash types. However, Jumbo brings a significant advantage by adding hundreds of additional hashes and ciphers to its cracking arsenal. This empowers it to tackle a much wider variety of password formats encountered in different systems and applications.
+
+* **Examples:** The Jumbo version can handle hashes used by:
+    - Various Unix flavors (Linux, *BSD, Solaris, etc.)
+    - macOS and Windows password formats
+    - Web applications (e.g., WordPress)
+    - Groupware (e.g., Notes/Domino)
+    - Database servers (SQL, LDAP)
+    - Encrypted filesystems and disks
+    - Archives (ZIP, RAR)
+ 
+* Essentially, Jumbo makes John the Ripper a more versatile tool for password auditing and recovery across diverse environments.
+----------------------------------------------------------------------------------------------------
+ID: l495ti2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks chatgpt
+----------------------------------------------------------------------------------------------------
+ID: l497lho # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It was Gemini, but yes.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+POST ID: 1inn6h9 / POST TITLE: Ex-SOC Analyst Trying to Get Back in the Game – Need Advice
+====================================================================================================
+Hey everyone,
+
+I need some advice . I was a SOC Analyst for 2.5 years at an Indian MNC, mainly working in IAM (Identity & Access Management), automation, and support for a Canadian client. 
+
+My daily grind involved:
+
+•RBAC, Access Control, RSA tokens
+
+•Active Directory, NetIQ (yes, I know it’s ancient), and some L1 exposure to CyberArk
+
+• Incident management, handling on-call issues, and server checks (Solaris/Linux)
+
+I took a break to prep for competitive exams, but that didn’t work out, and now I’m back in the job market. Given the rapid changes in cybersecurity, I want to re-enter the field the right way—but without spending a ton on expensive certs right away.
+
+Need guidance on:
+
+	1.	**Interview Prep** – What areas should I focus on given my IAM-heavy background? Should I brush up on things like SIEM (Splunk/QRadar), endpoint security, or shift towards cloud IAM? Any must-know topics for today’s job market?
+
+	2.	**Certifications (On a Budget)** – I was considering AWS Cloud Cert, but should I go for AWS, GCP, or Azure? Would Azure Security/Identity certs be more relevant for IAM roles? Are there any quick, low-cost certs that could add value?
+
+	3.	**Technical Refresh** – Since I worked more on IAM and automation, should I focus on scripting (Python/PowerShell), Cloud Security, or even diving into PAM solutions like CyberArk/BeyondTrust? Any Udemy courses or hands-on labs you’d recommend?
+
+	4.	**Current Trends** – The field is shifting towards Zero Trust, Cloud IAM, and DevSecOps—should I start looking into these areas? 
+*How do I best position myself for roles that are hiring in 2025?*
+
+
+Thanks so much 🌸
+
+POST COMMENTS:
+====================================================================================================

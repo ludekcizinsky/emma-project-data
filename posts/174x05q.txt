@@ -1,0 +1,31 @@
+POST ID: 174x05q / POST TITLE: Having a moral dilemma.
+====================================================================================================
+Context I am a junior in high school.l study computer science and hacking. For one of my classes I am writing a paper on hacking and different methods. While writing the section about brute force attacks I had a thought. I am pretty sure that my school has a bad password policy. Should I write a disclosure or should I do nothing? 
+
+POST COMMENTS:
+====================================================================================================
+ID: k4c12ml # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: More information
+
+I haven't done any testing against the network. 
+
+The school (at least from my knowledge) hasn't faced an attack
+----------------------------------------------------------------------------------------------------
+ID: k4e50db # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I am sorry, I just don't see the problem with letting the school know that their passwords might be vulnerable.
+
+Did I miss something? 
+I think I understand what you mean. And so far you haven't done anything close to wrong. So you're just letting them know about something. What they do it's up to them.
+----------------------------------------------------------------------------------------------------
+ID: k4f019h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just submited. a document detailing the problem to the front office thanks for all your help. I feel as though a weight is lifted off my shoulder
+----------------------------------------------------------------------------------------------------
+ID: k4c3fn4 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: k4c3p34 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I know that's why i haven't done any testing. One one hand I understand keeping passwords simple so people remember them but on the other I am concerned as a student and as someone studying hacking as a possible career.
+----------------------------------------------------------------------------------------------------
+ID: k4e53w3 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You're alright man, I'd just let them know and go on. So if something happens, you warned them. Peace of mind.
+----------------------------------------------------------------------------------------------------

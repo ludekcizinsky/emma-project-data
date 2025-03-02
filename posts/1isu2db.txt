@@ -1,0 +1,8 @@
+POST ID: 1isu2db / POST TITLE: SOC and AUP Questions
+====================================================================================================
+Hello,
+
+I am new to SOC and AUP audits. The company I work for is going through an acquisition and we need to get a SOC2 report done, however, with limited time and not everything being moved over yet, we decided to go with an AUP (agreed upon procedures) to have something to show in such a short timeframe. The vendor needs to know the sample size of the machines and employees for the audit. SOC reports normally go with a sample of 25, however, the vendor says AUPs have more flexibility and gave an example of 5. What is the normal sample size for AUPs? Also what is the normal period of time to cover for these? Also any documentation or resources that anyone could recommend regarding both SOC and AUPs would be much appreciated!
+
+POST COMMENTS:
+====================================================================================================

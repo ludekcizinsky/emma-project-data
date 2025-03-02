@@ -1,0 +1,24 @@
+POST ID: 1aj6qci / POST TITLE: RTL8812BU DRIVER ISSUE IN KALI
+====================================================================================================
+Hi , I am using a  tp- link ac1300 with chipset rtl8812bu , I also installed it's driver in Kali and it's up and running but when I try to deauth 5ghz network it doesn't work . Using aircrack -ng .Kali 2023.4 ver . Updated everything. Should I buy a rtl88xxau chipset?
+
+POST COMMENTS:
+====================================================================================================
+ID: kozkvb6 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: better place to ask this would be the r/kalilinux subreddit. also googling is your friend, its not the exact same driver (AU vs BU) but might be able to point you in the right direction.  https://github.com/aircrack-ng/rtl8812au/issues/794
+----------------------------------------------------------------------------------------------------
+ID: kpdymy9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: So it is up and running but deauth doesn't work. But does it work in 5 Ghz? For example with airodump-ng?
+----------------------------------------------------------------------------------------------------
+ID: kps3bem # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If im not wrong that adapter is only specified to work with 2.5GHZ networks.
+----------------------------------------------------------------------------------------------------
+ID: kq2zdx1 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [removed]
+----------------------------------------------------------------------------------------------------
+ID: koznyge # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thx
+----------------------------------------------------------------------------------------------------
+ID: kq5eno2 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This is a low effort post or something you can google, post has been removed for rule violations.
+----------------------------------------------------------------------------------------------------

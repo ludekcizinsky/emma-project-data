@@ -1,0 +1,12 @@
+POST ID: 1is37d2 / POST TITLE: TCM PSAA Certificate
+====================================================================================================
+I am trying to get real world skills through the training from various sources. I want to learn SOC 1 by completing the learning path through TryHackMe which I have heard mostly positives. 
+
+Then I came across TCM security certificates, one being Practical SOC Analyst Associate (PSAA) certificate. For those that don't know, it appears to teach the same information as THM, but not sure of the difference in quality.
+
+Any feedback to spending the money w TCM and get the PSAA cert which I don't know if it is somewhat recognized yet which brings up the dilemma to just train w THM or pay more money, obtain a certificate to prove you can do it. I have reservations about going for another cert while I am in the application of theory phase to actually attempt to perform tasks that were only discussed until I get hands on experience.
+
+Any feedback on experiences and the quality of TCM vs THM would be greatly appreciated.
+
+POST COMMENTS:
+====================================================================================================

@@ -1,0 +1,12 @@
+POST ID: 13l14fq / POST TITLE: is comptia necessary to start on tryhackme?
+====================================================================================================
+Hello to all the community. I am 17 years old and my goal is to become a pentester.  I'm going to go to university for a bachelor's degree in computer science.  But first I want to do the training for beginners offered by Tryhackme.  Do you think I should pass the comptia A+ first or I can go directly to tryhackme
+
+POST COMMENTS:
+====================================================================================================
+ID: jkn4e5s # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Required no. A+ would give you a lot of background info on how computers work and even some networking basics. It's a pretty big time commitment though. I'd check out THM and see if you ate able to grasp the concepts. If you're having trouble maybe come back to it after you do your certs.
+----------------------------------------------------------------------------------------------------
+ID: jkp7ps2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tryhackme has a lot of free content, so I don't think it's a bad idea to just jump in and take advantage of those. Go through the "walk-throughs" and Easy modules and make sure you thoroughly cover the basics so that you're getting the full benefit of understanding the context around the tools you're learning.
+----------------------------------------------------------------------------------------------------

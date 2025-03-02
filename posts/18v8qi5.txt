@@ -1,0 +1,11 @@
+POST ID: 18v8qi5 / POST TITLE: What are proxy scraper lists based on ?
+====================================================================================================
+In order to create a list of active proxies, do I need to develop a   software to fetch addresses from various websites   or should I scan IPs   and identify a proxy?
+
+Thank you
+
+POST COMMENTS:
+====================================================================================================
+ID: luaf4nr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To create proxy lists, you can either scan IP ranges to detect open proxies or use scrapers to gather addresses from public sources. Each method has its pros and cons, but automated tools can help speed up the process.
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+POST ID: 12qpo3j / POST TITLE: Help
+====================================================================================================
+How I can point a domain name to an ip address for xampp server in my internal network this mean without hosting the webpage
+
+POST COMMENTS:
+====================================================================================================
+ID: jgs6inh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://lifehacker.com/geek-to-live-how-to-assign-a-domain-name-to-your-home-124804
+----------------------------------------------------------------------------------------------------
+ID: jgthqoy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It’s weird how often posts here are just “tell me how to google.”
+----------------------------------------------------------------------------------------------------

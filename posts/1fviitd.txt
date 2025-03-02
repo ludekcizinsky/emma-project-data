@@ -1,0 +1,36 @@
+POST ID: 1fviitd / POST TITLE: The right Start
+====================================================================================================
+Hi everyone- just a bit of background. I have 8 years of Network Engineer experience and am looking into starting with ethical hacking. Im going to school for a degree in IT with an emphasis but I'd like to dip my toes into this realm. I am familiar with most languages and would like to try doing penetration testing, maybe some capture the flag events, and overall learning about how systems are leveraged. Are there any resources you particularly like, tools, and architectures I can start with? I am not opposed to building a mobile station to get started. Thank you for your time!
+
+POST COMMENTS:
+====================================================================================================
+ID: lq7e3gm # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: HackTheBox and TryHackMe.  Install Kali Linux on a VM somewhere and get familiar with the basic tools it has pre-installed.
+----------------------------------------------------------------------------------------------------
+ID: lq7oq3p # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agree with this as well. Having the knowledge to swim is great, but you don't know what to do with that until you're thrown in the pool. Reading about hacking and learning about it is essential, but if you don't jump in the metaphoric pool, you'll never know how to swim.
+----------------------------------------------------------------------------------------------------
+ID: lq7pqj7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Do you think it's worth it to get a RPi and flash Kali on there and use that as my penetration and scanning device alongside my computers? I can definitely set up a VM on anything and get those hosts working, but I can also make a secure hub on one of my desktops I care little for.
+----------------------------------------------------------------------------------------------------
+ID: lq7pbwt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I think that's what my degree path struggles in. So many people wanna be IT/Cyber/Hackers but do 0 of the leg work. I want to get the foundations of it, get good at it, then cert before the job and cite my projects to fill the gap in a resume for any positions with that skill. My hope is that in a year, I'd be confident in taking Pentest+ to add to my other certs when I recert.
+----------------------------------------------------------------------------------------------------
+ID: lq7qars # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Pi is pretty weak just use a VM in bridged mode.
+----------------------------------------------------------------------------------------------------
+ID: lq7qq2e # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can definitely get your Pentest+ way before then. Now, while Pentest+ covers much of the legality of what you're doing, you should definitely look into Hack the Box pentesting learning paths to get a combination of practical, hands-on skills as well as knowledge about what you're doing at a very reasonable price. Don't pay for the Pentest+ course material. All of that is available for free if you do a little surface-level digging. If you're just starting out, TryHackMe is a little more beginner-friendly than HTB, but I wouldn't recommend staying on THM, but other opinions than mine may vary.
+----------------------------------------------------------------------------------------------------
+ID: lq7rivv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Too easy.
+----------------------------------------------------------------------------------------------------
+ID: lq7t3o4 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I just dont want my cert to lapse while I look for a job. Ill look into HTB for realisitc goals.
+----------------------------------------------------------------------------------------------------
+ID: lq7yb0r # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Shouldn’t setting up your infrastructure be easy? The hacking part is the hard part focus on that.
+----------------------------------------------------------------------------------------------------
+ID: lq7upsc # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I hope the other people you run into on your journey are just as kind to you and are willing to pass on their knowledge to you! Disclaimer no one really mentions: you will beat your head against the wall A LOT. I, and hopefully, everyone else who sees your current and future posts wish you the best. You've got this.
+----------------------------------------------------------------------------------------------------

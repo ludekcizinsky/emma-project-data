@@ -1,0 +1,14 @@
+POST ID: 1itlp46 / POST TITLE: Virus total: tips
+====================================================================================================
+A question for everyone, a scenario based:
+
+As a soc analyst you see an endpoint is making outbound connections to an IP address.
+
+The soc analyst looks into virus total what the IP address is. 
+
+What should the soc analyst look for in virus total. What details. 
+
+Please share your insight
+
+POST COMMENTS:
+====================================================================================================

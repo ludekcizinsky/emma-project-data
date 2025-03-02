@@ -1,0 +1,8 @@
+POST ID: 1itnvfb / POST TITLE: EDR suggestions for 4 small associations
+====================================================================================================
+I manage 4 small trade associations. Each association needs their own EDR solution to be approved for cyber insurance. Staff sizes are 4, 8, 9, and 13. Vendor has suggested Barracuda as they will license per endpoint. 
+
+I need something that I don't have to monitor constantly. I work with a MSP but their prices are quite high at over $80 per node. The Barracuda quote is more than 50% less. I could use some help with this. 
+
+POST COMMENTS:
+====================================================================================================

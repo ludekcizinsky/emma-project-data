@@ -1,0 +1,13 @@
+POST ID: 1iuaqbl / POST TITLE: ISO27001 in alignment with ISO27017 and ISO27018
+====================================================================================================
+We are starting to receive vendor iso27001's with this alignment language for the 27017 and 27018, instead of individual certifications for all three.
+
+I recognize this is probably cheaper for the vendor. Gemini tells me the overlays for the 17 and 18 are included in the 01. 
+
+Are you accepting aligned 27001's in lieu of individual certifications? 
+
+
+
+
+POST COMMENTS:
+====================================================================================================

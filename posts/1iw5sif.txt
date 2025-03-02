@@ -1,0 +1,25 @@
+POST ID: 1iw5sif / POST TITLE: Finding Juicy Information from GraphQL
+====================================================================================================
+# Introduction
+
+GraphQL APIs have become widely adopted due to their flexibility, but **misconfigurations can expose sensitive data** to unauthorized users. Attackers and bug bounty hunters often leverage **GraphQL queries** to extract:
+
+🔎 **Hidden API endpoints**  
+🔎 **User emails and credentials**  
+🔎 **Internal system data**  
+🔎 **Private reports and security information**
+
+In this article, we’ll **explore practical techniques** for extracting **juicy information** from GraphQL APIs, how attackers abuse these vulnerabilities, and how to **harden your GraphQL endpoints** against exploitation.
+
+# 1️⃣ Finding Exposed GraphQL Endpoints
+
+Before extracting sensitive data, you first need to **locate the GraphQL endpoint**. Common naming conventions for GraphQL APIs include:
+
+Read the Complete Article on [Medium](https://cyberw1ng.medium.com/finding-juicy-information-from-graphql-22fb09bd9e61)
+
+[https://cyberw1ng.medium.com/finding-juicy-information-from-graphql-22fb09bd9e61](https://cyberw1ng.medium.com/finding-juicy-information-from-graphql-22fb09bd9e61)
+
+
+
+POST COMMENTS:
+====================================================================================================

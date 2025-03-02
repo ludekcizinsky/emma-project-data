@@ -1,0 +1,313 @@
+POST ID: 1ituhr2 / POST TITLE: Really struggling
+====================================================================================================
+Second semester in cyber and I feel like I am struggling a lot. Most of my time goes into troubleshooting rather than smoothly going on with my assignments. I am fucking frustration. Sometimes issues with a workstation not connecting to server and other times server not receiving internet.
+
+Like i am always troubleshooting. But this is something i want to do, i get tired but don’t feel like giving up. 
+
+Please tell me if you guys have something i can get help from. Any suggestions or advice.
+
+POST COMMENTS:
+====================================================================================================
+ID: mdszkmo # OF UPVOTES: 108.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Something not working, fix it. Something doesn't look right, look into it. Something is wrong, research it.
+
+Welcome to IT. 
+
+If you don't like the basics of tech work, you are not going to be happy even after school and started working.
+----------------------------------------------------------------------------------------------------
+ID: mdtikxk # OF UPVOTES: 35.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Bad news: you’ll be doing this forever. I sometimes go into my work thinking that nothing ever works right and it sucks. Can really get me frustrated just like you.
+
+Good news: you get better at it. It’s not easier, but you deal with it better.
+
+Keep it up, remember why you’re interested. Remember that you’re young and have plenty of time to pivot, but don’t quit the career over some DNS issues.
+
+Good luck man!
+----------------------------------------------------------------------------------------------------
+ID: mdulas6 # OF UPVOTES: 14.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Welcome to IT cyber . I want to throw my equipment out of the window at least once a day -
+----------------------------------------------------------------------------------------------------
+ID: mdtt4tw # OF UPVOTES: 12.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Everyone's probably going to jump on the "it's part of the job" bandwagon, and they are absolutely right. But you do get better at debugging problems as time goes on. The best advice is when you are frustrated step away from your keyboard and do something to take your mind off the problem for 30 mins or so. I doom scroll Instagram or watch some mind numbing YouTube. And if you're really stuck, the best debugger is a good night of sleep.
+----------------------------------------------------------------------------------------------------
+ID: mduj524 # OF UPVOTES: 10.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: troubleshooting = learning on steroids
+----------------------------------------------------------------------------------------------------
+ID: mdtxdrl # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Dude, that's what cyber is... Persistent struggling.
+----------------------------------------------------------------------------------------------------
+ID: mduntsa # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Looks like everything is going as planned for a future career in Cybersecurity 😂
+----------------------------------------------------------------------------------------------------
+ID: mdtpeil # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Look, troubleshooting is a rite of passage! We all have been there! Make sure you're reaching out fellow students. Also, when looking for videos, look for the most current. Like less than 3 months old. Finally, take with your professors. They can make suggestion.
+
+One last thing, find your niche, What you love to do! And dive deep into that rabbit hole! Your first job will not be the one your want but it willl get you to the one you been working on the that rabbit hole! 
+
+Your will also run into the nay sayers. They are everywhere! Thee best thing to do ignore them and learn to dance to your own drummer. When all is said and done, the nay sayers will be standing on the side line wishing they were you!
+----------------------------------------------------------------------------------------------------
+ID: mdtyqmf # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: "Most of my time goes into troubleshooting rather than smoothly going on with my assignments"
+
+Welcome to the real world. This is all IT. Fix it until it breaks, repeat. Most of my life is spent troubleshooting problems. Don't let it be emotional. Don't let impostor syndrome cloud your judgement. There is a solution to every problem. If you don't know, ask. There's tons of support on reddit, forums, facebook groups, and even ai platforms. Get used to not knowing everything because you never will. Your job is to find solutions that other people can't. The better you adapt to problems, the more successful you will be.
+----------------------------------------------------------------------------------------------------
+ID: mdvqc7x # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: (10 yrs experience) bruh, troubleshooting is 90% of cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: mdtqtc5 # OF UPVOTES: 8.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: thats bound to happen when people just jump into cybersec without general IT knowledge.
+
+go back to general IT and reconsider cybersec once you have a few years of experience and more expertise.
+----------------------------------------------------------------------------------------------------
+ID: mdtvfeg # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I totally get the feeling, but this is just the nature of being in IT. You're going to be troubleshooting stuff all the time, at first it seems stressful / frustrating but like anything else the more you do it the easier it gets.
+----------------------------------------------------------------------------------------------------
+ID: mdu3dut # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is just part of the deal. The important thing is not to let it frustrate you and not to let other people solve the issues for you. Learning troubleshooting is an important skill all it or cybersecurity people need. Learn to work through the issues.
+----------------------------------------------------------------------------------------------------
+ID: mdu3ld5 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The biggest value your degree with teach you is not the content but how to deal when things go wrong. You got this.
+----------------------------------------------------------------------------------------------------
+ID: mdu8n6n # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That sounds like exactly what people WANT when they have the opportunity to major in cyber and are actually interested in computers.
+----------------------------------------------------------------------------------------------------
+ID: mduaj17 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I’ll strongly suggest using a structured approach for solving problems. I’ve used first principles a lot and its worked well for me in the past. Decomposing all the pieces that are required to connect a server to the internet and checking each one to see where it breaks.
+----------------------------------------------------------------------------------------------------
+ID: mdufpf0 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The troubleshooting skills you are learning / perfecting will be the building blocks for any job in Cyber or IT.
+----------------------------------------------------------------------------------------------------
+ID: mduqxyw # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Cyber builds character and patience.
+----------------------------------------------------------------------------------------------------
+ID: mduvo48 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is pretty much what the job entails(most/if not all flavors of IT specializations)
+
+Constant troubleshooting, research, testing, etc. until you find a solution, and (hopefully) document it,
+----------------------------------------------------------------------------------------------------
+ID: mduxkoy # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Wait until you are a senior cyber professional and you spend all your time justifying budgets, writing memos, and babysitting. You will be begging for those hands on projects again. I feel like most of my day is spent begging leadership not to eat crayons. 😂😂
+----------------------------------------------------------------------------------------------------
+ID: mdvf021 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Alot of people have already said it.
+
+But you will never have a straight forward deployment. You'll have a proposal that will have dependencies that have dependencies. 
+
+Get used to trouble shooting and problem solving. Out the box thinking so you don't cause issues for the environment you're supposed to be responsible for.
+----------------------------------------------------------------------------------------------------
+ID: mdvf7j8 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've been in this game since well before Y2K, and I'll tell you three things: 1. Just when you thought you get the hang of something, you will realise that something has changed again. Change is a constant in this game; embrace it and learn to love it (and tolerate it on the days it feels like it's getting too much; next week will be better), otherwise it will chew you up and spit you out over time. 2. Don't focus on learning just the "what", get to understand the "why". Even when things change, understanding *why* things might not work speeds up the search to where you then should look first for changes, and then to figure it out (and learn something new in the process). 3. Avoid shortcuts and go right back down to the very fundamental basics and building blocks. Spend time on really, really, reeeally understanding why the basics work the way they do. If you can explain a basic concept to someone who is not technical so that they understand the principle well enough, then you're halfway there, keep going. Don't just click the mouse, understand what happens under the hood when you click the mouse. Fundamentals do not change that often, they evolve, and keeping up with that is easier than just troubleshooting from scratch all the time, every time.
+
+Good luck. It does get better, but you have to reframe it in your mind before it does. Oh, and make sure you balance work and R&R time, trust me on this one.
+----------------------------------------------------------------------------------------------------
+ID: mdtt0ii # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hello, I am on my last year of my Cyber Security bachelors. Troubleshooting is 90% of the job tbh. Anything you ever work on will rarely work on the first try. It’s the nature of the field. That’s why you go through so many rigorous problem solving gen Ed’s in college. Unfortunately if troubleshooting is really that frustrating for you, IT may not be the field to go into. On the other hand, I also hated it as a freshman but grown to “love” (hate) it. Good luck brother bear.
+----------------------------------------------------------------------------------------------------
+ID: mdtv11l # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Are you struggling in a particular class? Is it hands on or a virtual environment? Do you have a checklist of commands to use that will diagnose the problem? 
+
+Expect for nothing ever goes right. You are learning how to make it right. That’s why there has to be an organized process to fix the issue. I have seen students, and myself, rush through a lab and not follow key steps or use the commands correctly to solve the problem. Use a scalpel, not a hammer.
+----------------------------------------------------------------------------------------------------
+ID: mdu4ysg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Which OS are you using?
+----------------------------------------------------------------------------------------------------
+ID: mdw0be1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That’s exactly what the real job is like. You’re constantly researching, troubleshooting, and solving problems.
+----------------------------------------------------------------------------------------------------
+ID: mdw4tqr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You're always troubleshooting ? I'm interested in what questions you ask your brain while troubleshooting.
+
+Come up with the methodology of diagnosing your troubleshooting methods. Any field you go into requires a methodology before you approach something.
+----------------------------------------------------------------------------------------------------
+ID: mdwahkm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Said it before, will say it again - to be good in the Cyber part of the IT profession, you need to be good at IT. Cyber (for the most part) doesn't exist without IT.
+----------------------------------------------------------------------------------------------------
+ID: mdwcd6l # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That sounds like helpdesk/infra jobdesk though.
+----------------------------------------------------------------------------------------------------
+ID: mdwdz0a # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Troubleshooting IS cybersecurity/IT, my dude
+----------------------------------------------------------------------------------------------------
+ID: mdwge1b # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Makes it all the sweeter when you put something together and it just works first go
+----------------------------------------------------------------------------------------------------
+ID: mdxh73h # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Being able to troubleshoot and resolve tech issues will serve you well in cyber. 
+Are you sure your classmates aren’t having issues, or are they just not telling you about them?
+----------------------------------------------------------------------------------------------------
+ID: mdypgi9 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I'll go into my home lab and work on something new. 8 hours later have nothing to show for it. Sometimes feels like a waste but it's the learning process. I'll start over the next day and have an aha moment. 
+
+IT/cybersecurity is a time suck, frustrating and sometimes nightmare but damn I love it.
+----------------------------------------------------------------------------------------------------
+ID: mdzb15i # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've been in Information Security for 19 years and TBH getting ready to retire. One word of advice... TIME ON THE BOX! There is no substitute for time on the box. You are gaining muscle memory of that thing on top of your body. Hang in there, just keep swinging Merl! Good luck!
+----------------------------------------------------------------------------------------------------
+ID: mdzckm3 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s almost like cyber is IT. First
+----------------------------------------------------------------------------------------------------
+ID: mdzennp # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It will get easier as you learn more
+----------------------------------------------------------------------------------------------------
+ID: me00fkn # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: You learn more from the troubleshooting than any class.
+----------------------------------------------------------------------------------------------------
+ID: me1hfab # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I hate troubleshooting crap that does not pertain to the content I’m supposed to be trained on. My entire Masters degree was hands-on and many of the courses would have recommendations for a Linux version and software requirements but nothing ever worked. I would spend silly amounts of my time after work troubleshooting, finding compatible versions and sharing them with my classmates. 
+
+If you’re paying a degree they should provide the lab for you to focus on learning the material; however, it is just a moment, it will pass, keep pushing through and provide them feedback in a respectful manner. Most professors don’t know as much as you think they do and don’t have the time or forethought in creating a better experience for students. Provide solutions for all the problems you are encountering in your feedback and hope they implement them for future classes.
+----------------------------------------------------------------------------------------------------
+ID: me1zv1d # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Every challenge is a massive learning opportunity - keep at it,  I have been successful because I’ve failed fast and learnt from not doing the same thing again.  Part of learning. And always super interesting !
+----------------------------------------------------------------------------------------------------
+ID: me253h1 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I struggled a lot in college too and it's worth it in the end. Don't give up! Anyone who has been involved with any form of IT knows that you don't learn much when everything is going right. Without realizing you are forming methodologies and acquiring knowledge with every problem you face. The reward is worth it in the end and you'll be proud of yourself for overcoming obstacles.
+----------------------------------------------------------------------------------------------------
+ID: me2i94k # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Boss, troubleshooting IS Cyber. Almost nothing is going to go right the first time. In fact, after 10 years, if something deploys perfectly and runs right out of the box, I start to get very suspicious. 
+
+This is good experience. It sucks in the moment, but in a few years, youll have a niche issue that stack overflow cant help you with, and youll say "Wait a minute, ive got an idea" and itll all be worth it.
+----------------------------------------------------------------------------------------------------
+ID: me2ucrt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: This is 100% because you are using a MAC. Get a Windows PC, and a lot more of it will go "smoothly". This is the reason I don't recommend MACs for technical users.
+----------------------------------------------------------------------------------------------------
+ID: me41mpr # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Been in IT for a while, network security for a few. It’s almost never an issue to deal with tech, as long as it’s not proprietary software or hardware with nill support, but the people who think it’s the firewalls fault. 
+
+I can’t stress enough the importance of the OSI model. Learn what does what at each layer and all the integral parts of a network working WAN & LAN, and troubleshooting will be far easier. Leave the specific parts to the SME’s and work on the theory behind the next step. 
+
+Example, today I troubleshot a webpage not working. Scouted the logs for a few, made a quick test change, and asked to test, same issue. Random thought, let’s put a different (less complicated machine) on the same subnet and try again. Worked.. turns out my firewalls weren’t the issue, but a local host based endpoint protection/detection system.. trust what you know, work on a system, let the people think illogically, and stick to the model. You can’t argue arbitrary information when the entire system is built on a yes or a no. 101001
+----------------------------------------------------------------------------------------------------
+ID: me5lxh5 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I had a similar experince when I started cyber. My PC couldn’t launch instances on AWS. I changed my ISP and tried most of the methods but it didn’t change. My instructor told me to just enjoy the troubleshooting as I may learn smth. It turned out that my PC time was the problem. I changed it to the automatic one that came with the PC and everything started working smoothly. Was able to lauch aws instance easily, deploy honeypot and download softwares that weren’t working before. 
+
+I got the idea to do this after searching the error name on Google. I was using copilot and chatgpt all along without any luck. 
+
+So I understand your frustration firsthand. I will just enjoin you to also fall in love with troubleshooting. Always seek help and if possible run your codes and labs on another PC to confirm it’s not an hardware problem. Goodluck!
+----------------------------------------------------------------------------------------------------
+ID: me6zb6r # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey man take it easy on yourself. Cyber security is a difficult field to be in since you’re constantly learning. Cyber security is basically like putting a new puzzle together, over and over. If you have a problem with that then I suggest you switch careers cause you’re gonna go through a lot of stumbling blocks in this journey. It’s part of the process.
+----------------------------------------------------------------------------------------------------
+ID: me78v8g # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Being able to fix any technological issue has served me well, I would keep digging until you find the root cause because what if you have to do the same to analyze that behavior as part of an incident investigation?
+
+Because of how much I spent figuring things out, I now handled Information Security, Product Security, and IT (yes, IT reports to security, it is refreshing! CIOs should report to CISOs, not vice versa.)
+----------------------------------------------------------------------------------------------------
+ID: me98r10 # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Hey bud, I get what you mean. I am close to taking the ccna exam and working on labs and I've spent a small but decent portion of time troubleshooting the mistakes from the lab creator, when what I want to be studying are the exam topics, not 'what's wrong with the lab". My experience with tech is that I"m often troubleshooting something and it's not the thing I'm trying to work on.
+
+I have learned this: Packet Tracer is simple and convenient, but it often doesn't work the way it should and do not spend any time troubleshooting it if you are sure you're right or being creative with it outside the lab parameters. That's a waste of time with PT, GNS3 and others fine, but not PT.
+----------------------------------------------------------------------------------------------------
+ID: me9cqns # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Troubleshooting IS learning. Walking through some lab step by step where everything goes smoothly gets you nothing because, in the real world, your projects won't go smoothly. In the future, quickly troubleshooting and fixing issues preventing you from completing your project (deploying a firewall, segmenting a network, etc) is what makes you valuable to an organization. I know it is frustrating right now but if you can slightly change how you look at it, you will grow professionally at a much more rapid pace.
+----------------------------------------------------------------------------------------------------
+ID: mea3gmi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Everyone in here saying it’s just part of the industry is correct.
+
+However as someone who has also been on the receiving end of these requirements, there is a lot of room for improvement in specifications. Most issues come from gaps in communication, not technology expertise.
+
+If you are able to, try clarifying ambiguity with the person who wrote the document. If you are unable, try putting it into ChatGPT/Gemini and see if it can help.
+
+That should be the first step.
+----------------------------------------------------------------------------------------------------
+ID: mdvi11m # OF UPVOTES: 7.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I've always found that to be the fun of most coding. You just improve and improve your code until it's something that you can be proud of, and when it's at that point it feels amazing.
+
+You would definitely want to like this kind of thing if you want to do it as a job though. Otherwise, it's hell.
+----------------------------------------------------------------------------------------------------
+ID: mdvs38f # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Ahh, thanks for clearing that up. 🫤
+----------------------------------------------------------------------------------------------------
+ID: mdvly7r # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Also, try to reverse your mindset on it.
+When you think of all the things that go into an internet connection, just for serving a web page, it's pretty f'ing amazing it works at all.
+It's easier to take if you expect failure, like in the early days of IT, mad get amazed by things working.
+----------------------------------------------------------------------------------------------------
+ID: mdvsdqc # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks man for showing support. I am interested in it, i want to learn everything. I have always had theoretical knowledge only about computers but very less hands on.
+
+Also always had a mac so i believe that could also be a problem.
+----------------------------------------------------------------------------------------------------
+ID: me29ogu # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It’s always DNS. Anything breaks it’s DNS
+----------------------------------------------------------------------------------------------------
+ID: me3zbzz # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's almost like, continuing to practice your professional field makes finding the answers easier.
+
+Seriously, OP, if you are frustrated by not figuring out the issue quickly, then this is not the field for you.
+----------------------------------------------------------------------------------------------------
+ID: mdvmltm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If I’m not wishing murder on my equipment or the internet while cursing in my head or under my breath I’m obviously not at work.
+----------------------------------------------------------------------------------------------------
+ID: mdvsxtl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Haha
+----------------------------------------------------------------------------------------------------
+ID: me25hxi # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It's coworkers for me at the moment. On any given day there is always at least some pondering about that window.
+----------------------------------------------------------------------------------------------------
+ID: mdvswdb # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That’s probably a good idea, i am at the laptop for like 6-7 hours and once i get up, i am so frustrated and need a good cry to calm down. I cannot sleep sometimes without the problem being solved.
+----------------------------------------------------------------------------------------------------
+ID: mdvn712 # OF UPVOTES: 5.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I was just thinking this when reading this. I’m just starting out in cyber security learning myself but have been in IT for years. And it very much sounds like this is someone who just jumped straight into it. While possible I can’t imagine it being a fun time.
+----------------------------------------------------------------------------------------------------
+ID: mdvazkf # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: What are the IT stuff that you recommend one should know to be good in cyber?
+----------------------------------------------------------------------------------------------------
+ID: mdvtmrg # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks man
+----------------------------------------------------------------------------------------------------
+ID: mdvue9f # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That is a good advice. Thanks a lot.
+----------------------------------------------------------------------------------------------------
+ID: mdvuiwt # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Mostly with virtual environments, they give me trouble.
+----------------------------------------------------------------------------------------------------
+ID: mdvto3n # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Mac 🙂
+----------------------------------------------------------------------------------------------------
+ID: mdvrzct # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: That’s the thing, I am working on it, trying different fixes, hoping everytime it works and then it doesn’t and finally when it does. I really like it. But then i also think why do i keep on getting so much trouble while my classmates have done it smoothly maybe. Also, i have a fucking mac which i believe gives me trouble with virtualisation because all the assignments are aimed at vmware.
+
+
+I just get late for my assignments which adds to the frustration otherwise i don’t feel like giving up on it yet.
+----------------------------------------------------------------------------------------------------
+ID: me3zfgl # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I theoretically know all the answers, too.
+----------------------------------------------------------------------------------------------------
+ID: mdvy7oa # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: you have identified mac as a key problem a couple of times. the sensible move is to move away from mac NOW and use whatever OS & virtulization tools your course is aimed at so you can take advantage of existing troubleshooting guides, seek guidance from peers, etc
+----------------------------------------------------------------------------------------------------
+ID: me01696 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I will say putting in the hours is definitely part of the process, and it did take me a while before I could manage my time and force myself to take breaks. Give yourself some more understanding that you are still very new to this so you can't expect yourself to be good at everything right away. The problem of an over active brain on problems definitely doesn't go away. 
+
+Also if you think there's a hint you're a little neurospicy as with a fair amount of people in the cyber community, find coping mechanisms to help prevent the inevitable burnout. Motorbikes/MMA/Climbing/online or board games really help take you off the keyboard and calm down for a few hours a week.
+----------------------------------------------------------------------------------------------------
+ID: mdvec7r # OF UPVOTES: 4.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: The area your supporting and the areas adjacent that have common direct integration.
+
+Azure - Networking and dev.
+
+Infrastructure - on-prem/azure/network
+
+Aws - dev/networking
+
+The more you know. The better you can understand and protect the environment.
+----------------------------------------------------------------------------------------------------
+ID: mdwlgyg # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It probably goes "smoothly" for 10-20% of them. I was a professional programmer for 4 years when I started going to college and I had a lot of the same issues you do, so I assume that's par for the course.  I did vocational training in the military. My field required very high test scores and a special test. We still had a 50% failure rate. There were 2 guys that just "got it", though.
+
+Part of the problem is they start putting you in cyber classes without giving you a solid IT foundation first. The other problem is all that shit should work and not get in the way of the topic of the course.
+----------------------------------------------------------------------------------------------------
+ID: mdvxav1 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: If that's the problem just go to your local thrift store you can get an I use Dell Optiplex for like 20 bucks or if you really want to get some real horsepower could always get a used rack server with a lot of cores and a lot of RAM for very little don't worry about getting the newest generation one cuz you're not going to leave it on all the time one of the ones that runs DDR3 is fine and they are super cheap now like 20 cores and 128 gigs of RAM for 50 bucks cheap. Don't let all these guys on here They're doing the meantime Dissuade you from doing it Because of electric usage Unless the Server is running at a hundred percent CPU Idle usage is low even on the old ones and so what if it costs you 15 bucks a month big deal two coffees or one Happy Meal
+----------------------------------------------------------------------------------------------------
+ID: mdzt5f2 # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Check your university library. Mine rents laptops and other tech out to students for free
+----------------------------------------------------------------------------------------------------
+ID: me8q31v # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: It seems like the entire industry enjoys and lavishes in the break and fix approach to all of it
+----------------------------------------------------------------------------------------------------
+ID: me99i9m # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: :D
+----------------------------------------------------------------------------------------------------

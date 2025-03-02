@@ -1,0 +1,57 @@
+POST ID: 1386ls5 / POST TITLE: Where to learn about mobile phone offensive and defensive security?
+====================================================================================================
+I want to learn about mobile phone security how to hack into them and how to keep them secure and possibly specialized in this for a career.  Do you know any places I could learn online any YouTube videos?  Also if you want dm and teach me a few skills it would appreciated.
+
+POST COMMENTS:
+====================================================================================================
+ID: jj5af7j # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Check the pinned thread “Resources for beginners”. There are no specific things on mobile hacking. It you’ll need to learn a lot of the foundations before even getting into that. The foundations are in that list. Go forth and onward.
+----------------------------------------------------------------------------------------------------
+ID: jix328b # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: YouTube
+----------------------------------------------------------------------------------------------------
+ID: jixlo2h # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You need to understand a lot of basic stuff before even getting into security I would start with a low level job like helpdesk first to get an understanding of the world of IT. But if you want to go it through tutorials it would be doable but you need to know your basic level shit well first
+----------------------------------------------------------------------------------------------------
+ID: jj7afbh # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I just made a YouTube video: [https://youtu.be/tisT-jOZ0Rw](https://youtu.be/tisT-jOZ0Rw) let me know what you think
+----------------------------------------------------------------------------------------------------
+ID: jjdictc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There are many books available on mobile phone security, both for beginners and advanced learners. Some popular titles include “Android Security Internals” by Nikolay Elenkov, “Hacking Exposed Mobile: Security Secrets & Solutions” by Joel Scambray, and “Mobile Forensic Investigations: A Guide to Evidence Collection, Analysis, and Presentation” by Lee Reiber.
+----------------------------------------------------------------------------------------------------
+ID: jjy6pgc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks
+----------------------------------------------------------------------------------------------------
+ID: jjy6rpi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks for the advice I'm currently learning powershell
+----------------------------------------------------------------------------------------------------
+ID: jj7ajzi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It is my start at looking into mobile security
+----------------------------------------------------------------------------------------------------
+ID: jjdijtz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you, this helps a lot appreciate the comment.
+----------------------------------------------------------------------------------------------------
+ID: jj7r5v4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What's your channel name? Not that I don't trust you I just have a policy of not clicking on links specially in a ethical hacking form.
+----------------------------------------------------------------------------------------------------
+ID: jj7r9ht # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cybersecure and the video is called I hacked my dad’s phone
+----------------------------------------------------------------------------------------------------
+ID: jj7rr9v # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Haha awesome video video man, keep up the good work ,  I will subscribe 👍
+----------------------------------------------------------------------------------------------------
+ID: jj7rzci # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thank you I appreciate it lad!
+----------------------------------------------------------------------------------------------------
+ID: jjr5sok # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: im subscribing also 😂
+----------------------------------------------------------------------------------------------------
+ID: jjr7hjf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Haha I’m glad you guys enjoyed the video
+----------------------------------------------------------------------------------------------------
+ID: jjr7u3j # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Oh it really was fun to me i think your channel is underrated😅
+----------------------------------------------------------------------------------------------------
+ID: jjr9nzi # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Damn maybe one day I’ll get 14 subs haha
+----------------------------------------------------------------------------------------------------

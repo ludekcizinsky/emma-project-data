@@ -1,0 +1,27 @@
+POST ID: 1bo7qrf / POST TITLE: Certs
+====================================================================================================
+Hello everyone , what is the smart path of certs for offensive cyber security ranking from no previous experience to advanced
+
+POST COMMENTS:
+====================================================================================================
+ID: kwncpc8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Beginner to intermediate: A+ Net+ sec+ eJPT PNPT OSCP CRTO
+----------------------------------------------------------------------------------------------------
+ID: kws558d # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Crto after oscp??
+----------------------------------------------------------------------------------------------------
+ID: kwsf0ev # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP teaches pentesting basics. It’s hard but it’s not red teaming. CRTO teaches basic red teaming like how to use commmand and control servers and briefly gets into AV evasion. It is technically easier but it is more advanced in the overall scheme of things because pentesting comes before red teaming.
+----------------------------------------------------------------------------------------------------
+ID: kwy2rhb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: And do you think A+ is neccesary ? I am already studying it but it seams so basic and shallow and seeing that it expires i dont see the worth
+----------------------------------------------------------------------------------------------------
+ID: kwy3y1y # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It’s not necessary but when you have no experience it can help you land an entry level job in IT. The job market is rough right now and everything helps.
+----------------------------------------------------------------------------------------------------
+ID: kwy94de # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Im already working in it but only just started and i have a trainee cybersecurity.
+----------------------------------------------------------------------------------------------------
+ID: kwy961k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Traineeship cybersecurity *
+----------------------------------------------------------------------------------------------------

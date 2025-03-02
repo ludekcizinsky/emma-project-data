@@ -1,0 +1,32 @@
+POST ID: 1fnxcbg / POST TITLE: Assumption of Same Network in Pentesting
+====================================================================================================
+Hi all, I am fairly new to this side of the cyber world and haven't had too much experience with pen-testing/red-teaming. I am getting familiar with and playing around in my lab to better understand how these attacks work. One thing that I have noticed is that almost every single YouTube video or writeup assumes a connection to the target machine over the same network. I know for some web apps this is not necessary but what are the normal ways of obtaining this? 
+
+Say I am an attacker and want to target an org that is countries away, how would I get access to their network in the first place in order to begin an SMB relay/ pass the hash/ etc? 
+
+  
+I understand that once I am on the network, I could run Nmap to find other devices and go from there but how do I get access to begin with? 
+
+  
+Any input is welcome, just a newbie trying to wrap my head around all of this. 
+
+POST COMMENTS:
+====================================================================================================
+ID: lolopkz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your targets will be outlined in the project scope and the rules of engagement will help determine your access path and attack vectors. 
+It will be different for every org that hires you.
+----------------------------------------------------------------------------------------------------
+ID: lonblej # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: From a pentest perspective a lot of companies will do “assumed breach” tests and want to know what would happen if an attacker gained initial access already. They will either provide low level access and you will test for lateral movement and priv escalation from there.
+
+Others will want an external pentest to see if you can breach the network without provided access. For this you will normally scan any internet facing hosts for any service that could be vulnerable with different tools like nmap, Shodan, censys, etc that could be exploited to gain access. You could also search for potential compromised creds for employees of the company. People love to reuse passwords so if their passwords were in a recent breach for personal accounts you might get lucky and they reused that password and never changed it. 
+
+What type of test you do is up to the company and laid out in the rules of engagement. 
+
+For real threat actors about 9/10 times initial access comes from phishing. Most commonly a credential harvesting site set up to look like a Microsoft login portal. Some will send maldocs or malware directly but if you have decent email security those get picked up pretty easily. Outside of phishing initial access comes from malware such as SocGholish, lummastealer, RATs like AsyncRAT, etc that are downloaded from compromised/malicious sites that either pretend they’re legitimate software or use JavaScript to do some fancy footwork in the background to download the malware. 
+
+If you’re really interested in a good course I recommend checking out TCM security. They have a ton of content that is better than a majority of the stuff out there for relatively cheap. $30 USD a month gets you access to their library.
+----------------------------------------------------------------------------------------------------
+ID: lonqk6n # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can always throw a bunch of USBs around the site. It's brute and primitive but so are people. Someone's gonna pick it up sooner or later.
+----------------------------------------------------------------------------------------------------

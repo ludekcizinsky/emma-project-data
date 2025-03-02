@@ -1,0 +1,8 @@
+POST ID: 1it7ti7 / POST TITLE: Leadership briefings
+====================================================================================================
+What are some ways that people brief their company leadership on cloud security? I’m not really a fan of metrics like MTTR because I feel like they are cheap (ie: easy to create, doesn’t give good idea of risk). Ideally, I’d like to translate risk into dollars.  But the biggest goal though is to give a full understanding of risk.
+
+For context, my company hosts software in the cloud for customers.
+
+POST COMMENTS:
+====================================================================================================

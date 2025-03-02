@@ -1,0 +1,24 @@
+POST ID: 1iro7pq / POST TITLE: Industry Burnout is real.
+====================================================================================================
+Almost every day there is someone in here trying to get a start, trying to change jobs, trying to get direction, trying to validate the direction they took, etc...
+
+There is a dark side to the growing prevalence of security roles becoming more and more crucial as well as simultaneously in more demand. And it is somewhat addressed in the linked article. 
+
+The statement:
+
+>We can't hire our way out of this disaster. It takes years to develop an analyst capable of detecting and responding to sophisticated threats. By the time junior analysts gain the expertise to handle advanced attacks, they're already burning out and searching for greener pastures.
+
+That statement underscores the nature of the problem. There was a time where most of those specializing in security had  made a successful career in accompanying fields then chose to specialize in security. Much like a doctor would take general medicine, develop a passion for a field and become a cardiologist. Maybe even dreamed of being a cardiologist, but had to start with doctor none the less.  Because there is no path to cardiologist that is not rooted in doctor. And while one could train someone medically inclined to perform a certain subset of tasks classically associated with being a cardiologist, they would never in fact be one. 
+
+This also illustrates that the average company is not prepared for the risks of the future because they do not understand it, the average IT team is struggling to stay on top of the never ending change. The experienced veterans are cooked, the fresh troops are struggling for direction and a place to gain experience in the chaos.  The decisions made by some of the people that come in here asking for direction, are going to shape the future of this industry, faster than anyone saw coming.
+
+What this industry needs is a lot less make the building taller, and a lot more shoring up of the foundation on which it is built. Slow growing until your house is in order. Because while no one wants to accept that, there is no future where this problem fixes itself, but there is one where the problem exceeds the resources to control it. And that future is near if not here already.
+
+Security roles take wisdom, wisdom takes more than knowledge it takes experience. So while this takes some realistic expectations for the PFYs entering the market, it should also be a duty to some of the old ones to start taking more chances and mentoring. As well as a burden for some of the companies that have grown in this chaos, to give back and hire with the intent of shaping the future vs profiting from the ever new.  I have done it more than once, it can actually add a lot of value to the tail end of your career to pass on what you know, it can also save a flaming out career by restoring purpose. Mentor someone, and or hire someone you can mentor!
+
+An army that finds itself one day with out generals may hold of skirmishes, but will win no future battles. Nutrition for cognition folks.
+
+[https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat](https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat)
+
+POST COMMENTS:
+====================================================================================================

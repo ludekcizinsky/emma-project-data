@@ -1,0 +1,55 @@
+POST ID: 13j1dud / POST TITLE: What type of information is illegal?
+====================================================================================================
+What type of informations should avoid as a cybersecurity begginer? Is there such a thing?
+
+POST COMMENTS:
+====================================================================================================
+ID: jkcw5ta # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nacho information
+----------------------------------------------------------------------------------------------------
+ID: jkcqsq8 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Any thing personal, medical, or financial.
+----------------------------------------------------------------------------------------------------
+ID: jkdt4ak # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Illegal are actions when you obtain confidential data requiring authentication without authentication 🙂
+----------------------------------------------------------------------------------------------------
+ID: jkeqm80 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not nessiaarly the information but how it is accessed. If you are illegally hacking into computers and shit without permission then it's all illegal.
+----------------------------------------------------------------------------------------------------
+ID: jkck9ce # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No data is illegal, your actions could be illegal and is adviced to avoid. Whitehat is more pragmatic and equaly profitable.
+----------------------------------------------------------------------------------------------------
+ID: jkdoii1 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: what’s that?
+----------------------------------------------------------------------------------------------------
+ID: jkg1vyd # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: To build on this avoid any hacking on the public internet. Some free resources for practicing legally are:
+Tryhackme
+Metasploit/Metasploitable 
+Vulnhub
+Hackthebox 
+Overthewire
+PicoCTF or any other CTF
+
+Once you know what you are doing you can do bug bounties and make money if you find stuff just stay in scope. 
+Hackerone and Bugcrowd are popular ones.
+----------------------------------------------------------------------------------------------------
+ID: jkckbmb # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Thanks!
+----------------------------------------------------------------------------------------------------
+ID: jmhtm4k # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: how is it equally profitable
+----------------------------------------------------------------------------------------------------
+ID: jkdswp9 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not your information 
+
+Nacho 
+(Nah-tcho)
+
+Sounds like 'not your'.
+----------------------------------------------------------------------------------------------------
+ID: jmibf36 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You're right, it's more pragmatic to do things whitehat. Since time is money, a legal path keeps you outta prison.
+
+But if the feds don't find you then blackhat would probably be the fastest way to financial freedom if you don't develop a new solution to a mass problem but ion know I'm just a kid.
+----------------------------------------------------------------------------------------------------

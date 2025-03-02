@@ -1,0 +1,8 @@
+POST ID: 14p8orz / POST TITLE: Naughty Users & SSH Tunnels | HackTheBox | Tier 1 | Funnel | Walkthrough
+====================================================================================================
+Join us on an exhilarating educational adventure as we explore the fascinating world of FTP and SSH Tunnels. Through clever techniques, we gain access to  an FTP server, discovering intriguing clues and hidden files along the  way. Unveiling a PDF packed with policies and a mysterious 'welcome'  file, we use the 'get' command to bring them to our system for closer  examination. But the excitement doesn't end there! We take it a step  further by utilizing the power of SSH tunneling with local port  forwarding. Through this secure tunnel, we connect to a PostgreSQL  database, where the ultimate treasure awaits—the flag. With a strong  focus on ethical exploration, responsible practices, and the thrill of  uncovering secrets, this captivating journey showcases the fascinating  synergy between FTP, SSH tunneling, and database access. Join us as we  unravel mysteries, expand our knowledge, and conquer new heights!
+
+Video Link:[https://youtu.be/ACyIVPlYpE0](https://youtu.be/ACyIVPlYpE0)
+
+POST COMMENTS:
+====================================================================================================

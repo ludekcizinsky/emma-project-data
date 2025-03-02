@@ -1,0 +1,6 @@
+POST ID: 1it5qf8 / POST TITLE: Does Turning a DoS into PrivEsc Qualify for a New CVE
+====================================================================================================
+Hello, If there's an existing CVE with a medium-impact DoS vulnerability (CVSS \~4-6), and I managed to turn it into privilege escalation (CVSS high \~7-8) and the bug is still unpatched, would this qualify for a new CVE?
+
+POST COMMENTS:
+====================================================================================================

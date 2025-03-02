@@ -1,0 +1,15 @@
+POST ID: 1iu0cof / POST TITLE: New to OT/ICS Security
+====================================================================================================
+
+Hey everybody didn’t know where to go with this, but thought I would reach out to the community. I just recently started a job at one of the leading OT/ICS cybersecurity companies think Nozomi Networks or Claroty. I’m an SDR there so my main goal is to just try to gain interest enough for a potential customer to want to see the technology in action and discuss similar use cases.
+
+I don’t have a background in cyber so everything is pretty foreign to me but the training has been great so far. I’m focusing heavily on our healthcare sector as well (IoMT)
+
+My question is what type of questions would you ask someone to want them to take a meeting to see our tech and what type of objections or roadblocks should I expect? What are the biggest challenges right now with OT/ICS environments?
+
+Any help or recommendations would go a long way as I know OT cybersecurity is pretty niche.
+
+Cheers
+
+POST COMMENTS:
+====================================================================================================

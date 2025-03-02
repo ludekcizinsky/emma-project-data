@@ -1,0 +1,26 @@
+POST ID: 1fcz6ne / POST TITLE: When Certificates Fail: A Story of Bypassed MFA in Remote Access
+====================================================================================================
+https://edermi.github.io/post/2024/mfa_bypass_mtls/
+
+POST COMMENTS:
+====================================================================================================
+ID: lmcm0lc # OF UPVOTES: 5.0 SUBREDDIT: netsec
+COMMENT TEXT: So to be clear, this vulnerability existed in this one implementation of a homegrown application auth in this one environment?
+----------------------------------------------------------------------------------------------------
+ID: lmcukz9 # OF UPVOTES: 11.0 SUBREDDIT: netsec
+COMMENT TEXT: You're right. But I have also seen this issue in companies i've worked at where they check for a valid certificate, but not that the identity actually matches. Seeing someone else write about it i'm starting to think its not an uncommon mistake orgs make when using certs as part of the login process.
+----------------------------------------------------------------------------------------------------
+ID: lmekio2 # OF UPVOTES: 6.0 SUBREDDIT: netsec
+COMMENT TEXT: Within the last year, I have found client certificates used as part of MFA for very sensitive applications and all they check was that a client certificate was provided. Any certificate. It didn’t need to be signed by a designated CA. A self-signed cert was accepted.
+
+This is probably more common than you thought. I certainly didn’t expect it. I went through all the trouble of making a certificate that looked the same as one that I expected it to see (same CA name, etc. but different key) before I realised how broken it was.
+----------------------------------------------------------------------------------------------------
+ID: lme0gct # OF UPVOTES: 10.0 SUBREDDIT: netsec
+COMMENT TEXT: It's a surprisingly common bug.
+----------------------------------------------------------------------------------------------------
+ID: lmhs16b # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: In this case, they did check if the certificate is valid and trusted, but that was the first thing I tried, too
+----------------------------------------------------------------------------------------------------
+ID: lmejb02 # OF UPVOTES: 3.0 SUBREDDIT: netsec
+COMMENT TEXT: I encountered an identical bug in a large bank's corporate internet banking application. Auth with \*a\* cert, change the Canonical Name to whatever other customer you like, done.
+----------------------------------------------------------------------------------------------------

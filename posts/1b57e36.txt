@@ -1,0 +1,68 @@
+POST ID: 1b57e36 / POST TITLE: 21 year old looking to get into Cybersecurity/Ethical Hacking
+====================================================================================================
+I am a complete beginner when it comes to anything relating to this field. This includes what I need to know to progress, terminology, and really anything relating to it.  
+Though I am pretty well-known with modern technology and have grown up with it, I have always had a passion for obtaining and working on a career in tech.  
+
+I would like to say that I am about to be a in a community college for a 2 year associates degree in Cybersecurity/Networking. based on the curriculum, they will have us learning these fundamentals:  
+
+- Networking
+- Computer Architecture
+- Linux
+- Scripting (powershell/python)
+- Other fundamentals
+
+
+Now how I can go about learning this and classes that revolve around these subjects are up for choice.   
+
+
+On a side note, I am also interested in the hardware of things too relating to Ethical Hacking and I believe the term is called Hardware Hacking. I love messing with hardware and configuring it to do things non-intended for the better good sounds like a blast to me, even if that part was just a hobby.  
+I would just like to ask the community where they think I should start, any tips for me, and what I should most likely focus on.
+
+POST COMMENTS:
+====================================================================================================
+ID: kt3x53r # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm going to be honest,  your post is very confusing to follow.  There are multiple sections that completely repeat themselves, and it looks like some things are missing as well.  
+
+You wrote it like you were going to list the fundamentals you are going to be learning in school,  but then didn't list anything.  
+
+This is a difficult field to just jump into, if you want to be good,  there are a lot of prerequisites you need to master.  
+
+You need to have an in-depth understanding of computer networking.  You need to learn Linux.  I don't mean just downloading kali,  either.  I mean that you should find a comfortable distro for daily use and start learning how to master it.  
+
+My suggestion would be to check out TryHackMe and do a few of the different paths to see what areas you might be interested in.
+----------------------------------------------------------------------------------------------------
+ID: ktbz5f1 # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yo, I'm in the exact same spot as you are! If it'll help, I'll give you some things I've been doing/tried. 
+
+-TryHackMe/HackTheBox/RootMe (Not Sponsored)
+
+These websites have sandbox challenges that you can take on (Some challenges require a paid subscription but you could do a lot of them for free). Though RootMe is more of a "Figure it out on your own" kind of platform and HackTheBox doesnt let you get far at all without a subscription. 
+
+-Setting Up your own Sandboxes
+
+I don't know if you're anything like me but I have a lot of old shit laying around, like old/mircro computers and pawn-shop tier phones. If you want to put those to use, you can set them up to have a more hands-on(?) experience. I set up a raspberry pi as a local ssh, ftp, vnc and smtp server to practice different techniques that I've found interesting. I've done the same to an old phone of mine. And if you don't have those, you set up virtual labs on your computer using VMs.
+
+-Udemy(but it costs money) (Also not sponsored)
+
+Udemy provides courses made by professionals in all sorts of fields, especially Ethical Hacking and Cyber Security. Though sometimes when you check, their courses are $149.99 or something like that. All you have to do it wait, because extremely frequently they will have discount sales that would produce about 90% off. (Or around $15-20), and it's lifetime so you have those courses for the rest of your life. 
+
+-Watching professional's process.
+
+A lot of professionals will have livestreams/VODs of their penetration testing work on YouTube. Some of them have entire courses. Honestly you can find the same type of content you could find on Udemy.
+
+-In the least dickish way possible, Google.
+
+Look, I hate that responce and I swear I do, but Google really is your best friend here. It's HOW to search on Google, though. If none of my suggestions seem to interest you, you can look up "[device] Penetration Testing" and you will get a lot of resources that you desire. 
+
+But something you need most is to take a break when you've been stuck for a while, or else you'll to lose your mind.
+
+I hope this helps and Happy Hacking!
+----------------------------------------------------------------------------------------------------
+ID: kttfip7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Twitter then courses like offsec or compTIA also what you want to do penetrating or Red teaming or both SANS/others but very expensive cheaper option like MALDEV also always learning search   in the world of GitHub  RUST KING 🦀 hear a list https://pauljerimy.com/security-certification-roadmap/
+----------------------------------------------------------------------------------------------------
+ID: kt3xx67 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I had made that post on my PC and when I got on my phone it wasn't right at all like you said. Not sure what happened but I fixed it.
+
+Thank you though for the heads up and the helpful info.
+----------------------------------------------------------------------------------------------------

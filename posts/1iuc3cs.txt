@@ -1,0 +1,11 @@
+POST ID: 1iuc3cs / POST TITLE: Ways to safely analyze malware traffic?
+====================================================================================================
+Hey all! 
+
+I'm currently studying CS and cybersecurity, and I have a project that's allowing me to dive deeper into specific protocols on a network--more specifically, I'm interested in capturing and analyzing traffic from malware. I know there's resources online that provide pcaps of malware, but I'm really curious on being able to do this myself for the extra experience. Does anyone have any advice of how I could host this safely, considering it would somehow have to be connected to a network in order to capture any packets?  VMs or Sandbox are an obvious choice, but this doesn't fix the network concern.
+
+  
+Thanks for any insight! 
+
+POST COMMENTS:
+====================================================================================================

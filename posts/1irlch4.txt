@@ -1,0 +1,6 @@
+POST ID: 1irlch4 / POST TITLE: Undocumented network changes
+====================================================================================================
+I understand the need for security, but do you believe that a network engineer making undocumented network changes presents a concern? He says he's making sure the network is secure, but I believe any changes need to be documented prior, during, and after the change has been made. I've expressed my concern to the department head but didn't get much of a response. 
+
+POST COMMENTS:
+====================================================================================================

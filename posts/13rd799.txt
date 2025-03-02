@@ -1,0 +1,21 @@
+POST ID: 13rd799 / POST TITLE: Advice for my beginning journey
+====================================================================================================
+What advices do you guys think i should pursue in order to do ethical hacking. I am 17 now and looking further to get into the field. How do i start and stay consistent.
+
+POST COMMENTS:
+====================================================================================================
+ID: jll90w2 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Imo the best advice that was given to me (might sound condescending but still stands)  is learn how to use Google. Spend more thank 5 seconds googling and researching a problem or a question. Thats something a lot of beginners dotn do and they expect others to hold their hand. In the real world there is no hand holding you either know it or you learn it.
+----------------------------------------------------------------------------------------------------
+ID: jlkri27 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Learn to code. Python is a very productive starting point. Learn some basic networking. Learn tcp/ip well. Learn wire shark. Learn a linux distro well. Read up on shell scripting. Get into some sort of cpt community. Go to school and get a degree in computer acience. I dont even know if its possible to start a career in IT without a degree today.
+----------------------------------------------------------------------------------------------------
+ID: jlq79tg # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Make sure that it is something that you really want to do. It is a long journey ahead of you therefore you should never compare yourself to others. You're going to learn things on your own terms and at your own pace. It's ok to take a break when needed because you will eventually feel overwhelmed because the industry is forever evolving.
+----------------------------------------------------------------------------------------------------
+ID: jlnhrdr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I agree, I had someone actually say they were going to teach me. Long story short it was a scam. I was promised something, paid for it. But best part is I googled and googled and googled to the point I found them. I know their full names address, family and all.
+----------------------------------------------------------------------------------------------------
+ID: jlnozcy # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: yeah if they are charging you to learn and not in any kind of official capacity (there are actual legit courses online that will teach you like linux academy or udemy) skip it. don't be doxing them, if its a serious issue report it to the cops, the FBI also has their own online scam tipline.
+----------------------------------------------------------------------------------------------------

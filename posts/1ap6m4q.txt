@@ -1,0 +1,71 @@
+POST ID: 1ap6m4q / POST TITLE: Possible Career Pivot
+====================================================================================================
+whats going on family
+
+Looking to make a career switch into the tech industry and Ive always been curious about ethical hacking. My question to you all is would this be a career path you could make the leap into? Seen different things as far as what needed so Im hoping someone who has made the jump from a different career could lend some advice. (anyone else as well 😁) thanks
+
+POST COMMENTS:
+====================================================================================================
+ID: kq4t8vm # OF UPVOTES: 8.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can change your whole life in less than 3 years. With no experience I would suggest a certification path that would show your diligence and apptitude.  I would guess you are ok landing a entry level analyst job. Study hard for your Security+. Blog about your experience and what you are learning and how you are applying it at home or in a lab. Maybe even find a way to subtly remind people in your blogs that you are transitioning. Really put in the work to understand the content. It will be difficult. The next cert will be based off of your interests, but you can read about all the available certs everywhere on the internet. You may get something acceptable with the S+ but may need more. Depends on a lot of things. I've met many security analysts that make me wonder if they can IT there way out of a paper bag. If you want to do it bet you can. Good luck.
+----------------------------------------------------------------------------------------------------
+ID: kq5syjo # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I did a mid-career switch from the sport industry to IT, currently pursuing my degree in cybersecurity. Let me share my experiences.
+
+You don’t necessary require a degree in order to be successful in the switch, as you have no IT background, it would be good to take up professional qualifications such as Comptia A+, Network+ and Security+ as fundamentals, you need to understand the fundamentals of Computers and Networking to support your future career in Cybersecurity.
+
+I did my IT fundamentals, computer networking and administration, followed by novice level cybersecurity certification(not enough to gain a good entry to the cybersecurity sector). 
+
+I was hired as Technical Specialist to do servers, managed services, and various projects but nothing cybersecurity as I am not confident with the skills gap. So decided to do my part-time degree in Cybersecurity and Forensic while I am working full-time, during my free time I would do HackTheBox to supplement the knowledge.
+
+The choice of path may vary with other individuals.
+
+Papers open up the door to opportunities, do your best to close the skills gap and grasp the concepts for the skills required. 
+
+All the best buddy.
+----------------------------------------------------------------------------------------------------
+ID: kq48uw0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m of the same mindset right now. My background is in healthcare technology management.
+
+I’ve asked IT professionals and cybersecurity professionals about this. I asked, “Do I need to go back and get a college diploma or university degree, or can I get by with learning and achieving relevant certifications?” They all answered the latter.
+
+
+Now, I have technology, networking and very basic cybersecurity remediation experience. Given your background and based off the type of learner you are, maybe formal education is a better route for you. 
+
+Just figured I’d give you some feedback that I’ve received from professionals adjacent to and directly involved in cybersecurity.
+
+I hope this helps!
+----------------------------------------------------------------------------------------------------
+ID: kq45tmb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What’s your background?  What IT experience do you have?  What cybersecurity experience do you have?  What education/certifications do you have?
+
+How can anyone help with this without knowing anything about you or your skillset?
+----------------------------------------------------------------------------------------------------
+ID: kq9j4na # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thanks for the encouragement!
+----------------------------------------------------------------------------------------------------
+ID: kq9jaqa # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: thanks for the advice !
+----------------------------------------------------------------------------------------------------
+ID: kq9jm92 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i appreciate your perspective thanks!
+----------------------------------------------------------------------------------------------------
+ID: kq479wr # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I thought it was implied when I said career switch into the tech industry that I didn't have any tech/cybersecurity experience lol 
+
+But I have a background in sales ( mortgage loan officer) & a degree in Biology
+----------------------------------------------------------------------------------------------------
+ID: kq48unu # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Without any experience, you’re not going to pivot directly into cybersecurity… especially red team.
+
+You’d likely be starting out in help desk or some type of network/desktop support role.  Entry level.
+----------------------------------------------------------------------------------------------------
+ID: kq4fmjw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Biology is a prestigious degree ,grab a couple solid certs and open up a GitHub to show off some coding skills and I reckon you should be good to go for a junior role pretty much anywhere not FAANG.
+----------------------------------------------------------------------------------------------------
+ID: kq9jd3v # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: gotcha
+----------------------------------------------------------------------------------------------------
+ID: kq9jf5f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: understood, thanks!
+----------------------------------------------------------------------------------------------------

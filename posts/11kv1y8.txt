@@ -1,0 +1,42 @@
+POST ID: 11kv1y8 / POST TITLE: Deauth won't work
+====================================================================================================
+So I am new and trying to deauth my phone from my home network. 
+
+And nothing seems to work. The attack runs and I can see that a lot of packets are being sent, but my phone just won't deauth.
+
+POST COMMENTS:
+====================================================================================================
+ID: jbany6c # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: What GHz is your router using ? A lot of wifi adapters (which are used in deauth) attacks only work on 2 GHz rather than the 5GHz most modern routers use
+----------------------------------------------------------------------------------------------------
+ID: jb9r2nj # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Is it actually deauthenticating and then reconnecting immediately because of wifi autoconnect?
+----------------------------------------------------------------------------------------------------
+ID: jb9r3x8 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you sure it's your phone? Maybe you sent it to another machine.
+----------------------------------------------------------------------------------------------------
+ID: jhibn9o # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'll give a monster of a wifi attack program for free and I bet it'll work.  I just made it using chatgpt
+----------------------------------------------------------------------------------------------------
+ID: jb9wm4u # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No it doesn't lose connection at all.
+----------------------------------------------------------------------------------------------------
+ID: jb9wm5v # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is only 1 device connected. 
+
+I noticed that my wifi setting in my phone uses something called randomized MAC. Does it affect the attack?
+----------------------------------------------------------------------------------------------------
+ID: jb9xhuk # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Could be the case. MAC randomization hides your phone and gives an artificial MAC adress so that's maybe why you can't attack it. 
+
+I don't know enough about this to help tho. Maybe a quick google about MAC randomization can help!
+----------------------------------------------------------------------------------------------------
+ID: jdbtdcp # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Did you make it work by now?
+----------------------------------------------------------------------------------------------------
+ID: jdbtfcd # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I managed to make it work with besside-ng command. Very weird.
+----------------------------------------------------------------------------------------------------
+ID: jdbtsux # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Nice, didn't know that one yet and looked it up. Looks like a nice tool tho.
+----------------------------------------------------------------------------------------------------

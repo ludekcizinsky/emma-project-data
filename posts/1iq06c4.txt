@@ -1,0 +1,16 @@
+POST ID: 1iq06c4 / POST TITLE: Is anyone using Browsermon?
+====================================================================================================
+Hey everyone,
+
+I recently started using Browsermon as I was looking for a way to get a better understanding of browsing activity on some of our systems, and this tool has been a game changer.
+
+What I really like is how comprehensive it is. It tracks like 18 different browsing parameters, which gives a *really* detailed picture of what's going on. But the best part is, it does all this without being intrusive. It just runs in the background and doesn't mess with anything else on the system. Plus, it respects privacy by sticking to just browser history.
+
+For our enterprise setup, we're using Watchdog for centralized management. It's super handy for keeping track of all the Browsermon agents and making sure licenses are all good. The config push feature is also great – makes deploying configuration changes a breeze. And we've got it integrated with Kafka and MongoDB, which gives us a central history database that's really scalable.
+
+Browsermon 3.0 has some other cool stuff too. The health checker is great for making sure everything is running smoothly, and the Grafana dashboards are awesome for visualizing all the data. Plus, the EUNOMATIX Threat Intel (ETI) integration is a huge bonus. It pulls in threat feeds and helps identify malicious URLs in real-time. They even have a caching mechanism for ETI queries, so it doesn't overload the system.
+
+Has anyone else used Browsermon? I'd love to hear about your experiences with it. Any tips or tricks you've discovered? Let me know!
+
+POST COMMENTS:
+====================================================================================================

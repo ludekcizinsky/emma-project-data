@@ -1,0 +1,23 @@
+POST ID: 1isg5sb / POST TITLE: New Cyber vendors/Products who have impressed you??
+====================================================================================================
+And by impressed think....
+
+1. Ease of use
+
+2. Value 
+
+3. Impact
+
+4. Cool f'ing tech
+
+5. Innovative
+
+And as a disclaimer, they CAN be from traditional vendors, but needs to be a newish product....Let's say...released in the past 5-7  years...But ideally, something within the past 36 months.
+
+I am in a different area of security than most, but we recently tried out Nozomi Networks Guardian Air to address RF and it's pretty damn impressive. Another one, more on the IT side is the Wiz platform. I admittedly do not have much hands on experience, but my counterparts sing it's praises since moving away from Palo Alto Prisma. 
+
+  
+Who comes to mind here? 
+
+POST COMMENTS:
+====================================================================================================

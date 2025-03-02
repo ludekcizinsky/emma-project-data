@@ -1,0 +1,53 @@
+POST ID: 1hlfxwf / POST TITLE: Is it possible to make zip file safe from hackers completely ?
+====================================================================================================
+Is there any way to encrypt a zip file on a level that authorities won't be able to intercept ?
+I want to upload my backup to drive and I will upload it by zip files but I am confused that if someone got these from my drive or google tries to use it for their so called illegal AI programs. I want to keep their eyes off please help 
+
+POST COMMENTS:
+====================================================================================================
+ID: m3m0sdl # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Randomly generate a 100 character password and use that to encrypt it.
+----------------------------------------------------------------------------------------------------
+ID: m3m84hb # OF UPVOTES: 11.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you want to keep the zip 100% safe  you need to air gap it / keep it OFF your network on an unattached usb/ssd or cloud backup storage that isn't accessable from your lan.
+----------------------------------------------------------------------------------------------------
+ID: m3nwzqj # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Password protect the zip file with a really long password, then put that zip file inside an encrypted VeraCrypt volume with another long password. Bonus layer: could put the zip file in a hidden VeraCrypt volume.
+----------------------------------------------------------------------------------------------------
+ID: m3ltlcn # OF UPVOTES: 12.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Password protect the zip archives with enough entropy and they will be almost impossible to crack.
+----------------------------------------------------------------------------------------------------
+ID: m40scvf # OF UPVOTES: 4.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Forget the .zip password just encrypt it using gpg simple as that.
+Save the keys on another device and wish good luck to anyone who tries to brute-force them 😂😂😂
+----------------------------------------------------------------------------------------------------
+ID: m3m642g # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Short of password brute forcing, afaik zip archives are pretty back proof as of now.
+----------------------------------------------------------------------------------------------------
+ID: m48oi2j # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Unless you're a hacker yourself lol
+----------------------------------------------------------------------------------------------------
+ID: m48ydfz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Authorities? That’s sketchy
+----------------------------------------------------------------------------------------------------
+ID: m4aewt0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: There is no encryption method that is completely unassailable. Even with strong encryption algorithms, persistence, resources and the ability of authorities or very determined actors can overcome many protections. Robust encryption with a strong and complex password will significantly improve security, but does not provide an absolute guarantee.
+----------------------------------------------------------------------------------------------------
+ID: m4ez4fv # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes , create zip then encrypt using gpg or pgp
+----------------------------------------------------------------------------------------------------
+ID: m3q1600 # OF UPVOTES: -1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: No.  Unless you do not intend to access it yourself.  Even then it is can be used to gain complete access to a system and take on admin or root privileges.  Why is fe compression that important with a .zip? There's a lot of different ways and I would suggest one with multiple files, take a couple out enccrypt them, and reuse unless your unzipping files all the time.
+----------------------------------------------------------------------------------------------------
+ID: m3ltoqu # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Can you elaborate ?
+----------------------------------------------------------------------------------------------------
+ID: m4eze5w # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: lol or do that, since pgp gpg has compression tech built in … I believe.
+----------------------------------------------------------------------------------------------------
+ID: m3lwssz # OF UPVOTES: 7.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Make a password for the zip file and make sure the password is so strong you practically can’t guess it is what he’s trying to say
+----------------------------------------------------------------------------------------------------
+ID: m3wp1le # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: He wasn't trying
+----------------------------------------------------------------------------------------------------

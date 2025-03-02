@@ -1,0 +1,18 @@
+POST ID: 1g5mc32 / POST TITLE: Initial Certification recommendation 
+====================================================================================================
+Good day I am currently looking to get a certification to start my ethical hacking career. I have a degree in information systems and have been working as a web developer for over a year. I just finished the cyber mentors ethical hacking beginner course and am going to do Linux and windows privilege escalation courses as well. What certificate should I pursue after this courses and which is best value for money as I heard about OSCP but it’s too expensive for me.
+
+POST COMMENTS:
+====================================================================================================
+ID: lsdffb0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Best value for money is CPTS by HackTheBox. Not really recognized by HR though, so if you are looking to use the certifications to get a job get OSCP. If you want knowledge on how to actually hack get CPTS (or just do the path, cert not required.)
+----------------------------------------------------------------------------------------------------
+ID: lshuq0s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: OSCP is not for starters …
+----------------------------------------------------------------------------------------------------
+ID: lshw3ew # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: eJPT Is a good start : https://security.ine.com/certifications/ejpt-certification/
+----------------------------------------------------------------------------------------------------
+ID: lshvti1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah I know, I’m just asking recommendations for future plans, i.e planning a career road map
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+POST ID: 1dlv4bq / POST TITLE: Is the burp suite community edition worth? 
+====================================================================================================
+Hello everyone, i'm learning ethical hacking to become a pentester. I just discovered burp suite and i saw that de community edition has limited possibilities. Can we become a good pentester without the paid version ? What y'all think?
+
+POST COMMENTS:
+====================================================================================================
+ID: l9rgchw # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes. It’s been a while but the only limit I’m aware of is that it’s rate limited during brute force attacks. If you get a pentesting job they should give you a license.
+----------------------------------------------------------------------------------------------------
+ID: l9s0nxx # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, it rate limits the number of packets sent during different types of attacks and can't use the PoC Generator. You can still intercept and view packets, try injection techniques, etc.
+----------------------------------------------------------------------------------------------------
+ID: l9vyobn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: its okayish
+----------------------------------------------------------------------------------------------------

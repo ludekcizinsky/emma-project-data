@@ -1,0 +1,9 @@
+POST ID: 1ac71bp / POST TITLE: ESP 32
+====================================================================================================
+I’ve got a ESP 32, are there any ethical hacking devices I could make with this, I’ve already made a pwnagotchi and I’ve really enjoyed the project. Any recommendations?
+
+POST COMMENTS:
+====================================================================================================
+ID: kjscn2u # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Marauder by JustCallMeKoko
+----------------------------------------------------------------------------------------------------

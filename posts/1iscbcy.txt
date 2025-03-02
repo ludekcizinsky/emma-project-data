@@ -1,0 +1,73 @@
+POST ID: 1iscbcy / POST TITLE: ByPass android root detection
+====================================================================================================
+As a Mobile app developer I usually implement root detection in apps, and usually I check for these files:
+
+    "/system/app/Superuser.apk",
+    "/sbin/su",
+    "/system/bin/su",
+    "/system/xbin/su",
+    "/data/local/xbin/su",
+    "/data/local/bin/su",
+    "/system/sd/xbin/su",
+    "/system/bin/failsafe/su",
+    "/data/local/su",
+    "/system/bin/busybox",
+    "/system/xbin/busybox",
+    "/data/local/bin/busybox",
+    "/system/bin/magisk",
+    "/system/xbin/magisk",
+    "/data/local/bin/magisk",
+    "/system/bin/frida",
+    "/system/xbin/frida",
+    "/data/local/bin/frida",
+    "/system/bin/xposed",
+    "/system/xbin/xposed",
+    "/data/local/bin/xposed",
+    "/system/bin/unroot.sh",
+    "/system/xbin/unroot.sh",
+    "/data/local/bin/unroot.sh",
+    "/system/bin/install-recovery.sh",
+    "/system/xbin/install-recovery.sh",
+    "/data/local/bin/install-recovery.sh",
+    "/system/bin/daemonsu",
+    "/system/xbin/daemonsu",
+    "/data/local/bin/daemonsu""/system/app/Superuser.apk",
+    "/sbin/su",
+    "/system/bin/su",
+    "/system/xbin/su",
+    "/data/local/xbin/su",
+    "/data/local/bin/su",
+    "/system/sd/xbin/su",
+    "/system/bin/failsafe/su",
+    "/data/local/su",
+    "/system/bin/busybox",
+    "/system/xbin/busybox",
+    "/data/local/bin/busybox",
+    "/system/bin/magisk",
+    "/system/xbin/magisk",
+    "/data/local/bin/magisk",
+    "/system/bin/frida",
+    "/system/xbin/frida",
+    "/data/local/bin/frida",
+    "/system/bin/xposed",
+    "/system/xbin/xposed",
+    "/data/local/bin/xposed",
+    "/system/bin/unroot.sh",
+    "/system/xbin/unroot.sh",
+    "/data/local/bin/unroot.sh",
+    "/system/bin/install-recovery.sh",
+    "/system/xbin/install-recovery.sh",
+    "/data/local/bin/install-recovery.sh",
+    "/system/bin/daemonsu",
+    "/system/xbin/daemonsu",
+    "/data/local/bin/daemonsu"
+
+But I can bypass that easily with "Frida" for example.
+
+So I tried a different approach.  
+what I did is I implemented a code that execute "su" command in the android shell, if it returned nothing (which means root permission granted) it means device is rooted, otherwise it will return something like "permission denied".
+
+What do you think? Any suggestions or remarks are more than welcome!
+
+POST COMMENTS:
+====================================================================================================

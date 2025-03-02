@@ -1,0 +1,14 @@
+POST ID: 1ckhkno / POST TITLE: What is your favorite bash script?
+====================================================================================================
+I'm trying to learn bash and I want to learn mostly WiFi type scripts that scan the local network for vulnerabilitys but I'm also willing to know what your other favorite scripts are?
+
+Also is there a script that automatically has tails os use safest mode on start up?
+
+POST COMMENTS:
+====================================================================================================
+ID: l2nvz67 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If you're trying to learn bash then write your own.
+----------------------------------------------------------------------------------------------------
+ID: l2o6y5p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Very helpful thank you.
+----------------------------------------------------------------------------------------------------

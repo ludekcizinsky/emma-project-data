@@ -1,0 +1,49 @@
+POST ID: 17acy95 / POST TITLE: tryhackme vs hackthebox
+====================================================================================================
+ive been wanting to take an ethical hacking course lately but i cant find myself deciding deciding on which course to choose (htb or tryhackme). 
+
+Are there any better courses than these two?
+
+POST COMMENTS:
+====================================================================================================
+ID: k5chwzk # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: THM is for learning how to hack/pentest and other basic things like linux/networking.
+
+HTB is where you have vulnerable machines that you can pentest against. It also has learning paths but they are much more expensive than THM.
+
+Ultimately it depends on where your skill level is. If you're a beginner I'd say start with THM.
+----------------------------------------------------------------------------------------------------
+ID: l2w31e7 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Don't waste your time on HTB,  I have been trying for two weeks to get exercises completed and I've spent  the past week,  getting the machine to open and keep open a VPN.  By the time I get to the end of an exercise for the 7th time today because IP address are lost.  
+
+I AM A 30 YEAR IT PROFESSIONAL,  THE PROBLEM IS NOT THE EXERCISES THEY ARE VERY INFORMATIVE. 
+
+THE HARDWARE ENVIRONMENT ON HTB IS PROBABLY STRAINED TO THE MAX.  
+
+7 TIMES TODAY TO GET A NEW IP ADDRESS THAT THE PWNBOX LOOSES THE IP CONNECTION. 
+
+  
+YESTERDAY,  8 HOURS TRYING TO CONFIGURE AN ENVIRONMENT FOR EVIL-WINRM,  WENT TO A PWNBOX CONNECTION AND WAS DONE IN UNDER AN HOUR, BECAUSE THE ENVIRONMENT IS CONFIGURED CORRECTLY.  TODAY THE PWN CONNECTION CAN'T HOLD AN IP ADDRESS FOR MORE THAN 15 MINUTES.
+----------------------------------------------------------------------------------------------------
+ID: k5d0lyq # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Tbh. The academy of htb is also to learn step by step and in my opinion better than thm
+----------------------------------------------------------------------------------------------------
+ID: k5yhdf8 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [academy.hackthebox.com](https://academy.hackthebox.com)
+
+Have fun with the Job Role Path of penetration tester :)
+----------------------------------------------------------------------------------------------------
+ID: k5d0bfj # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Agreed. Start with Tryhackme and do all the free paths you are interested in. Then it’s only about $10 a month for access to all the advanced lessons. Hackthebox academy is good as well but more expensive and last I checked it uses a subscription based virtual currency called cubes to buy course packages which is super annoying.
+----------------------------------------------------------------------------------------------------
+ID: lswoqt9 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Here's my similarities of both HTB and THM
+
+UI: THM is often considered more user-friendly and straightforward, especially for beginners, while HTB has a more advanced feel that might appeal to experienced users.
+
+OpenVPN: THM typically offers quicker VPN setup, and its connection times are often shorter because it is more beginner-focused, providing easier access. HTB may take slightly longer due to its more complex infrastructure, especially with the free config files.
+
+Boxes: THM is well-known for beginner-friendly content and guided learning paths, while HTB offers more challenging and technical exercises that cater to intermediate to advanced users. the assessment that THM focuses more on real-world challenges and technicalities is quite accurate, as THM provides structured, real-world learning paths, whereas HTB is more of a freeform, figure-it-out-yourself approach.
+
+you should start THM first then go to HTB if you already grasp technicality.
+----------------------------------------------------------------------------------------------------

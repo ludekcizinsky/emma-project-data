@@ -1,0 +1,36 @@
+POST ID: 12xfnbv / POST TITLE: How to kick someone off of your internet using Linux
+====================================================================================================
+Hello do-gooders, I am trying to "hack" into my wifi, so I could boot people off.  Is there any safe recommended method to completed this task via Linux?  Thank you.
+
+POST COMMENTS:
+====================================================================================================
+ID: jhinfqd # OF UPVOTES: 14.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if it's your own wifi network you can do this using the router's admin console. there's no "hack" required.
+----------------------------------------------------------------------------------------------------
+ID: jhirfgv # OF UPVOTES: 9.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: jhirbz9 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Deauth attacks are the obvious ones. Doesn't work in WPA3 though.
+----------------------------------------------------------------------------------------------------
+ID: jhilfe7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I misspelled complete.
+----------------------------------------------------------------------------------------------------
+ID: jhohkbk # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: you can literally just set up a white list or black list through your routers admin console.
+----------------------------------------------------------------------------------------------------
+ID: jixbrmv # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: U can use netcut
+----------------------------------------------------------------------------------------------------
+ID: jjlvtq3 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: # aireplay-ng —deauth 0 -a “bssid” -c “ssid”
+----------------------------------------------------------------------------------------------------
+ID: jhixttz # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: in the heart of this isn't hacking, OP if you log into your router via web browser typing 192.168.0.1 as the url you can log in usually with 'admin' 'password' or your router will have the login either on the back or in its manual...  you can use this to block devices from connecting to your network.  highly recommend changing the default password too.
+----------------------------------------------------------------------------------------------------
+ID: jhkqvnh # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Not the issue with the post.
+----------------------------------------------------------------------------------------------------
+ID: jhm08i3 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I've tried this, but it doesn't work.  I called my ISP and they said that they control the admin side.  I told them my intentions and they said that I would have to purchase a private (third party router).  So, I posted this to see if purchasing the router is the only option available.
+----------------------------------------------------------------------------------------------------

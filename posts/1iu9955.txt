@@ -1,0 +1,6 @@
+POST ID: 1iu9955 / POST TITLE: I consider that for web portals the traces of calls that are made at the API level and are usually visible through the console should be hidden. I have participated in many web projects and they usually leave traces in the console of the invocations made, including some data that is personal (name,
+====================================================================================================
+All of this must be encrypted so that it is not easily located.
+
+POST COMMENTS:
+====================================================================================================

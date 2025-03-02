@@ -1,0 +1,23 @@
+POST ID: 1iokf9d / POST TITLE: IT-ISAC releases 2024 ransomware landscape report
+====================================================================================================
+This week IT-ISAC released their [ransomware landscape report](https://www.it-isac.org/_files/ugd/473ff0_b98aab4f18ef496585ffd92cad7daada.pdf) (covers more than just the IT sector), and I found the following interesting callouts. There are some other interesting bits in there as well like an increase in abuse of AI.
+
+
+**Most targeted industry:** Critical Manufacturing (733 attacks, 20% of total incidents).
+
+**Most targeted country (not surprising):** United States (1,984 attacks, 57% of all incidents worldwide).
+
+**Largest spike:** Q3 2024 saw an 85% increase in attacks over the previous quarter, attributed to improved tracking methods.
+
+**End-of-year surge:** Q4 had 1,514 ransomware attacks, a 62% increase from Q3, likely due to holiday season vulnerabilities.
+
+RansomHub emerged as the most dominant group, surpassing LockBit due to its high affiliate payouts (90%) and tactics like social engineering and SIM swapping.
+
+**Common attack vectors:**
+
+* 42% - Exploiting known vulnerabilities.
+* 28.5% - Phishing.
+* 29.5% - Other (RDP compromise, social engineering, MFA fatigue attacks).
+
+POST COMMENTS:
+====================================================================================================

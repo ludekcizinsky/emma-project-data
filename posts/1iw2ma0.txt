@@ -1,0 +1,46 @@
+POST ID: 1iw2ma0 / POST TITLE: The Art of Self-Healing Malware: A Deep Dive into Code That Fixes Itsef
+====================================================================================================
+Hey everyone,
+
+I recently went down a rabbit hole researching **self-healing malware**—the kind that **repairs itself, evades detection, and persists even after removal attempts**. From **mutation engines** to **network-based regeneration**, these techniques make modern malware incredibly resilient.
+
+In my latest write-up, I break down:
+
+* How malware uses **polymorphism & metamorphism** to rewrite itself.
+* Techniques like **DLL injection, process hollowing, and thread hijacking** for stealth.
+* **Persistence tricks** (NTFS ADS, registry storage, WMI events).
+* How some strains fetch fresh payloads via **C2 servers & P2P networks**.
+* **Defensive measures** to detect & counter these threats.
+
+Would love to hear your thoughts on how defenders can stay ahead of these evolving threats!
+
+Check it out here: \[[Article](https://medium.com/@IamLucif3r/the-art-of-self-healing-code-malware-that-fixes-itself-f42dccd8bbc6)\]
+
+Edit: The article is not behind paywall anymore
+
+POST COMMENTS:
+====================================================================================================
+ID: meaqxnc # OF UPVOTES: 15.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Warning: Site linked to is Medium and is a member only article. You will NOT get the full article unless you have an account. (Or a way to bypass the walls)
+----------------------------------------------------------------------------------------------------
+ID: meb4chp # OF UPVOTES: 3.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: 12ft.io and Internet Archive dont help. Anyone got an alternative that does?
+----------------------------------------------------------------------------------------------------
+ID: meb2yx0 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: meb4di6 # OF UPVOTES: 0.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: I have turned off the “members-only” option. Check now
+----------------------------------------------------------------------------------------------------
+ID: meb4xry # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No need for that. You can read article free of cost 😄
+----------------------------------------------------------------------------------------------------
+ID: meb4ofm # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: No need for this 😄 You can read the article on medium, without any subscription.
+----------------------------------------------------------------------------------------------------
+ID: mebc7fl # OF UPVOTES: 2.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for changing the setting
+----------------------------------------------------------------------------------------------------
+ID: meb4sva # OF UPVOTES: 1.0 SUBREDDIT: cybersecurity
+COMMENT TEXT: Thanks for changing it. Removed the previous comment
+----------------------------------------------------------------------------------------------------

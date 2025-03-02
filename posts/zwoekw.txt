@@ -1,0 +1,9 @@
+POST ID: zwoekw / POST TITLE: Security vulnerability found, no reply from company owning the system. What more can I do?
+====================================================================================================
+Recently found a vulnerability on a website which allows me to retrieve the emails of all user accounts, aprox 1.2 mil based on my findings. Sent an email to company using their contact details, but no answer yet.  What's the best approach in this situation? Planning to followup via email, but is anything more that can be done to properly report the problem?
+
+POST COMMENTS:
+====================================================================================================
+ID: j1w3b6x # OF UPVOTES: 13.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: check linkedin, see if you can find a systems engineer or network admin for the company on there and reach out to them.
+----------------------------------------------------------------------------------------------------

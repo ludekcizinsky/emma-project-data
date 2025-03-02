@@ -1,0 +1,8 @@
+POST ID: 1gxhpmv / POST TITLE: Prototype Pollution in NASAs Open MCT CVE-2023-45282
+====================================================================================================
+In the article, I discuss a prototype pollution vulnerability (CVE-2023-45282) found in NASA's Open MCT. This flaw in JavaScript allows attackers to alter object prototypes, potentially leading to serious outcomes like privilege escalation or remote code execution (RCE). I explain how the vulnerability occurs in the "Import from JSON" feature, which can crash the application or lead to more dangerous exploits. Fortunately, NASA responded quickly to fix the issue, but it highlights the importance of securing deep merge operations in JavaScript.
+
+This security research was originally published at VisionSpace Blog (https://visionspace.com/prototype-pollution-in-nasas-open-mct-cve-2023-45282/).
+
+POST COMMENTS:
+====================================================================================================

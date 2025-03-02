@@ -1,0 +1,18 @@
+POST ID: 1e3dtzp / POST TITLE: Burp or Zap ?
+====================================================================================================
+Hello, for a pentester or a bug bounty hunter, which one do you prefer between burp suite and owasp zap?
+
+POST COMMENTS:
+====================================================================================================
+ID: ld94ttt # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Burp
+----------------------------------------------------------------------------------------------------
+ID: ld8cvii # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you comparing Zap against Burp Community or Burp Pro?
+----------------------------------------------------------------------------------------------------
+ID: lda6c8a # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Usually burpe
+----------------------------------------------------------------------------------------------------
+ID: ldaalis # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Basically, the community version. But the price of the pro version can be an argument.
+----------------------------------------------------------------------------------------------------

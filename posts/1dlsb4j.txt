@@ -1,0 +1,22 @@
+POST ID: 1dlsb4j / POST TITLE: Road to becoming a pentester
+====================================================================================================
+Hi.
+
+I want to learn how to hack since I wanna become a pen tester in the near future
+I have been working in cybersecurity for 4 years but always on the sales side. 
+I don’t have much technical knowledge, only the very basics of networking and python.
+I started learning on tryhackme and so far it’s going well. 
+How can I speed up the process and what resources would you suggest? 
+I have a macbook fyi
+
+POST COMMENTS:
+====================================================================================================
+ID: l9r2bq9 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: https://www.codelivly.com/so-you-want-to-be-a-hacker/
+----------------------------------------------------------------------------------------------------
+ID: l9r6wlu # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: If I were you I’d do the hackthebox CPTS path and then probably OSCP. You might need more technical work experience though. It’s a tough market right now.
+----------------------------------------------------------------------------------------------------
+ID: l9rtzgc # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: The junior pen test path is pretty good for beginners
+----------------------------------------------------------------------------------------------------

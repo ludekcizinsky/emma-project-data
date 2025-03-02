@@ -1,0 +1,123 @@
+POST ID: 13p4mat / POST TITLE: What’s included in ethical hacking
+====================================================================================================
+When being ethically hacked, what gets checked, and then reported back? I have pictures from my phone that were deleted over a month ago ( I know everything is stored somewhere and never fully deleted ), Will ethical hackers find that and provide it back to my company?
+
+POST COMMENTS:
+====================================================================================================
+ID: jl7qfep # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Are you asking, if ethical hackers can restore deleted items from a phone? Perhaps - you would need to talk to them about that, but thats not exactly ethical hacking, its more data recovery
+----------------------------------------------------------------------------------------------------
+ID: jl81pmr # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical hacking is not data recovery. ethical hacking is penetration testing. IE companies hire hackers to find vulnerabilities in either their network, their software, or even their work sites.
+----------------------------------------------------------------------------------------------------
+ID: jl851s4 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Your D pics are not gonna be searched for specifically.
+
+To recover the photos would take some extensive data forensics...
+Unless... you're using some sort of cloud backup account. In which case if you have inappropriate pics or illegal content and they stumble into it, they'll almost certainly report it if it's the company's device. 
+
+I'm assuming you've signed an AUP, don't be a dingbat. If you don't get caught, let this be a lesson for you.
+----------------------------------------------------------------------------------------------------
+ID: jptxkaf # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical hacking is the practice of knowingly locating and exploiting vulnerabilities in computer systems, networks, or applications with the consent of the system owners and for their profit. It is also known as penetration testing or white hat hacking. The purpose of ethical hacking is to evaluate the level of security provided by a target system, locate any vulnerabilities that may exist, and provide ideas for strengthening security. In this post, we will discuss the fundamentals of ethical hacking.
+
+* **The Scope and the Planning**
+  
+
+  
+It is essential to establish the range of the assessment as well as the goals that you want to achieve before beginning an ethical hacking engagement. This comprises creating the rules of engagement as well as the testing methodology and selecting the systems that will serve as the targets of the test.
+* **Reconnaissance**
+  
+
+  
+During this phase, information is gathered about the system or network that is the focus of the investigation. Ethical hackers collect information and obtain insights into the weaknesses of a system by using a variety of methods, including network scanning, acquiring open-source intelligence (OSINT), and social engineering.
+* **Evaluation of Weaknesses and Exposures**
+  
+
+  
+After the reconnaissance step has been completed, ethical hackers do a vulnerability assessment of the target system in order to locate any possible security holes that may exist there. They find vulnerabilities by using automated tools, human inspection, and other security testing approaches. Examples of vulnerabilities include misconfigurations, obsolete software, and risky coding practices.
+* **Exploitation**
+  
+
+  
+In this part of the process, ethical hackers try to obtain unauthorised access to the system or conduct certain activities inside the system by exploiting the vulnerabilities that have been detected. The purpose of this endeavour is to imitate the behaviours that a malicious attacker may perform in order to ascertain the extent of the vulnerabilities and their consequences.
+* **Post-Exploitation**
+  
+
+  
+After successfully exploiting a vulnerability, ethical hackers conduct an investigation into the scope of the breach and evaluate the possible harm that may be caused by an adversary. It is possible for them to elevate their privileges, investigate the system that has been hacked, and attempt to pivot to other systems inside the network.
+* **Reporting and Documentation of Events**
+  
+
+  
+Hackers with a moral code keep meticulous records of their exploits, including not just the vulnerabilities they detect but also the measures they take to exploit them and any advice they have for fixing the problems they find. After that, an exhaustive report is compiled, which details the discovered risks, the effect of those risks, and provides suggestions for strengthening the target system's security posture.
+
+
+It is essential to stress that ethical hacking should always be carried out within the constraints of legal and ethical frameworks, with the appropriate license from the system owner. This is one of the most significant aspects of ethical hacking. You can start your career in ethical hacking with a comprehensive course that prepares you for better opportunities.
+----------------------------------------------------------------------------------------------------
+ID: jsl19tn # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Ethical hacking is the practice of conducting permitted and legal hacking operations with the goal of improving the safety of computer systems, networks, and applications. Ethical hacking also goes by the name "white-hat hacking." Ethical hackers utilize their skills and experience to imitate real-world assaults and assist safeguard networks from those carried out by criminal hackers. Ethical hackers are often engaged by corporations or hired as consultants. The following is a list of some of the most important actions that are included in ethical hacking:
+  
+
+  
+The term "vulnerability assessment" refers to the process through which ethical hackers perform exhaustive scans of computer systems, networks, and applications in order to locate possible security flaws. They use a wide variety of tools and methods to scan and analyze the environment they are aiming at in order to hunt for vulnerabilities that they may attack.
+  
+
+
+1. **Penetration Testing** 
+  
+
+  
+Ethical hackers do penetration testing to simulate attacks and verify the efficacy of current security measures. Penetration testing is also known as pen testing. They make an effort to exploit the discovered vulnerabilities in order to get unauthorized access to the systems or information that is sensitive. After this, they offer full reports on the results as well as suggested procedures for repair.
+2. **Hacking a Network or a System** 
+  
+
+  
+Ethical hackers investigate the infrastructure of networks and systems to look for vulnerabilities in their security. Testing firewalls, routers, switches, and servers for vulnerabilities, misconfigurations, or inadequate access restrictions may be part of this process.
+3. **Testing the Security of Web Applications** 
+  
+
+  
+Ethical hackers do testing on the security of web applications such as websites and web services in order to uncover vulnerabilities such as injection attacks, cross-site scripting (XSS), cross-site request forgery (CSRF), and unsecured direct object references. Input validation, session management, authentication procedures, and other security measures are all evaluated by them.
+4. **Testing the Security of Wireless Networks** 
+  
+
+  
+Ethical hackers conduct security audits of wireless networks, particularly Wi-Fi networks, in order to locate any possible vulnerabilities in the systems. They hunt for rogue access points, unsecured settings, poor encryption, and any other vulnerabilities that might be exploited to get unauthorized access and then exploit those weaknesses to acquire access.
+5. **Auditing of Security Policies and Procedures**
+  
+
+  
+ Ethical hackers audit the security policies, procedures, and practices of a business to verify that they are in conformity with industry standards and the industry's best practices. They evaluate the entire security posture, provide recommendations for changes, and provide assistance to businesses in the development of effective security measures.
+6. **Reporting and remedy** 
+  
+
+  
+Ethical hackers are required to give comprehensive reports documenting their findings. These reports should include details such as the detected vulnerabilities, flaws that were exploited, and suggestions for remedy. They collaborate closely with enterprises to determine how to prioritize and remediate the vulnerabilities that have been uncovered, which contributes to an improvement in the overall security posture.
+
+Note that ethical hackers are required to follow stringent ethical norms, receive the appropriate authorisation, and operate within the legal limitations established by the company. This is a crucial point to keep in mind. Their main goal is not to create damage or take advantage of vulnerabilities for nefarious reasons; rather, it is to improve security, secure sensitive data, and prevent unwanted access.
+----------------------------------------------------------------------------------------------------
+ID: jl7t0dm # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I’m asking if they will look to find those pictures to give to my employers or if they just want to test if they can break security. I do not want them to get these pictures back
+----------------------------------------------------------------------------------------------------
+ID: jl7u0kx # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm still quite confused. So, your work is hiring ethical hackers, for something? And you want to know if they will access deleted pictures? And give them to your work?
+----------------------------------------------------------------------------------------------------
+ID: jl7utmo # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yes, they are doing a cyber security check of sorts. I have deleted pictures I want to know if the ethical hackers will look for them and give them to my work
+----------------------------------------------------------------------------------------------------
+ID: jl7v1k5 # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Well it all depends what they are hired to do - if they are simply doing a penetration test, then probably not. But they could be asked to access and provide deleted files, you never know really. It sounds like what you deleted may be sensitive to you?
+----------------------------------------------------------------------------------------------------
+ID: jl7vfe7 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: It sounds like a penetRation test as they are looking to improve our cyber safety. The information is sensitive as I took a picture on my phone with sensitive personal data, it was deleted and I have not got iCloud connected to share pictures. It was deleted over 30 days ago
+----------------------------------------------------------------------------------------------------
+ID: jl7vydm # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You should be fine - just be careful with what pictures you take, on a company phone ;)
+----------------------------------------------------------------------------------------------------
+ID: jm29jw1 # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i love this sub lmao it's always panicked employees wondering if their boss can see their penis
+----------------------------------------------------------------------------------------------------
+ID: jmhsegt # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: i love the way it's obvious too. makes some good stories lol
+----------------------------------------------------------------------------------------------------

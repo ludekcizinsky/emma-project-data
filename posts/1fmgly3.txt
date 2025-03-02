@@ -1,0 +1,39 @@
+POST ID: 1fmgly3 / POST TITLE: some questions
+====================================================================================================
+1. how does wifite work
+
+what are the requirements for it to work
+(etc how much channels, or wsp to be yes no or lock, or how many clients
+
+2. any similar tools to wifite (in terms of being so easy to use and setup that a dog could do it)
+
+3. is it possible to make anyone that connects to the wifi to see some text, to get a notification with some text or to see a certain image?
+No taking it down or harming it just a harmless prankd
+
+POST COMMENTS:
+====================================================================================================
+ID: locwb75 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: 1: Wifite is a wrapper for air crack-ng you can read about it here: https://www.aircrack-ng.org/documentation.html
+
+2: there’s a million tools. This is the easiest one I have seen for wifi cracking for noobs who don’t want to learn. 
+
+3: Yes if you control the router/DNS or perform an evil twin attack.
+----------------------------------------------------------------------------------------------------
+ID: loc7d2f # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Every single one of your questions fits into a google search bar. We are not google.
+----------------------------------------------------------------------------------------------------
+ID: lodfoc9 # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Trying to learn the evil twin and control the router
+----------------------------------------------------------------------------------------------------
+ID: lochkkf # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Cant find the answer, and if you dont want to answer just dont comment anything i dont need your opinion about how i cant ask questions on place in reddit with "question" flaire
+----------------------------------------------------------------------------------------------------
+ID: lochsen # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wrong.
+----------------------------------------------------------------------------------------------------
+ID: lodfk1z # OF UPVOTES: 0.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Wdym by wrong, the subreddit has a question flaire meaning i can ask questions
+----------------------------------------------------------------------------------------------------
+ID: loln8sb # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Yeah, you can ask questions, but you're not going to get answers you want in a field that is driven by research. 
+----------------------------------------------------------------------------------------------------

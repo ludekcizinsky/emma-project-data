@@ -1,0 +1,29 @@
+POST ID: 1iow8kj / POST TITLE: Governance Risk and Compliance Tools Recommendation
+====================================================================================================
+New to cybersecurity area!
+
+ Evaluating GRC tools as per boss requirements and have shortlisted Vanta, Drata, Onetrust and trustero (among the ones I knew).
+
+Looking for recommendations for these tools over few keys areas that am comparing them for.
+
+Will appreciate everyone’s feedback on your experience with these tools for below areas:
+
+1. Internal Team/IT Owners: How easy is it to onboard IT application owners on these tools so that can add control related evidence 
+
+2. Control/Evidence: Ease to collecting evidence for all controls and ability to add new controls or modify recommended ones
+
+3. Integrations: What out of the box integrations does these tools have?
+
+4. Pricing: We have two different groups. One is like a startup with very few employees and one person doing all work.
+Other is around 10 application owners each managing between 2 to 5 applications.
+Both groups fund their own licenses.
+
+5. Auditor interface for these tools
+
+Please share any other tools experience or details that would help me
+
+Cheers
+Sam 
+
+POST COMMENTS:
+====================================================================================================

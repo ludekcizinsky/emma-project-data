@@ -1,0 +1,37 @@
+POST ID: 10kimea / POST TITLE: Boot drive to get past bitdefender?
+====================================================================================================
+Hello,
+
+I was given an old laptop with ~~bitdefender~~ BIT LOCKER, NOT BITDEFENDER but the password has been long forgotten. I don't need anything on it and I was going to put a Linux partition on it anyways. 
+
+Would I be able to use a boot drive to get past Bitdefender or is there another work around I need to do?
+
+Edit: Was as simple as the comments said. Boot from USB, install the new OS. Gives the option to partition yourself or wipe completely.
+
+POST COMMENTS:
+====================================================================================================
+ID: j5rcpv5 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: [deleted]
+----------------------------------------------------------------------------------------------------
+ID: j5sxzro # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: employ hard-to-find aromatic divide unpack noxious march birds lush abundant
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+----------------------------------------------------------------------------------------------------
+ID: j5x4qqa # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Get a live bootable USB of Linux and run GParted.
+----------------------------------------------------------------------------------------------------
+ID: j5ykr1s # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: You can always try a CMOS reset to see if the bitlocker releases
+----------------------------------------------------------------------------------------------------
+ID: j5s90kt # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: As someone who deals with BitLocker on a daily basis, this is correct.  Wipe that sucker and re-image.
+----------------------------------------------------------------------------------------------------
+ID: j5tr6e0 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Just wipe straight from the BIOS? Been a minute since I've done it
+----------------------------------------------------------------------------------------------------
+ID: j5u9o51 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Get a bootable usb - consisting of the OS which you want to install (mentioned Linux) then boot into the usb and overwrite/format the harddrive from there
+
+The installation will proceed and you should be good to go
+----------------------------------------------------------------------------------------------------

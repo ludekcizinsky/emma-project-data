@@ -1,0 +1,26 @@
+POST ID: 17yh0bv / POST TITLE: MS Degree in Cybersecurity vs OSCP Certification + others
+====================================================================================================
+I've had an interest in cybersecurity since high school after learning ethical hacking existed. I got my BS in Software Engineering and have been doing well as an iOS developer. I now have a prime opportunity to work fulltime and earn my MS in Cybersecurity. My aim is to be an ethical hacking consultant one day. I spoke with the senior director of cybersecurity at my current company. He recommended instead of a MS to pursue OSCP certification and the like. I am on the cusp of entering graduate school, but now his advice has me second guessing my pursuit. I could go for both, yet if one meets the qualifications why do both? I feel I am in the dark on too much to make a proper informed decision, and I will need to make a decision soon.  
+
+
+Which one is more beneficial short term and long term? Which one is more marketable? What has your experience been?
+
+POST COMMENTS:
+====================================================================================================
+ID: k9tgg9h # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: if your goal is to work towards technical skilled jobs such as pentesting, security engineering or so on, the MSc in cybersecurity won't help you beyond HR tick box which isn't even that helpful 
+
+the debt, years of study and difficulty of the MS has a low ROI in cybersecurity 
+
+if your goal is to work towards management or GRC then yes it will help and is worth it
+
+
+
+I'm currently doing my Bsc in Csec as I didn't know this before enrolling... 
+so I'm just gonna finish it 
+
+if I knew before I started I would've just focused on certs and practical skills such as hackthebox etc etc
+----------------------------------------------------------------------------------------------------
+ID: k9wyf9p # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Unless the company is paying for 100% of your masters and you really want it then like the other guys said don’t waste your time. Practical skills and hands on keyboard testing/certs will get you much further, faster, and cheaper than any degree.  OSCP is difficult but definitely worth it. You cannot pass the OSCP without good problem solving and technical skills which makes it a great barrier to entry. I have recruiters contact me every day on LinkedIn because of my OSCP and other practical skills. My degree is just a bachelors in mechanical engineering.
+----------------------------------------------------------------------------------------------------

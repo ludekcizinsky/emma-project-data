@@ -1,0 +1,6 @@
+POST ID: 1is7tui / POST TITLE: ManageEngine Log360 useless SIEM
+====================================================================================================
+I have experience in using top SIEM/SOAR solutions like Splunk, QRadar (Resilient SOAR), Microsoft Sentinel and Cortex XDR, never have I experienced using this useless Log360 by ManageEngine. It’s very hard to do the searching, threat hunting using the search. Field/value extraction also not very good, I can’t customize the field/value for our custom logs ingested from XDR. We are using the entire ManageEngine ecosystem from the ADAudit Plus to ServiceDesk Plus. But it’s very unfortunate that the Log360 is very inconvenience. Anyone using Log360 here encounter the same as me? Or am I missing something? I’m also considering open-source SIEM/SOAR with case management capabilities. Will that be good for organization?
+
+POST COMMENTS:
+====================================================================================================

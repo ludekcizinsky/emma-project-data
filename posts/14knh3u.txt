@@ -1,0 +1,25 @@
+POST ID: 14knh3u / POST TITLE: Can someone suggest a VPN for Kali linux
+====================================================================================================
+In India most vpns are not working and even openvpn isnt working can someone suggest any free VPN which works in India
+
+POST COMMENTS:
+====================================================================================================
+ID: jprq0hw # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Protonvpn or mullvad
+----------------------------------------------------------------------------------------------------
+ID: jpx4asv # OF UPVOTES: 3.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: VPS....Would be more ideal...depending on what you're doing.
+
+As far as VPN. Proton is great
+
+Mullvad VPN is the go-to for less of a paper  trail.
+
+These work for any OS. If u think a VPN will protect u in Kali, you're horribly misinformed, BTW.
+
+
+
+Be Smart. It's not hard to find someone these days..
+----------------------------------------------------------------------------------------------------
+ID: jprxqqd # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Proxies
+----------------------------------------------------------------------------------------------------

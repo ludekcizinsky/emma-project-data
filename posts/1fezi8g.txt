@@ -1,0 +1,29 @@
+POST ID: 1fezi8g / POST TITLE: Ethical hacking student question
+====================================================================================================
+I'm starting my 3rd year of uni from college, and would like to get myself a laptop for notetaking and coursework. I've done some research and saw some people suggesting the ThinkPad P50? As a student i don't have a large budget, but I'm open to suggestions (preferably under £500 max.) Thank you to those who help! 
+
+POST COMMENTS:
+====================================================================================================
+ID: lmrfs9c # OF UPVOTES: 1.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Personally, I would stay away from Lenovo. ThinkPads got a good rep when IBM owned them, but Lenovo been caught putting spyware in their BIOS at least three times.  I also question the people who told you to use Lenovo if they are in the ethical hacking career.
+
+Asus Vivabooks, are great laptops for school.  I recommended them to other people. I know one person that has had the machine for 4 years and it is still going strong.  
+
+If your coursework is all online, ie you don't need additional software for doing labs, a Chromebook is a cheap alternative. You would use it to access the online coursework, and you can use many different web based note taking applications. Again, if you need to do something say run a VM and run tools against the VM.  This isn't a good option.
+----------------------------------------------------------------------------------------------------
+ID: lmspknp # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: Out of curiosity when it comes to Lenovo and the spyware could you link the articles, lawsuits etc to those findings?
+----------------------------------------------------------------------------------------------------
+ID: lmsx3q2 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: This just a few from a Google search "Lenovo bios spyware"
+
+[https://selectcommitteeontheccp.house.gov/media/press-releases/gallagher-urges-us-navy-exchange-remove-ccp-linked-computers-stores](https://selectcommitteeontheccp.house.gov/media/press-releases/gallagher-urges-us-navy-exchange-remove-ccp-linked-computers-stores)
+
+[https://thehackernews.com/2015/09/lenovo-laptop-virus.html](https://thehackernews.com/2015/09/lenovo-laptop-virus.html)
+
+[https://venturebeat.com/security/researchers-discover-stealthy-lenovo-firmware-vulnerability-that-affects-millions-of-laptops/](https://venturebeat.com/security/researchers-discover-stealthy-lenovo-firmware-vulnerability-that-affects-millions-of-laptops/)
+
+As you see in 2015, they were found for the third time, and even as of last year US Gov was putting out released about it (the first article).  The last article was from 2022.
+
+They have been known for doing this going back not long after they bought the Thinkpad line from IBM. A company I use to work at used their desktop and laptop line of products. That was in 2008ish.
+----------------------------------------------------------------------------------------------------

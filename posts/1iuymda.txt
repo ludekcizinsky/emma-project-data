@@ -1,0 +1,8 @@
+POST ID: 1iuymda / POST TITLE: Looking for any solution to import M365 unified audit logs from Graph API into sof-elk instance
+====================================================================================================
+As far as I am aware, the current API used by many to pull unified audit logs is going away this March, leaving us all with Graph. For the current API, I can download them and shove them into sof-elk no problem. The format used for the Graph UALs however do not import correctly into sof-elk. I'm looking to see if anyone else has ran into this issue and has a solution for it. I tried looking through their github but it hasn't been much help. This is for a consultant type position where we pull logs for a different client  everytime.
+
+Edit: I also use invictus's Microsoft extractor suite to pull logs.
+
+POST COMMENTS:
+====================================================================================================

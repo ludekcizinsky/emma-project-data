@@ -1,0 +1,16 @@
+POST ID: 1e50qlq / POST TITLE: Bug Bounty Hunters: If You Could Only Chase One Vulnerability Forever, What's Your Pick?
+====================================================================================================
+Imagine specializing in just one type of vulnerability for your entire career. Which would you choose?
+
+Consider factors like how common it is, its potential damage, how hard it is to find, and the rewards. Would you go for high-profile, big-impact vulnerabilities with big payouts? Or do you prefer the challenge of finding hidden flaws?
+
+Let’s discuss the pros and cons of specializing in different vulnerabilities. How could it benefit or harm overall security?
+
+POST COMMENTS:
+====================================================================================================
+ID: ldilt27 # OF UPVOTES: 5.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I want to start bug bounty hunting as a part-time hobby after work, but I don't have much time to learn a lot of different things. I'm thinking about focusing on just one type of vulnerability. Given my computer science background and scripting skills, I'm not a complete beginner. What vulnerability should I specialize in?
+----------------------------------------------------------------------------------------------------
+ID: ldjmy94 # OF UPVOTES: 2.0 SUBREDDIT: ethicalhacking
+COMMENT TEXT: I'm totally not qualified to answer this but I'm going to anyway since you haven't gotten any responses yet.  I would go after GraphQL apis.  I don't know for sure but my gut feeling is that GraphQL is prone to exposing things it's not supposed to.
+----------------------------------------------------------------------------------------------------

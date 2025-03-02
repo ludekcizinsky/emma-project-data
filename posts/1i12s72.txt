@@ -1,0 +1,35 @@
+POST ID: 1i12s72 / POST TITLE: Threat actors exploit a probable 0-day in exposed management consoles of Fortinet FortiGate firewalls
+====================================================================================================
+https://www.orangecyberdefense.com/global/blog/cert-news/0-day-in-exposed-management-consoles-of-fortinet-fortigate-firewalls
+
+POST COMMENTS:
+====================================================================================================
+ID: m746sor # OF UPVOTES: 14.0 SUBREDDIT: netsec
+COMMENT TEXT: No way not another fortinet vuln
+----------------------------------------------------------------------------------------------------
+ID: m75hso1 # OF UPVOTES: 4.0 SUBREDDIT: netsec
+COMMENT TEXT: >Arctic Wolf observed a recent campaign affecting Fortinet FortiGate firewall devices with management interfaces exposed on the public internet.
+
+Pretty sure if you've done this, this vulnerability isn't at the top of your list of security concerns.
+----------------------------------------------------------------------------------------------------
+ID: m75euvp # OF UPVOTES: 8.0 SUBREDDIT: netsec
+COMMENT TEXT: Yeah well... If you have your management interface exposed to the web, you deserve to get owned.
+----------------------------------------------------------------------------------------------------
+ID: m74y6c9 # OF UPVOTES: 6.0 SUBREDDIT: netsec
+COMMENT TEXT: Another week, another Fortinet vulnerability
+----------------------------------------------------------------------------------------------------
+ID: m747usl # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: It was Palo’s turn last year, it’s Forti’s turn this year. 
+----------------------------------------------------------------------------------------------------
+ID: m78mj6c # OF UPVOTES: 2.0 SUBREDDIT: netsec
+COMMENT TEXT: Fortinite
+----------------------------------------------------------------------------------------------------
+ID: m75gz5j # OF UPVOTES: 6.0 SUBREDDIT: netsec
+COMMENT TEXT: You're right of course, but in some people's defense FortiMgr was enabled on the WAN interface by default for ages, so sometimes it's just baked into old configs (or at least that tends to be the case when we find one configured like that).
+----------------------------------------------------------------------------------------------------
+ID: m76wpcg # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: They should both be looking hard at how Sophos managed to find and monitor that threat group who was digging for vulnerabilities in their products.
+----------------------------------------------------------------------------------------------------
+ID: m77z7nu # OF UPVOTES: 1.0 SUBREDDIT: netsec
+COMMENT TEXT: It's been Forti's turn every year for quite a while now.
+----------------------------------------------------------------------------------------------------
